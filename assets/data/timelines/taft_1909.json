@@ -1,0 +1,2069 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "My Fellow-Citizens:\nAnyone who has taken the oath I have just taken must feel a heavy weight of responsibility.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1540729467180637,
+      "unity": 0.13293092151118563,
+      "hope": 0.14452630311529585,
+      "resolve": 0.16851727671611047,
+      "anger": 0.16679497641666796,
+      "neutral": 0.2331575755226764
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "If not, he has no conception of the powers and duties of the office upon which he is about to enter, or he is lacking in a proper sense of the obligation which the oath imposes.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.05766911718118359,
+      "unity": 0.1483073031250704,
+      "hope": 0.10372790393771945,
+      "resolve": 0.1824761835475122,
+      "anger": 0.23401396281388753,
+      "neutral": 0.2738055293946268
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "The office of an inaugural address is to give a summary outline of the main policies of the new administration, so far as they can be anticipated.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1632623070200197,
+      "unity": 0.10883454516153392,
+      "hope": 0.19492662398234636,
+      "resolve": 0.16433270154980864,
+      "anger": 0.08699693026069454,
+      "neutral": 0.28164689202559684
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "I have had the honor to be one of the advisers of my distinguished predecessor, and, as such, to hold up his hands in the reforms he has initiated.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17879711018599886,
+      "unity": 0.10163009577978499,
+      "hope": 0.17486862810803744,
+      "resolve": 0.12059778392129789,
+      "anger": 0.11089830467945776,
+      "neutral": 0.31320807732542305
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "I should be untrue to myself, to my promises, and to the declarations of the party platform upon which I was elected to office, if I did not make the maintenance and enforcement of those reforms a most important feature of my administration.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14313197643128545,
+      "unity": 0.15443811405010335,
+      "hope": 0.13353901326626355,
+      "resolve": 0.1905262934392,
+      "anger": 0.19040613532006456,
+      "neutral": 0.18795846749308312
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "They were directed to the suppression of the lawlessness and abuses of power of the great combinations of capital invested in railroads and in industrial enterprises carrying on interstate commerce.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.210918689521837,
+      "unity": 0.1280503547001409,
+      "hope": 0.1337247319692499,
+      "resolve": 0.2118583430583553,
+      "anger": 0.23673362871452253,
+      "neutral": 0.0787142520358944
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "The steps which my predecessor took and the legislation passed on his recommendation have accomplished much, have caused a general halt in the vicious policies which created popular alarm, and have brought about in the business affected a much higher regard for existing law.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1696074798264989,
+      "unity": 0.11447440302825575,
+      "hope": 0.15880037426645655,
+      "resolve": 0.12161542879610317,
+      "anger": 0.18089602920711378,
+      "neutral": 0.25460628487557185
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "To render the reforms lasting, however, and to secure at the same time freedom from alarm on the part of those pursuing proper and progressive business methods, further legislative and executive action are needed.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16087540433585007,
+      "unity": 0.12759564694354542,
+      "hope": 0.18558223518960923,
+      "resolve": 0.1974178960512035,
+      "anger": 0.18377481190784895,
+      "neutral": 0.14475400557194285
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Relief of the railroads from certain restrictions of the antitrust law have been urged by my predecessor and will be urged by me.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.11524789870376616,
+      "unity": 0.13112628684006367,
+      "hope": 0.1656145076447889,
+      "resolve": 0.17442630534576334,
+      "anger": 0.19634865158964893,
+      "neutral": 0.217236349875969
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "On the other hand, the administration is pledged to legislation looking to a proper federal supervision and restriction to prevent excessive issues of bonds and stock by companies owning and operating interstate commerce railroads.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13717687616580987,
+      "unity": 0.1330729777918678,
+      "hope": 0.1436267785225228,
+      "resolve": 0.22397117756390875,
+      "anger": 0.18992731276861602,
+      "neutral": 0.17222487718727475
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "Then, too, a reorganization of the Department of Justice, of the Bureau of Corporations in the Department of Commerce and Labor, and of the Interstate Commerce Commission, looking to effective cooperation of these agencies, is needed to secure a more rapid and certain enforcement of the laws affecting interstate railroads and industrial combinations.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.08144860330566726,
+      "unity": 0.20398124603337608,
+      "hope": 0.15950838248915902,
+      "resolve": 0.1929270667821476,
+      "anger": 0.21568755228141762,
+      "neutral": 0.14644714910823242
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "I hope to be able to submit at the first regular session of the incoming Congress, in December next, definite suggestions in respect to the needed amendments to the antitrust and the interstate commerce law and the changes required in the executive departments concerned in their enforcement.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.07907742490157851,
+      "unity": 0.11452678661849158,
+      "hope": 0.18529664580934854,
+      "resolve": 0.14626859372636392,
+      "anger": 0.19885220484889213,
+      "neutral": 0.2759783440953253
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "It is believed that with the changes to be recommended American business can be assured of that measure of stability and certainty in respect to those things that may be done and those that are prohibited which is essential to the life and growth of all business.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16151205841325977,
+      "unity": 0.11398681599544387,
+      "hope": 0.2070128171046068,
+      "resolve": 0.22084322768406978,
+      "anger": 0.13145578382673162,
+      "neutral": 0.16518929697588816
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "Such a plan must include the right of the people to avail themselves of those methods of combining capital and effort deemed necessary to reach the highest degree of economic efficiency, at the same time differentiating between combinations based upon legitimate economic reasons and those formed with the intent of creating monopolies and artificially controlling prices.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14851953607448568,
+      "unity": 0.18341367131215305,
+      "hope": 0.24078808061736018,
+      "resolve": 0.17941231959713128,
+      "anger": 0.17829514440689434,
+      "neutral": 0.06957124799197546
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "The work of formulating into practical shape such changes is creative word of the highest order, and requires all the deliberation possible in the interval.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.09468028382322594,
+      "unity": 0.16140477146814472,
+      "hope": 0.23735287838402228,
+      "resolve": 0.19587384902532667,
+      "anger": 0.1830531922505316,
+      "neutral": 0.12763502504874882
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "I believe that the amendments to be proposed are just as necessary in the protection of legitimate business as in the clinching of the reforms which properly bear the name of my predecessor.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.12760151094929933,
+      "unity": 0.10590866469939696,
+      "hope": 0.1676668178960336,
+      "resolve": 0.18530345676919832,
+      "anger": 0.1694025272268365,
+      "neutral": 0.24411702245923533
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "A matter of most pressing importance is the revision of the tariff.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22824750477488298,
+      "unity": 0.15438573140089865,
+      "hope": 0.14247052342791353,
+      "resolve": 0.15806137251124347,
+      "anger": 0.18875389114607474,
+      "neutral": 0.12808097673898663
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "In accordance with the promises of the platform upon which I was elected, I shall call Congress into extra session to meet on the 15th day of March, in order that consideration may be at once given to a bill revising the Dingley Act.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.12479898902098009,
+      "unity": 0.12942349338990536,
+      "hope": 0.16204151142822618,
+      "resolve": 0.12503521549094213,
+      "anger": 0.18485893399143588,
+      "neutral": 0.27384185667851035
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "This should secure an adequate revenue and adjust the duties in such a manner as to afford to labor and to all industries in this country, whether of the farm, mine or factory, protection by tariff equal to the difference between the cost of production abroad and the cost of production here, and have a provision which shall put into force, upon executive determination of certain facts, a higher or maximum tariff against those countries whose trade policy toward us equitably requires such discrimination.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.192292190685945,
+      "unity": 0.1434228792249486,
+      "hope": 0.13739605384607928,
+      "resolve": 0.2052218439441602,
+      "anger": 0.1571486430926529,
+      "neutral": 0.16451838920621406
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "It is thought that there has been such a change in conditions since the enactment of the Dingley Act, drafted on a similarly protective principle, that the measure of the tariff above stated will permit the reduction of rates in certain schedules and will require the advancement of few, if any.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.126228150699454,
+      "unity": 0.0926300402507177,
+      "hope": 0.20931484848333415,
+      "resolve": 0.1512137936548747,
+      "anger": 0.24311491622227224,
+      "neutral": 0.17749825068934721
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "The proposal to revise the tariff made in such an authoritative way as to lead the business community to count upon it necessarily halts all those branches of business directly affected; and as these are most important, it disturbs the whole business of the country.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.10386218046864956,
+      "unity": 0.16508618049839094,
+      "hope": 0.16006500640711194,
+      "resolve": 0.1430066603048842,
+      "anger": 0.2526044533390259,
+      "neutral": 0.1753755189819374
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "It is imperatively necessary, therefore, that a tariff bill be drawn in good faith in accordance with promises made before the election by the party in power, and as promptly passed as due consideration will permit.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13158967211084494,
+      "unity": 0.13156368180169783,
+      "hope": 0.15162749865475003,
+      "resolve": 0.18530518447949504,
+      "anger": 0.1984269570082857,
+      "neutral": 0.20148700594492647
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "It is not that the tariff is more important in the long run than the perfecting of the reforms in respect to antitrust legislation and interstate commerce regulation, but the need for action when the revision of the tariff has been determined upon is more immediate to avoid embarrassment of business.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17184567994379366,
+      "unity": 0.14720188812187646,
+      "hope": 0.15143820917615342,
+      "resolve": 0.19374990395900504,
+      "anger": 0.1943587219960203,
+      "neutral": 0.1414055968031511
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "To secure the needed speed in the passage of the tariff bill, it would seem wise to attempt no other legislation at the extra session.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16701094575684886,
+      "unity": 0.1326509928251078,
+      "hope": 0.10347345667534098,
+      "resolve": 0.22365477117057025,
+      "anger": 0.182063426969127,
+      "neutral": 0.19114640660300505
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "I venture this as a suggestion only, for the course to be taken by Congress, upon the call of the Executive, is wholly within its discretion.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.11495388837457081,
+      "unity": 0.14808489779725226,
+      "hope": 0.13376904660136246,
+      "resolve": 0.16128486925467755,
+      "anger": 0.21546616968845,
+      "neutral": 0.22644112828368693
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "In the mailing of a tariff bill the prime motive is taxation and the securing thereby of a revenue.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23325586746084487,
+      "unity": 0.11696672853869593,
+      "hope": 0.1353755457250853,
+      "resolve": 0.20574713265604105,
+      "anger": 0.10722422142225042,
+      "neutral": 0.20143050419708244
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "Due largely to the business depression which followed the financial panic of 1907, the revenue from customs and other sources has decreased to such an extent that the expenditures for the current fiscal year will exceed the receipts by $100,000,000.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.0908230988754584,
+      "unity": -0.07102998643976158,
+      "hope": 0.2935917056054097,
+      "resolve": -0.009719169510762085,
+      "anger": 0.5476428939574801,
+      "neutral": 0.14869145751217547
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "It is imperative that such a deficit shall not continue, and the framers of the tariff bill must, of course, have in mind the total revenues likely to be produced by it and so arrange the duties as to secure an adequate income.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1416896973823786,
+      "unity": 0.1429755109445533,
+      "hope": 0.1356568334465101,
+      "resolve": 0.23451950163096613,
+      "anger": 0.20193762576045557,
+      "neutral": 0.14322083083513631
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "Should it be impossible to do so by import duties, new kinds of taxation must be adopted, and among these I recommend a graduated inheritance tax as correct in principle and as certain and easy of collection.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.20272463104087746,
+      "unity": 0.059761527027516505,
+      "hope": 0.1919801320450506,
+      "resolve": 0.06211598449376364,
+      "anger": 0.24006343872432184,
+      "neutral": 0.24335428666846995
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "The obligation on the part of those responsible for the expenditures made to carry on the Government, to be as economical as possible, and to make the burden of taxation as light as possible, is plain, and should be affirmed in every declaration of government policy.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20428695133987673,
+      "unity": 0.13107296861879678,
+      "hope": 0.10692159459921137,
+      "resolve": 0.2092784835095442,
+      "anger": 0.14602006906725964,
+      "neutral": 0.20241993286531126
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "This is especially true when we are face to face with a heavy deficit.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13032582038730917,
+      "unity": 0.18740365699694556,
+      "hope": 0.19388723232852828,
+      "resolve": 0.22662977358896616,
+      "anger": 0.16394358563862385,
+      "neutral": 0.097809931059627
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "But when the desire to win the popular approval leads to the cutting off of expenditures really needed to make the Government effective and to enable it to accomplish its proper objects, the result is as much to be condemned as the waste of government funds in unnecessary expenditure.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16568662641973522,
+      "unity": 0.16727500432686365,
+      "hope": 0.1074986590099625,
+      "resolve": 0.1692588283499183,
+      "anger": 0.25982492281224295,
+      "neutral": 0.13045595908127736
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "The scope of a modern government in what it can and ought to accomplish for its people has been widened far beyond the principles laid down by the old \"laissez faire\" school of political writers, and this widening has met popular approval.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2089776081570219,
+      "unity": 0.15190484256183315,
+      "hope": 0.18383492152109598,
+      "resolve": 0.16254796283889913,
+      "anger": 0.1632256888220455,
+      "neutral": 0.12950897609910436
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "In the Department of Agriculture the use of scientific experiments on a large scale and the spread of information derived from them for the improvement of general agriculture must go on.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.20986491852709663,
+      "unity": -0.0038235334128986142,
+      "hope": 0.34727249413760636,
+      "resolve": 0.19280579768938497,
+      "anger": 0.08534761630567103,
+      "neutral": 0.1685327067531396
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "The importance of supervising business of great railways and industrial combinations and the necessary investigation and prosecution of unlawful business methods are another necessary tax upon Government which did not exist half a century ago.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1690198160638067,
+      "unity": 0.08894413038185867,
+      "hope": 0.17114364534834406,
+      "resolve": 0.17830552076638434,
+      "anger": 0.23877063802243964,
+      "neutral": 0.1538162494171666
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "The putting into force of laws which shall secure the conservation of our resources, so far as they may be within the jurisdiction of the Federal Government, including the most important work of saving and restoring our forests and the great improvement of waterways, are all proper government functions which must involve large expenditure if properly performed.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.228410813589065,
+      "unity": 0.10979270177455804,
+      "hope": 0.14729732459166592,
+      "resolve": 0.1834221027019429,
+      "anger": 0.15665432002307506,
+      "neutral": 0.1744227373196931
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "While some of them, like the reclamation of arid lands, are made to pay for themselves, others are of such an indirect benefit that this cannot be expected of them.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2976435350999877,
+      "unity": 0.07250656063228825,
+      "hope": 0.199536968099465,
+      "resolve": 0.1951352583094155,
+      "anger": 0.1336380502702476,
+      "neutral": 0.10153962758859593
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "A permanent improvement, like the Panama Canal, should be treated as a distinct enterprise, and should be paid for by the proceeds of bonds, the issue of which will distribute its cost between the present and future generations in accordance with the benefits derived.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.2046480012243649,
+      "unity": 0.11185820351107005,
+      "hope": 0.21640644916385252,
+      "resolve": 0.18775371926808354,
+      "anger": 0.09571417909542232,
+      "neutral": 0.18361944773720665
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "It may well be submitted to the serious consideration of Congress whether the deepening and control of the channel of a great river system, like that of the Ohio or of the Mississippi, when definite and practical plans for the enterprise have been approved and determined upon, should not be provided for in the same way.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12238689882279823,
+      "unity": 0.171005405997741,
+      "hope": 0.17300213510285714,
+      "resolve": 0.22551190247475872,
+      "anger": 0.1761827147418173,
+      "neutral": 0.13191094286002764
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "Then, too, there are expenditures of Government absolutely necessary if our country is to maintain its proper place among the nations of the world, and is to exercise its proper influence in defense of its own trade interests in the maintenance of traditional American policy against the colonization of European monarchies in this hemisphere, and in the promotion of peace and international morality.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.25011115993508826,
+      "unity": 0.15050759699502653,
+      "hope": 0.12621223329105796,
+      "resolve": 0.21384830978359742,
+      "anger": 0.1420276270734827,
+      "neutral": 0.11729307292174711
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "I refer to the cost of maintaining a proper army, a proper navy, and suitable fortifications upon the mainland of the United States and in its dependencies.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.2989080237039215,
+      "unity": 0.14162599324638303,
+      "hope": 0.0770761386702163,
+      "resolve": 0.31368310852022274,
+      "anger": 0.12071148501349993,
+      "neutral": 0.047995250845756496
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "We should have an army so organized and so officered as to be capable in time of emergency, in cooperation with the national militia and under the provisions of a proper national volunteer law, rapidly to expand into a force sufficient to resist all probable invasion from abroad and to furnish a respectable expeditionary force if necessary in the maintenance of our traditional American policy which bears the name of President Monroe.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21340840972720884,
+      "unity": 0.16021196921320874,
+      "hope": 0.1420988341570639,
+      "resolve": 0.23830500029951532,
+      "anger": 0.11061662542071714,
+      "neutral": 0.13535916118228605
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "Our fortifications are yet in a state of only partial completeness, and the number of men to man them is insufficient.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13725110229825127,
+      "unity": 0.21387403813454842,
+      "hope": 0.16126770938872387,
+      "resolve": 0.28110979789903356,
+      "anger": 0.1580966624916797,
+      "neutral": 0.048400689787763136
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "In a few years however, the usual annual appropriations for our coast defenses, both on the mainland and in the dependencies, will make them sufficient to resist all direct attack, and by that time we may hope that the men to man them will be provided as a necessary adjunct.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1947584856711165,
+      "unity": 0.11254780691573443,
+      "hope": 0.16761295753748767,
+      "resolve": 0.29541323452317875,
+      "anger": 0.11230329271103909,
+      "neutral": 0.11736422264144357
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "The distance of our shores from Europe and Asia of course reduces the necessity for maintaining under arms a great army, but it does not take away the requirement of mere prudence--that we should have an army sufficiently large and so constituted as to form a nucleus out of which a suitable force can quickly grow.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21991745123281498,
+      "unity": 0.17741919605357975,
+      "hope": 0.14476912882760706,
+      "resolve": 0.28072457639456144,
+      "anger": 0.11211730012842379,
+      "neutral": 0.06505234736301295
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "What has been said of the army may be affirmed in even a more emphatic way of the navy.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.2126552716116592,
+      "unity": 0.13548392223735728,
+      "hope": 0.14808221502191873,
+      "resolve": 0.25695328853943367,
+      "anger": 0.09751781945876259,
+      "neutral": 0.14930748313086853
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "A modern navy can not be improvised.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18874287931601835,
+      "unity": 0.1227461443339175,
+      "hope": 0.06233872413440697,
+      "resolve": 0.3498949996301018,
+      "anger": 0.24157761200533948,
+      "neutral": 0.03469964058021589
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "It must be built and in existence when the emergency arises which calls for its use and operation.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21349217744385918,
+      "unity": 0.12081717535132368,
+      "hope": 0.16089029947812858,
+      "resolve": 0.23563268500311788,
+      "anger": 0.1259697556117375,
+      "neutral": 0.14319790711183317
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "My distinguished predecessor has in many speeches and messages set out with great force and striking language the necessity for maintaining a strong navy commensurate with the coast line, the governmental resources, and the foreign trade of our Nation; and I wish to reiterate all the reasons which he has presented in favor of the policy of maintaining a strong navy as the best conservator of our peace with other nations, and the best means of securing respect for the assertion of our rights, the defense of our interests, and the exercise of our influence in international matters.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21220744416557416,
+      "unity": 0.13136889891861078,
+      "hope": 0.1425450636853438,
+      "resolve": 0.22190236319197035,
+      "anger": 0.1220767364559719,
+      "neutral": 0.169899493582529
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "Our international policy is always to promote peace.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21281397783034606,
+      "unity": 0.16169983696907045,
+      "hope": 0.10742076808141196,
+      "resolve": 0.25371885266576527,
+      "anger": 0.13861772405725015,
+      "neutral": 0.12572884039615612
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "We shall enter into any war with a full consciousness of the awful consequences that it always entails, whether successful or not, and we, of course, shall make every effort consistent with national honor and the highest national interest to avoid a resort to arms.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18160010265914997,
+      "unity": 0.14612537133922252,
+      "hope": 0.14657766689858792,
+      "resolve": 0.2543254569750286,
+      "anger": 0.15673664403191037,
+      "neutral": 0.11463475809610064
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "We favor every instrumentality, like that of the Hague Tribunal and arbitration treaties made with a view to its use in all international controversies, in order to maintain peace and to avoid war.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18435491055791503,
+      "unity": 0.1541421006368056,
+      "hope": 0.11319946058368564,
+      "resolve": 0.2150236649501738,
+      "anger": 0.1744667512699066,
+      "neutral": 0.15881311200151332
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "But we should be blind to existing conditions and should allow ourselves to become foolish idealists if we did not realize that, with all the nations of the world armed and prepared for war, we must be ourselves in a similar condition, in order to prevent other nations from taking advantage of us and of our inability to defend our interests and assert our rights with a strong hand.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15938169662091628,
+      "unity": 0.17874307709940904,
+      "hope": 0.18173345639088634,
+      "resolve": 0.23611656812639714,
+      "anger": 0.17402050364851165,
+      "neutral": 0.07000469811387958
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "In the international controversies that are likely to arise in the Orient growing out of the question of the open door and other issues the United States can maintain her interests intact and can secure respect for her just demands.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21257261420045656,
+      "unity": 0.1722407287236635,
+      "hope": 0.1422053207596921,
+      "resolve": 0.22576914922466593,
+      "anger": 0.15183896980763698,
+      "neutral": 0.09537321728388493
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "She will not be able to do so, however, if it is understood that she never intends to back up her assertion of right and her defense of her interest by anything but mere verbal protest and diplomatic note.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.060221082216044546,
+      "unity": 0.17281011959087267,
+      "hope": 0.10118184895412313,
+      "resolve": 0.2610038843235179,
+      "anger": 0.31019940805297,
+      "neutral": 0.09458365686247175
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "For these reasons the expenses of the army and navy and of coast defenses should always be considered as something which the Government must pay for, and they should not be cut off through mere consideration of economy.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.2220801057241944,
+      "unity": 0.13987910533086775,
+      "hope": 0.09137617272772165,
+      "resolve": 0.29910563123559974,
+      "anger": 0.14548130399701165,
+      "neutral": 0.10207768098460478
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "Our Government is able to afford a suitable army and a suitable navy.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2961881482853187,
+      "unity": 0.11450712734710024,
+      "hope": 0.13854906402889428,
+      "resolve": 0.22808798104175027,
+      "anger": 0.11781189967678003,
+      "neutral": 0.10485577962015649
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "It may maintain them without the slightest danger to the Republic or the cause of free institutions, and fear of additional taxation ought not to change a proper policy in this regard.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.23756010620229143,
+      "unity": 0.11242494833265333,
+      "hope": 0.09038538481704585,
+      "resolve": 0.24899970646258177,
+      "anger": 0.1956471532798746,
+      "neutral": 0.11498270090555301
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "The policy of the United States in the Spanish war and since has given it a position of influence among the nations that it never had before, and should be constantly exerted to securing to its bona fide citizens, whether native or naturalized, respect for them as such in foreign countries.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.25249834572976615,
+      "unity": 0.14995593663360332,
+      "hope": 0.13482223665482898,
+      "resolve": 0.2002771088315223,
+      "anger": 0.13558521940110763,
+      "neutral": 0.12686115274917165
+    }
+  },
+  {
+    "chunk_index": 59,
+    "text": "We should make every effort to prevent humiliating and degrading prohibition against any of our citizens wishing temporarily to sojourn in foreign countries because of race or religion.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1759047515193128,
+      "unity": 0.15874780884773224,
+      "hope": 0.11360571313972843,
+      "resolve": 0.22586163956435867,
+      "anger": 0.23245466637675338,
+      "neutral": 0.09342542055211443
+    }
+  },
+  {
+    "chunk_index": 60,
+    "text": "The admission of Asiatic immigrants who cannot be amalgamated with our population has been made the subject either of prohibitory clauses in our treaties and statutes or of strict administrative regulation secured by diplomatic negotiation.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.172313699987811,
+      "unity": 0.2583482078588838,
+      "hope": 0.059653548955705155,
+      "resolve": 0.19552928250253906,
+      "anger": 0.2268537375085084,
+      "neutral": 0.08730152318655258
+    }
+  },
+  {
+    "chunk_index": 61,
+    "text": "I sincerely hope that we may continue to minimize the evils likely to arise from such immigration without unnecessary friction and by mutual concessions between self-respecting governments.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15143142685254132,
+      "unity": 0.1651874027227116,
+      "hope": 0.18240279486358302,
+      "resolve": 0.21396312234711345,
+      "anger": 0.13636701790655653,
+      "neutral": 0.15064823530749405
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "Meantime we must take every precaution to prevent, or failing that, to punish outbursts of race feeling among our people against foreigners of whatever nationality who have by our grant a treaty right to pursue lawful business here and to be protected against lawless assault or injury.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17521201037217438,
+      "unity": 0.17701252321176297,
+      "hope": 0.12958160268828905,
+      "resolve": 0.22750793644530223,
+      "anger": 0.20341316472487445,
+      "neutral": 0.08727276255759693
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "This leads me to point out a serious defect in the present federal jurisdiction, which ought to be remedied at once.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11096267959055638,
+      "unity": 0.19906645351858865,
+      "hope": 0.1386619420234208,
+      "resolve": 0.13310962466424714,
+      "anger": 0.27171850171591844,
+      "neutral": 0.1464807984872686
+    }
+  },
+  {
+    "chunk_index": 64,
+    "text": "Having assured to other countries by treaty the protection of our laws for such of their subjects or citizens as we permit to come within our jurisdiction, we now leave to a state or a city, not under the control of the Federal Government, the duty of performing our international obligations in this respect.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21585248263384416,
+      "unity": 0.1649380013796085,
+      "hope": 0.1136893683662533,
+      "resolve": 0.17894871104591836,
+      "anger": 0.1616036634658133,
+      "neutral": 0.16496777310856234
+    }
+  },
+  {
+    "chunk_index": 65,
+    "text": "By proper legislation we may, and ought to, place in the hands of the Federal Executive the means of enforcing the treaty rights of such aliens in the courts of the Federal Government.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17609022805567226,
+      "unity": 0.14168965876673728,
+      "hope": 0.11134387563547347,
+      "resolve": 0.17384156998077088,
+      "anger": 0.17969964249976347,
+      "neutral": 0.21733502506158264
+    }
+  },
+  {
+    "chunk_index": 66,
+    "text": "It puts our Government in a pusillanimous position to make definite engagements to protect aliens and then to excuse the failure to perform those engagements by an explanation that the duty to keep them is in States or cities, not within our control.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.25476411281622763,
+      "unity": 0.1827712735011703,
+      "hope": 0.05337365518510793,
+      "resolve": 0.2139484824535698,
+      "anger": 0.15746324532998623,
+      "neutral": 0.13767923071393812
+    }
+  },
+  {
+    "chunk_index": 67,
+    "text": "If we would promise we must put ourselves in a position to perform our promise.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.11393871666644133,
+      "unity": 0.15984316126823295,
+      "hope": 0.19574238333287186,
+      "resolve": 0.21737490403507134,
+      "anger": 0.15577626868892636,
+      "neutral": 0.15732456600845615
+    }
+  },
+  {
+    "chunk_index": 68,
+    "text": "We cannot permit the possible failure of justice, due to local prejudice in any State or municipal government, to expose us to the risk of a war which might be avoided if federal jurisdiction was asserted by suitable legislation by Congress and carried out by proper proceedings instituted by the Executive in the courts of the National Government.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17054009224485445,
+      "unity": 0.19021474325131674,
+      "hope": 0.11792633617969579,
+      "resolve": 0.21957953065373503,
+      "anger": 0.20957965985050317,
+      "neutral": 0.09215963781989484
+    }
+  },
+  {
+    "chunk_index": 69,
+    "text": "One of the reforms to be carried out during the incoming administration is a change of our monetary and banking laws, so as to secure greater elasticity in the forms of currency available for trade and to prevent the limitations of law from operating to increase the embarrassment of a financial panic.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14286413959010574,
+      "unity": 0.11997669190906317,
+      "hope": 0.18126049235426284,
+      "resolve": 0.15559418072006947,
+      "anger": 0.2150384301589652,
+      "neutral": 0.18526606526753356
+    }
+  },
+  {
+    "chunk_index": 70,
+    "text": "The monetary commission, lately appointed, is giving full consideration to existing conditions and to all proposed remedies, and will doubtless suggest one that will meet the requirements of business and of public interest.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.057558554198830644,
+      "unity": 0.08104785948570595,
+      "hope": 0.16846577901081747,
+      "resolve": 0.20372914838550535,
+      "anger": 0.22898814613423094,
+      "neutral": 0.26021051278490964
+    }
+  },
+  {
+    "chunk_index": 71,
+    "text": "We may hope that the report will embody neither the narrow dew of those who believe that the sole purpose of the new system should be to secure a large return on banking capital or of those who would have greater expansion of currency with little regard to provisions for its immediate redemption or ultimate security.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.13462031297476468,
+      "unity": 0.14516479860872683,
+      "hope": 0.2152609250710259,
+      "resolve": 0.2013571051601426,
+      "anger": 0.17846233209143247,
+      "neutral": 0.12513452609390752
+    }
+  },
+  {
+    "chunk_index": 72,
+    "text": "There is no subject of economic discussion so intricate and so likely to evoke differing views and dogmatic statements as this one.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1304417108347827,
+      "unity": 0.21700155888180797,
+      "hope": 0.20805797337371007,
+      "resolve": 0.1683811580782217,
+      "anger": 0.19934068643971464,
+      "neutral": 0.0767769123917629
+    }
+  },
+  {
+    "chunk_index": 73,
+    "text": "The commission, in studying the general influence of currency on business and of business on currency, have wisely extended their investigations in European banking and monetary methods.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 3.7007999362927073,
+      "unity": -8.054458911308856,
+      "hope": 0.9798434841704,
+      "resolve": 4.985072082405074,
+      "anger": -1.850195664115669,
+      "neutral": 1.238939072556344
+    }
+  },
+  {
+    "chunk_index": 74,
+    "text": "The information that they have derived from such experts as they have found abroad will undoubtedly be found helpful in the solution of the difficult problem they have in hand.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.232254894143973,
+      "unity": 0.09278656970843525,
+      "hope": 0.2326361119600982,
+      "resolve": 0.3921081551501034,
+      "anger": 0.0344682417978622,
+      "neutral": 0.015746027239527966
+    }
+  },
+  {
+    "chunk_index": 75,
+    "text": "The incoming Congress should promptly fulfill the promise of the Republican platform and pass a proper postal savings bank bill.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13223011247428337,
+      "unity": 0.11953268640642213,
+      "hope": 0.17864001426018217,
+      "resolve": 0.150053700562249,
+      "anger": 0.19469209011355712,
+      "neutral": 0.22485139618330618
+    }
+  },
+  {
+    "chunk_index": 76,
+    "text": "It will not be unwise or excessive paternalism.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.10095909400178929,
+      "unity": 0.12088962175379288,
+      "hope": 0.2734119769396163,
+      "resolve": 0.22909296630120982,
+      "anger": 0.15767341308437322,
+      "neutral": 0.11797292791921853
+    }
+  },
+  {
+    "chunk_index": 77,
+    "text": "The promise to repay by the Government will furnish an inducement to savings deposits which private enterprise can not supply and at such a low rate of interest as not to withdraw custom from existing banks.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.08658617808398553,
+      "unity": 0.08657563890327584,
+      "hope": 0.20983625255094407,
+      "resolve": 0.1796906634639502,
+      "anger": 0.22788490986860022,
+      "neutral": 0.20942635712924415
+    }
+  },
+  {
+    "chunk_index": 78,
+    "text": "It will substantially increase the funds available for investment as capital in useful enterprises.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16758563866132717,
+      "unity": -0.008060031949955615,
+      "hope": 0.46783051896295197,
+      "resolve": 0.1982142719135342,
+      "anger": 0.047593828356989366,
+      "neutral": 0.1268357740551529
+    }
+  },
+  {
+    "chunk_index": 79,
+    "text": "It will furnish absolute security which makes the proposed scheme of government guaranty of deposits so alluring, without its pernicious results.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18193715161155388,
+      "unity": 0.03294860250021623,
+      "hope": 0.22444460981619707,
+      "resolve": 0.2612368775569942,
+      "anger": 0.12784790931831758,
+      "neutral": 0.17158484919672104
+    }
+  },
+  {
+    "chunk_index": 80,
+    "text": "I sincerely hope that the incoming Congress will be alive, as it should be, to the importance of our foreign trade and of encouraging it in every way feasible.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18322756934509393,
+      "unity": 0.10799519511681567,
+      "hope": 0.2057279120137583,
+      "resolve": 0.17963080354877656,
+      "anger": 0.13135257266695238,
+      "neutral": 0.19206594730860316
+    }
+  },
+  {
+    "chunk_index": 81,
+    "text": "The possibility of increasing this trade in the Orient, in the Philippines, and in South America are known to everyone who has given the matter attention.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17606563638653716,
+      "unity": 0.06404944513697462,
+      "hope": 0.35956410927438326,
+      "resolve": 0.17052416891893424,
+      "anger": 0.08413254894997839,
+      "neutral": 0.1456640913331923
+    }
+  },
+  {
+    "chunk_index": 82,
+    "text": "The direct effect of free trade between this country and the Philippines will be marked upon our sales of cottons, agricultural machinery, and other manufactures.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2655171099482472,
+      "unity": 0.07930996573582248,
+      "hope": 0.21757387517709828,
+      "resolve": 0.1789595540118553,
+      "anger": 0.0840119804926648,
+      "neutral": 0.17462751463431195
+    }
+  },
+  {
+    "chunk_index": 83,
+    "text": "The necessity of the establishment of direct lines of steamers between North and South America has been brought to the attention of Congress by my predecessor and by Mr. Root before and after his noteworthy visit to that continent, and I sincerely hope that Congress may be induced to see the wisdom of a tentative effort to establish such lines by the use of mail subsidies.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20931777916170885,
+      "unity": 0.11247662515923668,
+      "hope": 0.18135127216054628,
+      "resolve": 0.18128704188935296,
+      "anger": 0.13018893109528576,
+      "neutral": 0.1853783505338695
+    }
+  },
+  {
+    "chunk_index": 84,
+    "text": "The importance of the part which the Departments of Agriculture and of Commerce and Labor may play in ridding the markets of Europe of prohibitions and discriminations against the importation of our products is fully understood, and it is hoped that the use of the maximum and minimum feature of our tariff law to be soon passed will be effective to remove many of those restrictions.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22224047492795654,
+      "unity": 0.14122154509515916,
+      "hope": 0.1407581844928043,
+      "resolve": 0.18397917868716687,
+      "anger": 0.18310277897476182,
+      "neutral": 0.12869783782215133
+    }
+  },
+  {
+    "chunk_index": 85,
+    "text": "The Panama Canal will have a most important bearing upon the trade between the eastern and far western sections of our country, and will greatly increase the facilities for transportation between the eastern and the western seaboard, and may possibly revolutionize the transcontinental rates with respect to bulky merchandise.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24913527173230982,
+      "unity": 0.0771000344087221,
+      "hope": 0.23936910886773402,
+      "resolve": 0.23192242279220382,
+      "anger": 0.0560055274618629,
+      "neutral": 0.14646763473716737
+    }
+  },
+  {
+    "chunk_index": 86,
+    "text": "It will also have a most beneficial effect to increase the trade between the eastern seaboard of the United States and the western coast of South America, and, indeed, with some of the important ports on the east coast of South America reached by rail from the west coast.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3019447972019622,
+      "unity": 0.09215087900231447,
+      "hope": 0.25212501597574716,
+      "resolve": 0.2031930796562956,
+      "anger": 0.028528602054482856,
+      "neutral": 0.1220576261091977
+    }
+  },
+  {
+    "chunk_index": 87,
+    "text": "The work on the canal is making most satisfactory progress.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3013716032523831,
+      "unity": -0.0006758265071054653,
+      "hope": 0.2201568301432481,
+      "resolve": 0.207764214102758,
+      "anger": 0.033798281598110574,
+      "neutral": 0.23758489741060568
+    }
+  },
+  {
+    "chunk_index": 88,
+    "text": "The type of the canal as a lock canal was fixed by Congress after a full consideration of the conflicting reports of the majority and minority of the consulting board, and after the recommendation of the War Department and the Executive upon those reports.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.168215695676699,
+      "unity": 0.2462327518726561,
+      "hope": -0.11193502576257029,
+      "resolve": 0.12027237581225608,
+      "anger": 0.27832810244955397,
+      "neutral": 0.29888609995140514
+    }
+  },
+  {
+    "chunk_index": 89,
+    "text": "Recent suggestion that something had occurred on the Isthmus to make the lock type of the canal less feasible than it was supposed to be when the reports were made and the policy determined on led to a visit to the Isthmus of a board of competent engineers to examine the Gatun dam and locks, which are the key of the lock type.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1527394090794413,
+      "unity": 0.12366590066735113,
+      "hope": 0.15392327882618767,
+      "resolve": 0.18535973215925378,
+      "anger": 0.1324779098754039,
+      "neutral": 0.25183376939236224
+    }
+  },
+  {
+    "chunk_index": 90,
+    "text": "The report of that board shows nothing has occurred in the nature of newly revealed evidence which should change the views once formed in the original discussion.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1417014213295346,
+      "unity": 0.12142769600690999,
+      "hope": 0.1636821554556024,
+      "resolve": 0.12329951245357093,
+      "anger": 0.22344216812257325,
+      "neutral": 0.2264470466318088
+    }
+  },
+  {
+    "chunk_index": 91,
+    "text": "The construction will go on under a most effective organization controlled by Colonel Goethals and his fellow army engineers associated with him, and will certainly be completed early in the next administration, if not before.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16362039813540322,
+      "unity": 0.06922755307991246,
+      "hope": 0.20634350736957713,
+      "resolve": 0.256242759078808,
+      "anger": 0.10826513323552563,
+      "neutral": 0.19630064910077352
+    }
+  },
+  {
+    "chunk_index": 92,
+    "text": "Some type of canal must be constructed.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.27319014528728375,
+      "unity": 0.0587653821627044,
+      "hope": 0.20644956639977244,
+      "resolve": 0.22213118344032284,
+      "anger": 0.09335136535672345,
+      "neutral": 0.14611235735319314
+    }
+  },
+  {
+    "chunk_index": 93,
+    "text": "The lock type has been selected.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.024144336228055133,
+      "unity": 0.13533040790936696,
+      "hope": 0.15215090743905463,
+      "resolve": 0.1831295139180915,
+      "anger": 0.24167397313017822,
+      "neutral": 0.26357086137525354
+    }
+  },
+  {
+    "chunk_index": 94,
+    "text": "We are all in favor of having it built as promptly as possible.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17087825134740087,
+      "unity": 0.11165318445028082,
+      "hope": 0.21912400107086002,
+      "resolve": 0.18751455208818327,
+      "anger": 0.16076949792507844,
+      "neutral": 0.1500605131181966
+    }
+  },
+  {
+    "chunk_index": 95,
+    "text": "We must not now, therefore, keep up a fire in the rear of the agents whom we have authorized to do our work on the Isthmus.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.11433128191534947,
+      "unity": 0.16187125619766055,
+      "hope": 0.1337329973554041,
+      "resolve": 0.2694744063051262,
+      "anger": 0.21382095317836938,
+      "neutral": 0.10676910504809034
+    }
+  },
+  {
+    "chunk_index": 96,
+    "text": "We must hold up their hands, and speaking for the incoming administration I wish to say that I propose to devote all the energy possible and under my control to pushing of this work on the plans which have been adopted, and to stand behind the men who are doing faithful, hard work to bring about the early completion of this, the greatest constructive enterprise of modern times.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14566091658238475,
+      "unity": 0.1306221444209448,
+      "hope": 0.20254779869836087,
+      "resolve": 0.18856698480558307,
+      "anger": 0.1461675066957166,
+      "neutral": 0.1864346487970099
+    }
+  },
+  {
+    "chunk_index": 97,
+    "text": "The governments of our dependencies in Porto Rico and the Philippines are progressing as favorably as could be desired.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2559715937034747,
+      "unity": 0.12518047552185388,
+      "hope": 0.18602765342734592,
+      "resolve": 0.18077156672203593,
+      "anger": 0.08196925548901655,
+      "neutral": 0.17007945513627298
+    }
+  },
+  {
+    "chunk_index": 98,
+    "text": "The prosperity of Porto Rico continues unabated.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 1.050774113878469,
+      "unity": -0.221650973640317,
+      "hope": -0.04359412555333941,
+      "resolve": 0.41469773946108107,
+      "anger": -0.12180783536219851,
+      "neutral": -0.0784189187836951
+    }
+  },
+  {
+    "chunk_index": 99,
+    "text": "The business conditions in the Philippines are not all that we could wish them to be, but with the passage of the new tariff bill permitting free trade between the United States and the archipelago, with such limitations on sugar and tobacco as shall prevent injury to domestic interests in those products, we can count on an improvement in business conditions in the Philippines and the development of a mutually profitable trade between this country and the islands.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.2105385822411882,
+      "unity": 0.11614298862970779,
+      "hope": 0.21510002076341178,
+      "resolve": 0.16595925206265386,
+      "anger": 0.1275299907339401,
+      "neutral": 0.16472916556909825
+    }
+  },
+  {
+    "chunk_index": 100,
+    "text": "Meantime our Government in each dependency is upholding the traditions of civil liberty and increasing popular control which might be expected under American auspices.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.26690837561506825,
+      "unity": 0.15229977755106922,
+      "hope": 0.14108370499291112,
+      "resolve": 0.18514827097822215,
+      "anger": 0.14737491067913583,
+      "neutral": 0.10718496018359341
+    }
+  },
+  {
+    "chunk_index": 101,
+    "text": "The work which we are doing there redounds to our credit as a nation.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2442456131152645,
+      "unity": 0.13064475023762376,
+      "hope": 0.1643576645117247,
+      "resolve": 0.20197333803220766,
+      "anger": 0.123735742911758,
+      "neutral": 0.13504289119142138
+    }
+  },
+  {
+    "chunk_index": 102,
+    "text": "I look forward with hope to increasing the already good feeling between the South and the other sections of the country.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16738288647722974,
+      "unity": 0.17276033392427548,
+      "hope": 0.20708024450505402,
+      "resolve": 0.17293918132235728,
+      "anger": 0.11662875660991974,
+      "neutral": 0.16320859716116376
+    }
+  },
+  {
+    "chunk_index": 103,
+    "text": "My chief purpose is not to effect a change in the electoral vote of the Southern States.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12857699339012166,
+      "unity": 0.20119020014959188,
+      "hope": 0.09982718204753475,
+      "resolve": 0.2000024170135231,
+      "anger": 0.20506135853258844,
+      "neutral": 0.16534184886664016
+    }
+  },
+  {
+    "chunk_index": 104,
+    "text": "That is a secondary consideration.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": -0.005219171558483026,
+      "unity": 0.29740857445729585,
+      "hope": 0.0639721447402369,
+      "resolve": 0.5289953226794728,
+      "anger": 0.2515762020261651,
+      "neutral": -0.1367330723446876
+    }
+  },
+  {
+    "chunk_index": 105,
+    "text": "What I look forward to is an increase in the tolerance of political views of all kinds and their advocacy throughout the South, and the existence of a respectable political opposition in every State; even more than this, to an increased feeling on the part of all the people in the South that this Government is their Government, and that its officers in their states are their officers.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16115893527090105,
+      "unity": 0.15681804636885704,
+      "hope": 0.20875255737615933,
+      "resolve": 0.16828462596570792,
+      "anger": 0.14730274597261375,
+      "neutral": 0.15768308904576087
+    }
+  },
+  {
+    "chunk_index": 106,
+    "text": "The consideration of this question can not, however, be complete and full without reference to the negro race, its progress and its present condition.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.15507330349145912,
+      "unity": 0.20434135630169958,
+      "hope": 0.2005431098771564,
+      "resolve": 0.19426282928562427,
+      "anger": 0.14666473406396227,
+      "neutral": 0.09911466698009835
+    }
+  },
+  {
+    "chunk_index": 107,
+    "text": "The thirteenth amendment secured them freedom; the fourteenth amendment due process of law, protection of property, and the pursuit of happiness; and the fifteenth amendment attempted to secure the negro against any deprivation of the privilege to vote because he was a negro.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2451069534590113,
+      "unity": 0.15709798462743332,
+      "hope": 0.13278250202040864,
+      "resolve": 0.21426109837078877,
+      "anger": 0.13430939932520097,
+      "neutral": 0.11644206219715696
+    }
+  },
+  {
+    "chunk_index": 108,
+    "text": "The thirteenth and fourteenth amendments have been generally enforced and have secured the objects for which they are intended.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22665551576026813,
+      "unity": 0.08973317812166913,
+      "hope": 0.09976366735692671,
+      "resolve": 0.21993100412534755,
+      "anger": 0.16123146064965363,
+      "neutral": 0.20268517398613484
+    }
+  },
+  {
+    "chunk_index": 109,
+    "text": "While the fifteenth amendment has not been generally observed in the past, it ought to be observed, and the tendency of Southern legislation today is toward the enactment of electoral qualifications which shall square with that amendment.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17516351193229,
+      "unity": 0.17445958811682494,
+      "hope": 0.1383049226980247,
+      "resolve": 0.19655275881415044,
+      "anger": 0.20063985315914332,
+      "neutral": 0.11487936527956662
+    }
+  },
+  {
+    "chunk_index": 110,
+    "text": "Of course, the mere adoption of a constitutional law is only one step in the right direction.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1839885487200743,
+      "unity": 0.14471814253547424,
+      "hope": 0.18332956232845968,
+      "resolve": 0.17110100065566355,
+      "anger": 0.15385447655637624,
+      "neutral": 0.16300826920395198
+    }
+  },
+  {
+    "chunk_index": 111,
+    "text": "It must be fairly and justly enforced as well.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1501545239476314,
+      "unity": 0.14942942054281932,
+      "hope": 0.11350514754887946,
+      "resolve": 0.18978196016648258,
+      "anger": 0.2582696822878236,
+      "neutral": 0.13885926550636365
+    }
+  },
+  {
+    "chunk_index": 112,
+    "text": "In time both will come.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.07941187563012533,
+      "unity": 0.19105231106626636,
+      "hope": 0.2645092187121534,
+      "resolve": 0.17206225713893303,
+      "anger": 0.17208625711150446,
+      "neutral": 0.12087808034101742
+    }
+  },
+  {
+    "chunk_index": 113,
+    "text": "Hence it is clear to all that the domination of an ignorant, irresponsible element can be prevented by constitutional laws which shall exclude from voting both negroes and whites not having education or other qualifications thought to be necessary for a proper electorate.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13837203599964334,
+      "unity": 0.18476228526370245,
+      "hope": 0.1252294959821489,
+      "resolve": 0.18859164697435785,
+      "anger": 0.2365933069123646,
+      "neutral": 0.1264512288677829
+    }
+  },
+  {
+    "chunk_index": 114,
+    "text": "The danger of the control of an ignorant electorate has therefore passed.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15502292666731746,
+      "unity": 0.14857728837997536,
+      "hope": 0.1424508061580901,
+      "resolve": 0.14416063642989013,
+      "anger": 0.24057947885693107,
+      "neutral": 0.1692088635077959
+    }
+  },
+  {
+    "chunk_index": 115,
+    "text": "With this change, the interest which many of the Southern white citizens take in the welfare of the negroes has increased.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16090470224592882,
+      "unity": 0.201640412212409,
+      "hope": 0.21836100109175616,
+      "resolve": 0.12889853634068082,
+      "anger": 0.174795859873738,
+      "neutral": 0.11539948823548722
+    }
+  },
+  {
+    "chunk_index": 116,
+    "text": "The colored men must base their hope on the results of their own industry, self-restraint, thrift, and business success, as well as upon the aid and comfort and sympathy which they may receive from their white neighbors of the South.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17994471038326085,
+      "unity": 0.21372110667705188,
+      "hope": 0.2391159515624365,
+      "resolve": 0.23292473901718075,
+      "anger": 0.07643157636962769,
+      "neutral": 0.057861915990442346
+    }
+  },
+  {
+    "chunk_index": 117,
+    "text": "There was a time when Northerners who sympathized with the negro in his necessary struggle for better conditions sought to give him the suffrage as a protection to enforce its exercise against the prevailing sentiment of the South.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.18028059579797712,
+      "unity": 0.2276168869759527,
+      "hope": 0.1536225734856202,
+      "resolve": 0.1759568435981037,
+      "anger": 0.19238406074658893,
+      "neutral": 0.07013903939575734
+    }
+  },
+  {
+    "chunk_index": 118,
+    "text": "The movement proved to be a failure.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11378874777490067,
+      "unity": 0.23906775160230684,
+      "hope": 0.11012349816174587,
+      "resolve": 0.1542582042104167,
+      "anger": 0.3360900246563237,
+      "neutral": 0.04667177359430623
+    }
+  },
+  {
+    "chunk_index": 119,
+    "text": "What remains is the fifteenth amendment to the Constitution and the right to have statutes of States specifying qualifications for electors subjected to the test of compliance with that amendment.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19812345193210573,
+      "unity": 0.17205021393405437,
+      "hope": 0.1279529838443412,
+      "resolve": 0.1899825453107185,
+      "anger": 0.1678406393984699,
+      "neutral": 0.14405016558031028
+    }
+  },
+  {
+    "chunk_index": 120,
+    "text": "This is a great protection to the negro.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21717849791268706,
+      "unity": 0.13644327207627588,
+      "hope": 0.1540641218849081,
+      "resolve": 0.19580370075201234,
+      "anger": 0.14149154850796733,
+      "neutral": 0.15501885886614933
+    }
+  },
+  {
+    "chunk_index": 121,
+    "text": "It never will be repealed, and it never ought to be repealed.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17751159504042668,
+      "unity": 0.14317251470516282,
+      "hope": 0.12884250276327064,
+      "resolve": 0.1595707809934887,
+      "anger": 0.24428415663314354,
+      "neutral": 0.14661844986450762
+    }
+  },
+  {
+    "chunk_index": 122,
+    "text": "If it had not passed, it might be difficult now to adopt it; but with it in our fundamental law, the policy of Southern legislation must and will tend to obey it, and so long as the statutes of the States meet the test of this amendment and are not otherwise in conflict with the Constitution and laws of the United States, it is not the disposition or within the province of the Federal Government to interfere with the regulation by Southern States of their domestic affairs.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22490748740139316,
+      "unity": 0.16652273864504835,
+      "hope": 0.1024624212716066,
+      "resolve": 0.19581166552336562,
+      "anger": 0.15570407342851653,
+      "neutral": 0.15459161373006974
+    }
+  },
+  {
+    "chunk_index": 123,
+    "text": "There is in the South a stronger feeling than ever among the intelligent well-to-do, and influential element in favor of the industrial education of the negro and the encouragement of the race to make themselves useful members of the community.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1785637584098477,
+      "unity": 0.17109799407501644,
+      "hope": 0.22350127838041,
+      "resolve": 0.17182534297540197,
+      "anger": 0.13508691220441055,
+      "neutral": 0.1199247139549133
+    }
+  },
+  {
+    "chunk_index": 124,
+    "text": "The progress which the negro has made in the last fifty years, from slavery, when its statistics are reviewed, is marvelous, and it furnishes every reason to hope that in the next twenty-five years a still greater improvement in his condition as a productive member of society, on the farm, and in the shop, and in other occupations may come.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19351518677048152,
+      "unity": 0.14991037799717538,
+      "hope": 0.24560340619428475,
+      "resolve": 0.16493369456427837,
+      "anger": 0.10475094727599923,
+      "neutral": 0.14128638719778072
+    }
+  },
+  {
+    "chunk_index": 125,
+    "text": "The negroes are now Americans.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21505845661862638,
+      "unity": 0.16648890823489812,
+      "hope": 0.16256062587014225,
+      "resolve": 0.12178224991721527,
+      "anger": 0.17136076756464222,
+      "neutral": 0.16274899179447577
+    }
+  },
+  {
+    "chunk_index": 126,
+    "text": "Their ancestors came here years ago against their will, and this is their only country and their only flag.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.31228104203393714,
+      "unity": 0.17417882290680575,
+      "hope": 0.08376771885784517,
+      "resolve": 0.1498862480081601,
+      "anger": 0.18195355748680375,
+      "neutral": 0.09793261070644806
+    }
+  },
+  {
+    "chunk_index": 127,
+    "text": "They have shown themselves anxious to live for it and to die for it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1763274186789342,
+      "unity": 0.14362687093469775,
+      "hope": 0.15832248129032336,
+      "resolve": 0.21625835041447253,
+      "anger": 0.2053926051128307,
+      "neutral": 0.10007227356874146
+    }
+  },
+  {
+    "chunk_index": 128,
+    "text": "Encountering the race feeling against them, subjected at times to cruel injustice growing out of it, they may well have our profound sympathy and aid in the struggle they are making.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15968011720869768,
+      "unity": 0.19133077125670264,
+      "hope": 0.15892212379412105,
+      "resolve": 0.2193879943307363,
+      "anger": 0.1870073504618903,
+      "neutral": 0.08367164294785204
+    }
+  },
+  {
+    "chunk_index": 129,
+    "text": "We are charged with the sacred duty of making their path as smooth and easy as we can.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15524020312503226,
+      "unity": 0.15564552096160647,
+      "hope": 0.18384917554370864,
+      "resolve": 0.24134970582795404,
+      "anger": 0.11730728732011922,
+      "neutral": 0.14660810722157935
+    }
+  },
+  {
+    "chunk_index": 130,
+    "text": "Any recognition of their distinguished men, any appointment to office from among their number, is properly taken as an encouragement and an appreciation of their progress, and this just policy should be pursued when suitable occasion offers.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.19390343104129218,
+      "unity": 0.09122711191127064,
+      "hope": 0.17107220736945714,
+      "resolve": 0.17856321785188858,
+      "anger": 0.11685798528132466,
+      "neutral": 0.24837604654476683
+    }
+  },
+  {
+    "chunk_index": 131,
+    "text": "But it may well admit of doubt whether, in the case of any race, an appointment of one of their number to a local office in a community in which the race feeling is so widespread and acute as to interfere with the ease and facility with which the local government business can be done by the appointee is of sufficient benefit by way of encouragement to the race to outweigh the recurrence and increase of race feeling which such an appointment is likely to engender.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.10387645235017616,
+      "unity": 0.2182960006664917,
+      "hope": 0.1678004106702104,
+      "resolve": 0.19905090717509522,
+      "anger": 0.17153881659029807,
+      "neutral": 0.13943741254772843
+    }
+  },
+  {
+    "chunk_index": 132,
+    "text": "Therefore the Executive, in recognizing the negro race by appointments, must exercise a careful discretion not thereby to do it more harm than good.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.08935693411581042,
+      "unity": 0.19563720738576143,
+      "hope": 0.15700930859638854,
+      "resolve": 0.23436691968849613,
+      "anger": 0.17178994626446797,
+      "neutral": 0.1518396839490755
+    }
+  },
+  {
+    "chunk_index": 133,
+    "text": "On the other hand, we must be careful not to encourage the mere pretense of race feeling manufactured in the interest of individual political ambition.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.12106591756244191,
+      "unity": 0.23176181591502226,
+      "hope": 0.14726732755950642,
+      "resolve": 0.21538270572575804,
+      "anger": 0.19990946832698187,
+      "neutral": 0.08461276491028953
+    }
+  },
+  {
+    "chunk_index": 134,
+    "text": "Personally, I have not the slightest race prejudice or feeling, and recognition of its existence only awakens in my heart a deeper sympathy for those who have to bear it or suffer from it, and I question the wisdom of a policy which is likely to increase it.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16092776758681684,
+      "unity": 0.19568085373620217,
+      "hope": 0.17857124683603665,
+      "resolve": 0.17102758787512254,
+      "anger": 0.18993808858365419,
+      "neutral": 0.10385445538216762
+    }
+  },
+  {
+    "chunk_index": 135,
+    "text": "Meantime, if nothing is done to prevent it, a better feeling between the negroes and the whites in the South will continue to grow, and more and more of the white people will come to realize that the future of the South is to be much benefited by the industrial and intellectual progress of the negro.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14125024801248337,
+      "unity": 0.16723184075348738,
+      "hope": 0.23652846556506474,
+      "resolve": 0.20000832283967426,
+      "anger": 0.13399716911408782,
+      "neutral": 0.12098395371520243
+    }
+  },
+  {
+    "chunk_index": 136,
+    "text": "The exercise of political franchises by those of this race who are intelligent and well to do will be acquiesced in, and the right to vote will be withheld only from the ignorant and irresponsible of both races.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13128914119967752,
+      "unity": 0.17172144081056884,
+      "hope": 0.18365238909549558,
+      "resolve": 0.16276225057467228,
+      "anger": 0.19203541402101157,
+      "neutral": 0.1585393642985742
+    }
+  },
+  {
+    "chunk_index": 137,
+    "text": "There is one other matter to which I shall refer.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.0948522631904076,
+      "unity": 0.20595123545868924,
+      "hope": 0.18044013425505612,
+      "resolve": 0.19216189190057673,
+      "anger": 0.15938663436479672,
+      "neutral": 0.1672078408304736
+    }
+  },
+  {
+    "chunk_index": 138,
+    "text": "It was made the subject of great controversy during the election and calls for at least a passing reference now.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18086953777642792,
+      "unity": 0.18515567393035562,
+      "hope": 0.10946433347901761,
+      "resolve": 0.1263282489834863,
+      "anger": 0.23013179380913049,
+      "neutral": 0.16805041202158205
+    }
+  },
+  {
+    "chunk_index": 139,
+    "text": "My distinguished predecessor has given much attention to the cause of labor, with whose struggle for better things he has shown the sincerest sympathy.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.19174100020792198,
+      "unity": 0.12536174959633628,
+      "hope": 0.17820800427808547,
+      "resolve": 0.14726895800613576,
+      "anger": 0.13930811256674655,
+      "neutral": 0.21811217534477398
+    }
+  },
+  {
+    "chunk_index": 140,
+    "text": "At his instance Congress has passed the bill fixing the liability of interstate carriers to their employees for injury sustained in the course of employment, abolishing the rule of fellow-servant and the common-law rule as to contributory negligence, and substituting therefor the so-called rule of \"comparative negligence.\"",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.19329263502968483,
+      "unity": 0.12841163506505318,
+      "hope": 0.11682747207564359,
+      "resolve": 0.15177205577131922,
+      "anger": 0.1950058438822388,
+      "neutral": 0.21469035817606041
+    }
+  },
+  {
+    "chunk_index": 141,
+    "text": "It has also passed a law fixing the compensation of government employees for injuries sustained in the employ of the Government through the negligence of the superior.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3117085678203569,
+      "unity": 0.022259491485380208,
+      "hope": 0.07117870658095617,
+      "resolve": 0.12284839567552186,
+      "anger": 0.20146660804066727,
+      "neutral": 0.2705382303971176
+    }
+  },
+  {
+    "chunk_index": 142,
+    "text": "It has also passed a model child-labor law for the District of Columbia.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3318293589310366,
+      "unity": -0.03998015736041123,
+      "hope": 0.23170909429697256,
+      "resolve": 0.09583189715675693,
+      "anger": 0.12333109448276265,
+      "neutral": 0.25727871249288253
+    }
+  },
+  {
+    "chunk_index": 143,
+    "text": "In previous administrations an arbitration law for interstate commerce railroads and their employees, and laws for the application of safety devices to save the lives and limbs of employees of interstate railroads had been passed.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.20556281452918024,
+      "unity": 0.11162293449958655,
+      "hope": 0.10559987552491314,
+      "resolve": 0.1655786118775182,
+      "anger": 0.19391017477064534,
+      "neutral": 0.2177255887981565
+    }
+  },
+  {
+    "chunk_index": 144,
+    "text": "Additional legislation of this kind was passed by the outgoing Congress.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1642359108258512,
+      "unity": 0.07236868712117439,
+      "hope": 0.11962822452639994,
+      "resolve": 0.10656058914966836,
+      "anger": 0.1982795920799639,
+      "neutral": 0.33892699629694223
+    }
+  },
+  {
+    "chunk_index": 145,
+    "text": "I wish to say that insofar as I can I hope to promote the enactment of further legislation of this character.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1113595741654197,
+      "unity": 0.13484557595398422,
+      "hope": 0.22041865637581634,
+      "resolve": 0.18040021768375478,
+      "anger": 0.1666608150141355,
+      "neutral": 0.18631516080688948
+    }
+  },
+  {
+    "chunk_index": 146,
+    "text": "I am strongly convinced that the Government should make itself as responsible to employees injured in its employ as an interstate-railway corporation is made responsible by federal law to its employees; and I shall be glad, whenever any additional reasonable safety device can be invented to reduce the loss of life and limb among railway employees, to urge Congress to require its adoption by interstate railways.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17841883602376404,
+      "unity": 0.11912226250892752,
+      "hope": 0.14468080012294812,
+      "resolve": 0.20051907864441867,
+      "anger": 0.1763808513650052,
+      "neutral": 0.18087817133493644
+    }
+  },
+  {
+    "chunk_index": 147,
+    "text": "Another labor question has arisen which has awakened the most excited discussion.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.11911992212467692,
+      "unity": 0.13748238274997182,
+      "hope": 0.22919827843248652,
+      "resolve": 0.17195009630745808,
+      "anger": 0.1922023822742495,
+      "neutral": 0.15004693811115716
+    }
+  },
+  {
+    "chunk_index": 148,
+    "text": "That is in respect to the power of the federal courts to issue injunctions in industrial disputes.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18869587430455648,
+      "unity": 0.12987123784297278,
+      "hope": 0.0892122896754115,
+      "resolve": 0.2153926975062044,
+      "anger": 0.223362339516264,
+      "neutral": 0.15346556115459084
+    }
+  },
+  {
+    "chunk_index": 149,
+    "text": "As to that, my convictions are fixed.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.09547342764237879,
+      "unity": 0.19316888604826965,
+      "hope": 0.15150134553060313,
+      "resolve": 0.2296257660993885,
+      "anger": 0.187674710771128,
+      "neutral": 0.14255586390823194
+    }
+  },
+  {
+    "chunk_index": 150,
+    "text": "Take away from the courts, if it could be taken away, the power to issue injunctions in labor disputes, and it would create a privileged class among the laborers and save the lawless among their number from a most needful remedy available to all men for the protection of their business against lawless invasion.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15498958206415203,
+      "unity": 0.1301820770978272,
+      "hope": 0.16672626554689926,
+      "resolve": 0.17846744645004947,
+      "anger": 0.22738674655181448,
+      "neutral": 0.14224788228925758
+    }
+  },
+  {
+    "chunk_index": 151,
+    "text": "The proposition that business is not a property or pecuniary right which can be protected by equitable injunction is utterly without foundation in precedent or reason.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.05136651138048313,
+      "unity": 0.17628432995608034,
+      "hope": 0.02946763348584518,
+      "resolve": 0.16827606727012362,
+      "anger": 0.6396553107217939,
+      "neutral": -0.06504985281432624
+    }
+  },
+  {
+    "chunk_index": 152,
+    "text": "The proposition is usually linked with one to make the secondary boycott lawful.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12135778587024974,
+      "unity": 0.19454259993525316,
+      "hope": 0.08594257497286255,
+      "resolve": 0.18113193677139267,
+      "anger": 0.25909746598678,
+      "neutral": 0.1579276364634619
+    }
+  },
+  {
+    "chunk_index": 153,
+    "text": "Such a proposition is at variance with the American instinct, and will find no support, in my judgment, when submitted to the American people.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1865716298302571,
+      "unity": 0.18694169520480136,
+      "hope": 0.08491252296676419,
+      "resolve": 0.16498415599320126,
+      "anger": 0.28270694973751725,
+      "neutral": 0.09388304626745883
+    }
+  },
+  {
+    "chunk_index": 154,
+    "text": "The secondary boycott is an instrument of tyranny, and ought not to be made legitimate.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.07474664544090993,
+      "unity": 0.179795933199545,
+      "hope": -0.013361676021047432,
+      "resolve": 0.14754599524092965,
+      "anger": 0.5825757027199815,
+      "neutral": 0.028697399419681302
+    }
+  },
+  {
+    "chunk_index": 155,
+    "text": "The issue of a temporary restraining order without notice has in several instances been abused by its inconsiderate exercise, and to remedy this the platform upon which I was elected recommends the formulation in a statute of the conditions under which such a temporary restraining order ought to issue.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11789412897059601,
+      "unity": 0.13458009972083806,
+      "hope": 0.10290590355505601,
+      "resolve": 0.19511330316977016,
+      "anger": 0.23059280166824248,
+      "neutral": 0.21891376291549727
+    }
+  },
+  {
+    "chunk_index": 156,
+    "text": "A statute can and ought to be framed to embody the best modern practice, and can bring the subject so closely to the attention of the court as to make abuses of the process unlikely in the future.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1498604752234656,
+      "unity": 0.12314466233312855,
+      "hope": 0.15650513654478396,
+      "resolve": 0.19295354000796322,
+      "anger": 0.1875001062785407,
+      "neutral": 0.190036079612118
+    }
+  },
+  {
+    "chunk_index": 157,
+    "text": "The American people, if I understand them, insist that the authority of the courts shall be sustained, and are opposed to any change in the procedure by which the powers of a court may be weakened and the fearless and effective administration of justice be interfered with.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1821323912261737,
+      "unity": 0.14123917346603967,
+      "hope": 0.10108291281023106,
+      "resolve": 0.2096101590806886,
+      "anger": 0.24180573291552987,
+      "neutral": 0.12412963050133709
+    }
+  },
+  {
+    "chunk_index": 158,
+    "text": "Having thus reviewed the questions likely to recur during my administration, and having expressed in a summary way the position which I expect to take in recommendations to Congress and in my conduct as an Executive, I invoke the considerate sympathy and support of my fellow-citizens and the aid of the Almighty God in the discharge of my responsible duties.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.15386171782461844,
+      "unity": 0.13450916017908468,
+      "hope": 0.16918846837187526,
+      "resolve": 0.16300253856584243,
+      "anger": 0.1401832784617794,
+      "neutral": 0.23925483659679977
+    }
+  }
+]

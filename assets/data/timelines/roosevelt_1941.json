@@ -1,0 +1,847 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "On each national day of Inauguration since 1789, the people have renewed their sense of dedication to the United States.In Washington's day the task of the people was to create and weld together a Nation.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24548660238638373,
+      "unity": 0.14734333758198548,
+      "hope": 0.16382214424970798,
+      "resolve": 0.1665493985988021,
+      "anger": 0.10282220955478555,
+      "neutral": 0.17397630762833516
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "In Lincoln's day the task of the people was to preserve that Nation from disruption from within.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.2149388790713035,
+      "unity": 0.167622318972098,
+      "hope": 0.14361817081362646,
+      "resolve": 0.23623768888374613,
+      "anger": 0.13690791822314508,
+      "neutral": 0.10067502403608083
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "In this day the task of the people is to save that Nation and its institutions from disruption from without.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17280398125413218,
+      "unity": 0.17049069082051824,
+      "hope": 0.17198483555324656,
+      "resolve": 0.19995276121202732,
+      "anger": 0.16581416082503445,
+      "neutral": 0.11895357033504128
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "To us there has come a time, in the midst of swift happenings, to pause for a moment and take stock- to recall what our place in history has been, and to rediscover what we are and what we may be.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18082794772411714,
+      "unity": 0.1685999087644229,
+      "hope": 0.20322138543431223,
+      "resolve": 0.17920358123035254,
+      "anger": 0.1380501100975721,
+      "neutral": 0.1300970667492231
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "If we do not, we risk the real peril of isolation, the real peril of inaction.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13477063501857273,
+      "unity": 0.20272028750245852,
+      "hope": 0.15788835975355084,
+      "resolve": 0.23210314073182692,
+      "anger": 0.19607481484768755,
+      "neutral": 0.07644276214590345
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Lives of Nations are determined not by the count of years, but by the lifetime of the human spirit.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21605851743507715,
+      "unity": 0.17501537363964623,
+      "hope": 0.1850263187551775,
+      "resolve": 0.1850873242928986,
+      "anger": 0.12681947481127143,
+      "neutral": 0.11199299106592914
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "The life of a man is threescore years and ten: a little more, a little less.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.13915310957140584,
+      "unity": 0.16659982946621343,
+      "hope": 0.25214124736867555,
+      "resolve": 0.17660485823650826,
+      "anger": 0.11055815151846222,
+      "neutral": 0.1549428038387347
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "The life of a Nation is the fullness of the measure of its will to live.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22790756199487813,
+      "unity": 0.1716525263727854,
+      "hope": 0.167999583756715,
+      "resolve": 0.20138497969464314,
+      "anger": 0.1205298041344373,
+      "neutral": 0.110525544046541
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "There are men who doubt this.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1065449199288766,
+      "unity": 0.17244538583237284,
+      "hope": 0.19744146922821482,
+      "resolve": 0.30434880494767386,
+      "anger": 0.1372235613193551,
+      "neutral": 0.08199585874350676
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "There are men who believe that democracy, as a form of government and a frame of life, is limited or measured by a kind of mystical and artificial fate that, for some unexplained reason, tyranny and slavery have become the surging wave of the future\u2014and that freedom is an ebbing tide.But we Americans know that this is not true.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1929055622059059,
+      "unity": 0.16523281524929403,
+      "hope": 0.1579766549705021,
+      "resolve": 0.1787698428389476,
+      "anger": 0.19994273285082798,
+      "neutral": 0.10517239188452239
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "Eight years ago, when the life of this Republic seemed frozen by a fatalistic terror, we proved that this is not true.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.20595714855084563,
+      "unity": 0.15756348426588662,
+      "hope": 0.14164585291573542,
+      "resolve": 0.17678109036082837,
+      "anger": 0.21665958495030985,
+      "neutral": 0.10139283895639413
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "We were in the midst of shock\u2014but we acted.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1739672488104251,
+      "unity": 0.1760862248218888,
+      "hope": 0.16311546284580516,
+      "resolve": 0.19049553921855195,
+      "anger": 0.1809962145442448,
+      "neutral": 0.1153393097590842
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "We acted quickly, boldly, decisively.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18216653811946718,
+      "unity": 0.1304926783337616,
+      "hope": 0.1736672411129565,
+      "resolve": 0.19189165918845158,
+      "anger": 0.18211405886020382,
+      "neutral": 0.1396678243851593
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "These later years have been living years\u2014fruitful years for the people of this democracy.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2127311305466975,
+      "unity": 0.12231891904848471,
+      "hope": 0.21203979648298377,
+      "resolve": 0.1512933726060352,
+      "anger": 0.1360797562215571,
+      "neutral": 0.1655370250942417
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "For they have brought to us greater security and, I hope, a better understanding that life's ideals are to be measured in other than material things.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2306720743916918,
+      "unity": 0.13930921045888078,
+      "hope": 0.19794194857020025,
+      "resolve": 0.2065483682981802,
+      "anger": 0.09763487328552671,
+      "neutral": 0.12789352499552026
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "Most vital to our present and to our future is this experience of a democracy which successfully survived crisis at home; put away many evil things; built new structures on enduring lines; and, through it all, maintained the fact of its democracy.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23669756614713194,
+      "unity": 0.15220647484590416,
+      "hope": 0.15470545903070437,
+      "resolve": 0.1953354382238326,
+      "anger": 0.14833079156050152,
+      "neutral": 0.11272427019192542
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "For action has been taken within the three-way framework of the Constitution of the United States.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1822747425926147,
+      "unity": 0.17516094993709366,
+      "hope": 0.10757684283605938,
+      "resolve": 0.16629320732733785,
+      "anger": 0.20355247091024198,
+      "neutral": 0.16514178639665242
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "The coordinate branches of the Government continue freely to function.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.31406866297016117,
+      "unity": 0.11524177939744691,
+      "hope": 0.10594492375599494,
+      "resolve": 0.19557376677060742,
+      "anger": 0.10565169984911925,
+      "neutral": 0.16351916725667032
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "The Bill of Rights remains inviolate.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2775148093626212,
+      "unity": 0.09886602482792944,
+      "hope": 0.07407042595184513,
+      "resolve": 0.19913222169306163,
+      "anger": 0.15925697320130813,
+      "neutral": 0.19115954496323448
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "The freedom of elections is wholly maintained.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2889862708107151,
+      "unity": 0.10597176109965634,
+      "hope": 0.039076591613466605,
+      "resolve": 0.2516646613392329,
+      "anger": 0.1698293118641212,
+      "neutral": 0.14447140327280789
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "Prophets of the downfall of American democracy have seen their dire predictions come to naught.No, democracy is not dying.We know it because we have seen it revive\u2014and grow.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18901091438296302,
+      "unity": 0.14810421689786468,
+      "hope": 0.14240078643434237,
+      "resolve": 0.17638019968373325,
+      "anger": 0.248700343598731,
+      "neutral": 0.09540353900236566
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "We know it cannot die\u2014because it is built on the unhampered initiative of individual men and women joined together in a common enterprise\u2014an enterprise undertaken and carried through by the free expression of a free majority.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2059300572894113,
+      "unity": 0.15850554352214924,
+      "hope": 0.17500333061536272,
+      "resolve": 0.1819914387106345,
+      "anger": 0.15399081930452227,
+      "neutral": 0.12457881055791994
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "We know it because democracy alone, of all forms of government, enlists the full force of men's enlightened will.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2223660605595154,
+      "unity": 0.15890539418613878,
+      "hope": 0.1330674719611331,
+      "resolve": 0.20816900572008562,
+      "anger": 0.17244529052707275,
+      "neutral": 0.10504677704605432
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "We know it because democracy alone has constructed an unlimited civilization capable of infinite progress in the improvement of human life.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2390476443535747,
+      "unity": 0.14278681759503858,
+      "hope": 0.14655114598862387,
+      "resolve": 0.18472175794650494,
+      "anger": 0.18667646607188584,
+      "neutral": 0.10021616804437207
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "We know it because, if we look below the surface, we sense it still spreading on every continent\u2014for it is the most humane, the most advanced, and in the end the most unconquerable of all forms of human society.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22679836463539274,
+      "unity": 0.17169335394249216,
+      "hope": 0.18905468462789107,
+      "resolve": 0.1824111153705403,
+      "anger": 0.1454599298815668,
+      "neutral": 0.08458255154211691
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "A Nation, like a person, has a body\u2014a body that must be fed and clothed and housed, invigorated and rested, in a manner that measures up to the standards of our time.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22904703848939967,
+      "unity": 0.17735223897379065,
+      "hope": 0.1492896134453245,
+      "resolve": 0.16754873774380308,
+      "anger": 0.1465117940491009,
+      "neutral": 0.13025057729858122
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "A Nation, like a person, has a mind\u2014a mind that must be kept informed and alert, that must know itself, that understands the hopes and the needs of its neighbors\u2014all the other Nations that live within the narrowing circle of the world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2225540989706271,
+      "unity": 0.19461033341926276,
+      "hope": 0.16058365518944323,
+      "resolve": 0.19719184962174763,
+      "anger": 0.1281453265119859,
+      "neutral": 0.09691473628693334
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "A Nation, like a person, has something deeper, something more permanent, something larger than the sum of all its parts.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23067589642225086,
+      "unity": 0.20468644809725092,
+      "hope": 0.15490746494441043,
+      "resolve": 0.1859251604168016,
+      "anger": 0.11279212364473659,
+      "neutral": 0.11101290647454957
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "It is that something which matters most to its future\u2014which calls forth the most sacred guarding of its present.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16451231933619728,
+      "unity": 0.14269480116622604,
+      "hope": 0.22359940196072417,
+      "resolve": 0.2132094081574103,
+      "anger": 0.12881632123064155,
+      "neutral": 0.1271677481488007
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "It is a thing for which we find it difficult\u2014even impossible to hit upon a single, simple word.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.11926414567148445,
+      "unity": 0.2815564640607287,
+      "hope": 0.19877682170994665,
+      "resolve": 0.329778680575553,
+      "anger": 0.1636909002085957,
+      "neutral": -0.09306701222630852
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "And yet, we all understand what it is\u2014the spirit\u2014the faith of America.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23687312787229195,
+      "unity": 0.18734754689906957,
+      "hope": 0.15821739199706775,
+      "resolve": 0.1941490975457104,
+      "anger": 0.11696150101713951,
+      "neutral": 0.10645133466872082
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "It is the product of centuries.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2142769086692245,
+      "unity": 0.1513546611066266,
+      "hope": 0.19896924880260153,
+      "resolve": 0.1135507439945333,
+      "anger": 0.19457105940899433,
+      "neutral": 0.12727737801801975
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "It was born in the multitudes of those who came from many lands\u2014some of high degree, but mostly plain people\u2014who sought here, early and late, to find freedom more freely.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2734685344339824,
+      "unity": 0.16268387971866274,
+      "hope": 0.18977686651946266,
+      "resolve": 0.1556399795438154,
+      "anger": 0.10389009044445426,
+      "neutral": 0.11454064933962255
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "The democratic aspiration is no mere recent phase in human history.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16813077654045855,
+      "unity": 0.1618176828403641,
+      "hope": 0.18604917171279128,
+      "resolve": 0.17136990276483957,
+      "anger": 0.2101138764916127,
+      "neutral": 0.1025185896499338
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "It is human history.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2584964261874108,
+      "unity": 0.18645509629707394,
+      "hope": 0.16231273382746655,
+      "resolve": 0.1692486237335906,
+      "anger": 0.15093408485429372,
+      "neutral": 0.07255303510016435
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "It permeated the ancient life of early peoples.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3211303117365371,
+      "unity": 0.10983204278903876,
+      "hope": 0.18701547777636615,
+      "resolve": 0.15703703300173294,
+      "anger": 0.08186629845669723,
+      "neutral": 0.1431188362396278
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "It blazed anew in the Middle Ages.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.24248415916150015,
+      "unity": 0.12727816617140922,
+      "hope": 0.3103838348808573,
+      "resolve": 0.12591429460365453,
+      "anger": 0.1150813008644088,
+      "neutral": 0.07885824431817003
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "It was written in Magna Charta.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17471940073252898,
+      "unity": 0.17489242314799236,
+      "hope": 0.1787316946349195,
+      "resolve": 0.1784555315572582,
+      "anger": 0.11007199102085548,
+      "neutral": 0.18312895890644548
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "In the Americas its impact has been irresistible.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.376443789666853,
+      "unity": 0.0835080204571789,
+      "hope": 0.18030406074091185,
+      "resolve": 0.17310293284222866,
+      "anger": 0.10877441135469483,
+      "neutral": 0.07786678493813276
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "America has been the New World in all tongues, and to all peoples, not because this continent was a new-found land, but because all those who came here believed they could create upon this continent a new life\u2014a life that should be new in freedom.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23926281540547836,
+      "unity": 0.16814368083355827,
+      "hope": 0.1879081531442174,
+      "resolve": 0.16714355400470243,
+      "anger": 0.11448675776664141,
+      "neutral": 0.12305503884540213
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "Its vitality was written into our own Mayflower Compact, into the Declaration of Independence, into the Constitution of the United States, into the Gettysburg Address.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24620814022809934,
+      "unity": 0.16050233739527106,
+      "hope": 0.17113705429396014,
+      "resolve": 0.19729657372701173,
+      "anger": 0.10847385806183131,
+      "neutral": 0.11638203629382643
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "Those who first came here to carry out the longings of their spirit, and the millions who followed, and the stock that sprang from them\u2014all have moved forward constantly and consistently toward an ideal which in itself has gained stature and clarity with each generation.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.182319214619517,
+      "unity": 0.16510668808922394,
+      "hope": 0.22435935095386458,
+      "resolve": 0.18706822625506303,
+      "anger": 0.10168065765967127,
+      "neutral": 0.13946586242266015
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "The hopes of the Republic cannot forever tolerate either undeserved poverty or self-serving wealth.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1639538141550802,
+      "unity": 0.168559989802699,
+      "hope": 0.16876974864053929,
+      "resolve": 0.1895624507107562,
+      "anger": 0.21500115699574862,
+      "neutral": 0.09415283969517672
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "We know that we still have far to go; that we must more greatly build the security and the opportunity and the knowledge of every citizen, in the measure justified by the resources and the capacity of the land.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18396354747190935,
+      "unity": 0.16235213708516413,
+      "hope": 0.22033579938918654,
+      "resolve": 0.21080854147234085,
+      "anger": 0.12447687605089057,
+      "neutral": 0.09806309853050856
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "But it is not enough to achieve these purposes alone.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.07574531048597602,
+      "unity": 0.23527780993605119,
+      "hope": 0.2393500787530501,
+      "resolve": 0.28995412038311114,
+      "anger": 0.1892760636296956,
+      "neutral": -0.02960338318788404
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "It is not enough to clothe and feed the body of this Nation, to instruct, and inform its mind.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.18625553617583765,
+      "unity": 0.16347877355018325,
+      "hope": 0.16612595230112653,
+      "resolve": 0.17919437533949897,
+      "anger": 0.18052836120398177,
+      "neutral": 0.12441700142937183
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "For there is also the spirit.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16904477980602076,
+      "unity": 0.17680365195590614,
+      "hope": 0.20415910815254343,
+      "resolve": 0.22391872264664492,
+      "anger": 0.09013387696655413,
+      "neutral": 0.13593986047233061
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "And of the three, the greatest is the spirit.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21314623685551937,
+      "unity": 0.196122044447113,
+      "hope": 0.17571455178038073,
+      "resolve": 0.23366498777708428,
+      "anger": 0.07237374212492435,
+      "neutral": 0.10897843701497825
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "Without the body and the mind, as all men know, the Nation could not live.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2053821027478551,
+      "unity": 0.1820999247095222,
+      "hope": 0.1604948578404392,
+      "resolve": 0.19588940771395502,
+      "anger": 0.13237185365209167,
+      "neutral": 0.12376185333613683
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "But if the spirit of America were killed, even though the Nation's body and mind, constricted in an alien world, lived on, the America we know would have perished.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2637596365570175,
+      "unity": 0.17898373304554452,
+      "hope": 0.13095338456886432,
+      "resolve": 0.1981936801392175,
+      "anger": 0.12873206731503298,
+      "neutral": 0.09937749837432319
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "That spirit\u2014that faith\u2014speaks to us in our daily lives in ways often unnoticed, because they seem so obvious.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18054888113674075,
+      "unity": 0.16745396609143032,
+      "hope": 0.21896716535744132,
+      "resolve": 0.21322029589591776,
+      "anger": 0.08880814695688136,
+      "neutral": 0.1310015445615885
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "It speaks to us here in the Capital of the Nation.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20385146287211303,
+      "unity": 0.15951412691964872,
+      "hope": 0.16832426203805598,
+      "resolve": 0.15057327958345615,
+      "anger": 0.16629841713009194,
+      "neutral": 0.15143845145663418
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "It speaks to us through the processes of governing in the sovereignties of 48 States.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.227270120432654,
+      "unity": 0.1914841320821575,
+      "hope": 0.1408670466991532,
+      "resolve": 0.17050974750130402,
+      "anger": 0.14271740092867086,
+      "neutral": 0.12715155235606043
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "It speaks to us in our counties, in our cities, in our towns, and in our villages.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.18641162120998248,
+      "unity": 0.18153427205957678,
+      "hope": 0.1835105902658041,
+      "resolve": 0.16320840608346215,
+      "anger": 0.15372034053110362,
+      "neutral": 0.13161476985007087
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "It speaks to us from the other Nations of the hemisphere, and from those across the seas\u2014the enslaved, as well as the free.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2363317849937146,
+      "unity": 0.17336114608298128,
+      "hope": 0.17189906386571369,
+      "resolve": 0.17648242562535263,
+      "anger": 0.12314443922753457,
+      "neutral": 0.11878114020470323
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "Sometimes we fail to hear or heed these voices of freedom because to us the privilege of our freedom is such an old, old story.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2195277881433183,
+      "unity": 0.14573558756951235,
+      "hope": 0.153777441747813,
+      "resolve": 0.1721337019587237,
+      "anger": 0.19639350949130496,
+      "neutral": 0.11243197108932766
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "The destiny of America was proclaimed in words of prophecy spoken by our first President in his first Inaugural in 1789-words almost directed, it would seem, to this year of 1941: \"The preservation of the sacred fire of liberty and the destiny of the republican model of government are justly considered.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20935726835360177,
+      "unity": 0.15267443200579453,
+      "hope": 0.20748773683132282,
+      "resolve": 0.1880355550676419,
+      "anger": 0.12298855600130393,
+      "neutral": 0.11945645174033508
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "finally, staked on the experiment intrusted to the hands of the American people.\"",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20631706305319514,
+      "unity": 0.13337160159216196,
+      "hope": 0.13996424891006887,
+      "resolve": 0.1888768823903041,
+      "anger": 0.1683253187951665,
+      "neutral": 0.16314488525910348
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "If you and I in this later day lose that sacred fire\u2014if we let it be smothered with doubt and fear- then we shall reject the destiny which Washington strove so valiantly and so triumphantly to establish.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16465397761452627,
+      "unity": 0.16875728050122843,
+      "hope": 0.1578744265072074,
+      "resolve": 0.21987982899293246,
+      "anger": 0.16134343887719507,
+      "neutral": 0.1274910475069104
+    }
+  },
+  {
+    "chunk_index": 64,
+    "text": "The preservation of the spirit and faith of the Nation does, and will, furnish the highest justification for every sacrifice that we may make in the cause of national defense.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.2129879095655402,
+      "unity": 0.1533819260470549,
+      "hope": 0.13540799780563423,
+      "resolve": 0.2307879511155772,
+      "anger": 0.12716045068481052,
+      "neutral": 0.14027376478138295
+    }
+  },
+  {
+    "chunk_index": 65,
+    "text": "In the face of great perils never before encountered, our strong purpose is to protect and to perpetuate the integrity of democracy.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19765902056890872,
+      "unity": 0.15393954933374915,
+      "hope": 0.1520891762963221,
+      "resolve": 0.24566757270989342,
+      "anger": 0.14792206450421092,
+      "neutral": 0.10272261658691571
+    }
+  },
+  {
+    "chunk_index": 66,
+    "text": "For this we muster the spirit of America, and the faith of America.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21915913268423912,
+      "unity": 0.16420206812466276,
+      "hope": 0.16848122704606372,
+      "resolve": 0.18710810909504114,
+      "anger": 0.11604128614368907,
+      "neutral": 0.14500817690630421
+    }
+  },
+  {
+    "chunk_index": 67,
+    "text": "We do not retreat.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18819138421642892,
+      "unity": 0.15757823969515258,
+      "hope": 0.1356245255582697,
+      "resolve": 0.2478987641552615,
+      "anger": 0.15760099863908889,
+      "neutral": 0.11310608773579843
+    }
+  },
+  {
+    "chunk_index": 68,
+    "text": "We are not content to stand still.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1596749205026755,
+      "unity": 0.15805234192507953,
+      "hope": 0.17895382525640274,
+      "resolve": 0.23556794958884583,
+      "anger": 0.16945777928318456,
+      "neutral": 0.0982931834438118
+    }
+  },
+  {
+    "chunk_index": 69,
+    "text": "As Americans, we go forward, in the service of our country, by the will of God.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20808372598751154,
+      "unity": 0.16490225598833821,
+      "hope": 0.162495861367475,
+      "resolve": 0.20091934010085463,
+      "anger": 0.12562003755840956,
+      "neutral": 0.13797877899741107
+    }
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "For myself and for our Nation, I want to thank my predecessor for all he has done to heal our land.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.21512799383775352,
+      "unity": 0.13237817924325032,
+      "hope": 0.15078130820672264,
+      "resolve": 0.1300552234663696,
+      "anger": 0.12403306364910159,
+      "neutral": 0.2476242315968023
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "In this outward and physical ceremony, we attest once again to the inner and spiritual strength of our Nation.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2383680783885536,
+      "unity": 0.14709215983351678,
+      "hope": 0.14818692272455156,
+      "resolve": 0.18038219448102605,
+      "anger": 0.09164940013297788,
+      "neutral": 0.19432124443937415
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "As my high school teacher, Miss Julia Coleman, used to say, \"We must adjust to changing times and still hold to unchanging principles.\"",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15003406619928875,
+      "unity": 0.18326316716595806,
+      "hope": 0.20903567102359882,
+      "resolve": 0.18215445433113828,
+      "anger": 0.162885636536462,
+      "neutral": 0.11262700474355411
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "Here before me is the Bible used in the inauguration of our first President, in 1789, and I have just taken the oath of office on the Bible my mother gave me just a few years ago, opened to a timeless admonition from the ancient prophet Micah: \"He hath showed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God.\"",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19382253497635815,
+      "unity": 0.1442384131339267,
+      "hope": 0.17428026702199018,
+      "resolve": 0.1678647965847251,
+      "anger": 0.12612920848849635,
+      "neutral": 0.19366477979450353
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "This inauguration ceremony marks a new beginning, a new dedication within our Government, and a new spirit among us all.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1843114379248902,
+      "unity": 0.13778539338712587,
+      "hope": 0.19817709224880165,
+      "resolve": 0.14639594172814427,
+      "anger": 0.11195634782080628,
+      "neutral": 0.22137378689023174
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "A President may sense and proclaim that new spirit, but only a people can provide it.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18188042894629425,
+      "unity": 0.1664242944992451,
+      "hope": 0.19123184749370808,
+      "resolve": 0.169325937534763,
+      "anger": 0.15378440587048983,
+      "neutral": 0.13735308565549978
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "Two centuries ago, our Nation's birth was a milestone in the long quest for freedom.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2521358021231461,
+      "unity": 0.14759634729034823,
+      "hope": 0.18346804950933449,
+      "resolve": 0.16789929371751403,
+      "anger": 0.1252851020653726,
+      "neutral": 0.1236154052942845
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "But the bold and brilliant dream which excited the founders of this Nation still awaits its consummation.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19663563320563573,
+      "unity": 0.14757353845814083,
+      "hope": 0.230606993006532,
+      "resolve": 0.16951786710062255,
+      "anger": 0.11738862403453232,
+      "neutral": 0.13827734419453652
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "I have no new dream to set forth today, but rather urge a fresh faith in the old dream.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.10426806547370049,
+      "unity": 0.15054151597148524,
+      "hope": 0.2816203771898907,
+      "resolve": 0.1936748376553588,
+      "anger": 0.12378541586109562,
+      "neutral": 0.14610978784846915
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "Ours was the first society openly to define itself in terms of both spirituality and human liberty.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.278926451884677,
+      "unity": 0.17397619583644625,
+      "hope": 0.1704098938721129,
+      "resolve": 0.17065393781050708,
+      "anger": 0.10276483673154527,
+      "neutral": 0.10326868386471147
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "It is that unique self-definition which has given us an exceptional appeal, but it also imposes on us a special obligation to take on those moral duties which, when assumed, seem invariably to be in our own best interests.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1964659867574707,
+      "unity": 0.18052255608449647,
+      "hope": 0.14933956142002203,
+      "resolve": 0.21716901578990944,
+      "anger": 0.138512451352069,
+      "neutral": 0.11799042859603237
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "You have given me a great responsibility--to stay close to you, to be worthy of you, and to exemplify what you are.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.15520364207237722,
+      "unity": 0.13150880419323033,
+      "hope": 0.1995441698304468,
+      "resolve": 0.1785081550381283,
+      "anger": 0.052366051466446774,
+      "neutral": 0.28286917739937056
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "Let us create together a new national spirit of unity and trust.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.17419333103009735,
+      "unity": 0.19951439528284282,
+      "hope": 0.18032465885491597,
+      "resolve": 0.173312082328277,
+      "anger": 0.13437138995884212,
+      "neutral": 0.13828414254502472
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "Your strength can compensate for my weakness, and your wisdom can help to minimize my mistakes.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1313142852413147,
+      "unity": 0.18294475242551742,
+      "hope": 0.19691512792112797,
+      "resolve": 0.2372062789267068,
+      "anger": 0.09742717055632741,
+      "neutral": 0.15419238492900572
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "Let us learn together and laugh together and work together and pray together, confident that in the end we will triumph together in the right.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.13153141653620562,
+      "unity": 0.21218522143684795,
+      "hope": 0.19201575300472845,
+      "resolve": 0.19077423238814,
+      "anger": 0.1395718947152401,
+      "neutral": 0.13392148191883788
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "The American dream endures.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2370360591111566,
+      "unity": 0.13256031793788312,
+      "hope": 0.1949514682681769,
+      "resolve": 0.19987113744905546,
+      "anger": 0.10381115744692553,
+      "neutral": 0.13176985978680236
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "We must once again have full faith in our country--and in one another.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1896448571074663,
+      "unity": 0.18079855845678006,
+      "hope": 0.16245983456478177,
+      "resolve": 0.18120705167974643,
+      "anger": 0.13682852119210284,
+      "neutral": 0.1490611769991226
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "I believe America can be better.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2182507139112348,
+      "unity": 0.17564163137244812,
+      "hope": 0.18120860698731575,
+      "resolve": 0.15498282237055602,
+      "anger": 0.1769252877016993,
+      "neutral": 0.09299093765674603
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "We can be even stronger than before.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19126174947760605,
+      "unity": 0.1528204310989728,
+      "hope": 0.21305603135419923,
+      "resolve": 0.2352006859723517,
+      "anger": 0.10996142185293489,
+      "neutral": 0.09769968024393531
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "Let our recent mistakes bring a resurgent commitment to the basic principles of our Nation, for we know that if we despise our own government, we have no future.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1710828563628175,
+      "unity": 0.18528307436055277,
+      "hope": 0.15503228467348637,
+      "resolve": 0.19436930305497752,
+      "anger": 0.18182768039846844,
+      "neutral": 0.11240480114969738
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "We recall in special times when we have stood briefly, but magnificently, united.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20640149893668894,
+      "unity": 0.19310284879871664,
+      "hope": 0.15284624249698658,
+      "resolve": 0.19044981072528727,
+      "anger": 0.12251990099672219,
+      "neutral": 0.13467969804559837
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "In those times no prize was beyond our grasp.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21932052266717317,
+      "unity": 0.1378950115611726,
+      "hope": 0.20812944144091075,
+      "resolve": 0.21605520804308442,
+      "anger": 0.12804941570486966,
+      "neutral": 0.0905504005827894
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "But we cannot dwell upon remembered glory.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20395257604683434,
+      "unity": 0.16219853107963475,
+      "hope": 0.14077572260357216,
+      "resolve": 0.22983368670360832,
+      "anger": 0.17717026578133532,
+      "neutral": 0.08606921778501513
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "We cannot afford to drift.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.10689124502026282,
+      "unity": 0.1934945634238172,
+      "hope": 0.18075481413182423,
+      "resolve": 0.2719741501839941,
+      "anger": 0.19718674041121914,
+      "neutral": 0.049698486828882484
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "We reject the prospect of failure or mediocrity or an inferior quality of life for any person.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16435618285149883,
+      "unity": 0.18581588900431603,
+      "hope": 0.17960202107033965,
+      "resolve": 0.23051708255064243,
+      "anger": 0.18243397084343863,
+      "neutral": 0.05727485367976444
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "Our Government must at the same time be both competent and compassionate.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1731994236181205,
+      "unity": 0.18565046665701226,
+      "hope": 0.1607659489764867,
+      "resolve": 0.19902030016241276,
+      "anger": 0.18119864528043467,
+      "neutral": 0.10016521530553316
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "We have already found a high degree of personal liberty, and we are now struggling to enhance equality of opportunity.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.20459796201379224,
+      "unity": 0.15878008914533825,
+      "hope": 0.2231657078868625,
+      "resolve": 0.19156474587220199,
+      "anger": 0.14949456872519076,
+      "neutral": 0.07239692635661425
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "Our commitment to human rights must be absolute, our laws fair, our national beauty preserved; the powerful must not persecute the weak, and human dignity must be enhanced.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22540826831736446,
+      "unity": 0.14914014513965973,
+      "hope": 0.14052715944941696,
+      "resolve": 0.2025920835590571,
+      "anger": 0.16826486236952148,
+      "neutral": 0.11406748116498028
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "We have learned that more is not necessarily better, that even our great Nation has its recognized limits, and that we can neither answer all questions nor solve all problems.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18688896037941682,
+      "unity": 0.17178512697006376,
+      "hope": 0.18506785456663932,
+      "resolve": 0.1876176776746984,
+      "anger": 0.16514056548496098,
+      "neutral": 0.10349981492422074
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "We cannot afford to do everything, nor can we afford to lack boldness as we meet the future.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14421653303755957,
+      "unity": 0.15430601071804717,
+      "hope": 0.254588621570764,
+      "resolve": 0.22910472589653827,
+      "anger": 0.1267232461238826,
+      "neutral": 0.09106086265320838
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "So, together, in a spirit of individual sacrifice for the common good, we must simply do our best.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15628133378613102,
+      "unity": 0.19143219766143793,
+      "hope": 0.1691574254262164,
+      "resolve": 0.20852214189361337,
+      "anger": 0.12985756754539426,
+      "neutral": 0.144749333687207
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "Our Nation can be strong abroad only if it is strong at home.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2526512845063333,
+      "unity": 0.1690500433238718,
+      "hope": 0.14284611095045374,
+      "resolve": 0.24083478699574282,
+      "anger": 0.12353278482809295,
+      "neutral": 0.0710849893955054
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "And we know that the best way to enhance freedom in other lands is to demonstrate here that our democratic system is worthy of emulation.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.25867817762175355,
+      "unity": 0.13747270888594776,
+      "hope": 0.1586723519936108,
+      "resolve": 0.1906245660380219,
+      "anger": 0.15098555820765022,
+      "neutral": 0.1035666372530158
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "To be true to ourselves, we must be true to others.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16209288133997174,
+      "unity": 0.22271706479771008,
+      "hope": 0.16853961485181995,
+      "resolve": 0.21227996928221393,
+      "anger": 0.12705529892446432,
+      "neutral": 0.10731517080381998
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "We will not behave in foreign places so as to violate our rules and standards here at home, for we know that the trust which our Nation earns is essential to our strength.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.2209342897231626,
+      "unity": 0.1409274596018796,
+      "hope": 0.1354126120023617,
+      "resolve": 0.23373556563514325,
+      "anger": 0.14656013303532137,
+      "neutral": 0.12242994000213149
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "The world itself is now dominated by a new spirit.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16583815516759481,
+      "unity": 0.16332499404325845,
+      "hope": 0.24583955347124348,
+      "resolve": 0.1600066886827811,
+      "anger": 0.13982444678012415,
+      "neutral": 0.12516616185499801
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "Peoples more numerous and more politically aware are craving, and now demanding, their place in the sun--not just for the benefit of their own physical condition, but for basic human rights.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17641765963021605,
+      "unity": 0.16155033198511828,
+      "hope": 0.24573873218359288,
+      "resolve": 0.15501902511415971,
+      "anger": 0.15486152510312348,
+      "neutral": 0.10641272598378959
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "The passion for freedom is on the rise.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21748886187986868,
+      "unity": 0.14081673741090564,
+      "hope": 0.2024532911560745,
+      "resolve": 0.1808992216452176,
+      "anger": 0.1547616063329747,
+      "neutral": 0.1035802815749589
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "Tapping this new spirit, there can be no nobler nor more ambitious task for America to undertake on this day of a new beginning than to help shape a just and peaceful world that is truly humane.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19012001358312852,
+      "unity": 0.14144399848929395,
+      "hope": 0.2125068960631579,
+      "resolve": 0.17987433533400388,
+      "anger": 0.11703231737381531,
+      "neutral": 0.15902243915660044
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "We are a strong nation, and we will maintain strength so sufficient that it need not be proven in combat--a quiet strength based not merely on the size of an arsenal but on the nobility of ideas.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24794141185067406,
+      "unity": 0.13368528115444334,
+      "hope": 0.1436373536130818,
+      "resolve": 0.24435741886652937,
+      "anger": 0.12218401240170718,
+      "neutral": 0.10819452211356428
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "We will be ever vigilant and never vulnerable, and we will fight our wars against poverty, ignorance, and injustice, for those are the enemies against which our forces can be honorably marshaled.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17874125177175776,
+      "unity": 0.14460307751051138,
+      "hope": 0.17483421164768517,
+      "resolve": 0.2553934431755711,
+      "anger": 0.14947118570493928,
+      "neutral": 0.09695683018953531
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "We are a proudly idealistic nation, but let no one confuse our idealism with weakness.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22586953360742582,
+      "unity": 0.1674320092375946,
+      "hope": 0.16469823946394793,
+      "resolve": 0.21519834579951172,
+      "anger": 0.1515442628041311,
+      "neutral": 0.0752576090873888
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "Because we are free, we can never be indifferent to the fate of freedom elsewhere.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24412242933010775,
+      "unity": 0.16286287197642998,
+      "hope": 0.1372952836187699,
+      "resolve": 0.2207828927582964,
+      "anger": 0.1699057551914187,
+      "neutral": 0.06503076712497725
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "Our moral sense dictates a clear-cut preference for those societies which share with us an abiding respect for individual human rights.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.26960245471186295,
+      "unity": 0.195245115767654,
+      "hope": 0.11249594389309285,
+      "resolve": 0.18494036075165668,
+      "anger": 0.18053516685431614,
+      "neutral": 0.05718095802141735
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "We do not seek to intimidate, but it is clear that a world which others can dominate with impunity would be inhospitable to decency and a threat to the well-being of all people.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16219649463328525,
+      "unity": 0.16495226704294694,
+      "hope": 0.15862918682789348,
+      "resolve": 0.22316635786554667,
+      "anger": 0.2096392621851424,
+      "neutral": 0.08141643144518527
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "The world is still engaged in a massive armaments race designed to ensure continuing equivalent strength among potential adversaries.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.22761588139345312,
+      "unity": 0.13789398519333218,
+      "hope": 0.16407791438811306,
+      "resolve": 0.26347088599825547,
+      "anger": 0.13297827733220546,
+      "neutral": 0.07396305569464066
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "We pledge perseverance and wisdom in our efforts to limit the world's armaments to those necessary for each nation's own domestic safety.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19165221173298178,
+      "unity": 0.14372131295000734,
+      "hope": 0.14350145453649327,
+      "resolve": 0.24188517909698895,
+      "anger": 0.1367108248382434,
+      "neutral": 0.14252901684528527
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "And we will move this year a step toward our ultimate goal--the elimination of all nuclear weapons from this Earth.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15890363824924222,
+      "unity": 0.14353387321769964,
+      "hope": 0.20799350801005656,
+      "resolve": 0.20414474459713258,
+      "anger": 0.1284884373110976,
+      "neutral": 0.1569357986147714
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "We urge all other people to join us, for success can mean life instead of death.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16143831583548957,
+      "unity": 0.16361377226484602,
+      "hope": 0.22061877167101013,
+      "resolve": 0.212818231412613,
+      "anger": 0.10864696330422925,
+      "neutral": 0.13286394551181202
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "Within us, the people of the United States, there is evident a serious and purposeful rekindling of confidence.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20607606808551684,
+      "unity": 0.14973664660822192,
+      "hope": 0.18655148573024138,
+      "resolve": 0.18881642490302025,
+      "anger": 0.12564555347143197,
+      "neutral": 0.1431738212015676
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "And I join in the hope that when my time as your President has ended, people might say this about our Nation:--that we had remembered the words of Micah and renewed our search for humility, mercy, and justice;--that we had torn down the barriers that separated those of different race and region and religion, and where there had been mistrust, built unity, with a respect for diversity;--that we had found productive work for those able to perform it;--that we had strengthened the American family, which is the basis of our society;\n--that we had ensured respect for the law and equal treatment under the law, for the weak and the powerful, for the rich and the poor; and--that we had enabled our people to be proud of their own Government once again.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2030947492181771,
+      "unity": 0.15531141503033638,
+      "hope": 0.17214655065504414,
+      "resolve": 0.15826378088389217,
+      "anger": 0.12433648956512904,
+      "neutral": 0.18684701464742118
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "I would hope that the nations of the world might say that we had built a lasting peace, based not on weapons of war but on international policies which reflect our own most precious values.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19971223068250818,
+      "unity": 0.12816614336233245,
+      "hope": 0.19398829224732667,
+      "resolve": 0.17622327999342352,
+      "anger": 0.12250846121942975,
+      "neutral": 0.17940159249497942
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "These are not just my goals---and they will not be my accomplishments-but the affirmation of our Nation's continuing moral strength and our belief in an undiminished, ever-expanding American dream.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18311887132430651,
+      "unity": 0.1324791054815596,
+      "hope": 0.2006846217918395,
+      "resolve": 0.2008335834750709,
+      "anger": 0.10591473827204759,
+      "neutral": 0.1769690796551759
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "Thank you very much.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13902409151508113,
+      "unity": 0.12878298776052596,
+      "hope": 0.18904497426695066,
+      "resolve": 0.11719551459395318,
+      "anger": 0.05216798867286817,
+      "neutral": 0.3737844431906209
+    }
+  }
+]

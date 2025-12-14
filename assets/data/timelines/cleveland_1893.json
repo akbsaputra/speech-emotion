@@ -1,0 +1,756 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "My Fellow-Citizens:\nIn obedience of the mandate of my countrymen I am about to dedicate myself to their service under the sanction of a solemn oath.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16494217916236983,
+      "unity": 0.13624768797379241,
+      "hope": 0.15250932022994634,
+      "resolve": 0.17701285948144183,
+      "anger": 0.13568624536402002,
+      "neutral": 0.2336017077884296
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Deeply moved by the expression of confidence and personal attachment which has called me to this service, I am sure my gratitude can make no better return than the pledge I now give before God and these witnesses of unreserved and complete devotion to the interests and welfare of those who have honored me.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18000587556121436,
+      "unity": 0.12524108264333308,
+      "hope": 0.1548921134753003,
+      "resolve": 0.16498562735817213,
+      "anger": 0.1018868475119996,
+      "neutral": 0.2729884534499805
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "I deem it fitting on this occasion, while indicating the opinion I hold concerning public questions of present importance, to also briefly refer to the existence of certain conditions and tendencies among our people which seem to menace the integrity and usefulness of their Government.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15845315286784098,
+      "unity": 0.17305305297074933,
+      "hope": 0.13423851549168062,
+      "resolve": 0.17224453603913747,
+      "anger": 0.2314282366974188,
+      "neutral": 0.1305825059331728
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "While every American citizen must contemplate with the utmost pride and enthusiasm the growth and expansion of our country, the sufficiency of our institutions to stand against the rudest shocks of violence, the wonderful thrift and enterprise of our people, and the demonstrated superiority of our free government, it behooves us to constantly watch for every symptom of insidious infirmity that threatens our national vigor.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2042311663359048,
+      "unity": 0.15412464221603522,
+      "hope": 0.16850795297604193,
+      "resolve": 0.1903691590077509,
+      "anger": 0.1694071501631036,
+      "neutral": 0.11335992930116352
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "The strong man who in the confidence of sturdy health courts the sternest activities of life and rejoices in the hardihood of constant labor may still have lurking near his vitals the unheeded disease that dooms him to sudden collapse.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18427173970148955,
+      "unity": 0.13918273320190735,
+      "hope": 0.20422067870348595,
+      "resolve": 0.2355966894160383,
+      "anger": 0.13006922223917863,
+      "neutral": 0.10665893673790022
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "It can not be doubted that our stupendous achievements as a people and our country's robust strength have given rise to heedlessness of those laws governing our national health which we can no more evade than human life can escape the laws of God and nature.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2159715967190448,
+      "unity": 0.15211030263267347,
+      "hope": 0.16131716730920057,
+      "resolve": 0.19747102017268206,
+      "anger": 0.1786632198796754,
+      "neutral": 0.09446669328672366
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "Manifestly nothing is more vital to our supremacy as a nation and to the beneficent purposes of our Government than a sound and stable currency.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23228122476811233,
+      "unity": 0.1525892684800746,
+      "hope": 0.1458690291759673,
+      "resolve": 0.19827116744858406,
+      "anger": 0.14182923702834985,
+      "neutral": 0.12916007309891187
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "Its exposure to degradation should at once arouse to activity the most enlightened statesmanship, and the danger of depreciation in the purchasing power of the wages paid to toil should furnish the strongest incentive to prompt and conservative precaution.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17288203619551645,
+      "unity": 0.10496290146485451,
+      "hope": 0.19722013607093958,
+      "resolve": 0.2049518219349276,
+      "anger": 0.1962829781036163,
+      "neutral": 0.12370012623014552
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "In dealing with our present embarrassing situation as related to this subject we will be wise if we temper our confidence and faith in our national strength and resources with the frank concession that even these will not permit us to defy with impunity the inexorable laws of finance and trade.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15594505077228948,
+      "unity": 0.1527510108877237,
+      "hope": 0.159360627505119,
+      "resolve": 0.2126537101749998,
+      "anger": 0.19911519099364006,
+      "neutral": 0.12017440966622797
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "At the same time, in our efforts to adjust differences of opinion we should be free from intolerance or passion, and our judgments should be unmoved by alluring phrases and unvexed by selfish interests.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.12698917142763036,
+      "unity": 0.23159445871735446,
+      "hope": 0.1629800638388339,
+      "resolve": 0.20222022975392703,
+      "anger": 0.18396672490612817,
+      "neutral": 0.09224935135612607
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "I am confident that such an approach to the subject will result in prudent and effective remedial legislation.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16377877539325733,
+      "unity": 0.06480349535286642,
+      "hope": 0.20308717843629878,
+      "resolve": 0.23030618182121645,
+      "anger": 0.14518216476171358,
+      "neutral": 0.19284220423464746
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "In the meantime, so far as the executive branch of the Government can intervene, none of the powers with which it is invested will be withheld when their exercise is deemed necessary to maintain our national credit or avert financial disaster.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18169764087468365,
+      "unity": 0.12482906824997025,
+      "hope": 0.13341047702102457,
+      "resolve": 0.229702774868851,
+      "anger": 0.19502818389351434,
+      "neutral": 0.13533185509195622
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "Closely related to the exaggerated confidence in our country's greatness which tends to a disregard of the rules of national safety, another danger confronts us not less serious.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20170143421416306,
+      "unity": 0.14508883338859624,
+      "hope": 0.16465192549161817,
+      "resolve": 0.20892826842970222,
+      "anger": 0.17530967279351,
+      "neutral": 0.10431986568241033
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "I refer to the prevalence of a popular disposition to expect from the operation of the Government especial and direct individual advantages.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22996011791655335,
+      "unity": 0.1295304951991921,
+      "hope": 0.13565769501162403,
+      "resolve": 0.14922614222393502,
+      "anger": 0.21340212181831414,
+      "neutral": 0.14222342783038133
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "The verdict of our voters which condemned the injustice of maintaining protection for protection's sake enjoins upon the people's servants the duty of exposing and destroying the brood of kindred evils which are the unwholesome progeny of paternalism.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.176498770355307,
+      "unity": 0.1429673505474411,
+      "hope": 0.15595965591506816,
+      "resolve": 0.1811796264747219,
+      "anger": 0.21014437005110007,
+      "neutral": 0.13325022665636174
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "This is the bane of republican institutions and the constant peril of our government by the people.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15075706214618034,
+      "unity": 0.15925019347859945,
+      "hope": 0.08824305419471659,
+      "resolve": 0.1759044606411118,
+      "anger": 0.2993126304954171,
+      "neutral": 0.12653259904397474
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "It degrades to the purposes of wily craft the plan of rule our fathers established and bequeathed to us as an object of our love and veneration.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16356147351625738,
+      "unity": 0.19146118458195818,
+      "hope": 0.13207437831340066,
+      "resolve": 0.16995038241956767,
+      "anger": 0.23534166224519615,
+      "neutral": 0.10761091892361997
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "It perverts the patriotic sentiments of our countrymen and tempts them to pitiful calculation of the sordid gain to be derived from their Government's maintenance.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.23620048298740645,
+      "unity": 0.14367752312542353,
+      "hope": 0.057331578726474215,
+      "resolve": 0.18014027746004055,
+      "anger": 0.2930979305108517,
+      "neutral": 0.08955220718980358
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "It undermines the self-reliance of our people and substitutes in its place dependence upon governmental favoritism.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.2036102568846654,
+      "unity": 0.18766354219268497,
+      "hope": 0.09097726095388659,
+      "resolve": 0.15983008534145296,
+      "anger": 0.30095352984786106,
+      "neutral": 0.05696532477944905
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "It stifles the spirit of true Americanism and stupefies every ennobling trait of American citizenship.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.298540062771348,
+      "unity": 0.16555024647526462,
+      "hope": 0.02954203366843805,
+      "resolve": 0.13266577294889728,
+      "anger": 0.2893380901042351,
+      "neutral": 0.08436379403181693
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "The lessons of paternalism ought to be unlearned and the better lesson taught that while the people should patriotically and cheerfully support their Government its functions do not include the support of the people.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18286379823186721,
+      "unity": 0.16992517395844658,
+      "hope": 0.12904399006092315,
+      "resolve": 0.173904391772959,
+      "anger": 0.2537524018440246,
+      "neutral": 0.09051024413177945
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "The acceptance of this principle leads to a refusal of bounties and subsidies, which burden the labor and thrift of a portion of our citizens to aid ill-advised or languishing enterprises in which they have no concern.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1654435524755666,
+      "unity": 0.17163788999685506,
+      "hope": 0.11285358479866946,
+      "resolve": 0.2078048181011263,
+      "anger": 0.2887976218865851,
+      "neutral": 0.053462532741197465
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "It leads also to a challenge of wild and reckless pension expenditure, which overleaps the bounds of grateful recognition of patriotic service and prostitutes to vicious uses the people's prompt and generous impulse to aid those disabled in their country's defense.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21786676222195553,
+      "unity": 0.13718783168083398,
+      "hope": 0.15233435499187015,
+      "resolve": 0.19214307418500673,
+      "anger": 0.1934960553653245,
+      "neutral": 0.10697192155500912
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "Every thoughtful American must realize the importance of checking at its beginning any tendency in public or private station to regard frugality and economy as virtues which we may safely outgrow.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21609565692876434,
+      "unity": 0.1539258806503918,
+      "hope": 0.18894415065656048,
+      "resolve": 0.20894688352416424,
+      "anger": 0.13729559504399383,
+      "neutral": 0.09479183319612532
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "The toleration of this idea results in the waste of the people's money by their chosen servants and encourages prodigality and extravagance in the home life of our countrymen.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1964186688624251,
+      "unity": 0.1665521103450536,
+      "hope": 0.12291470543655036,
+      "resolve": 0.13257240472415785,
+      "anger": 0.271127972569406,
+      "neutral": 0.11041413806240706
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "Under our scheme of government the waste of public money is a crime against the citizen, and the contempt of our people for economy and frugality in their personal affairs deplorably saps the strength and sturdiness of our national character.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.20687834025756474,
+      "unity": 0.14588546351654333,
+      "hope": 0.115910865092444,
+      "resolve": 0.14161548908949825,
+      "anger": 0.29131369146221026,
+      "neutral": 0.09839615058173945
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "It is a plain dictate of honesty and good government that public expenditures should be limited by public necessity, and that this should be measured by the rules of strict economy; and it is equally clear that frugality among the people is the best guaranty of a contented and strong support of free institutions.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19995419371771075,
+      "unity": 0.14618160574930922,
+      "hope": 0.1280719067978464,
+      "resolve": 0.23368753497118,
+      "anger": 0.1707324231078275,
+      "neutral": 0.12137233565612614
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "One mode of the misappropriation of public funds is avoided when appointments to office, instead of being the rewards of partisan activity, are awarded to those whose efficiency promises a fair return of work for the compensation paid to them.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18014577430703177,
+      "unity": 0.10115073857172269,
+      "hope": 0.12074908528216066,
+      "resolve": 0.13399058081754522,
+      "anger": 0.25777271760443543,
+      "neutral": 0.20619110341710423
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "To secure the fitness and competency of appointees to office and remove from political action the demoralizing madness for spoils, civil-service reform has found a place in our public policy and laws.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12936897395395364,
+      "unity": 0.15350264073843703,
+      "hope": 0.14979455038365908,
+      "resolve": 0.15911776879873138,
+      "anger": 0.22757788674140245,
+      "neutral": 0.1806381793838164
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "The benefits already gained through this instrumentality and the further usefulness it promises entitle it to the hearty support and encouragement of all who desire to see our public service well performed or who hope for the elevation of political sentiment and the purification of political methods.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19910559461021501,
+      "unity": 0.13093857607310594,
+      "hope": 0.17494784892493007,
+      "resolve": 0.16437245880644488,
+      "anger": 0.14038316032796666,
+      "neutral": 0.19025236125733744
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "The existence of immense aggregations of kindred enterprises and combinations of business interests formed for the purpose of limiting production and fixing prices is inconsistent with the fair field which ought to be open to every independent activity.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.09371248624906592,
+      "unity": 0.22244284478850365,
+      "hope": 0.17146774620022934,
+      "resolve": 0.17354680672502795,
+      "anger": 0.2741381461856931,
+      "neutral": 0.06469196985148007
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "Legitimate strife in business should not be superseded by an enforced concession to the demands of combinations that have the power to destroy, nor should the people to be served lose the benefit of cheapness which usually results from wholesome competition.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11046373151577005,
+      "unity": 0.19332841591976463,
+      "hope": 0.15683457776178208,
+      "resolve": 0.20563660938218184,
+      "anger": 0.2248415186648516,
+      "neutral": 0.1088951467556498
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "These aggregations and combinations frequently constitute conspiracies against the interests of the people, and in all their phases they are unnatural and opposed to our American sense of fairness.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1346508313025343,
+      "unity": 0.21930565320850273,
+      "hope": 0.11062766636499079,
+      "resolve": 0.19503149926127653,
+      "anger": 0.27787459256286995,
+      "neutral": 0.06250975729982572
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "To the extent that they can be reached and restrained by Federal power the General Government should relieve our citizens from their interference and exactions.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17624450291204646,
+      "unity": 0.16183731722341368,
+      "hope": 0.08196528151557574,
+      "resolve": 0.19903877432496545,
+      "anger": 0.2626802409796707,
+      "neutral": 0.11823388304432797
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "Loyalty to the principles upon which our Government rests positively demands that the equality before the law which it guarantees to every citizen should be justly and in good faith conceded in all parts of the land.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19169851455565035,
+      "unity": 0.17179400414927037,
+      "hope": 0.1227326324821583,
+      "resolve": 0.18948983831813437,
+      "anger": 0.1813814619856448,
+      "neutral": 0.1429035485091418
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "The enjoyment of this right follows the badge of citizenship wherever found, and, unimpaired by race or color, it appeals for recognition to American manliness and fairness.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.29962687256213,
+      "unity": 0.1480127982310174,
+      "hope": 0.11545171975919871,
+      "resolve": 0.1571780283799045,
+      "anger": 0.12420878561220362,
+      "neutral": 0.15552179545554573
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "Our relations with the Indians located within our border impose upon us responsibilities we can not escape.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16734646768290976,
+      "unity": 0.1823128251214276,
+      "hope": 0.1371709816578909,
+      "resolve": 0.20948905220501993,
+      "anger": 0.18885980159204188,
+      "neutral": 0.11482087174070996
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "Humanity and consistency require us to treat them with forbearance and in our dealings with them to honestly and considerately regard their rights and interests.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15989645505747663,
+      "unity": 0.1817863368625831,
+      "hope": 0.13143595517969847,
+      "resolve": 0.22004472788080498,
+      "anger": 0.20360709470150046,
+      "neutral": 0.10322943031793633
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "Every effort should be made to lead them, through the paths of civilization and education, to self-supporting and independent citizenship.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1995502440052415,
+      "unity": 0.1609180802840659,
+      "hope": 0.2016644156006006,
+      "resolve": 0.20852041936795002,
+      "anger": 0.1173051224322428,
+      "neutral": 0.11204171830989917
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "In the meantime, as the nation's wards, they should be promptly defended against the cupidity of designing men and shielded from every influence or temptation that retards their advancement.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14043831372528842,
+      "unity": 0.1450082978952507,
+      "hope": 0.1645297900303163,
+      "resolve": 0.2557707141566872,
+      "anger": 0.18758404681141155,
+      "neutral": 0.10666883738104585
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "The people of the United States have decreed that on this day the control of their Government in its legislative and executive branches shall be given to a political party pledged in the most positive terms to the accomplishment of tariff reform.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20043695423901145,
+      "unity": 0.15093186144817014,
+      "hope": 0.15691157700845298,
+      "resolve": 0.14270790221234703,
+      "anger": 0.1605721581913817,
+      "neutral": 0.1884395469006367
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "They have thus determined in favor of a more just and equitable system of Federal taxation.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.2125377863706115,
+      "unity": 0.1701226556235562,
+      "hope": 0.11879641588486241,
+      "resolve": 0.13212710402656533,
+      "anger": 0.2222716531044797,
+      "neutral": 0.14414438498992488
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "The agents they have chosen to carry out their purposes are bound by their promises not less than by the command of their masters to devote themselves unremittingly to this service.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12209230260912181,
+      "unity": 0.13463804461474405,
+      "hope": 0.13560828146748882,
+      "resolve": 0.2917009762953684,
+      "anger": 0.16006376098928699,
+      "neutral": 0.15589663402398996
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "While there should be no surrender of principle, our task must be undertaken wisely and without heedless vindictiveness.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1395652776095432,
+      "unity": 0.16482104258945285,
+      "hope": 0.15464236955946384,
+      "resolve": 0.2438441743453439,
+      "anger": 0.1790135558869154,
+      "neutral": 0.11811358000928081
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "Our mission is not punishment, but the rectification of wrong.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14124554760544264,
+      "unity": 0.1630990215329142,
+      "hope": 0.17000475349924213,
+      "resolve": 0.23114401631158626,
+      "anger": 0.18159464223531288,
+      "neutral": 0.11291201881550189
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "If in lifting burdens from the daily life of our people we reduce inordinate and unequal advantages too long enjoyed, this is but a necessary incident of our return to right and justice.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19590369974946673,
+      "unity": 0.16202945495995072,
+      "hope": 0.1737024070359228,
+      "resolve": 0.1638103326238111,
+      "anger": 0.16994948150689965,
+      "neutral": 0.13460462412394902
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "If we exact from unwilling minds acquiescence in the theory of an honest distribution of the fund of the governmental beneficence treasured up for all, we but insist upon a principle which underlies our free institutions.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1779419674327984,
+      "unity": 0.1658400956706622,
+      "hope": 0.14883696698238896,
+      "resolve": 0.19379515863702998,
+      "anger": 0.17406235550484847,
+      "neutral": 0.13952345577227201
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "When we tear aside the delusions and misconceptions which have blinded our countrymen to their condition under vicious tariff laws, we but show them how far they have been led away from the paths of contentment and prosperity.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21013596949564764,
+      "unity": 0.15778399110454863,
+      "hope": 0.16437301516558211,
+      "resolve": 0.17553663190218985,
+      "anger": 0.1780827088457609,
+      "neutral": 0.11408768348627087
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "When we proclaim that the necessity for revenue to support the Government furnishes the only justification for taxing the people, we announce a truth so plain that its denial would seem to indicate the extent to which judgment may be influenced by familiarity with perversions of the taxing power.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18992071112397194,
+      "unity": 0.1492735738410551,
+      "hope": 0.11649420945784031,
+      "resolve": 0.18935881467280974,
+      "anger": 0.23281012429296788,
+      "neutral": 0.12214256661135502
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "And when we seek to reinstate the self-confidence and business enterprise of our citizens by discrediting an abject dependence upon governmental favor, we strive to stimulate those elements of American character which support the hope of American achievement.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2324505990597496,
+      "unity": 0.1455016824277648,
+      "hope": 0.16336705854130262,
+      "resolve": 0.20018964241979337,
+      "anger": 0.15838393422950497,
+      "neutral": 0.10010708332188464
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "Anxiety for the redemption of the pledges which my party has made and solicitude for the complete justification of the trust the people have reposed in us constrain me to remind those with whom I am to cooperate that we can succeed in doing the work which has been especially set before us only by the most sincere, harmonious, and disinterested effort.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14400733029015825,
+      "unity": 0.16851379610133718,
+      "hope": 0.16244424182979253,
+      "resolve": 0.19548955205516733,
+      "anger": 0.1493648044788621,
+      "neutral": 0.1801802752446826
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "Even if insuperable obstacles and opposition prevent the consummation of our task, we shall hardly be excused; and if failure can be traced to our fault or neglect we may be sure the people will hold us to a swift and exacting accountability.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14165740342077965,
+      "unity": 0.16219934667537972,
+      "hope": 0.1618233869550053,
+      "resolve": 0.24273660283014156,
+      "anger": 0.17158333319378022,
+      "neutral": 0.11999992692491358
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "The oath I now take to preserve, protect, and defend the Constitution of the United States not only impressively defines the great responsibility I assume, but suggests obedience to constitutional commands as the rule by which my official conduct must be guided.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17401361618019787,
+      "unity": 0.12411100346459114,
+      "hope": 0.12317802915185877,
+      "resolve": 0.19442683867939994,
+      "anger": 0.15227594070528688,
+      "neutral": 0.2319945718186654
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "I shall to the best of my ability and within my sphere of duty preserve the Constitution by loyally protecting every grant of Federal power it contains, by defending all its restraints when attacked by impatience and restlessness, and by enforcing its limitations and reservations in favor of the States and the people.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18876721862096957,
+      "unity": 0.14425205942382222,
+      "hope": 0.1297210208115226,
+      "resolve": 0.22193692628472397,
+      "anger": 0.13173049309395715,
+      "neutral": 0.18359228176500447
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "Fully impressed with the gravity of the duties that confront me and mindful of my weakness, I should be appalled if it were my lot to bear unaided the responsibilities which await me.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.11833211579004424,
+      "unity": 0.12726529363149724,
+      "hope": 0.1750727564239999,
+      "resolve": 0.2558056266225975,
+      "anger": 0.17529328762164206,
+      "neutral": 0.1482309199102191
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "I am, however, saved from discouragement when I remember that I shall have the support and the counsel and cooperation of wise and patriotic men who will stand at my side in Cabinet places or will represent the people in their legislative halls.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16289910373045957,
+      "unity": 0.1593573903905952,
+      "hope": 0.18731982565156668,
+      "resolve": 0.23092453481631517,
+      "anger": 0.11442668572210205,
+      "neutral": 0.14507245968896135
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "I find also much comfort in remembering that my countrymen are just and generous and in the assurance that they will not condemn those who by sincere devotion to their service deserve their forbearance and approval.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2270480319808983,
+      "unity": 0.12675797980652675,
+      "hope": 0.15856809865973343,
+      "resolve": 0.21903203292518098,
+      "anger": 0.09228883432802573,
+      "neutral": 0.17630502229963482
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "Above all, I know there is a Supreme Being who rules the affairs of men and whose goodness and mercy have always followed the American people, and I know He will not turn from us now if we humbly and reverently seek His powerful aid.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22109588164125674,
+      "unity": 0.14554720854320585,
+      "hope": 0.14673194717907467,
+      "resolve": 0.21562653049441305,
+      "anger": 0.1377201529879598,
+      "neutral": 0.13327827915408988
+    }
+  }
+]

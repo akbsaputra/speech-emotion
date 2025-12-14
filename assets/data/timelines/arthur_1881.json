@@ -1,0 +1,184 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "For the fourth time in the history of the Republic its Chief Magistrate has been removed by death.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1105850081089849,
+      "unity": 0.10058423334843475,
+      "hope": -0.006745039499900996,
+      "resolve": 0.04571432210975106,
+      "anger": 0.46148999486984105,
+      "neutral": 0.28837148106288923
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "All hearts are filled with grief and horror at the hideous crime which has darkened our land, and the memory of the murdered President, his protracted sufferings, his unyielding fortitude, the example and achievements of his life, and the pathos of his death will forever illumine the pages of our history.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2160426667461581,
+      "unity": 0.14143599706026636,
+      "hope": 0.14597791073385577,
+      "resolve": 0.17810119241104616,
+      "anger": 0.15889124781301547,
+      "neutral": 0.15955098523565817
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "For the fourth time the officer elected by the people and ordained by the Constitution to fill a vacancy so created is called to assume the Executive chair.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13737837277772486,
+      "unity": 0.1055451237624462,
+      "hope": 0.11076505369380717,
+      "resolve": 0.10487528703186429,
+      "anger": 0.204376603804884,
+      "neutral": 0.3370595589292735
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "The wisdom of our fathers, foreseeing even the most dire possibilities, made sure that the Government should never be imperiled because of the uncertainty of human life.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18954271101660755,
+      "unity": 0.1479026554001845,
+      "hope": 0.17462306465529087,
+      "resolve": 0.24688139854352448,
+      "anger": 0.1354246231210575,
+      "neutral": 0.10562554726333509
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "Men may die, but the fabrics of our free institutions remain unshaken.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22270411863895315,
+      "unity": 0.1459329733800806,
+      "hope": 0.14077213688615225,
+      "resolve": 0.2101977767212258,
+      "anger": 0.1500522615449649,
+      "neutral": 0.13034073282862332
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "No higher or more assuring proof could exist of the strength and permanence of popular government than the fact that though the chosen of the people be struck down his constitutional successor is peacefully installed without shock or strain except the sorrow which mourns the bereavement.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20886145819510013,
+      "unity": 0.1432917502818686,
+      "hope": 0.12928724708667955,
+      "resolve": 0.18697978981031915,
+      "anger": 0.17126886038742697,
+      "neutral": 0.1603108942386056
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "All the noble aspirations of my lamented predecessor which found expression in his life, the measures devised and suggested during his brief Administration to correct abuses, to enforce economy, to advance prosperity, and to promote the general welfare, to Insure domestic security and maintain friendly and honorable relations with the nations of the earth, will be garnered in the hearts of the people; and it will be my earnest endeavor to profit, and to see that the nation shall profit, by his example and experience.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18828169000159162,
+      "unity": 0.13789311908215776,
+      "hope": 0.19566345960593243,
+      "resolve": 0.16782264463356528,
+      "anger": 0.13437577923847066,
+      "neutral": 0.17596330743828223
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "Prosperity blesses our country.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2515967806332875,
+      "unity": 0.1508853245534068,
+      "hope": 0.1827077273771288,
+      "resolve": 0.15908992793992405,
+      "anger": 0.12720055568631694,
+      "neutral": 0.12851968380993595
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Our fiscal policy is fixed by law, is well grounded and generally approved.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.27376887415365897,
+      "unity": 0.10435004613044048,
+      "hope": 0.08702372750745697,
+      "resolve": 0.1788007940240793,
+      "anger": 0.1607001186282877,
+      "neutral": 0.1953564395560766
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "No threatening issue mars our foreign intercourse, and the wisdom, integrity, and thrift of our people may be trusted to continue undisturbed the present assured career of peace, tranquilly, and welfare.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20382931261232876,
+      "unity": 0.1395172009460434,
+      "hope": 0.16571653193144473,
+      "resolve": 0.2022547918806019,
+      "anger": 0.13472670550290375,
+      "neutral": 0.15395545712667746
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "The gloom and anxiety which have enshrouded the country must make repose especially welcome now.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19043226348826203,
+      "unity": 0.16338938387834698,
+      "hope": 0.17671689033245053,
+      "resolve": 0.15694266904379173,
+      "anger": 0.15596022511985025,
+      "neutral": 0.1565585681372985
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "No demand for speedy legislation has been heard; no adequate occasion is apparent for an unusual session of Congress.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13568651456940248,
+      "unity": 0.11072045581171854,
+      "hope": 0.08231942671830161,
+      "resolve": 0.10044413760127852,
+      "anger": 0.3143468396771501,
+      "neutral": 0.25648262562214874
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "The Constitution defines the functions and powers of the executive as clearly as those of either of the other two departments of the Government, and he must answer for the just exercise of the discretion it permits and the performance of the duties it imposes.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19338117553827086,
+      "unity": 0.14895823619859555,
+      "hope": 0.06117994164833941,
+      "resolve": 0.22322793132343258,
+      "anger": 0.1671457604307019,
+      "neutral": 0.2061069548606597
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "Summoned to these high duties and responsibilities and profoundly conscious of their magnitude and gravity, I assume the trust imposed by the Constitution, relying for aid on divine guidance and the virtue, patriotism, and intelligence of the American people.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18670497313772758,
+      "unity": 0.1380793174762433,
+      "hope": 0.1440386823421008,
+      "resolve": 0.20884583222284095,
+      "anger": 0.14224827119468816,
+      "neutral": 0.1800829236263992
+    }
+  }
+]

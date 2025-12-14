@@ -1,0 +1,769 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Fellow-Citizens:\nWe have assembled to repeat the public ceremonial, begun by Washington, observed by all my predecessors, and now a time-honored custom, which marks the commencement of a new term of the Presidential office.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.19532069378623654,
+      "unity": 0.13471849827584534,
+      "hope": 0.14604017397945557,
+      "resolve": 0.12037809772249612,
+      "anger": 0.12742789211615269,
+      "neutral": 0.27611464411981373
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Called to the duties of this great trust, I proceed, in compliance with usage, to announce some of the leading principles, on the subjects that now chiefly engage the public attention, by which it is my desire to be guided in the discharge of those duties.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16104594411817502,
+      "unity": 0.13816293464883808,
+      "hope": 0.18048298047702943,
+      "resolve": 0.17660141913954308,
+      "anger": 0.13666724524122426,
+      "neutral": 0.20703947637519013
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "I shall not undertake to lay down irrevocably principles or measures of administration, but rather to speak of the motives which should animate us, and to suggest certain important ends to be attained in accordance with our institutions and essential to the welfare of our country.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.145456953347851,
+      "unity": 0.16506765447798386,
+      "hope": 0.18069501394680756,
+      "resolve": 0.2002597423889949,
+      "anger": 0.15635520351182716,
+      "neutral": 0.15216543232653554
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "At the outset of the discussions which preceded the recent Presidential election it seemed to me fitting that I should fully make known my sentiments in regard to several of the important questions which then appeared to demand the consideration of the country.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16905283429977158,
+      "unity": 0.17921883675979616,
+      "hope": 0.16277455163123059,
+      "resolve": 0.15199658876588765,
+      "anger": 0.16281985356996428,
+      "neutral": 0.17413733497334974
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "Following the example, and in part adopting the language, of one of my predecessors, I wish now, when every motive for misrepresentation has passed away, to repeat what was said before the election, trusting that my countrymen will candidly weigh and understand it, and that they will feel assured that the sentiments declared in accepting the nomination for the Presidency will be the standard of my conduct in the path before me, charged, as I now am, with the grave and difficult task of carrying them out in the practical administration of the Government so far as depends, under the Constitution and laws on the Chief Executive of the nation.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16079442098757157,
+      "unity": 0.14649089649934097,
+      "hope": 0.16298477164920433,
+      "resolve": 0.16297528464729055,
+      "anger": 0.15193798449612403,
+      "neutral": 0.21481664172046855
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "The permanent pacification of the country upon such principles and by such measures as will secure the complete protection of all its citizens in the free enjoyment of all their constitutional rights is now the one subject in our public affairs which all thoughtful and patriotic citizens regard as of supreme importance.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20031605027480714,
+      "unity": 0.14848517355828733,
+      "hope": 0.13834685642532446,
+      "resolve": 0.18585458635381702,
+      "anger": 0.17353889965107192,
+      "neutral": 0.15345843373669216
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "Many of the calamitous effects of the tremendous revolution which has passed over the Southern States still remain.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2827323149460473,
+      "unity": 0.1752900673419211,
+      "hope": 0.1329125215703362,
+      "resolve": 0.19742225424236276,
+      "anger": 0.1751733686114183,
+      "neutral": 0.036469473287914375
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "The immeasurable benefits which will surely follow, sooner or later, the hearty and generous acceptance of the legitimate results of that revolution have not yet been realized.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.21310393294566238,
+      "unity": 0.11776053735050092,
+      "hope": 0.23735894413871741,
+      "resolve": 0.1685620471941138,
+      "anger": 0.143330913232923,
+      "neutral": 0.11988362513808248
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Difficult and embarrassing questions meet us at the threshold of this subject.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.129911054433391,
+      "unity": 0.17890931978768662,
+      "hope": 0.15679624415999646,
+      "resolve": 0.208340528119336,
+      "anger": 0.2211618887634328,
+      "neutral": 0.10488096473615713
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "The people of those States are still impoverished, and the inestimable blessing of wise, honest, and peaceful local self-government is not fully enjoyed.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24698627695068093,
+      "unity": 0.24135988653074347,
+      "hope": 0.1358608059408296,
+      "resolve": 0.15651098389348717,
+      "anger": 0.21418606028102305,
+      "neutral": 0.005095986403235803
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "Whatever difference of opinion may exist as to the cause of this condition of things, the fact is clear that in the progress of events the time has come when such government is the imperative necessity required by all the varied interests, public and private, of those States.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16394942354407466,
+      "unity": 0.21087568851883984,
+      "hope": 0.15947929666642863,
+      "resolve": 0.16162681592588085,
+      "anger": 0.19869580453873376,
+      "neutral": 0.10537297080604226
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "But it must not be forgotten that only a local government which recognizes and maintains inviolate the rights of all is a true self-government.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1995301857367548,
+      "unity": 0.20558051308198952,
+      "hope": 0.12272859325640444,
+      "resolve": 0.1955502071571062,
+      "anger": 0.16656544146726313,
+      "neutral": 0.11004505930048195
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "With respect to the two distinct races whose peculiar relations to each other have brought upon us the deplorable complications and perplexities which exist in those States, it must be a government which guards the interests of both races carefully and equally.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.18505731643490436,
+      "unity": 0.2625681485293852,
+      "hope": 0.11227081089356974,
+      "resolve": 0.1959210759168444,
+      "anger": 0.15116731781346102,
+      "neutral": 0.09301533041183524
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "It must be a government which submits loyally and heartily to the Constitution and the laws--the laws of the nation and the laws of the States themselves--accepting and obeying faithfully the whole Constitution as it is.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2576799472000664,
+      "unity": 0.18436812865170812,
+      "hope": 0.07133513518824798,
+      "resolve": 0.21481662331900475,
+      "anger": 0.1462245565989675,
+      "neutral": 0.1255756090420053
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "Resting upon this sure and substantial foundation, the superstructure of beneficent local governments can be built up, and not otherwise.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2176023543385674,
+      "unity": 0.1491351839887994,
+      "hope": 0.19233672292637635,
+      "resolve": 0.2101548342360228,
+      "anger": 0.10377546252774897,
+      "neutral": 0.12699544198248505
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "In furtherance of such obedience to the letter and the spirit of the Constitution, and in behalf of all that its attainment implies, all so-called party interests lose their apparent importance, and party lines may well be permitted to fade into insignificance.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15470307910314365,
+      "unity": 0.19089894856845854,
+      "hope": 0.11612014135719176,
+      "resolve": 0.1797022191956581,
+      "anger": 0.1955873355966461,
+      "neutral": 0.16298827617890185
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "The question we have to consider for the immediate welfare of those States of the Union is the question of government or no government; of social order and all the peaceful industries and the happiness that belongs to it, or a return to barbarism.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.19112163787497977,
+      "unity": 0.2063398638245267,
+      "hope": 0.15101712310772006,
+      "resolve": 0.1779002714957765,
+      "anger": 0.16009984237187017,
+      "neutral": 0.1135212613251268
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "It is a question in which every citizen of the nation is deeply interested, and with respect to which we ought not to be, in a partisan sense, either Republicans or Democrats, but fellow-citizens and fellowmen, to whom the interests of a common country and a common humanity are dear.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1893315968580287,
+      "unity": 0.16977957433350696,
+      "hope": 0.13527668041490437,
+      "resolve": 0.16986546027509958,
+      "anger": 0.20359391866285212,
+      "neutral": 0.1321527694556083
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "The sweeping revolution of the entire labor system of a large portion of our country and the advance of 4,000,000 people from a condition of servitude to that of citizenship, upon an equal footing with their former masters, could not occur without presenting problems of the gravest moment, to be dealt with by the emancipated race, by their former masters, and by the General Government, the author of the act of emancipation.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.200003991642039,
+      "unity": 0.16608572970441998,
+      "hope": 0.17040599261677913,
+      "resolve": 0.1590969748967981,
+      "anger": 0.16053494481065492,
+      "neutral": 0.14387236632930886
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "That it was a wise, just, and providential act, fraught with good for all concerned, is now generally conceded throughout the country.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23702181540132097,
+      "unity": 0.1414817159335168,
+      "hope": 0.12779682133660114,
+      "resolve": 0.16001034296013025,
+      "anger": 0.13675393204943675,
+      "neutral": 0.1969353723189941
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "That a moral obligation rests upon the National Government to employ its constitutional power and influence to establish the rights of the people it has emancipated, and to protect them in the enjoyment of those rights when they are infringed or assailed, is also generally admitted.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2455008313421322,
+      "unity": 0.1453751141045601,
+      "hope": 0.10679384355699122,
+      "resolve": 0.19561115266875498,
+      "anger": 0.16410407621548198,
+      "neutral": 0.1426149821120795
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "The evils which afflict the Southern States can only be removed or remedied by the united and harmonious efforts of both races, actuated by motives of mutual sympathy and regard; and while in duty bound and fully determined to protect the rights of all by every constitutional means at the disposal of my Administration, I am sincerely anxious to use every legitimate influence in favor of honest and efficient local 'self'-government as the true resource of those States for the promotion of the contentment and prosperity of their citizens.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1630081398534592,
+      "unity": 0.20714018392095176,
+      "hope": 0.15954775453735448,
+      "resolve": 0.17034647041916035,
+      "anger": 0.15119983320252306,
+      "neutral": 0.14875761806655113
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "In the effort I shall make to accomplish this purpose I ask the cordial cooperation of all who cherish an interest in the welfare of the country, trusting that party ties and the prejudice of race will be freely surrendered in behalf of the great purpose to be accomplished.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.13618506742012254,
+      "unity": 0.19590838416145814,
+      "hope": 0.16181757763940915,
+      "resolve": 0.16920614956956295,
+      "anger": 0.16237944985499847,
+      "neutral": 0.1745033713544487
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "In the important work of restoring the South it is not the political situation alone that merits attention.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.18069741235368617,
+      "unity": 0.1994780644045587,
+      "hope": 0.1765619251694585,
+      "resolve": 0.19219585096693526,
+      "anger": 0.15135979013459094,
+      "neutral": 0.09970695697077042
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "The material development of that section of the country has been arrested by the social and political revolution through which it has passed, and now needs and deserves the considerate care of the National Government within the just limits prescribed by the Constitution and wise public economy.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.19154932862755553,
+      "unity": 0.15553482487416517,
+      "hope": 0.19197981946477582,
+      "resolve": 0.12048624203250712,
+      "anger": 0.20573398107187213,
+      "neutral": 0.13471580392912424
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "But at the basis of all prosperity, for that as well as for every other part of the country, lies the improvement of the intellectual and moral condition of the people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2569830955662238,
+      "unity": 0.15250351077519822,
+      "hope": 0.21215161995659676,
+      "resolve": 0.17353642788643542,
+      "anger": 0.09975319653282591,
+      "neutral": 0.10507214928271995
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "Universal suffrage should rest upon universal education.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14393149194923197,
+      "unity": 0.17532546256064319,
+      "hope": 0.1869960376039435,
+      "resolve": 0.1668564069147479,
+      "anger": 0.20870984662826886,
+      "neutral": 0.11818075434316457
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "To this end, liberal and permanent provision should be made for the support of free schools by the State governments, and, if need be, supplemented by legitimate aid from national authority.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21144452114573883,
+      "unity": 0.1620625978646216,
+      "hope": 0.16268360746164484,
+      "resolve": 0.1961410790442436,
+      "anger": 0.14976194371645357,
+      "neutral": 0.11790625076729754
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "Let me assure my countrymen of the Southern States that it is my earnest desire to regard and promote their truest interest--the interests of the white and of the colored people both and equally--and to put forth my best efforts in behalf of a civil policy which will forever wipe out in our political affairs the color line and the distinction between North and South, to the end that we may have not merely a united North or a united South, but a united country.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.15061962535152076,
+      "unity": 0.20184223060761022,
+      "hope": 0.16624378023662562,
+      "resolve": 0.17821978604500222,
+      "anger": 0.14254507446284054,
+      "neutral": 0.16052950329640064
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "I ask the attention of the public to the paramount necessity of reform in our civil service--a reform not merely as to certain abuses and practices of so-called official patronage which have come to have the sanction of usage in the several Departments of our Government, but a change in the system of appointment itself; a reform that shall be thorough, radical, and complete; a return to the principles and practices of the founders of the Government.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11960881619650716,
+      "unity": 0.14856072920265814,
+      "hope": 0.16020596014735983,
+      "resolve": 0.14520594528926947,
+      "anger": 0.22244694378536056,
+      "neutral": 0.20397160537884484
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "They neither expected nor desired from public officers any partisan service.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.09565199436353397,
+      "unity": 0.17680646150654983,
+      "hope": -0.04001921529663142,
+      "resolve": 0.16471013448748106,
+      "anger": 0.46625412067936595,
+      "neutral": 0.1365965042597006
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "They meant that public officers should owe their whole service to the Government and to the people.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1608068469814799,
+      "unity": 0.15387070025583097,
+      "hope": 0.11556596763343988,
+      "resolve": 0.19035141352560217,
+      "anger": 0.1689141266263175,
+      "neutral": 0.2104909449773296
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "They meant that the officer should be secure in his tenure as long as his personal character remained untarnished and the performance of his duties satisfactory.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20597666819952676,
+      "unity": 0.10988851028291725,
+      "hope": 0.11784248372667167,
+      "resolve": 0.25838113275219476,
+      "anger": 0.10048860777006087,
+      "neutral": 0.20742259726862872
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "They held that appointments to office were not to be made nor expected merely as rewards for partisan services, nor merely on the nomination of members of Congress, as being entitled in any respect to the control of such appointments.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.10504381387199274,
+      "unity": 0.1578680194854045,
+      "hope": 0.0791889637512128,
+      "resolve": 0.20648935696589352,
+      "anger": 0.270245002847325,
+      "neutral": 0.18116484307817143
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "The fact that both the great political parties of the country, in declaring their principles prior to the election, gave a prominent place to the subject of reform of our civil service, recognizing and strongly urging its necessity, in terms almost identical in their specific import with those I have here employed, must be accepted as a conclusive argument in behalf of these measures.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16978283983438824,
+      "unity": 0.18175011891985463,
+      "hope": 0.1268887868925347,
+      "resolve": 0.14692019258319716,
+      "anger": 0.20304210267951636,
+      "neutral": 0.17161595909050892
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "It must be regarded as the expression of the united voice and will of the whole country upon this subject, and both political parties are virtually pledged to give it their unreserved support.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1766793944904583,
+      "unity": 0.15917289642843252,
+      "hope": 0.1507706637636253,
+      "resolve": 0.17729072846397634,
+      "anger": 0.16453644272977333,
+      "neutral": 0.17154987412373424
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "The President of the United States of necessity owes his election to office to the suffrage and zealous labors of a political party, the members of which cherish with ardor and regard as of essential importance the principles of their party organization; but he should strive to be always mindful of the fact that he serves his party best who serves the country best.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17463164363232375,
+      "unity": 0.17452729679603607,
+      "hope": 0.13931697452802883,
+      "resolve": 0.1813065107611611,
+      "anger": 0.1577537200990835,
+      "neutral": 0.1724638541833667
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "In furtherance of the reform we seek, and in other important respects a change of great importance, I recommend an amendment to the Constitution prescribing a term of six years for the Presidential office and forbidding a reelection.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1362696429066812,
+      "unity": 0.13989387000448508,
+      "hope": 0.15428133944042652,
+      "resolve": 0.15326046094112267,
+      "anger": 0.21157664233689033,
+      "neutral": 0.20471804437039418
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "With respect to the financial condition of the country, I shall not attempt an extended history of the embarrassment and prostration which we have suffered during the past three years.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1984835591504696,
+      "unity": 0.15511635954962746,
+      "hope": 0.11783668323019647,
+      "resolve": 0.19370521613532804,
+      "anger": 0.200732128446067,
+      "neutral": 0.13412605348831141
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "The depression in all our varied commercial and manufacturing interests throughout the country, which began in September, 1873, still continues.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3021392038777386,
+      "unity": 0.17202840096617786,
+      "hope": 0.16070069331242934,
+      "resolve": 0.1846728977404748,
+      "anger": 0.14498153284807322,
+      "neutral": 0.03547727125510621
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "It is very gratifying, however, to be able to say that there are indications all around us of a coming change to prosperous times.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16812058103104863,
+      "unity": 0.10989243195811603,
+      "hope": 0.27198591881011674,
+      "resolve": 0.15440631602893157,
+      "anger": 0.11662903726507491,
+      "neutral": 0.17896571490671212
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "Upon the currency question, intimately connected, as it is, with this topic, I may be permitted to repeat here the statement made in my letter of acceptance, that in my judgment the feeling of uncertainty inseparable from an irredeemable paper currency, with its fluctuation of values, is one of the greatest obstacles to a return to prosperous times.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15324611037401195,
+      "unity": 0.15015760871609526,
+      "hope": 0.18619871840151314,
+      "resolve": 0.1723973561058642,
+      "anger": 0.15318001679516194,
+      "neutral": 0.18482018960735352
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "The only safe paper currency is one which rests upon a coin basis and is at all times and promptly convertible into coin.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2000153586635949,
+      "unity": 0.09250189042007947,
+      "hope": 0.16162814238966397,
+      "resolve": 0.18625297254250883,
+      "anger": 0.18361258686148935,
+      "neutral": 0.17598904912266347
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "I adhere to the views heretofore expressed by me in favor of Congressional legislation in behalf of an early resumption of specie payments, and I am satisfied not only that this is wise, but that the interests, as well as the public sentiment, of the country imperatively demand it.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16576896598130256,
+      "unity": 0.13236663128208875,
+      "hope": 0.14622984579998569,
+      "resolve": 0.15303736662065984,
+      "anger": 0.17454953053050704,
+      "neutral": 0.22804765978545613
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "Passing from these remarks upon the condition of our own country to consider our relations with other lands, we are reminded by the international complications abroad, threatening the peace of Europe, that our traditional rule of noninterference in the affairs of foreign nations has proved of great value in past times and ought to be strictly observed.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21522372404195833,
+      "unity": 0.17954863031681714,
+      "hope": 0.10822589925585022,
+      "resolve": 0.20470856298951018,
+      "anger": 0.17649993221240098,
+      "neutral": 0.11579325118346313
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "The policy inaugurated by my honored predecessor, President Grant, of submitting to arbitration grave questions in dispute between ourselves and foreign powers points to a new, and incomparably the best, instrumentality for the preservation of peace, and will, as I believe, become a beneficent example of the course to be pursued in similar emergencies by other nations.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2031854273084567,
+      "unity": 0.14056757200769798,
+      "hope": 0.12443045193458163,
+      "resolve": 0.18371781830736625,
+      "anger": 0.16041088760863995,
+      "neutral": 0.18768784283325746
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "If, unhappily, questions of difference should at any time during the period of my Administration arise between the United States and any foreign government, it will certainly be my disposition and my hope to aid in their settlement in the same peaceful and honorable way, thus securing to our country the great blessings of peace and mutual good offices with all the nations of the world.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16743482112060865,
+      "unity": 0.1745591233783408,
+      "hope": 0.14131383210581552,
+      "resolve": 0.18319388158355063,
+      "anger": 0.15277273245177675,
+      "neutral": 0.18072560935990764
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "Fellow-citizens, we have reached the close of a political contest marked by the excitement which usually attends the contests between great political parties whose members espouse and advocate with earnest faith their respective creeds.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1597450148096052,
+      "unity": 0.16870708068520812,
+      "hope": 0.16838972638970973,
+      "resolve": 0.15780324482266697,
+      "anger": 0.16861964896249046,
+      "neutral": 0.17673528433031951
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "The circumstances were, perhaps, in no respect extraordinary save in the closeness and the consequent uncertainty of the result.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18165082286287929,
+      "unity": 0.17279654462984548,
+      "hope": 0.07150558205135467,
+      "resolve": 0.3615672356454511,
+      "anger": 0.19777552308655746,
+      "neutral": 0.014704291723912003
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "For the first time in the history of the country it has been deemed best, in view of the peculiar circumstances of the case, that the objections and questions in dispute with reference to the counting of the electoral votes should be referred to the decision of a tribunal appointed for this purpose.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16736384053902303,
+      "unity": 0.19519486529182806,
+      "hope": 0.06920908911390478,
+      "resolve": 0.14266927541817742,
+      "anger": 0.24624810063539496,
+      "neutral": 0.17931482900167175
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "That tribunal--established by law for this sole purpose; its members, all of them, men of long-established reputation for integrity and intelligence, and, with the exception of those who are also members of the supreme judiciary, chosen equally from both political parties; its deliberations enlightened by the research and the arguments of able counsel--was entitled to the fullest confidence of the American people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20383605125255438,
+      "unity": 0.14878484938831926,
+      "hope": 0.09200002066019873,
+      "resolve": 0.18595943795642395,
+      "anger": 0.17898588116798747,
+      "neutral": 0.1904337595745162
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "Its decisions have been patiently waited for, and accepted as legally conclusive by the general judgment of the public.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16865048282036296,
+      "unity": 0.12796381100414503,
+      "hope": 0.1408743780780906,
+      "resolve": 0.1616483455235728,
+      "anger": 0.18691835056910114,
+      "neutral": 0.21394463200472746
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "For the present, opinion will widely vary as to the wisdom of the several conclusions announced by that tribunal.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.08175903576126778,
+      "unity": 0.24479809367194116,
+      "hope": 0.1838082518574448,
+      "resolve": 0.22199915938050588,
+      "anger": 0.207306651703859,
+      "neutral": 0.060328807624981405
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "This is to be anticipated in every instance where matters of dispute are made the subject of arbitration under the forms of law.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.07396576115517499,
+      "unity": 0.1556626874175885,
+      "hope": 0.13582263982304285,
+      "resolve": 0.22438792076242917,
+      "anger": 0.2120728761316973,
+      "neutral": 0.19808811471006715
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "Human judgment is never unerring, and is rarely regarded as otherwise than wrong by the unsuccessful party in the contest.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17682148897011768,
+      "unity": 0.1944457993102836,
+      "hope": 0.12205065063253137,
+      "resolve": 0.22533316225530312,
+      "anger": 0.20187055491889908,
+      "neutral": 0.07947834391286517
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "The fact that two great political parties have in this way settled a dispute in regard to which good men differ as to the facts and the law no less than as to the proper course to be pursued in solving the question in controversy is an occasion for general rejoicing.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2072222765776442,
+      "unity": 0.16449276665831591,
+      "hope": 0.1325340366096198,
+      "resolve": 0.13981796539806962,
+      "anger": 0.1656685811962512,
+      "neutral": 0.1902643735600993
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "Upon one point there is entire unanimity in public sentiment--that conflicting claims to the Presidency must be amicably and peaceably adjusted, and that when so adjusted the general acquiescence of the nation ought surely to follow.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.15841552136228973,
+      "unity": 0.2003247081702744,
+      "hope": 0.1221822556189828,
+      "resolve": 0.16619091795978935,
+      "anger": 0.15674753544922843,
+      "neutral": 0.1961390614394353
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "It has been reserved for a government of the people, where the right of suffrage is universal, to give to the world the first example in history of a great nation, in the midst of the struggle of opposing parties for power, hushing its party tumults to yield the issue of the contest to adjustment according to the forms of law.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2160453755173563,
+      "unity": 0.17883536749682302,
+      "hope": 0.13330664381947005,
+      "resolve": 0.14455201058217945,
+      "anger": 0.1975019618160603,
+      "neutral": 0.12975864076811083
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "Looking for the guidance of that Divine Hand by which the destinies of nations and individuals are shaped, I call upon you, Senators, Representatives, judges, fellow-citizens, here and everywhere, to unite with me in an earnest effort to secure to our country the blessings, not only of material prosperity, but of justice, peace, and union--a union depending not upon the constraint of force, but upon the loving devotion of a free people; \"and that all things may be so ordered and settled upon the best and surest foundations that peace and happiness, truth and justice, religion and piety, may be established among us for all generations.\"",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1533361665304454,
+      "unity": 0.1891721950659417,
+      "hope": 0.17138688033135713,
+      "resolve": 0.17625345732641629,
+      "anger": 0.14207908671641067,
+      "neutral": 0.1677722140294288
+    }
+  }
+]

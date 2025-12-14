@@ -1,0 +1,197 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "GENTLEMEN: I must be permitted to say that I have been almost overwhelmed by the announcement of the sad event which has so recently occurred.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.14016823093861566,
+      "unity": 0.14342626297686203,
+      "hope": 0.17213208732281038,
+      "resolve": 0.13378103965931362,
+      "anger": 0.17454356029268164,
+      "neutral": 0.2359488188097167
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "I feel incompetent to perform duties so important and responsible as those which have been so unexpectedly thrown upon me.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.09523659126332885,
+      "unity": 0.12841475757278933,
+      "hope": 0.18413138852690902,
+      "resolve": 0.16283522497424965,
+      "anger": 0.1948846185084031,
+      "neutral": 0.23449741915432004
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "As to an indication of any policy which may be pursued by me in the administration of the Government, I have to say that that must be left for development as the Administration progresses.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1423057616416789,
+      "unity": 0.1326428948657297,
+      "hope": 0.20739033150670377,
+      "resolve": 0.17299262855274117,
+      "anger": 0.17219177042228004,
+      "neutral": 0.17247661301086642
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "]The message or declaration must be made by the acts as they transpire.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.11456926471155499,
+      "unity": 0.16452924480799866,
+      "hope": 0.14827886763198672,
+      "resolve": 0.1922767047309382,
+      "anger": 0.18236690659336535,
+      "neutral": 0.1979790115241561
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "The only assurance that I can now give of the future is reference to the past.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.07959408641421886,
+      "unity": 0.1472276572997131,
+      "hope": 0.26540032521270607,
+      "resolve": 0.21889230449502414,
+      "anger": 0.1377934538339421,
+      "neutral": 0.15109217274439574
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "The course which I have taken in the past in connection with this rebellion must be regarded as a guaranty of the future.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13212883572096965,
+      "unity": 0.13102993300665775,
+      "hope": 0.22598208345826268,
+      "resolve": 0.2280264401755557,
+      "anger": 0.1332374079254648,
+      "neutral": 0.14959529971308946
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "My past public life, which has been long and laborious, has been founded, as I in good conscience believe, upon a great principle of right, which lies at the basis of all things.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1882981742489851,
+      "unity": 0.16454802431658247,
+      "hope": 0.18616744038822333,
+      "resolve": 0.1714465876130688,
+      "anger": 0.1208972420927601,
+      "neutral": 0.16864253134038026
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "The best energies of my life have been spent in endeavoring to establish and perpetuate the principles of free government, and I believe that the Government in passing through its present perils will settle down upon principles consonant with popular rights more permanent and enduring than heretofore.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20071063783857573,
+      "unity": 0.14146618272363554,
+      "hope": 0.18234512072547449,
+      "resolve": 0.19387031336843122,
+      "anger": 0.13210931462588535,
+      "neutral": 0.14949843071799768
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "I must be permitted to say, if I understand the feelings of my own heart, that I have long labored to ameliorate and elevate the condition of the great mass of the American people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2066151275925696,
+      "unity": 0.1387499326373941,
+      "hope": 0.16131870206399024,
+      "resolve": 0.17457723562571065,
+      "anger": 0.13807616739952727,
+      "neutral": 0.18066283468080813
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "Toil and an honest advocacy of the great principles of free government have been my lot.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23694876626906736,
+      "unity": 0.11508183919065636,
+      "hope": 0.16237339395976247,
+      "resolve": 0.2039000824624652,
+      "anger": 0.1208545442476758,
+      "neutral": 0.16084137387037284
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "Duties have been mine; consequences are God's.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13676000138565914,
+      "unity": 0.15111167470887318,
+      "hope": 0.15390367511840736,
+      "resolve": 0.19642514784121098,
+      "anger": 0.16671403665273835,
+      "neutral": 0.19508546429311097
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "This has been the foundation of my political creed, and I feel that in the end the Government will triumph and that these great principles will be permanently established.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18783650432389898,
+      "unity": 0.15223856931681312,
+      "hope": 0.16590403601560458,
+      "resolve": 0.19616834544568829,
+      "anger": 0.15564312888577245,
+      "neutral": 0.14220941601222256
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "In conclusion, gentlemen, let me say that I want your encouragement and countenance.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1395860705734731,
+      "unity": 0.15192033298432375,
+      "hope": 0.18195406279588183,
+      "resolve": 0.18981976115127736,
+      "anger": 0.13502462768602252,
+      "neutral": 0.20169514480902145
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "I shall ask and rely upon you and others in carrying the Government through its present perils.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14485282743208522,
+      "unity": 0.1484640212137131,
+      "hope": 0.17838824980666387,
+      "resolve": 0.2003814640699243,
+      "anger": 0.15009265197491342,
+      "neutral": 0.1778207855027001
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "I feel in making this request that it will be heartily responded to by you and all other patriots and lovers of the rights and interests of a free people.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16428368076226288,
+      "unity": 0.13686973278572034,
+      "hope": 0.12188778787227475,
+      "resolve": 0.16070995291014134,
+      "anger": 0.21751338702000148,
+      "neutral": 0.19873545864959924
+    }
+  }
+]

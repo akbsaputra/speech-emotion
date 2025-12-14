@@ -1,0 +1,522 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Friends and Fellow-Citizens:\nCALLED upon to undertake the duties of the first executive office of our country, I avail myself of the presence of that portion of my fellow-citizens which is here assembled to express my grateful thanks for the favor with which they have been pleased to look toward me, to declare a sincere consciousness that the task is above my talents, and that I approach it with those anxious and awful presentiments which the greatness of the charge and the weakness of my powers so justly inspire.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18345610701421053,
+      "unity": 0.14511425100911632,
+      "hope": 0.16099894668815354,
+      "resolve": 0.15589050248976813,
+      "anger": 0.11810545394959561,
+      "neutral": 0.2364347388491559
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "A rising nation, spread over a wide and fruitful land, traversing all the seas with the rich productions of their industry, engaged in commerce with nations who feel power and forget right, advancing rapidly to destinies beyond the reach of mortal eye\u2014when I contemplate these transcendent objects, and see the honor, the happiness, and the hopes of this beloved country committed to the issue, and the auspices of this day, I shrink from the contemplation, and humble myself before the magnitude of the undertaking.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.209598481162215,
+      "unity": 0.14491074424092082,
+      "hope": 0.17155670716960794,
+      "resolve": 0.17218197676646665,
+      "anger": 0.14134907643908315,
+      "neutral": 0.16040301422170644
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Utterly, indeed, should I despair did not the presence of many whom I here see remind me that in the other high authorities provided by our Constitution I shall find resources of wisdom, of virtue, and of zeal on which to rely under all difficulties.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16163342704358105,
+      "unity": 0.15508784224691205,
+      "hope": 0.17712252495454764,
+      "resolve": 0.21726891579424193,
+      "anger": 0.1564247638780914,
+      "neutral": 0.1324625260826259
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "To you, then, gentlemen, who are charged with the sovereign functions of legislation, and to those associated with you, I look with encouragement for that guidance and support which may enable us to steer with safety the vessel in which we are all embarked amidst the conflicting elements of a troubled world.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14618356144798728,
+      "unity": 0.14998643660220587,
+      "hope": 0.18975135853307493,
+      "resolve": 0.19791542480280155,
+      "anger": 0.12497081019284928,
+      "neutral": 0.1911924084210811
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "During the contest of opinion through which we have passed the animation of discussions and of exertions has sometimes worn an aspect which might impose on strangers unused to think freely and to speak and to write what they think; but this being now decided by the voice of the nation, announced according to the rules of the Constitution, all will, of course, arrange themselves under the will of the law, and unite in common efforts for the common good.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1549051169141679,
+      "unity": 0.18958740046941147,
+      "hope": 0.15438683125315317,
+      "resolve": 0.17144253548005,
+      "anger": 0.17611372809230297,
+      "neutral": 0.15356438779091447
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "All, too, will bear in mind this sacred principle, that though the will of the majority is in all cases to prevail, that will to be rightful must be reasonable; that the minority possess their equal rights, which equal law must protect, and to violate would be oppression.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14785545111471943,
+      "unity": 0.18435397759784045,
+      "hope": 0.15708416120777577,
+      "resolve": 0.21002968569015773,
+      "anger": 0.17914748903326463,
+      "neutral": 0.12152923535624201
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "Let us, then, fellow-citizens, unite with one heart and one mind.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16029918726607212,
+      "unity": 0.22029287162305966,
+      "hope": 0.1654925923248733,
+      "resolve": 0.17427087207152536,
+      "anger": 0.1392927074686693,
+      "neutral": 0.14035176924580023
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "Let us restore to social intercourse that harmony and affection without which liberty and even life itself are but dreary things.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16073449027184242,
+      "unity": 0.19523091923942007,
+      "hope": 0.17730286664929049,
+      "resolve": 0.14774960080526114,
+      "anger": 0.16124848000146383,
+      "neutral": 0.15773364303272205
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "And let us reflect that, having banished from our land that religious intolerance under which mankind so long bled and suffered, we have yet gained little if we countenance a political intolerance as despotic, as wicked, and capable of as bitter and bloody persecutions.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17291802505322504,
+      "unity": 0.1914038002486177,
+      "hope": 0.15409405802433682,
+      "resolve": 0.1783346904945877,
+      "anger": 0.1962002967251678,
+      "neutral": 0.10704912945406496
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "During the throes and convulsions of the ancient world, during the agonizing spasms of infuriated man, seeking through blood and slaughter his long-lost liberty, it was not wonderful that the agitation of the billows should reach even this distant and peaceful shore; that this should be more felt and feared by some and less by others, and should divide opinions as to measures of safety.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1942798561787197,
+      "unity": 0.15872495135356218,
+      "hope": 0.1504842783809918,
+      "resolve": 0.2088739784655738,
+      "anger": 0.17100775825702408,
+      "neutral": 0.11662917736412842
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "But every difference of opinion is not a difference of principle.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16323751471704726,
+      "unity": 0.2536182530871149,
+      "hope": 0.11023876651430232,
+      "resolve": 0.18751634527950864,
+      "anger": 0.211991132727918,
+      "neutral": 0.07339798767410888
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "We have called by different names brethren of the same principle.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.15047829840161556,
+      "unity": 0.2430227821803522,
+      "hope": 0.14795440208255528,
+      "resolve": 0.1963910474811397,
+      "anger": 0.12656595000555035,
+      "neutral": 0.13558751984878695
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "We are all Republicans, we are all Federalists.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.20792658046700388,
+      "unity": 0.2133068631624699,
+      "hope": 0.12871534498240722,
+      "resolve": 0.15719685503046635,
+      "anger": 0.14383794003475858,
+      "neutral": 0.14901641632289409
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "If there be any among us who would wish to dissolve this Union or to change its republican form, let them stand undisturbed as monuments of the safety with which error of opinion may be tolerated where reason is left free to combat it.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1726576730392944,
+      "unity": 0.1843371292365301,
+      "hope": 0.12659124616452633,
+      "resolve": 0.17485533406037038,
+      "anger": 0.1921477684231694,
+      "neutral": 0.14941084907610935
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "I know, indeed, that some honest men fear that a republican government can not be strong, that this Government is not strong enough; but would the honest patriot, in the full tide of successful experiment, abandon a government which has so far kept us free and firm on the theoretic and visionary fear that this Government, the world's best hope, may by possibility want energy to preserve itself?",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19341374511714826,
+      "unity": 0.1621007345950925,
+      "hope": 0.15786869100970186,
+      "resolve": 0.2097369333363825,
+      "anger": 0.19482277601973103,
+      "neutral": 0.08205711992194391
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "I believe this, on the contrary, the strongest Government on earth.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22813007789696585,
+      "unity": 0.16615840218841255,
+      "hope": 0.1303963647677554,
+      "resolve": 0.19363757029691497,
+      "anger": 0.18183964672819322,
+      "neutral": 0.09983793812175801
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "I believe it the only one where every man, at the call of the law, would fly to the standard of the law, and would meet invasions of the public order as his own personal concern.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24233991206358277,
+      "unity": 0.18094445937395984,
+      "hope": 0.10512382854378764,
+      "resolve": 0.22215375389306757,
+      "anger": 0.14620819036357927,
+      "neutral": 0.1032298557620229
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "Sometimes it is said that man can not be trusted with the government of himself.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17271590743648602,
+      "unity": 0.18587535961284007,
+      "hope": 0.12013920133791088,
+      "resolve": 0.19421102793222889,
+      "anger": 0.21855413392194326,
+      "neutral": 0.10850436975859089
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "Can he, then, be trusted with the government of others?",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17109390206632422,
+      "unity": 0.19804001551243486,
+      "hope": 0.07118803133206351,
+      "resolve": 0.19439154665613775,
+      "anger": 0.23385771644528577,
+      "neutral": 0.13142878798775387
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "Or have we found angels in the forms of kings to govern him?",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15682471904854325,
+      "unity": 0.1495196642660082,
+      "hope": 0.19221871501863808,
+      "resolve": 0.22361041564321582,
+      "anger": 0.18356589944095875,
+      "neutral": 0.09426058658263586
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "Let history answer this question.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2549795569821774,
+      "unity": 0.19914847347600528,
+      "hope": 0.12857965597881596,
+      "resolve": 0.17079762191848818,
+      "anger": 0.1892439973540021,
+      "neutral": 0.057250694290511106
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "Let us, then, with courage and confidence pursue our own Federal and Republican principles, our attachment to union and representative government.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18593315384275674,
+      "unity": 0.18623872935862162,
+      "hope": 0.165434446566452,
+      "resolve": 0.19578371938108557,
+      "anger": 0.13882776411466297,
+      "neutral": 0.12778218673642108
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "Kindly separated by nature and a wide ocean from the exterminating havoc of one quarter of the globe; too high-minded to endure the degradations of the others; possessing a chosen country, with room enough for our descendants to the thousandth and thousandth generation; entertaining a due sense of our equal right to the use of our own faculties, to the acquisitions of our own industry, to honor and confidence from our fellow-citizens, resulting not from birth, but from our actions and their sense of them; enlightened by a benign religion, professed, indeed, and practiced in various forms, yet all of them inculcating honesty, truth, temperance, gratitude, and the love of man; acknowledging and adoring an overruling Providence, which by all its dispensations proves that it delights in the happiness of man here and his greater happiness hereafter\u2014with all these blessings, what more is necessary to make us a happy and a prosperous people?",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22501950878323218,
+      "unity": 0.1754081488785439,
+      "hope": 0.18114726712578158,
+      "resolve": 0.16687275567245402,
+      "anger": 0.12235901309632265,
+      "neutral": 0.12919330644366567
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "Still one thing more, fellow-citizens\u2014a wise and frugal Government, which shall restrain men from injuring one another, shall leave them otherwise free to regulate their own pursuits of industry and improvement, and shall not take from the mouth of labor the bread it has earned.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18765093598561436,
+      "unity": 0.17150315251240858,
+      "hope": 0.15041001411928906,
+      "resolve": 0.20061244852751697,
+      "anger": 0.16009649601356685,
+      "neutral": 0.1297269528416042
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "This is the sum of good government, and this is necessary to close the circle of our felicities.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15971218742284365,
+      "unity": 0.18359865321830862,
+      "hope": 0.14174428420775712,
+      "resolve": 0.1606381266863833,
+      "anger": 0.20510385480342366,
+      "neutral": 0.14920289366128364
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "About to enter, fellow-citizens, on the exercise of duties which comprehend everything dear and valuable to you, it is proper you should understand what I deem the essential principles of our Government, and consequently those which ought to shape its Administration.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17396446323104697,
+      "unity": 0.16653445491107646,
+      "hope": 0.1588815276480944,
+      "resolve": 0.17994657329265626,
+      "anger": 0.1417361478737404,
+      "neutral": 0.17893683304338553
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "I will compress them within the narrowest compass they will bear, stating the general principle, but not all its limitations.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.08856648820913529,
+      "unity": 0.18227592504193477,
+      "hope": 0.16944426131243245,
+      "resolve": 0.29003901169551977,
+      "anger": 0.1663457636899042,
+      "neutral": 0.10332855005107351
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "Equal and exact justice to all men, of whatever state or persuasion, religious or political; peace, commerce, and honest friendship with all nations, entangling alliances with none; the support of the State governments in all their rights, as the most competent administrations for our domestic concerns and the surest bulwarks against antirepublican tendencies; the preservation of the General Government in its whole constitutional vigor, as the sheet anchor of our peace at home and safety abroad; a jealous care of the right of election by the people\u2014a mild and safe corrective of abuses which are lopped by the sword of revolution where peaceable remedies are unprovided; absolute acquiescence in the decisions of the majority, the vital principle of republics, from which is no appeal but to force, the vital principle and immediate parent of despotism; a well disciplined militia, our best reliance in peace and for the first moments of war, till regulars may relieve them; the supremacy of the civil over the military authority; economy in the public expense, that labor may be lightly burthened; the honest payment of our debts and sacred preservation of the public faith; encouragement of agriculture, and of commerce as its handmaid; the diffusion of information and arraignment of all abuses at the bar of the public reason; freedom of religion; freedom of the press, and freedom of person under the protection of the habeas corpus, and trial by juries impartially selected.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21798045833237323,
+      "unity": 0.16149861253414755,
+      "hope": 0.1297871573352984,
+      "resolve": 0.1852887481651265,
+      "anger": 0.18119375422455297,
+      "neutral": 0.12425126940850138
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "These principles form the bright constellation which has gone before us and guided our steps through an age of revolution and reformation.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18377263935343569,
+      "unity": 0.17440932674729132,
+      "hope": 0.2307244164274771,
+      "resolve": 0.20684293773924356,
+      "anger": 0.12524924999651527,
+      "neutral": 0.07900142973603712
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "The wisdom of our sages and blood of our heroes have been devoted to their attainment.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23160133546932685,
+      "unity": 0.13169936433272572,
+      "hope": 0.17312533470337435,
+      "resolve": 0.20716085987329716,
+      "anger": 0.11228091387936157,
+      "neutral": 0.14413219174191433
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "They should be the creed of our political faith, the text of civic instruction, the touchstone by which to try the services of those we trust; and should we wander from them in moments of error or of alarm, let us hasten to retrace our steps and to regain the road which alone leads to peace, liberty, and safety.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16361032064875347,
+      "unity": 0.18276275852160226,
+      "hope": 0.15929688480940887,
+      "resolve": 0.20738513968342168,
+      "anger": 0.15317395999827735,
+      "neutral": 0.13377093633853637
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "I repair, then, fellow-citizens, to the post you have assigned me.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.12180335442820397,
+      "unity": 0.1731887559231148,
+      "hope": 0.15852295962115753,
+      "resolve": 0.1548325456166953,
+      "anger": 0.14521623550513682,
+      "neutral": 0.24643614890569157
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "With experience enough in subordinate offices to have seen the difficulties of this the greatest of all, I have learnt to expect that it will rarely fall to the lot of imperfect man to retire from this station with the reputation and the favor which bring him into it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.11919180122762167,
+      "unity": 0.13591825041898614,
+      "hope": 0.17549946457558377,
+      "resolve": 0.2281946054179175,
+      "anger": 0.15551446525642404,
+      "neutral": 0.18568141310346692
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "Without pretensions to that high confidence you reposed in our first and greatest revolutionary character, whose preeminent services had entitled him to the first place in his country's love and destined for him the fairest page in the volume of faithful history, I ask so much confidence only as may give firmness and effect to the legal administration of your affairs.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21171605676357408,
+      "unity": 0.12951964414620507,
+      "hope": 0.15988874133205905,
+      "resolve": 0.1899111291379306,
+      "anger": 0.12572987658177837,
+      "neutral": 0.18323455203845287
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "I shall often go wrong through defect of judgment.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.007028164707995147,
+      "unity": 0.24326074381476356,
+      "hope": 0.17938353887498584,
+      "resolve": 0.2171079367796926,
+      "anger": 0.22008448747186346,
+      "neutral": 0.1331351283506994
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "When right, I shall often be thought wrong by those whose positions will not command a view of the whole ground.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.06205857328757783,
+      "unity": 0.2128107854672151,
+      "hope": 0.18782340492176178,
+      "resolve": 0.23783020321150997,
+      "anger": 0.211033797812142,
+      "neutral": 0.08844323529979332
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "I ask your indulgence for my own errors, which will never be intentional, and your support against the errors of others, who may condemn what they would not if seen in all its parts.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1250944065738527,
+      "unity": 0.15600679096298756,
+      "hope": 0.1684853153711796,
+      "resolve": 0.1873612259665138,
+      "anger": 0.15442747261704423,
+      "neutral": 0.2086247885084221
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "The approbation implied by your suffrage is a great consolation to me for the past, and my future solicitude will be to retain the good opinion of those who have bestowed it in advance, to conciliate that of others by doing them all the good in my power, and to be instrumental to the happiness and freedom of all.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16729398471931514,
+      "unity": 0.13780837292621242,
+      "hope": 0.17507635152705092,
+      "resolve": 0.15626738915345736,
+      "anger": 0.14398880159014038,
+      "neutral": 0.21956510008382377
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "Relying, then, on the patronage of your good will, I advance with obedience to the work, ready to retire from it whenever you become sensible how much better choice it is in your power to make.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.09182893247631023,
+      "unity": 0.12762656821599608,
+      "hope": 0.23332060076723285,
+      "resolve": 0.18934040039362887,
+      "anger": 0.13851246473014786,
+      "neutral": 0.21937103341668412
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "And may that Infinite Power which rules the destinies of the universe lead our councils to what is best, and give them a favorable issue for your peace and prosperity.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.12948302056737945,
+      "unity": 0.1690895959091815,
+      "hope": 0.18741940829924325,
+      "resolve": 0.1809128363092199,
+      "anger": 0.15087692589338528,
+      "neutral": 0.18221821302159064
+    }
+  }
+]

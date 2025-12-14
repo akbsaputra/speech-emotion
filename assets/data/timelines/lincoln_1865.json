@@ -1,0 +1,340 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "FELLOW-COUNTRYMEN:\nAt this second appearing to take the oath of the Presidential office there is less occasion for an extended address than there was at the first.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.174524912099846,
+      "unity": 0.14178842759606483,
+      "hope": 0.12532833230815732,
+      "resolve": 0.1289492107421816,
+      "anger": 0.14473566851357988,
+      "neutral": 0.2846734487401704
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Then a statement somewhat in detail of a course to be pursued seemed fitting and proper.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.09217115488091339,
+      "unity": 0.12947844175700665,
+      "hope": 0.2655139347676324,
+      "resolve": 0.20467782481515714,
+      "anger": 0.07255618126868907,
+      "neutral": 0.23560246251060132
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Now, at the expiration of four years, during which public declarations have been constantly called forth on every point and phase of the great contest which still absorbs the attention and engrosses the energies of the nation, little that is new could be presented.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18487880886326863,
+      "unity": 0.1290614420688835,
+      "hope": 0.18544110161363062,
+      "resolve": 0.1725007682979719,
+      "anger": 0.15121701213928912,
+      "neutral": 0.17690086701695623
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "The progress of our arms, upon which all else chiefly depends, is as well known to the public as to myself, and it is, I trust, reasonably satisfactory and encouraging to all.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21669662707781756,
+      "unity": 0.11873126844493218,
+      "hope": 0.19582399658052702,
+      "resolve": 0.20969722934715412,
+      "anger": 0.09007366531718142,
+      "neutral": 0.1689772132323877
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "With high hope for the future, no prediction in regard to it is ventured.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1185690373688959,
+      "unity": 0.12372060929355023,
+      "hope": 0.31515532491728154,
+      "resolve": 0.21058765154030173,
+      "anger": 0.13325282342175168,
+      "neutral": 0.0987145534582189
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "On the occasion corresponding to this four years ago all thoughts were anxiously directed to an impending civil war.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14325017029898293,
+      "unity": 0.16659025646221087,
+      "hope": 0.21294277267106382,
+      "resolve": 0.1988042531710339,
+      "anger": 0.16623378099719438,
+      "neutral": 0.1121787663995141
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "All dreaded it, all sought to avert it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12826083222522608,
+      "unity": 0.17120714358397676,
+      "hope": 0.16080931145443314,
+      "resolve": 0.2292607077537799,
+      "anger": 0.17071300955290913,
+      "neutral": 0.13974899542967495
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "While the inaugural address was being delivered from this place, devoted altogether tosavingthe Union without war, insurgent agents were in the city seeking todestroyit without war-seeking to dissolve the Union and divide effects by negotiation.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.14600592616346797,
+      "unity": 0.19355932431358222,
+      "hope": 0.13600647201831984,
+      "resolve": 0.17985331842730243,
+      "anger": 0.17084732859844734,
+      "neutral": 0.17372763047888018
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Both parties deprecated war, but one of them wouldmakewar rather than let the nation survive, and the other wouldacceptwar rather than let it perish, and the war came.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.18012251649526528,
+      "unity": 0.23868689182872818,
+      "hope": 0.09519100096997096,
+      "resolve": 0.164876675987967,
+      "anger": 0.19255702621567447,
+      "neutral": 0.12856588850239412
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "One-eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the southern part of it.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.4602203951563009,
+      "unity": 1.0176631371641502,
+      "hope": -0.11477566426118949,
+      "resolve": 0.24998184675473106,
+      "anger": -0.06349776434667208,
+      "neutral": -0.5495919504673206
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "These slaves constituted a peculiar and powerful interest.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.22609392692143518,
+      "unity": 0.16644841024764542,
+      "hope": 0.1614452858568359,
+      "resolve": 0.2599015519766268,
+      "anger": 0.14892733852930087,
+      "neutral": 0.037183486468155856
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "All knew that this interest was somehow the cause of the war.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.23175588793781382,
+      "unity": 0.11675358748830572,
+      "hope": 0.05298487108231617,
+      "resolve": 0.2744423928308058,
+      "anger": 0.23785575155549,
+      "neutral": 0.08620750910526849
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "To strengthen, perpetuate, and extend this interest was the object for which the insurgents would rend the Union even by war, while the Government claimed no right to do more than to restrict the territorial enlargement of it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21171330126241317,
+      "unity": 0.19019305502105038,
+      "hope": 0.0809666330180277,
+      "resolve": 0.25600792449565357,
+      "anger": 0.19608165842668832,
+      "neutral": 0.06503742777616689
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "Neither party expected for the war the magnitude or the duration which it has already attained.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1968806202689917,
+      "unity": 0.15403877047217496,
+      "hope": 0.10111872895596598,
+      "resolve": 0.2349644696865532,
+      "anger": 0.21431105412875578,
+      "neutral": 0.09868635648755836
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "Neither anticipated that thecauseof the conflict might cease with or even before the conflict itself should cease.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12178591696206555,
+      "unity": 0.192417526660025,
+      "hope": 0.1319648993083443,
+      "resolve": 0.21108330755612245,
+      "anger": 0.1865328100785662,
+      "neutral": 0.1562155394348765
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "Each looked for an easier triumph, and a result less fundamental and astounding.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2267834436470792,
+      "unity": 0.20243424516157144,
+      "hope": 0.19914470058928543,
+      "resolve": 0.21239833526534466,
+      "anger": 0.10171062609987844,
+      "neutral": 0.057528649236840826
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "Both read the same Bible and pray to the same God, and each invokes His aid against the other.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.13596052129990835,
+      "unity": 0.34505314698721307,
+      "hope": 0.098177986021226,
+      "resolve": 0.22092521533205625,
+      "anger": 0.14175993907404982,
+      "neutral": 0.058123191285546535
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "It may seem strange that any men should dare to ask a just God's assistance in wringing their bread from the sweat of other men's faces, but let us judge not, that we be not judged.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.09224654453047379,
+      "unity": 0.21875302228439295,
+      "hope": 0.18562570790323918,
+      "resolve": 0.1912250057108142,
+      "anger": 0.1869256232882758,
+      "neutral": 0.1252240962828041
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "The prayers of both could not be answered.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.07316902905246604,
+      "unity": 0.29225677414022777,
+      "hope": 0.09180940873995612,
+      "resolve": 0.2187458159471911,
+      "anger": 0.2514662128514364,
+      "neutral": 0.0725527592687226
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "That of neither has been answered fully.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19473401035203908,
+      "unity": 0.23859890314877746,
+      "hope": 0.12336046834641225,
+      "resolve": 0.25012086564664165,
+      "anger": 0.16435841984748906,
+      "neutral": 0.0288273326586405
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "The Almighty has His own purposes.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.08268272568267883,
+      "unity": 0.21682586203741389,
+      "hope": 0.19590072524397256,
+      "resolve": 0.23590604180139169,
+      "anger": 0.20466474299344012,
+      "neutral": 0.06401990224110292
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "\"Woe unto the world because of offenses; for it must needs be that offenses come, but woe to that man by whom the offense cometh.\"",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12165570661554917,
+      "unity": 0.16738412026874003,
+      "hope": 0.14671209369798963,
+      "resolve": 0.19725796574859106,
+      "anger": 0.21132965552522504,
+      "neutral": 0.15566045814390508
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "If we shall suppose that American slavery is one of those offenses which, in the providence of God, must needs come, but which, having continued through His appointed time, He now wills to remove, and that He gives to both North and South this terrible war as the woe due to those by whom the offense came, shall we discern therein any departure from those divine attributes which the believers in a living God always ascribe to Him?",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18146536788917925,
+      "unity": 0.17149971711145773,
+      "hope": 0.1460630597181014,
+      "resolve": 0.2050163611821254,
+      "anger": 0.18248437749915508,
+      "neutral": 0.1134711165999811
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "Fondly do we hope, fervently do we pray, that this mighty scourge of war may speedily pass away.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15338765548641947,
+      "unity": 0.14280748107475083,
+      "hope": 0.16971029647331637,
+      "resolve": 0.19667319439420414,
+      "anger": 0.1852573163922768,
+      "neutral": 0.1521640561790324
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "Yet, if God wills that it continue until all the wealth piled by the bondsman's two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash shall be paid by another drawn with the sword, as was said three thousand years ago, so still it must be said \"the judgments of the Lord are true and righteous altogether.\"",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13071676805905494,
+      "unity": 0.14196692188446916,
+      "hope": 0.16107670985050782,
+      "resolve": 0.20343951982781439,
+      "anger": 0.20519225002577401,
+      "neutral": 0.1576078303523797
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle and for his widow and his orphan, to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16158556619046077,
+      "unity": 0.17144418587166124,
+      "hope": 0.1635107716612294,
+      "resolve": 0.19420323495444589,
+      "anger": 0.14448091025536738,
+      "neutral": 0.1647753310668353
+    }
+  }
+]

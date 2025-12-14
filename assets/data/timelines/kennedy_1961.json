@@ -1,0 +1,691 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Vice President Johnson, Mr. Speaker, Mr. Chief Justice, President Eisenhower, Vice president Nixon, President Truman, Reverend Clergy, fellow citizens:\nWe observe today not a victory of party but a celebration of freedom--symbolizing an end as well as a beginning--signifying renewal as well as change.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21135110504824106,
+      "unity": 0.1504330202470215,
+      "hope": 0.16666424646723912,
+      "resolve": 0.1465403940668903,
+      "anger": 0.1345698054592897,
+      "neutral": 0.1904414287113183
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "For I have sworn before you and Almighty God the same solemn oath our forebears prescribed nearly a century and three quarters ago.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.15359978180827075,
+      "unity": 0.1375239052882471,
+      "hope": 0.15305669792076498,
+      "resolve": 0.15423656586395465,
+      "anger": 0.16086104257331973,
+      "neutral": 0.2407220065454428
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "The world is very different now.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17752610651700707,
+      "unity": 0.17458129607476838,
+      "hope": 0.2245672601390918,
+      "resolve": 0.1241592554123916,
+      "anger": 0.17136365171717224,
+      "neutral": 0.12780243013956888
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "For man holds in his mortal hands the power to abolish all forms of human poverty and all forms of human life.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15250547453997637,
+      "unity": 0.16200776697714508,
+      "hope": 0.2048030611650922,
+      "resolve": 0.177233471385617,
+      "anger": 0.16988671122341592,
+      "neutral": 0.13356351470875344
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "And yet the same revolutionary beliefs for which our forebears fought are still at issue around the globe--the belief that the rights of man come not from the generosity of the state but from the hand of God.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2202271964640482,
+      "unity": 0.18310489427237542,
+      "hope": 0.16542508488730992,
+      "resolve": 0.20701113805212643,
+      "anger": 0.1655574673030597,
+      "neutral": 0.058674219021080325
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "We dare not forget today that we are the heirs of that first revolution.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22793179611401662,
+      "unity": 0.14149948207316607,
+      "hope": 0.17618108521455156,
+      "resolve": 0.19387118139248063,
+      "anger": 0.13797064160689917,
+      "neutral": 0.12254581359888593
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "Let the word go forth from this time and place, to friend and foe alike, that the torch has been passed to a new generation of Americans--born in this century, tempered by war, disciplined by a hard and bitter peace, proud of our ancient heritage--and unwilling to witness or permit the slow undoing of those human rights to which this nation has always been committed, and to which we are committed today at home and around the world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20055647953263805,
+      "unity": 0.14889601606497055,
+      "hope": 0.17234617533926028,
+      "resolve": 0.16747531052412878,
+      "anger": 0.1513468143151289,
+      "neutral": 0.15937920422387344
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18411169697490512,
+      "unity": 0.15158034303548515,
+      "hope": 0.15777223949595423,
+      "resolve": 0.21248320368269022,
+      "anger": 0.14376113244286812,
+      "neutral": 0.15029138436809716
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "This much we pledge--and more.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.14565814627139323,
+      "unity": 0.14635035468145866,
+      "hope": 0.1799084038834789,
+      "resolve": 0.18551378012461525,
+      "anger": 0.1521079305776119,
+      "neutral": 0.1904613844614421
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "To those old allies whose cultural and spiritual origins we share, we pledge the loyalty of faithful friends.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2212886689670179,
+      "unity": 0.17268065227594487,
+      "hope": 0.13766168228110676,
+      "resolve": 0.2179952678816166,
+      "anger": 0.10368249747616803,
+      "neutral": 0.1466912311181458
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "United, there is little we cannot do in a host of cooperative ventures.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14499048655927327,
+      "unity": 0.21390875908031098,
+      "hope": 0.19808698576266046,
+      "resolve": 0.21517671605900598,
+      "anger": 0.13742660815791055,
+      "neutral": 0.09041044438083877
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "Divided, there is little we can do--for we dare not meet a powerful challenge at odds and split asunder.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.11789476677938192,
+      "unity": 0.2509864615461552,
+      "hope": 0.1585004640222118,
+      "resolve": 0.21256154155695262,
+      "anger": 0.1907489255230198,
+      "neutral": 0.06930784057227862
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "To those new states whom we welcome to the ranks of the free, we pledge our word that one form of colonial control shall not have passed away merely to be replaced by a far more iron tyranny.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18579957850602755,
+      "unity": 0.1514901468757462,
+      "hope": 0.16604110381066356,
+      "resolve": 0.1872554462259804,
+      "anger": 0.15636697750843354,
+      "neutral": 0.15304674707314878
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "We shall not always expect to find them supporting our view.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12010498499569014,
+      "unity": 0.1871771635469221,
+      "hope": 0.183929260457955,
+      "resolve": 0.2439540841235761,
+      "anger": 0.23509092948153895,
+      "neutral": 0.0297435773943177
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "But we shall always hope to find them strongly supporting their own freedom-and to remember that, in the past, those who foolishly sought power by riding the back of the tiger ended up inside.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.2162391939575872,
+      "unity": 0.15169478510004505,
+      "hope": 0.1805563747208773,
+      "resolve": 0.23843245726568468,
+      "anger": 0.14416171591287502,
+      "neutral": 0.06891547304293076
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "To those peoples in the huts and villages of half the globe struggling to break the bonds of mass misery, we pledge our best efforts to help them help themselves, for whatever period is required--not because the communists may be doing it, not because we seek their votes, but because it is right.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1705275884299447,
+      "unity": 0.17529398374283994,
+      "hope": 0.16634401532417728,
+      "resolve": 0.18605527262879665,
+      "anger": 0.17363934984865073,
+      "neutral": 0.1281397900255907
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "If a free society cannot help the many who are poor, it cannot save the few who are rich.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.17375207604992857,
+      "unity": 0.19178457445130478,
+      "hope": 0.1857168047904348,
+      "resolve": 0.1751071253050615,
+      "anger": 0.1839492323528207,
+      "neutral": 0.08969018705044966
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "To our sister republics south of our border, we offer a special pledge--to convert our good words into good deeds--in a new alliance for progress--to assist free men and free governments in casting off the chains of poverty.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19066753470825293,
+      "unity": 0.16996268617382995,
+      "hope": 0.17671467574883717,
+      "resolve": 0.170398339992564,
+      "anger": 0.13951961048122752,
+      "neutral": 0.15273715289528841
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "But this peaceful revolution of hope cannot become the prey of hostile powers.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19389363003801854,
+      "unity": 0.16215482676372292,
+      "hope": 0.16524274503281233,
+      "resolve": 0.23433589702593452,
+      "anger": 0.17045058090053028,
+      "neutral": 0.07392232023898143
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "Let all our neighbors know that we shall join with them to oppose aggression or subversion anywhere in the Americas.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16726824876121177,
+      "unity": 0.16135503404607976,
+      "hope": 0.15008084602252,
+      "resolve": 0.19732089901092945,
+      "anger": 0.18687700441309218,
+      "neutral": 0.1370979677461668
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "And let every other power know that this Hemisphere intends to remain the master of its own house.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19218516160258123,
+      "unity": 0.15049945700472256,
+      "hope": 0.15124851941163606,
+      "resolve": 0.19745863659635338,
+      "anger": 0.15670564793293346,
+      "neutral": 0.15190257745177332
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "To that world assembly of sovereign states, the United Nations, our last best hope in an age where the instruments of war have far outpaced the instruments of peace, we renew our pledge of support--to prevent it from becoming merely a forum for invective--to strengthen its shield of the new and the weak--and to enlarge the area in which its writ may run.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16824759705941053,
+      "unity": 0.16188457327551256,
+      "hope": 0.16406844180414962,
+      "resolve": 0.19757241885297383,
+      "anger": 0.15990420253909948,
+      "neutral": 0.148322766468854
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "Finally, to those nations who would make themselves our adversary, we offer not a pledge but a request: that both sides begin anew the quest for peace, before the dark powers of destruction unleashed by science engulf all humanity in planned or accidental self-destruction.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.126964246405693,
+      "unity": 0.17117460178121485,
+      "hope": 0.17845972137506672,
+      "resolve": 0.20137802341723962,
+      "anger": 0.1705229819196611,
+      "neutral": 0.15150042510112469
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "We dare not tempt them with weakness.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1523059641743868,
+      "unity": 0.15556542360834333,
+      "hope": 0.14885953633182678,
+      "resolve": 0.2616205904451262,
+      "anger": 0.21295533031711975,
+      "neutral": 0.06869315512319718
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "For only when our arms are sufficient beyond doubt can we be certain beyond doubt that they will never be employed.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1449306865935116,
+      "unity": 0.12988433121256998,
+      "hope": 0.15471373151861068,
+      "resolve": 0.2497076986496071,
+      "anger": 0.1872731998441007,
+      "neutral": 0.13349035218159994
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "But neither can two great and powerful groups of nations take comfort from our present course--both sides overburdened by the cost of modern weapons, both rightly alarmed by the steady spread of the deadly atom, yet both racing to alter that uncertain balance of terror that stays the hand of mankind's final war.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15206507987808265,
+      "unity": 0.18642064829064284,
+      "hope": 0.16916169280255683,
+      "resolve": 0.2370752557737101,
+      "anger": 0.17377059427549116,
+      "neutral": 0.08150672897951641
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "So let us begin anew--remembering on both sides that civility is not a sign of weakness, and sincerity is always subject to proof.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13978215016699166,
+      "unity": 0.2025957129921496,
+      "hope": 0.15465193682911155,
+      "resolve": 0.21033595198942526,
+      "anger": 0.15890751434355585,
+      "neutral": 0.13372673367876606
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "Let us never negotiate out of fear.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13210822230880076,
+      "unity": 0.18302880746431813,
+      "hope": 0.14664861517376537,
+      "resolve": 0.21664414358322703,
+      "anger": 0.19672098072172076,
+      "neutral": 0.12484923074816794
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "But let us never fear to negotiate.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12769556353232714,
+      "unity": 0.18677612021861062,
+      "hope": 0.15891930727080442,
+      "resolve": 0.22752418884823922,
+      "anger": 0.17229417991519225,
+      "neutral": 0.12679064021482636
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "Let both sides explore what problems unite us instead of belaboring those problems which divide us.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.14802189078584987,
+      "unity": 0.251919846134185,
+      "hope": 0.16461938126200762,
+      "resolve": 0.1878024606661746,
+      "anger": 0.16365573872451117,
+      "neutral": 0.08398068242727175
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "Let both sides, for the first time, formulate serious and precise proposals for the inspection and control of arms--and bring the absolute power to destroy other nations under the absolute control of all nations.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14882903700885466,
+      "unity": 0.14919072957425678,
+      "hope": 0.1560442734916171,
+      "resolve": 0.2058554935637614,
+      "anger": 0.1865373655376799,
+      "neutral": 0.15354310082383016
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "Let both sides seek to invoke the wonders of science instead of its terrors.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12103679261826783,
+      "unity": 0.19241567004082483,
+      "hope": 0.18620979089130413,
+      "resolve": 0.19784016384246678,
+      "anger": 0.18333642298659655,
+      "neutral": 0.11916115962053986
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "Together let us explore the stars, conquer the deserts, eradicate disease, tap the ocean depths and encourage the arts and commerce.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1407689541928153,
+      "unity": 0.19156521762457834,
+      "hope": 0.22942301082873567,
+      "resolve": 0.18803521944300072,
+      "anger": 0.12160716346665679,
+      "neutral": 0.12860043444421318
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "Let both sides unite to heed in all corners of the earth the command of Isaiah--to \"undo the heavy burdens .",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.14324859308197202,
+      "unity": 0.20042286510619628,
+      "hope": 0.16667921236677075,
+      "resolve": 0.17945058367097647,
+      "anger": 0.16706000154842707,
+      "neutral": 0.14313874422565745
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "(and) let the oppressed go free.\"",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16672717340569404,
+      "unity": 0.1610805550218422,
+      "hope": 0.1515104541746351,
+      "resolve": 0.1637141220016134,
+      "anger": 0.20135900368576465,
+      "neutral": 0.1556086917104506
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "And if a beach-head of cooperation may push back the jungle of suspicion, let both sides join in creating a new endeavor, not a new balance of power, but a new world of law, where the strong are just and the weak secure and the peace preserved.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15464039773019483,
+      "unity": 0.1864470460790481,
+      "hope": 0.17883150495036465,
+      "resolve": 0.20196500326030542,
+      "anger": 0.148956352858297,
+      "neutral": 0.12915969512178996
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "All this will not be finished in the first one hundred days.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.10366069428480452,
+      "unity": 0.1394407273431263,
+      "hope": 0.24048035924362285,
+      "resolve": 0.20973907511091117,
+      "anger": 0.21259804059749618,
+      "neutral": 0.094081103420039
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "Nor will it be finished in the first one thousand days, nor in the life of this Administration, nor even perhaps in our lifetime on this planet.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13503505407341512,
+      "unity": 0.12692349109676024,
+      "hope": 0.19767560370436482,
+      "resolve": 0.18180526572232422,
+      "anger": 0.211070474774599,
+      "neutral": 0.1474901106285366
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "But let us begin.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.10817955143188722,
+      "unity": 0.17740439621011989,
+      "hope": 0.22009624157200391,
+      "resolve": 0.18129746616667738,
+      "anger": 0.1641964877524148,
+      "neutral": 0.14882585686689676
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "In your hands, my fellow citizens, more than mine, will rest the final success or failure of our course.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15836975461142896,
+      "unity": 0.15458105572810707,
+      "hope": 0.17968481007080303,
+      "resolve": 0.2018076789139591,
+      "anger": 0.14058112247225274,
+      "neutral": 0.16497557820344907
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "Since this country was founded, each generation of Americans has been summoned to give testimony to its national loyalty.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22981722191992754,
+      "unity": 0.15367738501528524,
+      "hope": 0.13894716548657626,
+      "resolve": 0.1794858255358133,
+      "anger": 0.1386660856218392,
+      "neutral": 0.15940631642055847
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "The graves of young Americans who answered the call to service surround the globe.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.286629627270539,
+      "unity": 0.12066657037632969,
+      "hope": 0.17157700327223116,
+      "resolve": 0.20407191498327698,
+      "anger": 0.09249408679335004,
+      "neutral": 0.12456079730427315
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "Now the trumpet summons us again-not as a call to bear arms, though arms we need--not as a call to battle, though embattled we are--but a call to bear the burden of a long twilight struggle, year in and year out, \"rejoicing in hope, patient in tribulation\"--a struggle against the common enemies of man: tyranny, poverty, disease and war itself.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17446906855861047,
+      "unity": 0.1638777721905996,
+      "hope": 0.17536282345912083,
+      "resolve": 0.19998103898043743,
+      "anger": 0.1585422064053753,
+      "neutral": 0.12776709040585638
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "Can we forge against these enemies a grand and global alliance, North and South, East and West, that can assure a more fruitful life for all mankind?",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14916504172177758,
+      "unity": 0.20129046571571246,
+      "hope": 0.18681947026544451,
+      "resolve": 0.22825167911658517,
+      "anger": 0.16533779422815092,
+      "neutral": 0.06913554895232933
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "Will you join in that historic effort?",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17352400771308082,
+      "unity": 0.14302642793104736,
+      "hope": 0.18906041168115353,
+      "resolve": 0.18368342941065743,
+      "anger": 0.16112866164777231,
+      "neutral": 0.1495770616162885
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "In the long history of the world, only a few generations have been granted the role of defending freedom in its hour of maximum danger.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20330951324676594,
+      "unity": 0.14346744855625973,
+      "hope": 0.1746946146878504,
+      "resolve": 0.21808344739471447,
+      "anger": 0.16677719736187374,
+      "neutral": 0.0936677787525357
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "I do not shrink from this responsibility--I welcome it.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.07965501691043837,
+      "unity": 0.14785611677824487,
+      "hope": 0.19871579046944463,
+      "resolve": 0.2059962991114319,
+      "anger": 0.1615977492789324,
+      "neutral": 0.20617902745150782
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "I do not believe that any of us would exchange places with any other people or any other generation.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1870153617476097,
+      "unity": 0.20307052600666597,
+      "hope": 0.18075267793666916,
+      "resolve": 0.12851073156307236,
+      "anger": 0.21148608597741353,
+      "neutral": 0.0891646167685693
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "The energy, the faith, the devotion which we bring to this endeavor will light our country and all who serve it--and the glow from that fire can truly light the world.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19506341278160222,
+      "unity": 0.15274180976239335,
+      "hope": 0.20390592835389995,
+      "resolve": 0.20484218192820297,
+      "anger": 0.09262222462144397,
+      "neutral": 0.15082444255245755
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "And so, my fellow Americans: ask not what your country can do for you--ask what you can do for your country.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.219899508584385,
+      "unity": 0.1558760431485712,
+      "hope": 0.1550683100631796,
+      "resolve": 0.18274622621335,
+      "anger": 0.1510196325815667,
+      "neutral": 0.13539027940894752
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "My fellow citizens of the world: ask not what America will do for you, but what together we can do for the freedom of man.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20076451969106673,
+      "unity": 0.14720807192308497,
+      "hope": 0.18174883686364685,
+      "resolve": 0.1874928839249123,
+      "anger": 0.15303733584548615,
+      "neutral": 0.129748351751803
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "Finally, whether you are citizens of America or citizens of the world, ask of us here the same high standards of strength and sacrifice which we ask of you.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20030044309418782,
+      "unity": 0.15041184751226488,
+      "hope": 0.13889603738715448,
+      "resolve": 0.20081032303075436,
+      "anger": 0.1463559894409492,
+      "neutral": 0.16322535953468925
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "With a good conscience our only sure reward, with history the final judge of our deeds, let us go forth to lead the land we love, asking His blessing and His help, but knowing that here on earth God's work must truly be our own.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17633258336335217,
+      "unity": 0.14984952410968283,
+      "hope": 0.20345709718919555,
+      "resolve": 0.19389656564931,
+      "anger": 0.12016575454138496,
+      "neutral": 0.15629847514707448
+    }
+  }
+]

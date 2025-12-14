@@ -1,0 +1,431 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "About to add the solemnity of an oath to the obligations imposed by a second call to the station in which my country heretofore placed me, I find in the presence of this respectable assembly an opportunity of publicly repeating my profound sense of so distinguished a confidence and of the responsibility united with it.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1641967845937923,
+      "unity": 0.13135982084613826,
+      "hope": 0.15951527123925296,
+      "resolve": 0.15727320042466242,
+      "anger": 0.12562205036361968,
+      "neutral": 0.2620328725325344
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "The impressions on me are strengthened by such an evidence that my faithful endeavors to discharge my arduous duties have been favorably estimated, and by a consideration of the momentous period at which the trust has been renewed.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17471195139766812,
+      "unity": 0.09784462748625729,
+      "hope": 0.18769685432768365,
+      "resolve": 0.22018085040343294,
+      "anger": 0.07874932609565058,
+      "neutral": 0.24081639028930743
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "From the weight and magnitude now belonging to it I should be compelled to shrink if I had less reliance on the support of an enlightened and generous people, and felt less deeply a conviction that the war with a powerful nation, which forms so prominent a feature in our situation, is stamped with that justice which invites the smiles of Heaven on the means of conducting it to a successful termination.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17784205630638475,
+      "unity": 0.16132365669427642,
+      "hope": 0.14445126004048997,
+      "resolve": 0.18705122691527584,
+      "anger": 0.16546478090519035,
+      "neutral": 0.16386701913838267
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "May we not cherish this sentiment without presumption when we reflect on the characters by which this war is distinguished?",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21381129973313806,
+      "unity": 0.1580818802600739,
+      "hope": 0.14404500122234074,
+      "resolve": 0.20626997240510256,
+      "anger": 0.15633045562255551,
+      "neutral": 0.12146139075678926
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "It was not declared on the part of the United States until it had been long made on them, in reality though not in name; until arguments and postulations had been exhausted; until a positive declaration had been received that the wrongs provoking it would not be discontinued; nor until this last appeal could no longer be delayed without breaking down the spirit of the nation, destroying all confidence in itself and in its political institutions, and either perpetuating a state of disgraceful suffering or regaining by more costly sacrifices and more severe struggles our lost rank and respect among independent powers.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2119568031217786,
+      "unity": 0.15855068777460601,
+      "hope": 0.09072988097488822,
+      "resolve": 0.17283190265436377,
+      "anger": 0.1992066358177234,
+      "neutral": 0.16672408965664
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "On the issue of the war are staked our national sovereignty on the high seas and the security of an important class of citizens, whose occupations give the proper value to those of every other class.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22163920681572358,
+      "unity": 0.137874907340491,
+      "hope": 0.14140695102071021,
+      "resolve": 0.21752585301389948,
+      "anger": 0.15202224303483822,
+      "neutral": 0.12953083877433752
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "Not to contend for such a stake is to surrender our equality with other powers on the element common to all and to violate the sacred title which every member of the society has to its protection.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1471260428397648,
+      "unity": 0.19156963981064024,
+      "hope": 0.13708600116058461,
+      "resolve": 0.1871474013441363,
+      "anger": 0.20071287679988442,
+      "neutral": 0.13635803804498964
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "I need not call into view the unlawfulness of the practice by which our mariners are forced at the will of every cruising officer from their own vessels into foreign ones, nor paint the outrages inseparable from it.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15996490695362692,
+      "unity": 0.172690758238047,
+      "hope": 0.06547621852601149,
+      "resolve": 0.21046932881715102,
+      "anger": 0.25593839279439573,
+      "neutral": 0.13546039467076787
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "The proofs are in the records of each successive Administration of our Government, and the cruel sufferings of that portion of the American people have found their way to every bosom not dead to the sympathies of human nature.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.26289652789184936,
+      "unity": 0.1456184555181118,
+      "hope": 0.0959913332248953,
+      "resolve": 0.17598086535519689,
+      "anger": 0.2121058343383779,
+      "neutral": 0.10740698367156871
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "As the war was just in its origin and necessary and noble in its objects, we can reflect with a proud satisfaction that in carrying it on no principle of justice or honor, no usage of civilized nations, no precept of courtesy or humanity, have been infringed.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.26357453765454086,
+      "unity": 0.13012374074953234,
+      "hope": 0.10676913466221222,
+      "resolve": 0.18920325095396678,
+      "anger": 0.15878928370318135,
+      "neutral": 0.15154005227656644
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "The war has been waged on our part with scrupulous regard to all these obligations, and in a spirit of liberality which was never surpassed.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.25938598275191493,
+      "unity": 0.11552109049641458,
+      "hope": 0.12266581580936857,
+      "resolve": 0.23536305231341095,
+      "anger": 0.14275472781977988,
+      "neutral": 0.12430933080911108
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "How little has been the effect of this example on the conduct of the enemy!",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.20417958803296152,
+      "unity": 0.12872775615756635,
+      "hope": 0.10789609944142918,
+      "resolve": 0.2203654571329928,
+      "anger": 0.22307740805077642,
+      "neutral": 0.11575369118427375
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "They have retained as prisoners of war citizens of the United States not liable to be so considered under the usages of war.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2918743045799784,
+      "unity": 0.10742939754757418,
+      "hope": -0.017194852273893377,
+      "resolve": 0.23828643389174012,
+      "anger": 0.24819851077840357,
+      "neutral": 0.1314062054761971
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "They have refused to consider as prisoners of war, and threatened to punish as traitors and deserters, persons emigrating without restraint to the United States, incorporated by naturalization into our political family, and fighting under the authority of their adopted country in open and honorable war for the maintenance of its rights and safety.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1916066512896912,
+      "unity": 0.12603975998264738,
+      "hope": 0.061343393652156804,
+      "resolve": 0.22124638296035506,
+      "anger": 0.28235214779802176,
+      "neutral": 0.11741166431712777
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "Such is the avowed purpose of a Government which is in the practice of naturalizing by thousands citizens of other countries, and not only of permitting but compelling them to fight its battles against their native country.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2398052281963961,
+      "unity": 0.1640133881002401,
+      "hope": 0.12410976666991981,
+      "resolve": 0.20364819738915493,
+      "anger": 0.18292417956651047,
+      "neutral": 0.0854992400777786
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "They have not, it is true, taken into their own hands the hatchet and the knife, devoted to indiscriminate massacre, but they have let loose the savages armed with these cruel instruments; have allured them into their service, and carried them to battle by their sides, eager to glut their savage thirst with the blood of the vanquished and to finish the work of torture and death on maimed and defenseless captives.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20016965317394342,
+      "unity": 0.15340148702270281,
+      "hope": 0.10312371944130258,
+      "resolve": 0.22292129148370093,
+      "anger": 0.2036613062428413,
+      "neutral": 0.11672254263550898
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "And, what was never before seen, British commanders have extorted victory over the unconquerable valor of our troops by presenting to the sympathy of their chief captives awaiting massacre from their savage associates.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.25802450396235166,
+      "unity": 0.12167822274191378,
+      "hope": 0.10582716840111342,
+      "resolve": 0.20672064309177643,
+      "anger": 0.18109788519993758,
+      "neutral": 0.12665157660290716
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "And now we find them, in further contempt of the modes of honorable warfare, supplying the place of a conquering force by attempts to disorganize our political society, to dismember our confederated Republic.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16915115477256892,
+      "unity": 0.17621461534857302,
+      "hope": 0.11239401664953133,
+      "resolve": 0.20618249505682926,
+      "anger": 0.24972235889815306,
+      "neutral": 0.08633535927434441
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "Happily, like others, these will recoil on the authors; but they mark the degenerate counsels from which they emanate, and if they did not belong to a sense of unexampled inconsistencies might excite the greater wonder as proceeding from a Government which founded the very war in which it has been so long engaged on a charge against the disorganizing and insurrectional policy of its adversary.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1571765692383827,
+      "unity": 0.16979059789653814,
+      "hope": 0.12535241867294608,
+      "resolve": 0.20145191726860975,
+      "anger": 0.22709484141493366,
+      "neutral": 0.1191336555085897
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "To render the justice of the war on our part the more conspicuous, the reluctance to commence it was followed by the earliest and strongest manifestations of a disposition to arrest its progress.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.19045372189202028,
+      "unity": 0.15341761580839677,
+      "hope": 0.10954593680146454,
+      "resolve": 0.21660397586971078,
+      "anger": 0.2332220563619857,
+      "neutral": 0.0967566932664219
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "The sword was scarcely out of the scabbard before the enemy was apprised of the reasonable terms on which it would be resheathed.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12775193950399127,
+      "unity": 0.0968353571338727,
+      "hope": 0.14993685929967795,
+      "resolve": 0.2470240900916363,
+      "anger": 0.1817757207449187,
+      "neutral": 0.19667603322590305
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "Still more precise advances were repeated, and have been received in a spirit forbidding every reliance not placed on the military resources of the nation.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21838274354996243,
+      "unity": 0.11195493632179748,
+      "hope": 0.1425913500250619,
+      "resolve": 0.26785185771825876,
+      "anger": 0.14342819782410546,
+      "neutral": 0.11579091456081396
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "These resources are amply sufficient to bring the war to an honorable issue.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18952740683015057,
+      "unity": 0.12586074509803388,
+      "hope": 0.1354896366075159,
+      "resolve": 0.2246471762807319,
+      "anger": 0.18802674906369177,
+      "neutral": 0.13644828611987597
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "Our nation is in number more than half that of the British Isles.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.31617587195383,
+      "unity": 0.18781753036537352,
+      "hope": 0.11291868693770753,
+      "resolve": 0.16863235196363077,
+      "anger": 0.1489406705920521,
+      "neutral": 0.06551488818740607
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "It is composed of a brave, a free, a virtuous, and an intelligent people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2845199542009428,
+      "unity": 0.17630462487175783,
+      "hope": 0.17043178587041644,
+      "resolve": 0.17736115358607676,
+      "anger": 0.10547248341012817,
+      "neutral": 0.08590999806067805
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "Our country abounds in the necessaries, the arts, and the comforts of life.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.28066617560342133,
+      "unity": 0.14270258583223763,
+      "hope": 0.1643105853678775,
+      "resolve": 0.15869969185949742,
+      "anger": 0.11642911609821713,
+      "neutral": 0.137191845238749
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "A general prosperity is visible in the public countenance.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.27910279073625355,
+      "unity": 0.11156244454036615,
+      "hope": 0.216162951637725,
+      "resolve": 0.12957910953402946,
+      "anger": 0.10456009220791103,
+      "neutral": 0.15903261134371485
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "The means employed by the British cabinet to undermine it have recoiled on themselves; have given to our national faculties a more rapid development, and, draining or diverting the precious metals from British circulation and British vaults, have poured them into those of the United States.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.2197261937944389,
+      "unity": 0.15834842113073166,
+      "hope": 0.12391556162825147,
+      "resolve": 0.1542125918175377,
+      "anger": 0.22103750677314557,
+      "neutral": 0.1227597248558947
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "It is a propitious consideration that an unavoidable war should have found this seasonable facility for the contributions required to support it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16111889456082182,
+      "unity": 0.12952214463851935,
+      "hope": 0.14742577967677148,
+      "resolve": 0.24764242378316484,
+      "anger": 0.20719884995117605,
+      "neutral": 0.10709190738954646
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "When the public voice called for war, all knew, and still know, that without them it could not be carried on through the period which it might last, and the patriotism, the good sense, and the manly spirit of our fellow-citizens are pledges for the cheerfulness with which they will bear each his share of the common burden.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20311557784717643,
+      "unity": 0.15461138580108458,
+      "hope": 0.15352853344197076,
+      "resolve": 0.19744302005803618,
+      "anger": 0.1455207203768965,
+      "neutral": 0.14578076247483554
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "To render the war short and its success sure, animated and systematic exertions alone are necessary, and the success of our arms now may long preserve our country from the necessity of another resort to them.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.2091054769719851,
+      "unity": 0.1265576703723873,
+      "hope": 0.11820052427195708,
+      "resolve": 0.2456610774087362,
+      "anger": 0.14464327588608025,
+      "neutral": 0.1558319750888541
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "Already have the gallant exploits of our naval heroes proved to the world our inherent capacity to maintain our rights on one element.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22611864764349116,
+      "unity": 0.13070107978730391,
+      "hope": 0.1498492141172598,
+      "resolve": 0.21370892776523456,
+      "anger": 0.15183772267633167,
+      "neutral": 0.1277844080103789
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "If the reputation of our arms has been thrown under clouds on the other, presaging flashes of heroic enterprise assure us that nothing is wanting to correspondent triumphs there also but the discipline and habits which are in daily progress.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.2087042839662367,
+      "unity": 0.1256467338035476,
+      "hope": 0.1981438446735744,
+      "resolve": 0.23667113186467514,
+      "anger": 0.09823102947073492,
+      "neutral": 0.13260297622123124
+    }
+  }
+]

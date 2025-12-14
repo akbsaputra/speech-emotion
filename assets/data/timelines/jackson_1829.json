@@ -1,0 +1,327 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Fellow-Citizens:\nAbout to undertake the arduous duties that I have been appointed to perform by the choice of a free people, I avail myself of this customary and solemn occasion to express the gratitude which their confidence inspires and to acknowledge the accountability which my situation enjoins.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1722028532374758,
+      "unity": 0.12323458241219047,
+      "hope": 0.16825024872338046,
+      "resolve": 0.15738401598814256,
+      "anger": 0.12673094535696575,
+      "neutral": 0.252197354281845
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "While the magnitude of their interests convinces me that no thanks can be adequate to the honor they have conferred, it admonishes me that the best return I can make is the zealous dedication of my humble abilities to their service and their good.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1806918449692555,
+      "unity": 0.12972837804023812,
+      "hope": 0.14637502648127426,
+      "resolve": 0.2033957063343337,
+      "anger": 0.1384434837716936,
+      "neutral": 0.2013655604032048
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "As the instrument of the Federal Constitution it will devolve on me for a stated period to execute the laws of the United States, to superintend their foreign and their confederate relations, to manage their revenue, to command their forces, and, by communications to the Legislature, to watch over and to promote their interests generally.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16989375443480473,
+      "unity": 0.13845476117539013,
+      "hope": 0.14617268934185848,
+      "resolve": 0.18468252492304935,
+      "anger": 0.14375108647407422,
+      "neutral": 0.21704518365082306
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "And the principles of action by which I shall endeavor to accomplish this circle of duties it is now proper for me briefly to explain.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1181331048464501,
+      "unity": 0.1584421890507487,
+      "hope": 0.1783652883507755,
+      "resolve": 0.1925320064166205,
+      "anger": 0.1372646266124137,
+      "neutral": 0.21526278472299148
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "In administering the laws of Congress I shall keep steadily in view the limitations as well as the extent of the Executive power, trusting thereby to discharge the functions of my office without transcending its authority.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16813623952823184,
+      "unity": 0.11902436040934383,
+      "hope": 0.134024253349912,
+      "resolve": 0.23069924456293225,
+      "anger": 0.13243129845312818,
+      "neutral": 0.2156846036964519
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "With foreign nations it will be my study to preserve peace and to cultivate friendship on fair and honorable terms, and in the adjustment of any differences that may exist or arise to exhibit the forbearance becoming a powerful nation rather than the sensibility belonging to a gallant people.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18792653302834306,
+      "unity": 0.17841199343538616,
+      "hope": 0.17930238969292603,
+      "resolve": 0.20932517413643012,
+      "anger": 0.10815301327018349,
+      "neutral": 0.13688089643673115
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "In such measures as I may be called on to pursue in regard to the rights of the separate States I hope to be animated by a proper respect for those sovereign members of our Union, taking care not to confound the powers they have reserved to themselves with those they have granted to the Confederacy.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1698677727122327,
+      "unity": 0.1879746085092971,
+      "hope": 0.144611539085643,
+      "resolve": 0.20722322921007577,
+      "anger": 0.12981221619907168,
+      "neutral": 0.16051063428367976
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "The management of the public revenue--that searching operation in all governments--is among the most delicate and important trusts in ours, and it will, of course, demand no inconsiderable share of my official solicitude.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.07915343737738145,
+      "unity": 0.14918283816304842,
+      "hope": 0.17837992136815312,
+      "resolve": 0.220611545963403,
+      "anger": 0.19732621345858553,
+      "neutral": 0.17534604366942852
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Under every aspect in which it can be considered it would appear that advantage must result from the observance of a strict and faithful economy.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.30885185518159325,
+      "unity": 0.12559705994754608,
+      "hope": 0.14952463765310978,
+      "resolve": 0.3095829151630819,
+      "anger": 0.07981704875470672,
+      "neutral": 0.02662648329996229
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "This I shall aim at the more anxiously both because it will facilitate the extinguishment of the national debt, the unnecessary duration of which is incompatible with real independence, and because it will counteract that tendency to public and private profligacy which a profuse expenditure of money by the Government is but too apt to engender.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15141931648723994,
+      "unity": 0.14431905116075916,
+      "hope": 0.1753312870999668,
+      "resolve": 0.18421973396970207,
+      "anger": 0.17747567301809572,
+      "neutral": 0.16723493826423635
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "Powerful auxiliaries to the attainment of this desirable end are to be found in the regulations provided by the wisdom of Congress for the specific appropriation of public money and the prompt accountability of public officers.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1746207765997788,
+      "unity": 0.10325958560105111,
+      "hope": 0.1398802191608699,
+      "resolve": 0.19442678241860678,
+      "anger": 0.1926887101366772,
+      "neutral": 0.1951239260830162
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "With regard to a proper selection of the subjects of impost with a view to revenue, it would seem to me that the spirit of equity, caution, and compromise in which the Constitution was formed requires that the great interests of agriculture, commerce, and manufactures should be equally favored, and that perhaps the only exception to this rule should consist in the peculiar encouragement of any products of either of them that may be found essential to our national independence.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1842290662561394,
+      "unity": 0.17798839748813297,
+      "hope": 0.14556982553117162,
+      "resolve": 0.18042621482588517,
+      "anger": 0.18061829456953488,
+      "neutral": 0.13116820132913595
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "Internal improvement and the diffusion of knowledge, so far as they can be promoted by the constitutional acts of the Federal Government, are of high importance.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23223018552107638,
+      "unity": 0.13821416696905345,
+      "hope": 0.17091957567547578,
+      "resolve": 0.20402269604636192,
+      "anger": 0.1300337023510733,
+      "neutral": 0.12457967343695914
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "Considering standing armies as dangerous to free governments in time of peace, I shall not seek to enlarge our present establishment, nor disregard that salutary lesson of political experience which teaches that the military should be held subordinate to the civil power.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1590905837579238,
+      "unity": 0.16418787006505078,
+      "hope": 0.13604828052765808,
+      "resolve": 0.23798336909491108,
+      "anger": 0.1709004037375841,
+      "neutral": 0.13178949281687216
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "The gradual increase of our Navy, whose flag has displayed in distant climes our skill in navigation and our fame in arms; the preservation of our forts, arsenals, and dockyards, and the introduction of progressive improvements in the discipline and science of both branches of our military service are so plainly prescribed by prudence that I should be excused for omitting their mention sooner than for enlarging on their importance.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2516439555507377,
+      "unity": 0.10794015101727629,
+      "hope": 0.1754750901669286,
+      "resolve": 0.22788663409635265,
+      "anger": 0.0759823693295498,
+      "neutral": 0.16107179983915493
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "But the bulwark of our defense is the national militia, which in the present state of our intelligence and population must render us invincible.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.23753747382812254,
+      "unity": 0.15064933133484862,
+      "hope": 0.1303446579804852,
+      "resolve": 0.2685571758651614,
+      "anger": 0.1403363707792388,
+      "neutral": 0.07257499021214339
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "As long as our Government is administered for the good of the people, and is regulated by their will; as long as it secures to us the rights of person and of property, liberty of conscience and of the press, it will be worth defending; and so long as it is worth defending a patriotic militia will cover it with an impenetrable aegis.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21914241020583458,
+      "unity": 0.13788148541653583,
+      "hope": 0.13857153461223,
+      "resolve": 0.23330929220720326,
+      "anger": 0.16043850508233806,
+      "neutral": 0.11065677247585827
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "Partial injuries and occasional mortifications we may be subjected to, but a million of armed freemen, possessed of the means of war, can never be conquered by a foreign foe.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.24123368069518886,
+      "unity": 0.13793443987401804,
+      "hope": 0.11215025860474805,
+      "resolve": 0.26183513113215334,
+      "anger": 0.16146825498038175,
+      "neutral": 0.08537823471350996
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "To any just system, therefore, calculated to strengthen this natural safeguard of the country I shall cheerfully lend all the aid in my power.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19845023717844937,
+      "unity": 0.14485063204763035,
+      "hope": 0.14170918335982982,
+      "resolve": 0.1947037481532603,
+      "anger": 0.1521765540347741,
+      "neutral": 0.16810964522605604
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "It will be my sincere and constant desire to observe toward the Indian tribes within our limits a just and liberal policy, and to give that humane and considerate attention to their rights and their wants which is consistent with the habits of our Government and the feelings of our people.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15279932194053814,
+      "unity": 0.1548758389904435,
+      "hope": 0.17897774627663343,
+      "resolve": 0.1788438995876022,
+      "anger": 0.16117453455323644,
+      "neutral": 0.1733286586515463
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "The recent demonstration of public sentiment inscribes on the list of Executive duties, in characters too legible to be overlooked, the task of 'reform', which will require particularly the correction of those abuses that have brought the patronage of the Federal Government into conflict with the freedom of elections, and the counteraction of those causes which have disturbed the rightful course of appointment and have placed or continued power in unfaithful or incompetent hands.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16494644553119792,
+      "unity": 0.1430859945400756,
+      "hope": 0.13323307536475487,
+      "resolve": 0.1571803654347619,
+      "anger": 0.22429912194029056,
+      "neutral": 0.17725499718891918
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "In the performance of a task thus generally delineated I shall endeavor to select men whose diligence and talents will insure in their respective stations able and faithful cooperation, depending for the advancement of the public service more on the integrity and zeal of the public officers than on their numbers.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1331713304916218,
+      "unity": 0.15485804059129904,
+      "hope": 0.1746852679702184,
+      "resolve": 0.22539897262524516,
+      "anger": 0.1323427193505434,
+      "neutral": 0.1795436689710722
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "A diffidence, perhaps too just, in my own qualifications will teach me to look with reverence to the examples of public virtue left by my illustrious predecessors, and with veneration to the lights that flow from the mind that founded and the mind that reformed our system.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18192591423680016,
+      "unity": 0.15744127223435705,
+      "hope": 0.19318271264075515,
+      "resolve": 0.17563522409567794,
+      "anger": 0.12631396705886627,
+      "neutral": 0.16550090973354342
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "The same diffidence induces me to hope for instruction and aid from the coordinate branches of the Government, and for the indulgence and support of my fellow-citizens generally.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.12467162151680285,
+      "unity": 0.19417113413108544,
+      "hope": 0.19221798142005453,
+      "resolve": 0.19209003767143748,
+      "anger": 0.14917069032620744,
+      "neutral": 0.14767853493441227
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "And a firm reliance on the goodness of that Power whose providence mercifully protected our national infancy, and has since upheld our liberties in various vicissitudes, encourages me to offer up my ardent supplications that He will continue to make our beloved country the object of His divine care and gracious benediction.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22140710291752955,
+      "unity": 0.13657908954487621,
+      "hope": 0.1646995456211752,
+      "resolve": 0.18896770295160417,
+      "anger": 0.1298913740152967,
+      "neutral": 0.15845518494951816
+    }
+  }
+]

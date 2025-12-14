@@ -1,0 +1,1536 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "[Delivered in person at the Capitol]\nMr. Vice President, Mr. Chief Justice, fellow citizens:\nI accept with humility the honor which the American people have conferred upon me.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.21031518896923662,
+      "unity": 0.11176876954212588,
+      "hope": 0.12876504442782222,
+      "resolve": 0.12269232503729988,
+      "anger": 0.13692143562902365,
+      "neutral": 0.28953723639449175
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "I accept it with a resolve to do all that I can for the welfare of this Nation and for the peace of the world.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1755387276597591,
+      "unity": 0.11552148288403309,
+      "hope": 0.1489758739002125,
+      "resolve": 0.16747007472545503,
+      "anger": 0.14602952234357042,
+      "neutral": 0.2464643184869699
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "In performing the duties of my office, I need the help and the prayers of every one of you.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.08963885935221502,
+      "unity": 0.16168139255348113,
+      "hope": 0.1828991849010901,
+      "resolve": 0.18049508095277617,
+      "anger": 0.16125119556546702,
+      "neutral": 0.22403428667497052
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "I ask for your encouragement and for your support.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14004592433281302,
+      "unity": 0.16210869956171997,
+      "hope": 0.20675556180264057,
+      "resolve": 0.21551281742443848,
+      "anger": 0.1056245148915559,
+      "neutral": 0.16995248198683208
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "The tasks we face are difficult.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12957429566406822,
+      "unity": 0.16437452736040645,
+      "hope": 0.21932542867311974,
+      "resolve": 0.2904218576184129,
+      "anger": 0.1341039646593296,
+      "neutral": 0.0621999260246631
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "We can accomplish them only if we work together.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.12257347703548627,
+      "unity": 0.2063795486703627,
+      "hope": 0.21081543728823607,
+      "resolve": 0.20977550535731143,
+      "anger": 0.1463296035908208,
+      "neutral": 0.1041264280577827
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "Each period of our national history has had its special challenges.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2388454092832009,
+      "unity": 0.1794887308517942,
+      "hope": 0.16658283797626194,
+      "resolve": 0.20679893794938164,
+      "anger": 0.14315627107129125,
+      "neutral": 0.06512781286807008
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "Those that confront us now are as momentous as any in the past.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16988208561552479,
+      "unity": 0.14763196424970212,
+      "hope": 0.20175084706209886,
+      "resolve": 0.20467939137645447,
+      "anger": 0.1666425567917419,
+      "neutral": 0.10941315490447788
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Today marks the beginning not only of a new administration, but of a period that will be eventful, perhaps decisive, for us and for the world.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15878772885207196,
+      "unity": 0.14791994078824947,
+      "hope": 0.21616163106000488,
+      "resolve": 0.16916684878045843,
+      "anger": 0.14531771639955932,
+      "neutral": 0.16264613411965598
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "It may be our lot to experience, and in a large measure bring about, a major turning point in the long history of the human race.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15711182718916655,
+      "unity": 0.15612279516941435,
+      "hope": 0.24844655418970585,
+      "resolve": 0.1941132944112038,
+      "anger": 0.13764702672174658,
+      "neutral": 0.10655850231876283
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "The first half of this century has been marked by unprecedented and brutal attacks on the rights of man, and by the two most frightful wars in history.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1968560474346668,
+      "unity": 0.15406787072799746,
+      "hope": 0.17197516665206158,
+      "resolve": 0.19063770222321713,
+      "anger": 0.214744254423827,
+      "neutral": 0.07171895853823
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "The supreme need of our time is for men to learn to live together in peace and harmony.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1270544906306025,
+      "unity": 0.21061041960736385,
+      "hope": 0.19711119434521215,
+      "resolve": 0.18788152429337676,
+      "anger": 0.14437718402784272,
+      "neutral": 0.13296518709560204
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "The peoples of the earth face the future with grave uncertainty, composed almost equally of great hopes and great fears.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.13085776743963748,
+      "unity": 0.17308227382636013,
+      "hope": 0.26746834779259965,
+      "resolve": 0.2076981816536718,
+      "anger": 0.12180836455326198,
+      "neutral": 0.09908506473446897
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "In this time of doubt, they look to the United States as never before for good will, strength, and wise leadership.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2219295377954398,
+      "unity": 0.16092104210763872,
+      "hope": 0.17321463732313727,
+      "resolve": 0.22045512678433574,
+      "anger": 0.12053588512330642,
+      "neutral": 0.10294377086614205
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "It is fitting, therefore, that we take this occasion to proclaim to the world the essential principles of the faith by which we live, and to declare our aims to all peoples.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16582321355412225,
+      "unity": 0.17185496953103235,
+      "hope": 0.19119169802439703,
+      "resolve": 0.18387718995680832,
+      "anger": 0.12166423028141742,
+      "neutral": 0.16558869865222262
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "The American people stand firm in the faith which has inspired this Nation from the beginning.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24030064637477794,
+      "unity": 0.1555902119268375,
+      "hope": 0.1471707508482203,
+      "resolve": 0.19941680190564337,
+      "anger": 0.1305645147441444,
+      "neutral": 0.12695707420037652
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "We believe that all men have a right to equal justice under law and equal opportunity to share in the common good.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18134782879364306,
+      "unity": 0.18375292698693324,
+      "hope": 0.1499927527434919,
+      "resolve": 0.19934167470151468,
+      "anger": 0.1605087622971189,
+      "neutral": 0.12505605447729823
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "We believe that all men have a right to freedom of thought and expression.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19629297101491572,
+      "unity": 0.1660193149536275,
+      "hope": 0.148634337802325,
+      "resolve": 0.19528226173580568,
+      "anger": 0.17276395936609984,
+      "neutral": 0.12100715512722623
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "We believe that all men are created equal because they are created in the image of God.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2302391953045437,
+      "unity": 0.21070235790928402,
+      "hope": 0.15193555951878226,
+      "resolve": 0.20746355159123198,
+      "anger": 0.08952953956702307,
+      "neutral": 0.11012979610913498
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "From this faith we will not be moved.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13750282186033638,
+      "unity": 0.16118457197680566,
+      "hope": 0.17939737091335342,
+      "resolve": 0.26038246998952325,
+      "anger": 0.1471070588986666,
+      "neutral": 0.11442570636131472
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "The American people desire, and are determined to work for, a world in which all nations and all peoples are free to govern themselves as they see fit, and to achieve a decent and satisfying life.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23506822120108697,
+      "unity": 0.1693115853302244,
+      "hope": 0.15359127773883358,
+      "resolve": 0.19296731873615403,
+      "anger": 0.16320825815684306,
+      "neutral": 0.08585333883685796
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "Above all else, our people desire, and are determined to work for, peace on earth--a just and lasting peace--based on genuine agreement freely arrived at by equals.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16193515550377796,
+      "unity": 0.18440181407687523,
+      "hope": 0.17655727873826477,
+      "resolve": 0.21439479638950165,
+      "anger": 0.134062393917492,
+      "neutral": 0.12864856137408842
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "In the pursuit of these aims, the United States and other like-minded nations find themselves directly opposed by a regime with contrary aims and a totally different concept of life.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17182719018790069,
+      "unity": 0.21835649253719172,
+      "hope": 0.14088445836449404,
+      "resolve": 0.2225884470427212,
+      "anger": 0.23052898950017428,
+      "neutral": 0.0158144223675181
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "That regime adheres to a false philosophy which purports to offer freedom, security, and greater opportunity to mankind.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.22599400151530813,
+      "unity": 0.15213969979276404,
+      "hope": 0.13604417132483276,
+      "resolve": 0.18202228432482556,
+      "anger": 0.2489024715645549,
+      "neutral": 0.05489737147771461
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "Misled by that philosophy, many peoples have sacrificed their liberties only to learn to their sorrow that deceit and mockery, poverty and tyranny, are their reward.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21757275165248258,
+      "unity": 0.15201082238889127,
+      "hope": 0.14120381089705436,
+      "resolve": 0.1931722531318379,
+      "anger": 0.20431904223904507,
+      "neutral": 0.09172131969068882
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "That false philosophy is communism.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16518044795701528,
+      "unity": 0.22522890427326925,
+      "hope": 0.1807375481541212,
+      "resolve": 0.17498908688150247,
+      "anger": 0.21256668657539726,
+      "neutral": 0.04129732615869452
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "Communism is based on the belief that man is so weak and inadequate that he is unable to govern himself, and therefore requires the rule of strong masters.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23695054604719853,
+      "unity": 0.2103555060112098,
+      "hope": 0.11837474260452721,
+      "resolve": 0.20293075671072341,
+      "anger": 0.16903722935885293,
+      "neutral": 0.06235121926748808
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "Democracy is based on the conviction that man has the moral and intellectual capacity, as well as the inalienable right, to govern himself with reason and justice.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22033445673005336,
+      "unity": 0.16558895982525804,
+      "hope": 0.13073885117953613,
+      "resolve": 0.1979966294080368,
+      "anger": 0.18608651694177655,
+      "neutral": 0.0992545859153391
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "Communism subjects the individual to arrest without lawful cause, punishment without trial, and forced labor as the chattel of the state.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.25636242430825923,
+      "unity": 0.14498879466666592,
+      "hope": 0.09050189450071319,
+      "resolve": 0.17378947316832072,
+      "anger": 0.2939375271279348,
+      "neutral": 0.040419886228106126
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "It decrees what information he shall receive, what art he shall produce, what leaders he shall follow, and what thoughts he shall think.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1294359637271315,
+      "unity": 0.1814175477632892,
+      "hope": 0.18849254101592275,
+      "resolve": 0.22422146545334812,
+      "anger": 0.153637396561665,
+      "neutral": 0.12279508547864344
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "Democracy maintains that government is established for the benefit of the individual, and is charged with the responsibility of protecting the rights of the individual and his freedom in the exercise of those abilities of his.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2578694354786064,
+      "unity": 0.16541959258756786,
+      "hope": 0.10562614404209822,
+      "resolve": 0.2042353312344327,
+      "anger": 0.17206527245206324,
+      "neutral": 0.09478422420523158
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "Communism maintains that social wrongs can be corrected only by violence.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.01885954261678988,
+      "unity": 0.27308314711745896,
+      "hope": -0.15999309011581558,
+      "resolve": 0.2978432738886493,
+      "anger": 0.7080859632119546,
+      "neutral": -0.13787883671903708
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "Democracy has proved that social justice can be achieved through peaceful change.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20133716817204114,
+      "unity": 0.14395752649178425,
+      "hope": 0.15191432015439993,
+      "resolve": 0.16365517270448565,
+      "anger": 0.19694703525216098,
+      "neutral": 0.14218877722512804
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "Communism holds that the world is so widely divided into opposing classes that war is inevitable.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.14001430577925789,
+      "unity": 0.21732877465612713,
+      "hope": 0.15144029992419109,
+      "resolve": 0.21497452336494344,
+      "anger": 0.21277317350517047,
+      "neutral": 0.06346892277030998
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "Democracy holds that free nations can settle differences justly and maintain a lasting peace.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20467076930258732,
+      "unity": 0.17207576153758064,
+      "hope": 0.13283941732047638,
+      "resolve": 0.20966615728105528,
+      "anger": 0.17274935066838254,
+      "neutral": 0.10799854388991784
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "These differences between communism and democracy do not concern the United States alone.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2916040612167445,
+      "unity": 0.2008252000261813,
+      "hope": 0.07210403235414177,
+      "resolve": 0.20121549469472533,
+      "anger": 0.2370833233685164,
+      "neutral": -0.0028321116603092326
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "People everywhere are coming to realize that what is involved is material well-being, human dignity, and the right to believe in and worship God.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1832661620201908,
+      "unity": 0.18022201657715706,
+      "hope": 0.20995535570351848,
+      "resolve": 0.15421237542661764,
+      "anger": 0.14783436245084922,
+      "neutral": 0.12450972782166678
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "I state these differences, not to draw issues of belief as such, but because the actions resulting from the Communist philosophy are a threat to the efforts of free nations to bring about world recovery and lasting peace.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.17123760583637754,
+      "unity": 0.21460863591182971,
+      "hope": 0.1411075520459083,
+      "resolve": 0.20032817134353847,
+      "anger": 0.20309516717635662,
+      "neutral": 0.06962286768598937
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "Since the end of hostilities, the United States has invested its substance and its energy in a great constructive effort to restore peace, stability, and freedom to the world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22064018906693975,
+      "unity": 0.1567361949198501,
+      "hope": 0.17273825125581427,
+      "resolve": 0.19187791017272124,
+      "anger": 0.13101276013452515,
+      "neutral": 0.1269946944501495
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "We have sought no territory.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21857379402835397,
+      "unity": 0.18212361087320597,
+      "hope": 0.09707187538437291,
+      "resolve": 0.23050123605799008,
+      "anger": 0.19605347428308179,
+      "neutral": 0.0756760093729953
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "We have imposed our will on none.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.21179544450712598,
+      "unity": 0.1868621238427116,
+      "hope": 0.08149413504486802,
+      "resolve": 0.21174408285958746,
+      "anger": 0.2673220847852253,
+      "neutral": 0.040782128960481605
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "We have asked for no privileges we would not extend to others.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14285405197173434,
+      "unity": 0.1651053409260566,
+      "hope": 0.07609249953157901,
+      "resolve": 0.19994160822725707,
+      "anger": 0.32796855063773805,
+      "neutral": 0.08803794870563492
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "We have constantly and vigorously supported the United Nations and related agencies as a means of applying democratic principles to international relations.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23516819042158443,
+      "unity": 0.16359942286544252,
+      "hope": 0.10148200192287761,
+      "resolve": 0.23365317774326194,
+      "anger": 0.17243121189829833,
+      "neutral": 0.09366599514853517
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "We have consistently advocated and relied upon peaceful settlement of disputes among nations.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21375947793544026,
+      "unity": 0.16265633550039668,
+      "hope": 0.10676613676221902,
+      "resolve": 0.21571525509496123,
+      "anger": 0.1504854007753563,
+      "neutral": 0.15061739393162651
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "We have made every effort to secure agreement on effective international control of our most powerful weapon, and we have worked steadily for the limitation and control of all armaments.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21568577611114934,
+      "unity": 0.12549793118270822,
+      "hope": 0.12538848305237307,
+      "resolve": 0.24735057139261848,
+      "anger": 0.14473404550423916,
+      "neutral": 0.14134319275691173
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "We have encouraged, by precept and example, the expansion of world trade on a sound and fair basis.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2700050989110643,
+      "unity": 0.11802651877045212,
+      "hope": 0.2087963049940409,
+      "resolve": 0.16538053117333426,
+      "anger": 0.10693426309916691,
+      "neutral": 0.13085728305194155
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "Almost a year ago, in company with 16 free nations of Europe, we launched the greatest cooperative economic program in history.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24391038645876637,
+      "unity": 0.1732551084415088,
+      "hope": 0.2101299940871574,
+      "resolve": 0.14868970629561212,
+      "anger": 0.098383053244352,
+      "neutral": 0.1256317514726033
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "The purpose of that unprecedented effort is to invigorate and strengthen democracy in Europe, so that the free people of that continent can resume their rightful place in the forefront of civilization and can contribute once more to the security and welfare of the world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20760862043423567,
+      "unity": 0.14906735498903992,
+      "hope": 0.18129621883027044,
+      "resolve": 0.18987392753030033,
+      "anger": 0.1395563635085358,
+      "neutral": 0.13259751470761783
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "Our efforts have brought new hope to all mankind.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19131933934919457,
+      "unity": 0.15077071729000077,
+      "hope": 0.22146693509724738,
+      "resolve": 0.20170692288907774,
+      "anger": 0.10765336352427507,
+      "neutral": 0.1270827218502045
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "We have beaten back despair and defeatism.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1877115935997109,
+      "unity": 0.16129568061922406,
+      "hope": 0.18766796000090588,
+      "resolve": 0.197350475565738,
+      "anger": 0.14175162082016643,
+      "neutral": 0.1242226693942547
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "We have saved a number of countries from losing their liberty.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.27835013010011234,
+      "unity": 0.13270090513202829,
+      "hope": 0.13222250530076166,
+      "resolve": 0.20910544165124817,
+      "anger": 0.1450188415451633,
+      "neutral": 0.1026021762706862
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "Hundreds of millions of people all over the world now agree with us, that we need not have war--that we can have peace.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17218238952164977,
+      "unity": 0.1763110678066288,
+      "hope": 0.1622763119560823,
+      "resolve": 0.16940509966995346,
+      "anger": 0.1920807553529453,
+      "neutral": 0.12774437569274036
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "The initiative is ours.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14091914375714903,
+      "unity": 0.15122431410073672,
+      "hope": 0.20950207477729113,
+      "resolve": 0.19135202113948177,
+      "anger": 0.16638758418008087,
+      "neutral": 0.1406148620452605
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "We are moving on with other nations to build an even stronger structure of international order and justice.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19999364109129558,
+      "unity": 0.16804111627957188,
+      "hope": 0.17147751570848735,
+      "resolve": 0.19200438420454788,
+      "anger": 0.13130203241077107,
+      "neutral": 0.1371813103053262
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "We shall have as our partners countries which, no longer solely concerned with the problem of national survival, are now working to improve the standards of living of all their people.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19494573281989058,
+      "unity": 0.16911169720922792,
+      "hope": 0.2168396674846897,
+      "resolve": 0.17129864083326507,
+      "anger": 0.13340885253086443,
+      "neutral": 0.11439540912206231
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "We are ready to undertake new projects to strengthen a free world.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1747197681040105,
+      "unity": 0.14376445180057346,
+      "hope": 0.22727995055046407,
+      "resolve": 0.2003283704887964,
+      "anger": 0.13561403261991606,
+      "neutral": 0.11829342643623951
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "In the coming years, our program for peace and freedom will emphasize four major courses of action.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16233760171711667,
+      "unity": 0.1537353961224129,
+      "hope": 0.20250709066375538,
+      "resolve": 0.2011318409329635,
+      "anger": 0.14059704174504353,
+      "neutral": 0.139691028818708
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "First, we will continue to give unfaltering support to the United Nations and related agencies, and we will continue to search for ways to strengthen their authority and increase their effectiveness.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1778161276951524,
+      "unity": 0.16310933693291954,
+      "hope": 0.16347834774316577,
+      "resolve": 0.256308420265873,
+      "anger": 0.13948069868402183,
+      "neutral": 0.09980706867886742
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "We believe that the United Nations will be strengthened by the new nations which are being formed in lands now advancing toward self-government under democratic principles.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16350518719452636,
+      "unity": 0.17386562596610416,
+      "hope": 0.19809352509385025,
+      "resolve": 0.21157879089137965,
+      "anger": 0.13175577645458242,
+      "neutral": 0.12120109439955716
+    }
+  },
+  {
+    "chunk_index": 59,
+    "text": "Second, we will continue our programs for world economic recovery.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19586639906621547,
+      "unity": 0.14821239291876767,
+      "hope": 0.1984424281578488,
+      "resolve": 0.21253030837332848,
+      "anger": 0.1139917152957858,
+      "neutral": 0.13095675618805377
+    }
+  },
+  {
+    "chunk_index": 60,
+    "text": "This means, first of all, that we must keep our full weight behind the European recovery program.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18953538579600013,
+      "unity": 0.1909284298426772,
+      "hope": 0.1581594983725879,
+      "resolve": 0.2388028474301511,
+      "anger": 0.13441685248780183,
+      "neutral": 0.08815698607078187
+    }
+  },
+  {
+    "chunk_index": 61,
+    "text": "We are confident of the success of this major venture in world recovery.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.20490865020947835,
+      "unity": 0.106605835571474,
+      "hope": 0.23270167407531597,
+      "resolve": 0.21673275965265507,
+      "anger": 0.08472687453488423,
+      "neutral": 0.1543242059561924
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "We believe that our partners in this effort will achieve the status of self-supporting nations once again.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2176966416088406,
+      "unity": 0.17604150742161725,
+      "hope": 0.17275529743992613,
+      "resolve": 0.19962810723913635,
+      "anger": 0.10789945384082442,
+      "neutral": 0.12597899244965524
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "In addition, we must carry out our plans for reducing the barriers to world trade and increasing its volume.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16651025466843605,
+      "unity": 0.14543722047463983,
+      "hope": 0.21015188145902428,
+      "resolve": 0.21040557656228132,
+      "anger": 0.15212489457618583,
+      "neutral": 0.11537017225943269
+    }
+  },
+  {
+    "chunk_index": 64,
+    "text": "Economic recovery and peace itself depend on increased world trade.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.21350992038366232,
+      "unity": 0.1328356757154731,
+      "hope": 0.2578887735193173,
+      "resolve": 0.18993937909932587,
+      "anger": 0.10578042250320085,
+      "neutral": 0.1000458287790205
+    }
+  },
+  {
+    "chunk_index": 65,
+    "text": "Third, we will strengthen freedom-loving nations against the dangers of aggression.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1949047004619665,
+      "unity": 0.1588172881220531,
+      "hope": 0.1686685867065609,
+      "resolve": 0.2396242585182996,
+      "anger": 0.1375106675499843,
+      "neutral": 0.10047449864113561
+    }
+  },
+  {
+    "chunk_index": 66,
+    "text": "We are now working out with a number of countries a joint agreement designed to strengthen the security of the North Atlantic area.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17680389985024697,
+      "unity": 0.17126269758521961,
+      "hope": 0.18868294583284548,
+      "resolve": 0.22308187474271235,
+      "anger": 0.10984749094753954,
+      "neutral": 0.13032109104143605
+    }
+  },
+  {
+    "chunk_index": 67,
+    "text": "Such an agreement would take the form of a collective defense arrangement within the terms of the United Nations Charter.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1559342024482681,
+      "unity": 0.21595904566249982,
+      "hope": 0.1360487264685781,
+      "resolve": 0.22449734302003066,
+      "anger": 0.1361130872807434,
+      "neutral": 0.13144759511987994
+    }
+  },
+  {
+    "chunk_index": 68,
+    "text": "We have already established such a defense pact for the Western Hemisphere by the treaty of Rio de Janeiro.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.22249194457060636,
+      "unity": 0.156827357678966,
+      "hope": 0.15658164541150021,
+      "resolve": 0.2290478530071786,
+      "anger": 0.1259351150708809,
+      "neutral": 0.10911608426086795
+    }
+  },
+  {
+    "chunk_index": 69,
+    "text": "The primary purpose of these agreements is to provide unmistakable proof of the joint determination of the free countries to resist armed attack from any quarter.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.2323216413443054,
+      "unity": 0.14705690158937404,
+      "hope": 0.12085061900193368,
+      "resolve": 0.2644289787983634,
+      "anger": 0.10881865292096268,
+      "neutral": 0.12652320634506078
+    }
+  },
+  {
+    "chunk_index": 70,
+    "text": "Every country participating in these arrangements must contribute all it can to the common defense.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19273771091793632,
+      "unity": 0.18176010776744503,
+      "hope": 0.13079870811332947,
+      "resolve": 0.2431620337346581,
+      "anger": 0.12048565131390539,
+      "neutral": 0.13105578815272567
+    }
+  },
+  {
+    "chunk_index": 71,
+    "text": "If we can make it sufficiently clear, in advance, that any armed attack affecting our national security would be met with overwhelming force, the armed attack might never occur.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17356388575934387,
+      "unity": 0.13281992816196836,
+      "hope": 0.15120145949132263,
+      "resolve": 0.27972705026861644,
+      "anger": 0.15485088486095827,
+      "neutral": 0.10783679145779038
+    }
+  },
+  {
+    "chunk_index": 72,
+    "text": "I hope soon to send to the Senate a treaty respecting the North Atlantic security plan.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1458507310273094,
+      "unity": 0.12306867305989665,
+      "hope": 0.17827737307856883,
+      "resolve": 0.19281965033740553,
+      "anger": 0.1390926768415847,
+      "neutral": 0.22089089565523493
+    }
+  },
+  {
+    "chunk_index": 73,
+    "text": "In addition, we will provide military advice and equipment to free nations which will cooperate with us in the maintenance of peace and security.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.2030952767206038,
+      "unity": 0.13761432610202426,
+      "hope": 0.1771967731290068,
+      "resolve": 0.23696658577146926,
+      "anger": 0.09776934673606881,
+      "neutral": 0.1473576915408271
+    }
+  },
+  {
+    "chunk_index": 74,
+    "text": "Fourth, we must embark on a bold new program for making the benefits of our scientific advances and industrial progress available for the improvement and growth of underdeveloped areas.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.197842312478321,
+      "unity": 0.12217237944508871,
+      "hope": 0.2900560528323473,
+      "resolve": 0.18280122033100193,
+      "anger": 0.09729937995247205,
+      "neutral": 0.10982865496076903
+    }
+  },
+  {
+    "chunk_index": 75,
+    "text": "More than half the people of the world are living in conditions approaching misery.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12492632546992537,
+      "unity": 0.19785892957498155,
+      "hope": 0.22434566991441485,
+      "resolve": 0.15116749049408562,
+      "anger": 0.22924512455192375,
+      "neutral": 0.07245645999466888
+    }
+  },
+  {
+    "chunk_index": 76,
+    "text": "Their food is inadequate.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11753603111571916,
+      "unity": 0.19453041767122484,
+      "hope": 0.1234209103194311,
+      "resolve": 0.16453064859905353,
+      "anger": 0.3599770880341846,
+      "neutral": 0.04000490426038679
+    }
+  },
+  {
+    "chunk_index": 77,
+    "text": "They are victims of disease.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18336044740462806,
+      "unity": 0.1413935462191721,
+      "hope": 0.14955859470415434,
+      "resolve": 0.15376501410390625,
+      "anger": 0.3080943660476152,
+      "neutral": 0.06382803152052402
+    }
+  },
+  {
+    "chunk_index": 78,
+    "text": "Their economic life is primitive and stagnant.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.330939938806419,
+      "unity": 0.22889854968935194,
+      "hope": 0.28767260280211276,
+      "resolve": -0.023905119060717395,
+      "anger": 0.546743238074256,
+      "neutral": -0.37034921031142226
+    }
+  },
+  {
+    "chunk_index": 79,
+    "text": "Their poverty is a handicap and a threat both to them and to more prosperous areas.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1299729769742523,
+      "unity": 0.18908878134352172,
+      "hope": 0.22625333434505213,
+      "resolve": 0.2111820649136089,
+      "anger": 0.2918320977744413,
+      "neutral": -0.048329255350876385
+    }
+  },
+  {
+    "chunk_index": 80,
+    "text": "For the first time in history, humanity posesses the knowledge and skill to relieve suffering of these people.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17953495346688791,
+      "unity": 0.14551494850287752,
+      "hope": 0.21911188690977482,
+      "resolve": 0.18012540061855356,
+      "anger": 0.15708255593184148,
+      "neutral": 0.11863025457006471
+    }
+  },
+  {
+    "chunk_index": 81,
+    "text": "The United States is pre-eminent among nations in the development of industrial and scientific techniques.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3328911478012883,
+      "unity": 0.1213041686017903,
+      "hope": 0.16321969408246936,
+      "resolve": 0.18638387571572934,
+      "anger": 0.09009930310241485,
+      "neutral": 0.10610181069630785
+    }
+  },
+  {
+    "chunk_index": 82,
+    "text": "The material resources which we can afford to use for assistance of other peoples are limited.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.14188159393267621,
+      "unity": 0.2312850603633886,
+      "hope": 0.2031483836738188,
+      "resolve": 0.22540130063431785,
+      "anger": 0.19614181018259716,
+      "neutral": 0.0021418512132013734
+    }
+  },
+  {
+    "chunk_index": 83,
+    "text": "But our imponderable resources in technical knowledge are constantly growing and are inexhaustible.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1531810665279981,
+      "unity": 0.10086681171559206,
+      "hope": 0.3110931462258366,
+      "resolve": 0.2562979837248797,
+      "anger": 0.1125753248748105,
+      "neutral": 0.06598566693088298
+    }
+  },
+  {
+    "chunk_index": 84,
+    "text": "I believe that we should make available to peace-loving peoples the benefits of our store of technical knowledge in order to help them realize their aspirations for a better life.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17308966100007822,
+      "unity": 0.14487763403433646,
+      "hope": 0.2277026828109986,
+      "resolve": 0.19279969626208154,
+      "anger": 0.13142128933719793,
+      "neutral": 0.13010903655530726
+    }
+  },
+  {
+    "chunk_index": 85,
+    "text": "And, in cooperation with other nations, we should foster capital investment in areas needing development.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1955250456284324,
+      "unity": 0.17922315052358956,
+      "hope": 0.25982027986654194,
+      "resolve": 0.18838547468613528,
+      "anger": 0.1156144407036434,
+      "neutral": 0.061431608591657395
+    }
+  },
+  {
+    "chunk_index": 86,
+    "text": "Our aim should be to help the free peoples of the world, through their own efforts, to produce more food, more clothing, more materials for housing, and more mechanical power to lighten their burdens.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19054157869371102,
+      "unity": 0.16828572812086884,
+      "hope": 0.20625404072094722,
+      "resolve": 0.2138726506270046,
+      "anger": 0.12062090311355694,
+      "neutral": 0.10042509872391135
+    }
+  },
+  {
+    "chunk_index": 87,
+    "text": "We invite other countries to pool their technological resources in this undertaking.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.2139134652217141,
+      "unity": 0.1602086528025606,
+      "hope": 0.22175210093530554,
+      "resolve": 0.17149745769422683,
+      "anger": 0.09571000066557663,
+      "neutral": 0.1369183226806163
+    }
+  },
+  {
+    "chunk_index": 88,
+    "text": "Their contributions will be warmly welcomed.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16218586028334794,
+      "unity": 0.10569872655931993,
+      "hope": 0.23500724191463165,
+      "resolve": 0.19942749183920444,
+      "anger": 0.10249675311131229,
+      "neutral": 0.19518392629218373
+    }
+  },
+  {
+    "chunk_index": 89,
+    "text": "This should be a cooperative enterprise in which all nations work together through the United Nations and its specialized agencies whenever practicable.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.12751429588019167,
+      "unity": 0.22583973072676466,
+      "hope": 0.19210136573393327,
+      "resolve": 0.19220644067746176,
+      "anger": 0.12500428497786517,
+      "neutral": 0.13733388200378344
+    }
+  },
+  {
+    "chunk_index": 90,
+    "text": "It must be a worldwide effort for the achievement of peace, plenty, and freedom.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15737703927749605,
+      "unity": 0.17617239650254696,
+      "hope": 0.19222672790316786,
+      "resolve": 0.18851136935830953,
+      "anger": 0.15167451023086426,
+      "neutral": 0.13403795672761531
+    }
+  },
+  {
+    "chunk_index": 91,
+    "text": "With the cooperation of business, private capital, agriculture, and labor in this country, this program can greatly increase the industrial activity in other nations and can raise substantially their standards of living.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.26204066555327793,
+      "unity": 0.12150047773096984,
+      "hope": 0.28287145800040914,
+      "resolve": 0.14149440757443046,
+      "anger": 0.06630476081395463,
+      "neutral": 0.12578823032695804
+    }
+  },
+  {
+    "chunk_index": 92,
+    "text": "Such new economic developments must be devised and controlled to the benefit of the peoples of the areas in which they are established.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19981687434545234,
+      "unity": 0.12535235741362713,
+      "hope": 0.288366194559129,
+      "resolve": 0.1493208778189386,
+      "anger": 0.14494618795311956,
+      "neutral": 0.09219750790973343
+    }
+  },
+  {
+    "chunk_index": 93,
+    "text": "Guarantees to the investor must be balanced by guarantees in the interest of the people whose resources and whose labor go into these developments.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.10758586075575706,
+      "unity": 0.13355201737119843,
+      "hope": 0.24188300091611661,
+      "resolve": 0.25006113263990554,
+      "anger": 0.17394081129419875,
+      "neutral": 0.09297717702282357
+    }
+  },
+  {
+    "chunk_index": 94,
+    "text": "The old imperialism--exploitation for foreign profit--has no place in our plans.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18616282850650492,
+      "unity": 0.17904245519866138,
+      "hope": 0.13962419364776887,
+      "resolve": 0.1591433754053779,
+      "anger": 0.2982793047149589,
+      "neutral": 0.037747842526728026
+    }
+  },
+  {
+    "chunk_index": 95,
+    "text": "What we envisage is a program of development based on the concepts of democratic fair-dealing.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15497559960506985,
+      "unity": 0.14835832559570328,
+      "hope": 0.22075319467047874,
+      "resolve": 0.17012371537434107,
+      "anger": 0.18449610781185855,
+      "neutral": 0.12129305694254852
+    }
+  },
+  {
+    "chunk_index": 96,
+    "text": "All countries, including our own, will greatly benefit from a constructive program for the better use of the world's human and natural resources.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18967257804993806,
+      "unity": 0.14958791253313578,
+      "hope": 0.24665250558533114,
+      "resolve": 0.15504803963559333,
+      "anger": 0.13714593630986144,
+      "neutral": 0.12189302788614027
+    }
+  },
+  {
+    "chunk_index": 97,
+    "text": "Experience shows that our commerce with other countries expands as they progress industrially and economically.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3064626478874431,
+      "unity": 0.09960414920224782,
+      "hope": 0.22544281306614788,
+      "resolve": 0.1746034271633607,
+      "anger": 0.0737311248790874,
+      "neutral": 0.12015583780171311
+    }
+  },
+  {
+    "chunk_index": 98,
+    "text": "Greater production is the key to prosperity and peace.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1934552904835427,
+      "unity": 0.14928756376145652,
+      "hope": 0.2283724581112152,
+      "resolve": 0.1909422257965276,
+      "anger": 0.13949589441323218,
+      "neutral": 0.09844656743402581
+    }
+  },
+  {
+    "chunk_index": 99,
+    "text": "And the key to greater production is a wider and more vigorous application of modern scientific and technical knowledge.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.20236495899044907,
+      "unity": 0.10476334044417807,
+      "hope": 0.33874117477029836,
+      "resolve": 0.190288325138976,
+      "anger": 0.10063906806068867,
+      "neutral": 0.06320313259540983
+    }
+  },
+  {
+    "chunk_index": 100,
+    "text": "Only by helping the least fortunate of its members to help themselves can the human family achieve the decent, satisfying life that is the right of all people.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1632087005316108,
+      "unity": 0.20595081721715977,
+      "hope": 0.1968829554911128,
+      "resolve": 0.17611778499165137,
+      "anger": 0.14974550013625643,
+      "neutral": 0.10809424163220885
+    }
+  },
+  {
+    "chunk_index": 101,
+    "text": "Democracy alone can supply the vitalizing force to stir the peoples of the world into triumphant action, not only against their human oppressors, but also against their ancient enemies--hunger, misery, and despair.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.19036805702882115,
+      "unity": 0.15269797504432095,
+      "hope": 0.16918176780278307,
+      "resolve": 0.1904963797609264,
+      "anger": 0.201323646449932,
+      "neutral": 0.09593217391321646
+    }
+  },
+  {
+    "chunk_index": 102,
+    "text": "On the basis of these four major courses of action we hope to help create the conditions that will lead eventually to personal freedom and happiness for all mankind.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1676833119593293,
+      "unity": 0.17007150192469134,
+      "hope": 0.21970001789211738,
+      "resolve": 0.19022818588644663,
+      "anger": 0.12049100131468167,
+      "neutral": 0.13182598102273368
+    }
+  },
+  {
+    "chunk_index": 103,
+    "text": "If we are to be successful in carrying out these policies, it is clear that we must have continued prosperity in this country and we must keep ourselves strong.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19719229881638095,
+      "unity": 0.15043795006797195,
+      "hope": 0.18109766966461688,
+      "resolve": 0.23299058323964267,
+      "anger": 0.1297876682111476,
+      "neutral": 0.10849383000023997
+    }
+  },
+  {
+    "chunk_index": 104,
+    "text": "Slowly but surely we are weaving a world fabric of international security and growing prosperity.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2047272107702484,
+      "unity": 0.15047578739247,
+      "hope": 0.1976517819179615,
+      "resolve": 0.19453389218940775,
+      "anger": 0.1221791987624401,
+      "neutral": 0.13043212896747225
+    }
+  },
+  {
+    "chunk_index": 105,
+    "text": "We are aided by all who wish to live in freedom from fear--even by those who live today in fear under their own governments.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.216782860192017,
+      "unity": 0.16653271878436893,
+      "hope": 0.18196768146552275,
+      "resolve": 0.22503384537485943,
+      "anger": 0.11318642951741435,
+      "neutral": 0.09649646466581756
+    }
+  },
+  {
+    "chunk_index": 106,
+    "text": "We are aided by all who want relief from lies and propaganda--those who desire truth and sincerity.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16738170903996044,
+      "unity": 0.18951031257717885,
+      "hope": 0.17144718250599478,
+      "resolve": 0.21224148244929192,
+      "anger": 0.15161442943066475,
+      "neutral": 0.10780488399690925
+    }
+  },
+  {
+    "chunk_index": 107,
+    "text": "We are aided by all who desire self-government and a voice in deciding their own affairs.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20404609852711833,
+      "unity": 0.18150860981067457,
+      "hope": 0.17865026825314403,
+      "resolve": 0.2029982681399841,
+      "anger": 0.13893951006316574,
+      "neutral": 0.09385724520591325
+    }
+  },
+  {
+    "chunk_index": 108,
+    "text": "We are aided by all who long for economic security--for the security and abundance that men in free societies can enjoy.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20865011002502132,
+      "unity": 0.1527070856436704,
+      "hope": 0.19999343268107833,
+      "resolve": 0.22301825544197024,
+      "anger": 0.10878578975733308,
+      "neutral": 0.10684532645092665
+    }
+  },
+  {
+    "chunk_index": 109,
+    "text": "We are aided by all who desire freedom of speech, freedom of religion, and freedom to live their own lives for useful ends.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23087980307846637,
+      "unity": 0.17403635085194435,
+      "hope": 0.17375888209030244,
+      "resolve": 0.21706587681485007,
+      "anger": 0.12124246123068422,
+      "neutral": 0.08301662593375252
+    }
+  },
+  {
+    "chunk_index": 110,
+    "text": "Our allies are the millions who hunger and thirst after righteousness.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19181008059373097,
+      "unity": 0.18781489118123887,
+      "hope": 0.157751605418708,
+      "resolve": 0.22250111979990972,
+      "anger": 0.163940189582352,
+      "neutral": 0.07618211342406044
+    }
+  },
+  {
+    "chunk_index": 111,
+    "text": "In due time, as our stability becomes manifest, as more and more nations come to know the benefits of democracy and to participate in growing abundance, I believe that those countries which now oppose us will abandon their delusions and join with the free nations of the world in a just settlement of international differences.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17168280791293183,
+      "unity": 0.19279970629919402,
+      "hope": 0.17062177876160323,
+      "resolve": 0.1943366690614674,
+      "anger": 0.17119829666052044,
+      "neutral": 0.09936074130428309
+    }
+  },
+  {
+    "chunk_index": 112,
+    "text": "Events have brought our American democracy to new influence and new responsibilities.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2093092158145029,
+      "unity": 0.1493688169309174,
+      "hope": 0.1700465906241454,
+      "resolve": 0.16461670596134576,
+      "anger": 0.17012114184789398,
+      "neutral": 0.13653752882119458
+    }
+  },
+  {
+    "chunk_index": 113,
+    "text": "They will test our courage, our devotion to duty, and our concept of liberty.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18082164375240198,
+      "unity": 0.1332236744232176,
+      "hope": 0.1751993788973879,
+      "resolve": 0.2736116930934877,
+      "anger": 0.1419338172396266,
+      "neutral": 0.09520979259387824
+    }
+  },
+  {
+    "chunk_index": 114,
+    "text": "But I say to all men, what we have achieved in liberty, we will surpass in greater liberty.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20277729147431675,
+      "unity": 0.14255820981214634,
+      "hope": 0.18290565668401654,
+      "resolve": 0.19766441751693595,
+      "anger": 0.12508168700459601,
+      "neutral": 0.1490127375079884
+    }
+  },
+  {
+    "chunk_index": 115,
+    "text": "Steadfast in our faith in the Almighty, we will advance toward a world where man's freedom is secure.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16848153595280072,
+      "unity": 0.15297906790863763,
+      "hope": 0.21180493535501305,
+      "resolve": 0.22848661159977574,
+      "anger": 0.12003216341800901,
+      "neutral": 0.11821568576576386
+    }
+  },
+  {
+    "chunk_index": 116,
+    "text": "To that end we will devote our strength, our resources, and our firmness of resolve.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16104543305661653,
+      "unity": 0.16394152733166395,
+      "hope": 0.17898572399192889,
+      "resolve": 0.25612712271126664,
+      "anger": 0.12590678117608228,
+      "neutral": 0.11399341173244172
+    }
+  },
+  {
+    "chunk_index": 117,
+    "text": "With God's help, the future of mankind will be assured in a world of justice, harmony, and peace.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14800142893740975,
+      "unity": 0.1603159048264094,
+      "hope": 0.23096079330023525,
+      "resolve": 0.19769302996169333,
+      "anger": 0.11829727736357706,
+      "neutral": 0.14473156561067527
+    }
+  }
+]

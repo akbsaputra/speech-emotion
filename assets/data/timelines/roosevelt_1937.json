@@ -1,0 +1,1250 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "When four years ago we met to inaugurate a President, the Republic, single-minded in anxiety, stood in spirit here.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1976667576962696,
+      "unity": 0.17098313947122518,
+      "hope": 0.1699009148992606,
+      "resolve": 0.17596145091296878,
+      "anger": 0.11629821109736693,
+      "neutral": 0.16918952592290892
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "We dedicated ourselves to the fulfillment of a vision\u2014to speed the time when there would be for all the people that security and peace essential to the pursuit of happiness.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17912344724451765,
+      "unity": 0.155619666863462,
+      "hope": 0.21045837983163834,
+      "resolve": 0.19648835642090784,
+      "anger": 0.11700464521722441,
+      "neutral": 0.1413055044222498
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "We of the Republic pledged ourselves to drive from the temple of our ancient faith those who had profaned it; to end by action, tireless and unafraid, the stagnation and despair of that day.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17295540066933324,
+      "unity": 0.16626425446546217,
+      "hope": 0.13954697547545689,
+      "resolve": 0.17632240946570496,
+      "anger": 0.1895292780420902,
+      "neutral": 0.15538168188195256
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "We did those first things first.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17805363703341504,
+      "unity": 0.17986893249591976,
+      "hope": 0.17673885284031216,
+      "resolve": 0.19980643621274094,
+      "anger": 0.13829456344696345,
+      "neutral": 0.12723757797064866
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "Our covenant with ourselves did not stop there.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19040336912576317,
+      "unity": 0.19576279996519422,
+      "hope": 0.15646241190307825,
+      "resolve": 0.20358406154193956,
+      "anger": 0.13662631603116465,
+      "neutral": 0.11716104143286019
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Instinctively we recognized a deeper need\u2014the need to find through government the instrument of our united purpose to solve for the individual the ever-rising problems of a complex civilization.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.17839715729713782,
+      "unity": 0.20037518345719268,
+      "hope": 0.19139094350978883,
+      "resolve": 0.18389227360605942,
+      "anger": 0.14131457579229026,
+      "neutral": 0.10462986633753099
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "Repeated attempts at their solution without the aid of government had left us baffled and bewildered.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.13120878009533213,
+      "unity": 0.29797370143279195,
+      "hope": 0.10696649010413717,
+      "resolve": 0.2651438827463069,
+      "anger": 0.2711801602081832,
+      "neutral": -0.07247301458675139
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "For, without that aid, we had been unable to create those moral controls over the services of science which are necessary to make science a useful servant instead of a ruthless master of mankind.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15963595784047124,
+      "unity": 0.1622231236929019,
+      "hope": 0.17624151774463537,
+      "resolve": 0.2242723388755114,
+      "anger": 0.18090408276137485,
+      "neutral": 0.09672297908510526
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "To do this we knew that we must find practical controls over blind economic forces and blindly selfish men.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13253937757898326,
+      "unity": 0.16840106846025454,
+      "hope": 0.18832497020514877,
+      "resolve": 0.25743404374410095,
+      "anger": 0.21095635904015234,
+      "neutral": 0.04234418097136015
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "We of the Republic sensed the truth that democratic government has innate capacity to protect its people against disasters once considered inevitable, to solve problems once considered unsolvable.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21030495061764756,
+      "unity": 0.14757344953616255,
+      "hope": 0.16499444661414334,
+      "resolve": 0.1953477286435426,
+      "anger": 0.1612765225229789,
+      "neutral": 0.12050290206552505
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "We would not admit that we could not find a way to master economic epidemics just as, after centuries of fatalistic suffering, we had found a way to master epidemics of disease.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1806118536363768,
+      "unity": 0.16755363795244896,
+      "hope": 0.204829908074892,
+      "resolve": 0.22645498791151503,
+      "anger": 0.1396002431424775,
+      "neutral": 0.08094936928228977
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "We refused to leave the problems of our common welfare to be solved by the winds of chance and the hurricanes of disaster.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18508186295153112,
+      "unity": 0.1934840351867435,
+      "hope": 0.157112106306702,
+      "resolve": 0.2188684160708225,
+      "anger": 0.1724384738688736,
+      "neutral": 0.07301510561532726
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "In this we Americans were discovering no wholly new truth; we were writing a new chapter in our book of self-government.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21181842389486316,
+      "unity": 0.16860586409601833,
+      "hope": 0.18491826078279172,
+      "resolve": 0.1766950597293515,
+      "anger": 0.15077316427051368,
+      "neutral": 0.1071892272264616
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "This year marks the one hundred and fiftieth anniversary of the Constitutional Convention which made us a nation.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24148539244399886,
+      "unity": 0.1311678736236608,
+      "hope": 0.1601374112549626,
+      "resolve": 0.1482929759425282,
+      "anger": 0.13747028535651015,
+      "neutral": 0.18144606137833938
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "At that Convention our forefathers found the way out of the chaos which followed the Revolutionary War; they created a strong government with powers of united action sufficient then and now to solve problems utterly beyond individual or local solution.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2303518912589709,
+      "unity": 0.16588511454830226,
+      "hope": 0.1412550452997877,
+      "resolve": 0.17623831202251275,
+      "anger": 0.14124155758524573,
+      "neutral": 0.14502807928518066
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "A century and a half ago they established the Federal Government in order to promote the general welfare and secure the blessings of liberty to the American people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.31404619389382116,
+      "unity": 0.15930661846129485,
+      "hope": 0.10870681822429588,
+      "resolve": 0.16507602516198605,
+      "anger": 0.13900093164402202,
+      "neutral": 0.11386341261458005
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "Today we invoke those same powers of government to achieve the same objectives.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21212030488228362,
+      "unity": 0.16395494445418232,
+      "hope": 0.1493199357211373,
+      "resolve": 0.2006228061619872,
+      "anger": 0.1490024539635012,
+      "neutral": 0.12497955481690834
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "Four years of new experience have not belied our historic instinct.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1596540104415968,
+      "unity": 0.17037886621076345,
+      "hope": 0.22459973193797975,
+      "resolve": 0.2050263350990805,
+      "anger": 0.1740990100616034,
+      "neutral": 0.06624204624897613
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "They hold out the clear hope that government within communities, government within the separate States, and government of the United States can do the things the times require, without yielding its democracy.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18484556902850918,
+      "unity": 0.19139016375942408,
+      "hope": 0.17561610557077145,
+      "resolve": 0.19195999294243107,
+      "anger": 0.13292859474127486,
+      "neutral": 0.12325957395758935
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "Our tasks in the last four years did not force democracy to take a holiday.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2573703257418965,
+      "unity": 0.12036304881432364,
+      "hope": 0.09430980970238534,
+      "resolve": 0.16389862064484462,
+      "anger": 0.25012400739425267,
+      "neutral": 0.11393418770229727
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "Nearly all of us recognize that as intricacies of human relationships increase, so power to govern them also must increase--power to stop evil; power to do good.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14301671749158118,
+      "unity": 0.18085340749055634,
+      "hope": 0.18726384818538697,
+      "resolve": 0.20312830035166862,
+      "anger": 0.15496123898599726,
+      "neutral": 0.13077648749480966
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "The essential democracy of our Nation and the safety of our people depend not upon the absence of power, but upon lodging it with those whom the people can change or continue at stated intervals through an honest and free system of elections.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17218743847728465,
+      "unity": 0.15539323865509166,
+      "hope": 0.14019096243101747,
+      "resolve": 0.19281855461894876,
+      "anger": 0.201293841088516,
+      "neutral": 0.13811596472914145
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "The Constitution of 1787 did not make our democracy impotent.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.2097946561026787,
+      "unity": 0.15360650178882268,
+      "hope": 0.10335695840282785,
+      "resolve": 0.1936326668628355,
+      "anger": 0.23555551253549187,
+      "neutral": 0.10405370430734341
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "In fact, in these last four years, we have made the exercise of all power more democratic; for we have begun to bring private autocratic powers into their proper subordination to the public's government.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19453828717271782,
+      "unity": 0.13287757335359077,
+      "hope": 0.1651849870029203,
+      "resolve": 0.14859793576133876,
+      "anger": 0.19051931223239998,
+      "neutral": 0.1682819044770324
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "The legend that they were invincible above and beyond the processes of a democracy\u2014has been shattered.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.21179176998005647,
+      "unity": 0.14875072529074865,
+      "hope": 0.10591298684927762,
+      "resolve": 0.1846032573844764,
+      "anger": 0.26678636348446927,
+      "neutral": 0.08215489701097158
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "They have been challenged and beaten.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16851637752512863,
+      "unity": 0.15595303148849335,
+      "hope": 0.14268827601304454,
+      "resolve": 0.22829986566488816,
+      "anger": 0.21855712355089277,
+      "neutral": 0.08598532575755255
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "Our progress out of the depression is obvious.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.259261742667607,
+      "unity": 0.11288311858391133,
+      "hope": 0.17841520747970246,
+      "resolve": 0.1813598488667434,
+      "anger": 0.13477967525623,
+      "neutral": 0.13330040714580582
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "But that is not all that you and I mean by the new order of things.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.11002579324076464,
+      "unity": 0.2034761392439654,
+      "hope": 0.20083200712274712,
+      "resolve": 0.16104705474740816,
+      "anger": 0.1540499521995539,
+      "neutral": 0.17056905344556078
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "Our pledge was not merely to do a patchwork job with second-hand materials.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1774038883656261,
+      "unity": 0.14708391680779864,
+      "hope": 0.1696742363482834,
+      "resolve": 0.21698564151819036,
+      "anger": 0.13495158861961318,
+      "neutral": 0.15390072834048832
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "By using the new materials of social justice we have undertaken to erect on the old foundations a more enduring structure for the better use of future generations.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1769064790252575,
+      "unity": 0.15671068140968158,
+      "hope": 0.22390166392867025,
+      "resolve": 0.17840407472649142,
+      "anger": 0.13782014303078471,
+      "neutral": 0.1262569578791145
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "In that purpose we have been helped by achievements of mind and spirit.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1936223499804874,
+      "unity": 0.17231839366204926,
+      "hope": 0.2176570086584908,
+      "resolve": 0.2397211789825814,
+      "anger": 0.07576517688617516,
+      "neutral": 0.10091589183021592
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "Old truths have been relearned; untruths have been unlearned.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15460258479081515,
+      "unity": 0.17193206334694122,
+      "hope": 0.1736036488630407,
+      "resolve": 0.18271565276253923,
+      "anger": 0.19327488708675797,
+      "neutral": 0.12387116314990575
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "We have always known that heedless self-interest was bad morals; we know now that it is bad economics.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14578829034088023,
+      "unity": 0.17620852610560667,
+      "hope": 0.1736263832378061,
+      "resolve": 0.15724571264616158,
+      "anger": 0.2689822543638391,
+      "neutral": 0.07814883330570635
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "Out of the collapse of a prosperity whose builders boasted their practicality has come the conviction that in the long run economic morality pays.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.20080247494275696,
+      "unity": 0.15552253670406158,
+      "hope": 0.20991115438746002,
+      "resolve": 0.14084954314280604,
+      "anger": 0.18631477784963366,
+      "neutral": 0.10659951297328174
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "We are beginning to wipe out the line that divides the practical from the ideal; and in so doing we are fashioning an instrument of unimagined power for the establishment of a morally better world.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14572983936294462,
+      "unity": 0.17060909318996204,
+      "hope": 0.21264187372031249,
+      "resolve": 0.15993637791741566,
+      "anger": 0.18191257688335802,
+      "neutral": 0.12917023892600718
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "This new understanding undermines the old admiration of worldly success as such.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.2106942794462648,
+      "unity": 0.16382980385048693,
+      "hope": 0.19511256674770422,
+      "resolve": 0.1627807736260896,
+      "anger": 0.2202636229469368,
+      "neutral": 0.047318953382517674
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "We are beginning to abandon our tolerance of the abuse of power by those who betray for profit the elementary decencies of life.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14281467014626315,
+      "unity": 0.15846368201576633,
+      "hope": 0.1405696114301705,
+      "resolve": 0.15980118607712657,
+      "anger": 0.2825465324272952,
+      "neutral": 0.11580431790337826
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "In this process evil things formerly accepted will not be so easily condoned.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12080517919755643,
+      "unity": 0.1476851317253151,
+      "hope": 0.17540310278270355,
+      "resolve": 0.17398031907740016,
+      "anger": 0.2333216935191612,
+      "neutral": 0.14880457369786354
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "Hard-headedness will not so easily excuse hardheartedness.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1357193488567952,
+      "unity": 0.172078650063759,
+      "hope": 0.1050573121909063,
+      "resolve": 0.28963824020215495,
+      "anger": 0.23832030866402848,
+      "neutral": 0.05918614002235606
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "We are moving toward an era of good feeling.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1714968234685257,
+      "unity": 0.1474879468600325,
+      "hope": 0.2415975224240741,
+      "resolve": 0.15572592790673848,
+      "anger": 0.13026027122331885,
+      "neutral": 0.1534315081173104
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "But we realize that there can be no era of good feeling save among men of good will.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.09712664647024058,
+      "unity": 0.2194798800337801,
+      "hope": 0.18770713804518985,
+      "resolve": 0.19750466956249801,
+      "anger": 0.2174988117723397,
+      "neutral": 0.08068285411595173
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "For these reasons I am justified in believing that the greatest change we have witnessed has been the change in the moral climate of America.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2483791699470054,
+      "unity": 0.1462730694220771,
+      "hope": 0.1669984718041191,
+      "resolve": 0.15653270591661425,
+      "anger": 0.15292464758920113,
+      "neutral": 0.12889193532098306
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "Among men of good will, science and democracy together offer an ever-richer life and ever-larger satisfaction to the individual.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17558299848118486,
+      "unity": 0.15840125476767003,
+      "hope": 0.21364350964626944,
+      "resolve": 0.18162331940980345,
+      "anger": 0.12719627223587554,
+      "neutral": 0.14355264545919671
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "With this change in our moral climate and our rediscovered ability to improve our economic order, we have set our feet upon the road of enduring progress.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.20566647725208623,
+      "unity": 0.14903122563724885,
+      "hope": 0.20780280681808913,
+      "resolve": 0.18002227278220317,
+      "anger": 0.12346195574115233,
+      "neutral": 0.13401526176922024
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "Shall we pause now and turn our back upon the road that lies ahead?",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.11301492266408304,
+      "unity": 0.17698165249753273,
+      "hope": 0.21464042285184748,
+      "resolve": 0.1991421161708839,
+      "anger": 0.16705636491751197,
+      "neutral": 0.12916452089814087
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "Shall we call this the promised land?",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16410242360259705,
+      "unity": 0.15217959639922507,
+      "hope": 0.218183765849666,
+      "resolve": 0.1656314050007147,
+      "anger": 0.14576511787002658,
+      "neutral": 0.15413769127777058
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "Or, shall we continue on our way?",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12715476079784815,
+      "unity": 0.18091947994526153,
+      "hope": 0.1936793200320004,
+      "resolve": 0.20841304522537862,
+      "anger": 0.16131850629784814,
+      "neutral": 0.1285148877016632
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "For \"each age is a dream that is dying, or one that is coming to birth.\"",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.12521196305658955,
+      "unity": 0.15670325620760864,
+      "hope": 0.25763710214991964,
+      "resolve": 0.18661832457249475,
+      "anger": 0.10788754128403862,
+      "neutral": 0.1659418127293488
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "Many voices are heard as we face a great decision.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13833817090068787,
+      "unity": 0.1652771002861737,
+      "hope": 0.18553241404562362,
+      "resolve": 0.18917092479494207,
+      "anger": 0.1711257743632766,
+      "neutral": 0.15055561560929612
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "Comfort says, \"Tarry a while.\"",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.0683139373154785,
+      "unity": 0.1610060524483938,
+      "hope": 0.17234925546628968,
+      "resolve": 0.21220870302564804,
+      "anger": 0.15528894258618878,
+      "neutral": 0.2308331091580012
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "Opportunism says, \"This is a good spot.\"",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14495920287758562,
+      "unity": 0.14408654822856062,
+      "hope": 0.27246556927075755,
+      "resolve": 0.18522470967139287,
+      "anger": 0.13262348163591994,
+      "neutral": 0.1206404883157834
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "Timidity asks, \"How difficult is the road ahead?\"",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1255961285283642,
+      "unity": 0.13103771434131337,
+      "hope": 0.2253487913221002,
+      "resolve": 0.2595511631581519,
+      "anger": 0.13015536584850768,
+      "neutral": 0.1283108368015627
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "True, we have come far from the days of stagnation and despair.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1869784549816804,
+      "unity": 0.15157520770626956,
+      "hope": 0.2284556175076524,
+      "resolve": 0.15976296729623635,
+      "anger": 0.15780859614103565,
+      "neutral": 0.11541915636712564
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "Vitality has been preserved.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21541352595718077,
+      "unity": 0.131756873887676,
+      "hope": 0.21128914521278208,
+      "resolve": 0.21627167304682426,
+      "anger": 0.09490750043468253,
+      "neutral": 0.13036128146085435
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "Courage and confidence have been restored.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1771194574717292,
+      "unity": 0.14762750759888835,
+      "hope": 0.2071573191721734,
+      "resolve": 0.18618838833663687,
+      "anger": 0.1114868914423589,
+      "neutral": 0.17042043597821327
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "Mental and moral horizons have been extended.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16505740686763895,
+      "unity": 0.15524347055048432,
+      "hope": 0.25454176814803586,
+      "resolve": 0.18598418734885153,
+      "anger": 0.11502519074254239,
+      "neutral": 0.12414797634244697
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "But our present gains were won under the pressure of more than ordinary circumstance.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23678208103704032,
+      "unity": 0.138927101454428,
+      "hope": 0.1820880412899629,
+      "resolve": 0.2150753085394127,
+      "anger": 0.13679813761435436,
+      "neutral": 0.09032933006480172
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "Advance became imperative under the goad of fear and suffering.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15344804512919794,
+      "unity": 0.16762098144864254,
+      "hope": 0.19505672023797813,
+      "resolve": 0.28216044136086255,
+      "anger": 0.14771433428161815,
+      "neutral": 0.053999477541700716
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "The times were on the side of progress.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.20480131661902942,
+      "unity": 0.14436236431108035,
+      "hope": 0.22836087755536666,
+      "resolve": 0.1702169419879714,
+      "anger": 0.15628517668531847,
+      "neutral": 0.0959733228412337
+    }
+  },
+  {
+    "chunk_index": 59,
+    "text": "To hold to progress today, however, is more difficult.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.0920484945183908,
+      "unity": 0.17544856848687995,
+      "hope": 0.24798691367606676,
+      "resolve": 0.27001275645601186,
+      "anger": 0.1581618334411547,
+      "neutral": 0.05634143342149595
+    }
+  },
+  {
+    "chunk_index": 60,
+    "text": "Dulled conscience, irresponsibility, and ruthless self-interest already reappear.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12087791925253827,
+      "unity": 0.1516088161890107,
+      "hope": 0.18151735762093751,
+      "resolve": 0.17166634656433302,
+      "anger": 0.25137569895461703,
+      "neutral": 0.12295386141856347
+    }
+  },
+  {
+    "chunk_index": 61,
+    "text": "Such symptoms of prosperity may become portents of disaster!",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1775196268756722,
+      "unity": 0.13841258609706278,
+      "hope": 0.24752258790061268,
+      "resolve": 0.1666372141444661,
+      "anger": 0.1878551387250194,
+      "neutral": 0.0820528462571668
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "Prosperity already tests the persistence of our progressive purpose.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2233675738741233,
+      "unity": 0.14077470370437378,
+      "hope": 0.19734639670818205,
+      "resolve": 0.2169328500152034,
+      "anger": 0.13331466353150773,
+      "neutral": 0.08826381216660975
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "Let us ask again: Have we reached the goal of our vision of that fourth day of March, 1933?",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1968780156027609,
+      "unity": 0.15010757114504017,
+      "hope": 0.20230468880837257,
+      "resolve": 0.17785439554903684,
+      "anger": 0.14386330207394732,
+      "neutral": 0.12899202682084218
+    }
+  },
+  {
+    "chunk_index": 64,
+    "text": "Have we found our happy valley?",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.20954250709945668,
+      "unity": 0.1454405350406302,
+      "hope": 0.24504512346005106,
+      "resolve": 0.15664001733485883,
+      "anger": 0.1392500711747936,
+      "neutral": 0.10408174589020965
+    }
+  },
+  {
+    "chunk_index": 65,
+    "text": "I see a great nation, upon a great continent, blessed with a great wealth of natural resources.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2476523871995992,
+      "unity": 0.13806034934197428,
+      "hope": 0.22097942566078985,
+      "resolve": 0.15882800825811755,
+      "anger": 0.1060001917689681,
+      "neutral": 0.128479637770551
+    }
+  },
+  {
+    "chunk_index": 66,
+    "text": "Its hundred and thirty million people are at peace among themselves; they are making their country a good neighbor among the nations.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2608045370201388,
+      "unity": 0.1616574453558425,
+      "hope": 0.14630757331075084,
+      "resolve": 0.15413756209397986,
+      "anger": 0.12081694324820794,
+      "neutral": 0.1562759389710801
+    }
+  },
+  {
+    "chunk_index": 67,
+    "text": "I see a United States which can demonstrate that, under democratic methods of government, national wealth can be translated into a spreading volume of human comforts hitherto unknown, and the lowest standard of living can be raised far above the level of mere subsistence.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.21745290211442136,
+      "unity": 0.15689768843810678,
+      "hope": 0.21949645036157983,
+      "resolve": 0.1549299057700145,
+      "anger": 0.14863494980351996,
+      "neutral": 0.10258810351235759
+    }
+  },
+  {
+    "chunk_index": 68,
+    "text": "But here is the challenge to our democracy: In this nation I see tens of millions of its citizens\u2014a substantial part of its whole population\u2014who at this very moment are denied the greater part of what the very lowest standards of today call the necessities of life.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1733823537526263,
+      "unity": 0.17397470490409794,
+      "hope": 0.17197407878327103,
+      "resolve": 0.17386082689536586,
+      "anger": 0.22266730217006225,
+      "neutral": 0.0841407334945766
+    }
+  },
+  {
+    "chunk_index": 69,
+    "text": "I see millions of families trying to live on incomes so meager that the pall of family disaster hangs over them day by day.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17714532629415564,
+      "unity": 0.17324527091310898,
+      "hope": 0.2393358004694776,
+      "resolve": 0.15658255254804934,
+      "anger": 0.15550503693445594,
+      "neutral": 0.09818601284075247
+    }
+  },
+  {
+    "chunk_index": 70,
+    "text": "I see millions whose daily lives in city and on farm continue under conditions labeled indecent by a so-called polite society half a century ago.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1929718461539547,
+      "unity": 0.11915043450961087,
+      "hope": 0.1844628264576246,
+      "resolve": 0.1133461048624515,
+      "anger": 0.2753995454239229,
+      "neutral": 0.1146692425924354
+    }
+  },
+  {
+    "chunk_index": 71,
+    "text": "I see millions denied education, recreation, and the opportunity to better their lot and the lot of their children.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17023944854794898,
+      "unity": 0.15946425847132875,
+      "hope": 0.22763383630631343,
+      "resolve": 0.13074666056568934,
+      "anger": 0.23806199897828137,
+      "neutral": 0.07385379713043812
+    }
+  },
+  {
+    "chunk_index": 72,
+    "text": "I see millions lacking the means to buy the products of farm and factory and by their poverty denying work and productiveness to many other millions.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1592500519897619,
+      "unity": 0.14782614800031385,
+      "hope": 0.3026607215714287,
+      "resolve": 0.1355659015269669,
+      "anger": 0.19073312177352716,
+      "neutral": 0.0639640551380015
+    }
+  },
+  {
+    "chunk_index": 73,
+    "text": "I see one-third of a nation ill-housed, ill-clad, ill-nourished.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1878315609070229,
+      "unity": 0.17333994089869856,
+      "hope": 0.2035643491894288,
+      "resolve": 0.15165308268769964,
+      "anger": 0.18398123740316455,
+      "neutral": 0.09962982891398554
+    }
+  },
+  {
+    "chunk_index": 74,
+    "text": "It is not in despair that I paint you that picture.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14902483155422624,
+      "unity": 0.15622244970650992,
+      "hope": 0.21425339198096832,
+      "resolve": 0.2045131218406196,
+      "anger": 0.16662106203230342,
+      "neutral": 0.10936514288537251
+    }
+  },
+  {
+    "chunk_index": 75,
+    "text": "I paint it for you in hope\u2014because the Nation, seeing and understanding the injustice in it, proposes to paint it out.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1625303531842455,
+      "unity": 0.17347570840845006,
+      "hope": 0.18755944119189885,
+      "resolve": 0.17136374982665373,
+      "anger": 0.16931108873520528,
+      "neutral": 0.1357596586535466
+    }
+  },
+  {
+    "chunk_index": 76,
+    "text": "We are determined to make every American citizen the subject of his country's interest and concern; and we will never regard any faithful, law-abiding group within our borders as superfluous.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20599553259001402,
+      "unity": 0.17333423304409737,
+      "hope": 0.13202891126483685,
+      "resolve": 0.22235639630289608,
+      "anger": 0.1481397096545558,
+      "neutral": 0.11814521714359988
+    }
+  },
+  {
+    "chunk_index": 77,
+    "text": "The test of our progress is not whether we add more to the abundance of those who have much; it is whether we provide enough for those who have too little.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1581369126544051,
+      "unity": 0.1768003811798406,
+      "hope": 0.21590686154697963,
+      "resolve": 0.20950193455893024,
+      "anger": 0.1555750814214077,
+      "neutral": 0.08407882863843674
+    }
+  },
+  {
+    "chunk_index": 78,
+    "text": "If I know aught of the spirit and purpose of our Nation, we will not listen to Comfort, Opportunism, and Timidity.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1802721223512301,
+      "unity": 0.183769092114263,
+      "hope": 0.15456881602119787,
+      "resolve": 0.2034095828351226,
+      "anger": 0.15379795305289506,
+      "neutral": 0.12418243362529136
+    }
+  },
+  {
+    "chunk_index": 79,
+    "text": "We will carry on.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1542322067069167,
+      "unity": 0.1489796725285184,
+      "hope": 0.183033736443565,
+      "resolve": 0.20237870333529762,
+      "anger": 0.13297317886568885,
+      "neutral": 0.1784025021200134
+    }
+  },
+  {
+    "chunk_index": 80,
+    "text": "Overwhelmingly, we of the Republic are men and women of good will; men and women who have more than warm hearts of dedication; men and women who have cool heads and willing hands of practical purpose as well.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21749127406219956,
+      "unity": 0.16652643881768706,
+      "hope": 0.15951707255747696,
+      "resolve": 0.18468096551199156,
+      "anger": 0.13314298380860085,
+      "neutral": 0.13864126524204398
+    }
+  },
+  {
+    "chunk_index": 81,
+    "text": "They will insist that every agency of popular government use effective instruments to carry out their will.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14857614350867857,
+      "unity": 0.10560409384377378,
+      "hope": 0.147582818656732,
+      "resolve": 0.2666795971592866,
+      "anger": 0.19929790656014423,
+      "neutral": 0.13225944027138486
+    }
+  },
+  {
+    "chunk_index": 82,
+    "text": "Government is competent when all who compose it work as trustees for the whole people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19675818643208284,
+      "unity": 0.15738879708103076,
+      "hope": 0.12314039104941067,
+      "resolve": 0.18048078161288184,
+      "anger": 0.1792696120848992,
+      "neutral": 0.1629622317396947
+    }
+  },
+  {
+    "chunk_index": 83,
+    "text": "It can make constant progress when it keeps abreast of all the facts.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18634708542313608,
+      "unity": 0.10472898464139328,
+      "hope": 0.21003736856694763,
+      "resolve": 0.295022075459881,
+      "anger": 0.14128998143959837,
+      "neutral": 0.06257450446904358
+    }
+  },
+  {
+    "chunk_index": 84,
+    "text": "It can obtain justified support and legitimate criticism when the people receive true information of all that government does.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2561023039250035,
+      "unity": 0.12311090290536775,
+      "hope": 0.1114853573761917,
+      "resolve": 0.20480891109139204,
+      "anger": 0.2408804597774599,
+      "neutral": 0.06361206492458511
+    }
+  },
+  {
+    "chunk_index": 85,
+    "text": "If I know aught of the will of our people, they will demand that these conditions of effective government shall be created and maintained.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14986392245789987,
+      "unity": 0.14907062320865136,
+      "hope": 0.172659164402446,
+      "resolve": 0.20576838411323647,
+      "anger": 0.1800826169723014,
+      "neutral": 0.1425552888454649
+    }
+  },
+  {
+    "chunk_index": 86,
+    "text": "They will demand a nation uncorrupted by cancers of injustice and, therefore, strong among the nations in its example of the will to peace.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1676862306223483,
+      "unity": 0.15437746932379512,
+      "hope": 0.18912621119927278,
+      "resolve": 0.21061810688582255,
+      "anger": 0.1632739642366285,
+      "neutral": 0.11491801773213277
+    }
+  },
+  {
+    "chunk_index": 87,
+    "text": "Today we reconsecrate our country to long-cherished ideals in a suddenly changed civilization.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19422186323460505,
+      "unity": 0.16975651954905208,
+      "hope": 0.18832520020528185,
+      "resolve": 0.1635393718194817,
+      "anger": 0.1480736040906566,
+      "neutral": 0.13608344110092274
+    }
+  },
+  {
+    "chunk_index": 88,
+    "text": "In every land there are always at work forces that drive men apart and forces that draw men together.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16480795552403213,
+      "unity": 0.23331818144994676,
+      "hope": 0.1798037722326125,
+      "resolve": 0.23847222521785985,
+      "anger": 0.11096015514633523,
+      "neutral": 0.0726377104292135
+    }
+  },
+  {
+    "chunk_index": 89,
+    "text": "In our personal ambitions we are individualists.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1675737315924892,
+      "unity": 0.22384845627190386,
+      "hope": 0.2049097074456799,
+      "resolve": 0.22279013006790857,
+      "anger": 0.11462170417192544,
+      "neutral": 0.06625627045009304
+    }
+  },
+  {
+    "chunk_index": 90,
+    "text": "But in our seeking for economic and political progress as a nation, we all go up, or else we all go down, as one people.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16101961540762216,
+      "unity": 0.20563361327293167,
+      "hope": 0.19529435214189056,
+      "resolve": 0.19369524875259947,
+      "anger": 0.13318545925647415,
+      "neutral": 0.11117171116848198
+    }
+  },
+  {
+    "chunk_index": 91,
+    "text": "To maintain a democracy of effort requires a vast amount of patience in dealing with differing methods, a vast amount of humility.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1811142840007604,
+      "unity": 0.1653278585124227,
+      "hope": 0.14209440900709203,
+      "resolve": 0.22015009334590444,
+      "anger": 0.16837146303551295,
+      "neutral": 0.12294189209830746
+    }
+  },
+  {
+    "chunk_index": 92,
+    "text": "But out of the confusion of many voices rises an understanding of dominant public need.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1402211395224807,
+      "unity": 0.20805270704184475,
+      "hope": 0.196654326063951,
+      "resolve": 0.19133563169426948,
+      "anger": 0.17321378714599217,
+      "neutral": 0.0905224085314619
+    }
+  },
+  {
+    "chunk_index": 93,
+    "text": "Then political leadership can voice common ideals, and aid in their realization.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1455886821741511,
+      "unity": 0.20449397444722087,
+      "hope": 0.19923895072671857,
+      "resolve": 0.16759348055776546,
+      "anger": 0.1595159145929413,
+      "neutral": 0.12356899750120275
+    }
+  },
+  {
+    "chunk_index": 94,
+    "text": "In taking again the oath of office as President of the United States, I assume the solemn obligation of leading the American people forward along the road over which they have chosen to advance.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17252458603690368,
+      "unity": 0.13236847424659945,
+      "hope": 0.1678527113116378,
+      "resolve": 0.1556792220368166,
+      "anger": 0.12220766136125183,
+      "neutral": 0.24936734500679067
+    }
+  },
+  {
+    "chunk_index": 95,
+    "text": "While this duty rests upon me I shall do my utmost to speak their purpose and to do their will, seeking Divine guidance to help us each and every one to give light to them that sit in darkness and to guide our feet into the way of peace.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.11868490147111196,
+      "unity": 0.15728926366457752,
+      "hope": 0.21485242640008145,
+      "resolve": 0.19307095616380626,
+      "anger": 0.1256478191721404,
+      "neutral": 0.19045463312828242
+    }
+  }
+]

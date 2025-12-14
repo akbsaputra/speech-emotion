@@ -1,0 +1,340 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Mr. Chief Justice, Mr. Vice President, my friends:\nYou will understand and, I believe, agree with my wish that the form of this inauguration be simple and its words brief.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1577480579064648,
+      "unity": 0.14462368764153122,
+      "hope": 0.16448832734182542,
+      "resolve": 0.1454702463248887,
+      "anger": 0.1250045796559545,
+      "neutral": 0.2626651011293354
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "We Americans of today, together with our allies, are passing through a period of supreme test.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.217081518224664,
+      "unity": 0.1500315939775515,
+      "hope": 0.15942859748546012,
+      "resolve": 0.1968954094025782,
+      "anger": 0.14929340733155663,
+      "neutral": 0.12726947357818957
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "It is a test of our courage \u2014of our resolve\u2014of our wisdom\u2014of our essential democracy.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20485529801974767,
+      "unity": 0.15019286079416158,
+      "hope": 0.15933793451362796,
+      "resolve": 0.21618741082496426,
+      "anger": 0.1504245353865191,
+      "neutral": 0.11900196046097944
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "If we meet that test\u2014successfully and honorably\u2014we shall perform a service of historic importance which men and women and children will honor throughout all time.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20811102969054707,
+      "unity": 0.12185352799460017,
+      "hope": 0.16507717025946714,
+      "resolve": 0.2136236000999716,
+      "anger": 0.11073377459123004,
+      "neutral": 0.18060089736418397
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "As I stand here today, having taken the solemn oath of office in the presence of my fellow countrymen\u2014in the presence of our God\u2014I know that it is America's purpose that we shall not fail.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.19028076009433978,
+      "unity": 0.14533836677358616,
+      "hope": 0.15756432930893083,
+      "resolve": 0.1895226808365395,
+      "anger": 0.12404315744648761,
+      "neutral": 0.19325070554011609
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "In the days and the years that are to come, we shall work for a just and honorable peace, a durable peace, as today we work and fight for total victory in war.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1479610503586974,
+      "unity": 0.16229843059064086,
+      "hope": 0.19111826320718292,
+      "resolve": 0.20555709055717467,
+      "anger": 0.142215734168103,
+      "neutral": 0.15084943111820118
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "We can and we will achieve such a peace.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.12997178334066853,
+      "unity": 0.21329228414339468,
+      "hope": 0.190273654588714,
+      "resolve": 0.20321242336179318,
+      "anger": 0.1519309569322197,
+      "neutral": 0.11131889763320989
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "We shall strive for perfection.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1316173153070064,
+      "unity": 0.16492205109362365,
+      "hope": 0.212316110998004,
+      "resolve": 0.22360233897063178,
+      "anger": 0.13358588624081916,
+      "neutral": 0.13395629738991502
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "We shall not achieve it immediately--but we still shall strive.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1383104090838367,
+      "unity": 0.1674190351090713,
+      "hope": 0.22015384861904314,
+      "resolve": 0.24067483349201468,
+      "anger": 0.1345143079976993,
+      "neutral": 0.09892756569833487
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "We may make mistakes\u2014but they must never be mistakes which result from faintness of heart or abandonment of moral principle.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12193911424720003,
+      "unity": 0.19150344026565247,
+      "hope": 0.16254411739632058,
+      "resolve": 0.2415134585507019,
+      "anger": 0.1748000915544152,
+      "neutral": 0.10769977798570987
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "I remember that my old schoolmaster, Dr. Peabody, said--in days that seemed to us then to be secure and untroubled, \"Things in life will not always run smoothly.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.13770899255693472,
+      "unity": 0.1650157578068494,
+      "hope": 0.23501640558260906,
+      "resolve": 0.20927519408457954,
+      "anger": 0.1346782503961729,
+      "neutral": 0.1183053995728544
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "Sometimes we will be rising toward the heights\u2014then all will seem to reverse itself and start downward.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.13186233919521215,
+      "unity": 0.19476090413940242,
+      "hope": 0.25531949349715116,
+      "resolve": 0.18221815799036037,
+      "anger": 0.12633614414062516,
+      "neutral": 0.10950296103724871
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "The great fact to remember is that the trend of civilization itself is forever upward; that a line drawn through the middle of the peaks and the valleys of the centuries always has an upward trend.\"",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1982815498711626,
+      "unity": 0.14716550155750538,
+      "hope": 0.2387982899449838,
+      "resolve": 0.17232144941918384,
+      "anger": 0.11814728734285906,
+      "neutral": 0.1252859218643053
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "Our Constitution of 1787 was not a perfect instrument; it is not perfect yet.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18711589526845018,
+      "unity": 0.1720998099531233,
+      "hope": 0.14443127670898964,
+      "resolve": 0.18851404922860723,
+      "anger": 0.17450249142405977,
+      "neutral": 0.13333647741676985
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "But it provided a firm base upon which all manner of men, of all races and colors and creeds, could build our solid structure of democracy.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22877613675590752,
+      "unity": 0.18998499988743633,
+      "hope": 0.16245128722320848,
+      "resolve": 0.2025162805560114,
+      "anger": 0.10407370690979847,
+      "neutral": 0.1121975886676378
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "Today, in this year of war, 1945, we have learned lessons--at a fearful cost\u2014and we shall profit by them.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20187030282071447,
+      "unity": 0.147125710573848,
+      "hope": 0.1990348628767962,
+      "resolve": 0.20443085845885564,
+      "anger": 0.13413870158947935,
+      "neutral": 0.11339956368030635
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "We have learned that we cannot live alone, at peace; that our own well-being is dependent on the well-being of other Nations, far away.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.202814382267967,
+      "unity": 0.18153851591218653,
+      "hope": 0.18770581802234038,
+      "resolve": 0.2059388952816274,
+      "anger": 0.1271218166815682,
+      "neutral": 0.09488057183431049
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "We have learned that we must live as men and not as ostriches, nor as dogs in the manger.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1490320320745287,
+      "unity": 0.18350911508208614,
+      "hope": 0.18182445436114256,
+      "resolve": 0.20152729124822946,
+      "anger": 0.16245303048756649,
+      "neutral": 0.12165407674644665
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "We have learned to be citizens of the world, members of the human community.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2160325338534542,
+      "unity": 0.15748753473889493,
+      "hope": 0.18686796755609847,
+      "resolve": 0.16637855401000934,
+      "anger": 0.12420870928707878,
+      "neutral": 0.1490247005544643
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "We have learned the simple truth, as Emerson said, that, \"The only way to have a friend is to be one.\"",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.15723921100406293,
+      "unity": 0.22704994273825926,
+      "hope": 0.20449195784852245,
+      "resolve": 0.20138147825690064,
+      "anger": 0.11978469665510323,
+      "neutral": 0.09005271349715147
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "We can gain no lasting peace if we approach it with suspicion and mistrust\u2014or with fear.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1240685127850985,
+      "unity": 0.19933547978279298,
+      "hope": 0.1625702992861871,
+      "resolve": 0.23543200955691104,
+      "anger": 0.18599803410586796,
+      "neutral": 0.09259566448314242
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "We can gain it only if we proceed with the understanding and the confidence and the courage which flow from conviction.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1288178458430517,
+      "unity": 0.18430352878077313,
+      "hope": 0.22128160252110612,
+      "resolve": 0.23674518359986832,
+      "anger": 0.12130200137573834,
+      "neutral": 0.10754983787946239
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "The Almighty God has blessed our land in many ways.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.28295912313744465,
+      "unity": 0.131213845642854,
+      "hope": 0.18041953933613256,
+      "resolve": 0.14366968284961132,
+      "anger": 0.11808668214116351,
+      "neutral": 0.143651126892794
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "He has given our people stout hearts and strong arms with which to strike mighty blows for freedom and truth.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23885310580595315,
+      "unity": 0.13951848780128162,
+      "hope": 0.15578043667506808,
+      "resolve": 0.19362957950523213,
+      "anger": 0.13597039821400372,
+      "neutral": 0.13624799199846127
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "He has given to our country a faith which has become the hope of all peoples in an anguished world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2649327194410259,
+      "unity": 0.15021503128647562,
+      "hope": 0.15468619575046424,
+      "resolve": 0.1606604008528258,
+      "anger": 0.11158445871981593,
+      "neutral": 0.1579211939493925
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "So we pray to Him now for the vision to see our way clearly to see the way that leads to a better life for ourselves and for all our fellow men\u2014and to the achievement of His will to peace on earth.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.13540334027381257,
+      "unity": 0.16514980567592513,
+      "hope": 0.23198819088537234,
+      "resolve": 0.19655912944966258,
+      "anger": 0.12038356873068269,
+      "neutral": 0.1505159649845447
+    }
+  }
+]

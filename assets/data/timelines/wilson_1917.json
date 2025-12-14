@@ -1,0 +1,769 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "The four years which have elapsed since last I stood in this place have been crowded with counsel and action of the most vital interest and consequence.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1487460535568121,
+      "unity": 0.13172693114618825,
+      "hope": 0.21179753928541886,
+      "resolve": 0.14818018432402189,
+      "anger": 0.15544974681564078,
+      "neutral": 0.20409954487191811
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Perhaps no equal period in our history has been so fruitful of important reforms in our economic and industrial life or so full of significant changes in the spirit and purpose of our political action.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22527294076989773,
+      "unity": 0.14795937159963862,
+      "hope": 0.18895424291340474,
+      "resolve": 0.14573061383243122,
+      "anger": 0.1717329987328907,
+      "neutral": 0.12034983215173703
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "We have sought very thoughtfully to set our house in order, correct the grosser errors and abuses of our industrial life, liberate and quicken the processes of our national genius and energy, and lift our politics to a broader view of the people's essential interests.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1992889053404115,
+      "unity": 0.1700503999916462,
+      "hope": 0.17379456809292004,
+      "resolve": 0.17558299903175267,
+      "anger": 0.1503285595511711,
+      "neutral": 0.13095456799209848
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "It is a record of singular variety and singular distinction.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23543240166764742,
+      "unity": 0.19460685220225965,
+      "hope": 0.13169963910817453,
+      "resolve": 0.18118328028873557,
+      "anger": 0.13867286877826554,
+      "neutral": 0.1184049579549173
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "But I shall not attempt to review it.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": -0.032702499043998676,
+      "unity": 0.13024098705264314,
+      "hope": 0.09603212947430682,
+      "resolve": 0.20988864031729748,
+      "anger": 0.42976056639707283,
+      "neutral": 0.16678017580267843
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "It speaks for itself and will be of increasing influence as the years go by.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18381050324229306,
+      "unity": 0.12416125508886447,
+      "hope": 0.2534213856754611,
+      "resolve": 0.18199779698703397,
+      "anger": 0.12619321011792012,
+      "neutral": 0.13041584888842733
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "This is not the time for retrospect.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.10475840056526924,
+      "unity": 0.18855998327939044,
+      "hope": 0.18399360081692484,
+      "resolve": 0.1578561032276238,
+      "anger": 0.2583890417070465,
+      "neutral": 0.10644287040374517
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "It is time rather to speak our thoughts and purposes concerning the present and the immediate future.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.11537751152271003,
+      "unity": 0.17138105287475147,
+      "hope": 0.21784964316471328,
+      "resolve": 0.1560004384097633,
+      "anger": 0.18692588648508415,
+      "neutral": 0.15246546754297774
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Although we have centered counsel and action with such unusual concentration and success upon the great problems of domestic legislation to which we addressed ourselves four years ago, other matters have more and more forced themselves upon our attention--matters lying outside our own life as a nation and over which we had no control, but which, despite our wish to keep free of them, have drawn us more and more irresistibly into their own current and influence.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2090340051113646,
+      "unity": 0.1848738652662998,
+      "hope": 0.159086418892402,
+      "resolve": 0.19704696647013192,
+      "anger": 0.16271563862354943,
+      "neutral": 0.08724310563625225
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "It has been impossible to avoid them.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.10957315639358295,
+      "unity": 0.15085419707831899,
+      "hope": 0.13730505117046357,
+      "resolve": 0.2962348635675102,
+      "anger": 0.246837030445228,
+      "neutral": 0.05919570134489623
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "They have affected the life of the whole world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22215118146488158,
+      "unity": 0.14839485243590814,
+      "hope": 0.17354127767081923,
+      "resolve": 0.17428992313423206,
+      "anger": 0.17595055615095265,
+      "neutral": 0.10567220914320635
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "They have shaken men everywhere with a passion and an apprehension they never knew before.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14694977384766894,
+      "unity": 0.14269148033455306,
+      "hope": 0.20910255228155983,
+      "resolve": 0.2502287352882103,
+      "anger": 0.15659909768796024,
+      "neutral": 0.0944283605600476
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "It has been hard to preserve calm counsel while the thought of our own people swayed this way and that under their influence.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14855815379278345,
+      "unity": 0.22250732993883904,
+      "hope": 0.11888635004071126,
+      "resolve": 0.22725317256901137,
+      "anger": 0.21259594508526047,
+      "neutral": 0.0701990485733944
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "We are a composite and cosmopolitan people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24871089358598755,
+      "unity": 0.22521391461059773,
+      "hope": 0.16658734874295233,
+      "resolve": 0.1747887235618674,
+      "anger": 0.10548260247215427,
+      "neutral": 0.07921651702644074
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "We are of the blood of all the nations that are at war.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22834979952719112,
+      "unity": 0.18953685851939725,
+      "hope": 0.13200644727403746,
+      "resolve": 0.209379549775463,
+      "anger": 0.14558381269619405,
+      "neutral": 0.0951435322077171
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "The currents of our thoughts as well as the currents of our trade run quick at all seasons back and forth between us and them.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1818398220298399,
+      "unity": 0.1870124587327274,
+      "hope": 0.2022884121582262,
+      "resolve": 0.20617688279196011,
+      "anger": 0.14187328708881392,
+      "neutral": 0.08080913719843245
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "The war inevitably set its mark from the first alike upon our minds, our industries, our commerce, our politics and our social action.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22054452419637852,
+      "unity": 0.1543094895304745,
+      "hope": 0.16968881323244506,
+      "resolve": 0.20167831512091047,
+      "anger": 0.13930710397731555,
+      "neutral": 0.11447175394247591
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "To be indifferent to it, or independent of it, was out of the question.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.02011403379425193,
+      "unity": 0.29486733708982826,
+      "hope": 0.04029423638078095,
+      "resolve": 0.17007094151800398,
+      "anger": 0.43027726169855735,
+      "neutral": 0.044376189518577545
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "And yet all the while we have been conscious that we were not part of it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1920746064365709,
+      "unity": 0.19074511063275615,
+      "hope": 0.1751221704326529,
+      "resolve": 0.21281674422374577,
+      "anger": 0.16052939916013842,
+      "neutral": 0.06871196911413588
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "In that consciousness, despite many divisions, we have drawn closer together.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.15638278379230106,
+      "unity": 0.24681476347431683,
+      "hope": 0.19238261959553452,
+      "resolve": 0.19611362962495257,
+      "anger": 0.11090622396519285,
+      "neutral": 0.09739997954770217
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "We have been deeply wronged upon the seas, but we have not wished to wrong or injure in return; have retained throughout the consciousness of standing in some sort apart, intent upon an interest that transcended the immediate issues of the war itself.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1808894738342315,
+      "unity": 0.17922930050262736,
+      "hope": 0.14636521177303286,
+      "resolve": 0.2370930306062378,
+      "anger": 0.15276769491957365,
+      "neutral": 0.10365528836429681
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "As some of the injuries done us have become intolerable we have still been clear that we wished nothing for ourselves that we were not ready to demand for all mankind--fair dealing, justice, the freedom to live and to be at ease against organized wrong.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15888482051616448,
+      "unity": 0.17220502932655307,
+      "hope": 0.15686652277466365,
+      "resolve": 0.19848639122283374,
+      "anger": 0.18771269663878626,
+      "neutral": 0.12584453952099883
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "It is in this spirit and with this thought that we have grown more and more aware, more and more certain that the part we wished to play was the part of those who mean to vindicate and fortify peace.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16172345876345698,
+      "unity": 0.1714237861759311,
+      "hope": 0.18834189823997322,
+      "resolve": 0.2095716830130878,
+      "anger": 0.12251078604234994,
+      "neutral": 0.14642838776520098
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "We have been obliged to arm ourselves to make good our claim to a certain minimum of right and of freedom of action.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1776989629383424,
+      "unity": 0.15800897822739696,
+      "hope": 0.14332962638748867,
+      "resolve": 0.21506796492778177,
+      "anger": 0.18371327068024085,
+      "neutral": 0.12218119683874937
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "We stand firm in armed neutrality since it seems that in no other way we can demonstrate what it is we insist upon and cannot forget.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.22458662709025792,
+      "unity": 0.15643721829723442,
+      "hope": 0.1122645185883725,
+      "resolve": 0.2429426191650336,
+      "anger": 0.15028786458950805,
+      "neutral": 0.11348115226959353
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "We may even be drawn on, by circumstances, not by our own purpose or desire, to a more active assertion of our rights as we see them and a more immediate association with the great struggle itself.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1786222924253156,
+      "unity": 0.1717751436136185,
+      "hope": 0.18168676099537306,
+      "resolve": 0.22433472406107482,
+      "anger": 0.15414399927606182,
+      "neutral": 0.08943707962855618
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "But nothing will alter our thought or our purpose.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.11127464575644673,
+      "unity": 0.18443918791194402,
+      "hope": 0.19664778469992422,
+      "resolve": 0.2816046788810304,
+      "anger": 0.1311493618991762,
+      "neutral": 0.0948843408514784
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "They are too clear to be obscured.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1324270112332539,
+      "unity": 0.07193890020092876,
+      "hope": 0.21102085512133573,
+      "resolve": 0.26730589853452325,
+      "anger": 0.1754353887039824,
+      "neutral": 0.14187194620597599
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "They are too deeply rooted in the principles of our national life to be altered.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19447094501658946,
+      "unity": 0.17186599255193388,
+      "hope": 0.12374965928895997,
+      "resolve": 0.20281229594921088,
+      "anger": 0.19312171360734734,
+      "neutral": 0.11397939358595845
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "We desire neither conquest nor advantage.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18887084958629316,
+      "unity": 0.1919054669347043,
+      "hope": 0.11697990035924252,
+      "resolve": 0.21178451031088985,
+      "anger": 0.22473990595326074,
+      "neutral": 0.06571936685560943
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "We wish nothing that can be had only at the cost of another people.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1585479423736642,
+      "unity": 0.19812881129549267,
+      "hope": 0.16406994256829982,
+      "resolve": 0.1915598952319529,
+      "anger": 0.21192039745750713,
+      "neutral": 0.07577301107308326
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "We always professed unselfish purpose and we covet the opportunity to prove our professions are sincere.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18195240579345984,
+      "unity": 0.1392441627041244,
+      "hope": 0.2028068619123443,
+      "resolve": 0.24098760846349865,
+      "anger": 0.09573895017438827,
+      "neutral": 0.13927001095218455
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "There are many things still to be done at home, to clarify our own politics and add new vitality to the industrial processes of our own life, and we shall do them as time and opportunity serve, but we realize that the greatest things that remain to be done must be done with the whole world for stage and in cooperation with the wide and universal forces of mankind, and we are making our spirits ready for those things.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17199830174360686,
+      "unity": 0.1661341073822496,
+      "hope": 0.21158564940154406,
+      "resolve": 0.18237435838230395,
+      "anger": 0.1301129477424144,
+      "neutral": 0.13779463534788117
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "We are provincials no longer.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18069003464291175,
+      "unity": 0.17647563250805598,
+      "hope": 0.12908197692538628,
+      "resolve": 0.13082461559225855,
+      "anger": 0.22080335679146576,
+      "neutral": 0.16212438353992165
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "The tragic events of the thirty months of vital turmoil through which we have just passed have made us citizens of the world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22686109311446032,
+      "unity": 0.17414155690168887,
+      "hope": 0.16251294481256648,
+      "resolve": 0.1559934243078663,
+      "anger": 0.14539290291524046,
+      "neutral": 0.13509807794817758
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "There can be no turning back.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.10856847716394044,
+      "unity": 0.16105918687047469,
+      "hope": 0.21734459217547014,
+      "resolve": 0.21263435368910116,
+      "anger": 0.15491847641950443,
+      "neutral": 0.14547491368150917
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "Our own fortunes as a nation are involved whether we would have it so or not.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20338627551411181,
+      "unity": 0.1734531131259392,
+      "hope": 0.1695564398962469,
+      "resolve": 0.19693844080591114,
+      "anger": 0.1822477432097256,
+      "neutral": 0.07441798744806535
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "And yet we are not the less Americans on that account.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.28310628649723807,
+      "unity": 0.1777672480450716,
+      "hope": 0.10409119460862866,
+      "resolve": 0.1852161333920649,
+      "anger": 0.1848485205319642,
+      "neutral": 0.06497061692503253
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "We shall be the more American if we but remain true to the principles in which we have been bred.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2421151642662996,
+      "unity": 0.17770800480431756,
+      "hope": 0.1354362694122276,
+      "resolve": 0.2041534906673273,
+      "anger": 0.1281256910506566,
+      "neutral": 0.11246137979917137
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "They are not the principles of a province or of a single continent.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.27031909571046814,
+      "unity": 0.2880578022199251,
+      "hope": 0.055956021887958896,
+      "resolve": 0.21142642312328225,
+      "anger": 0.2365854041364977,
+      "neutral": -0.06234474707813212
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "We have known and boasted all along that they were the principles of a liberated mankind.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21763112274076435,
+      "unity": 0.15171627528030585,
+      "hope": 0.1502247962665228,
+      "resolve": 0.19750562919729156,
+      "anger": 0.15659852363403506,
+      "neutral": 0.1263236528810804
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "These, therefore, are the things we shall stand for, whether in war or in peace:\nThat all nations are equally interested in the peace of the world and in the political stability of free peoples, and equally responsible for their maintenance; that the essential principle of peace is the actual equality of nations in all matters of right or privilege; that peace cannot securely or justly rest upon an armed balance of power; that governments derive all their just powers from the consent of the governed and that no other powers should be supported by the common thought, purpose or power of the family of nations; that the seas should be equally free and safe for the use of all peoples, under rules set up by common agreement and consent, and that, so far as practicable, they should be accessible to all upon equal terms; that national armaments shall be limited to the necessities of national order and domestic safety; that the community of interest and of power upon which peace must henceforth depend imposes upon each nation the duty of seeing to it that all influences proceeding from its own citizens meant to encourage or assist revolution in other states should be sternly and effectually suppressed and prevented.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16764449056390818,
+      "unity": 0.18774397900337106,
+      "hope": 0.14628896191509222,
+      "resolve": 0.20383076950575166,
+      "anger": 0.15362746942917524,
+      "neutral": 0.14086432958270165
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "I need not argue these principles to you, my fellow countrymen; they are your own part and parcel of your own thinking and your own motives in affairs.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17975254796151435,
+      "unity": 0.19186741313127018,
+      "hope": 0.13057744088464754,
+      "resolve": 0.20923705787977473,
+      "anger": 0.16503462758119342,
+      "neutral": 0.12353091256159979
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "They spring up native amongst us.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20491209143824587,
+      "unity": 0.1553027278123149,
+      "hope": 0.18970533053293662,
+      "resolve": 0.17147504648757056,
+      "anger": 0.14286258044230457,
+      "neutral": 0.13574222328662744
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "Upon this as a platform of purpose and of action we can stand together.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1565034114827806,
+      "unity": 0.18756656500479976,
+      "hope": 0.1959173777076613,
+      "resolve": 0.18265574615492627,
+      "anger": 0.1359829474843116,
+      "neutral": 0.14137395216552046
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "And it is imperative that we should stand together.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.14077761435869093,
+      "unity": 0.20548562813985946,
+      "hope": 0.1634959563768007,
+      "resolve": 0.19062527304088125,
+      "anger": 0.1730463604001515,
+      "neutral": 0.12656916768361615
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "We are being forged into a new unity amidst the fires that now blaze throughout the world.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16905218464762511,
+      "unity": 0.19605531646054689,
+      "hope": 0.19496556344532395,
+      "resolve": 0.1843092884154279,
+      "anger": 0.13109629939507983,
+      "neutral": 0.1245213476359963
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "In their ardent heat we shall, in God's Providence, let us hope, be purged of faction and division, purified of the errant humors of party and of private interest, and shall stand forth in the days to come with a new dignity of national pride and spirit.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16765292151798983,
+      "unity": 0.17791860286506603,
+      "hope": 0.1769008700335578,
+      "resolve": 0.18246135559770357,
+      "anger": 0.16290296111241276,
+      "neutral": 0.13216328887327
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "Let each man see to it that the dedication is in his own heart, the high purpose of the nation in his own mind, ruler of his own will and desire.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17328274374327812,
+      "unity": 0.1769578570045397,
+      "hope": 0.1478208406747873,
+      "resolve": 0.2056011310403583,
+      "anger": 0.14121758628497733,
+      "neutral": 0.1551198412520593
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "I stand here and have taken the high and solemn oath to which you have been audience because the people of the United States have chosen me for this august delegation of power and have by their gracious judgment named me their leader in affairs.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18198868471599827,
+      "unity": 0.12118560834508854,
+      "hope": 0.14043245265069598,
+      "resolve": 0.13447715945923017,
+      "anger": 0.1511771295333634,
+      "neutral": 0.27073896529562363
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "I know now what the task means.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.11298336587351494,
+      "unity": 0.09872097383138172,
+      "hope": 0.18345573245485797,
+      "resolve": 0.21891010771169137,
+      "anger": 0.14729492242014627,
+      "neutral": 0.23863489770840773
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "I realize to the full the responsibility which it involves.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.11991864229335626,
+      "unity": 0.14066421498714962,
+      "hope": 0.2084540092540352,
+      "resolve": 0.1966451247318699,
+      "anger": 0.14931597413167985,
+      "neutral": 0.18500203460190914
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "I pray God I may be given the wisdom and the prudence to do my duty in the true spirit of this great people.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13763802270604633,
+      "unity": 0.1277694145398212,
+      "hope": 0.19067119002623462,
+      "resolve": 0.19010382530892286,
+      "anger": 0.14081365845517135,
+      "neutral": 0.2130038889638036
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "I am their servant and can succeed only as they sustain and guide me by their confidence and their counsel.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1386073378408149,
+      "unity": 0.15519914234104176,
+      "hope": 0.2148106989254779,
+      "resolve": 0.24375182888082417,
+      "anger": 0.08252137459783071,
+      "neutral": 0.16510961741401053
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "The thing I shall count upon, the thing without which neither counsel nor action will avail, is the unity of America--an America united in feeling, in purpose and in its vision of duty, of opportunity and of service.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19378692101754288,
+      "unity": 0.18730048833583057,
+      "hope": 0.1663439933047038,
+      "resolve": 0.19177354549931636,
+      "anger": 0.11794432344347819,
+      "neutral": 0.14285072839912819
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "We are to beware of all men who would turn the tasks and the necessities of the nation to their own private profit or use them for the building up of private power.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1448224202770959,
+      "unity": 0.1576848095676184,
+      "hope": 0.16824342938406983,
+      "resolve": 0.21952764685695222,
+      "anger": 0.18508519056636807,
+      "neutral": 0.12463650334789553
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "United alike in the conception of our duty and in the high resolve to perform it in the face of all men, let us dedicate ourselves to the great task to which we must now set our hand.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15124017610342722,
+      "unity": 0.181036778797866,
+      "hope": 0.16940116363997001,
+      "resolve": 0.20251974891833258,
+      "anger": 0.13988654619320665,
+      "neutral": 0.15591558634719752
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "For myself I beg your tolerance, your countenance and your united aid.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1225286171106177,
+      "unity": 0.20257730649848,
+      "hope": 0.15381190146392018,
+      "resolve": 0.17216770934210224,
+      "anger": 0.21120137031790223,
+      "neutral": 0.13771309526697764
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "The shadows that now lie dark upon our path will soon be dispelled, and we shall walk with the light all about us if we be but true to ourselves--to ourselves as we have wished to be known in the counsels of the world and in the thought of all those who love liberty and justice and the right exalted.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1698802786231236,
+      "unity": 0.1692754692542036,
+      "hope": 0.20232033457583182,
+      "resolve": 0.19739051882501657,
+      "anger": 0.12638659458798684,
+      "neutral": 0.13474680413383755
+    }
+  }
+]

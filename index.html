@@ -1,0 +1,387 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Moods of U.S. Democracy</title>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header id="opening">
+        <div class="opening-text">
+          <h1>The 
+            <span style="color:#e74c3c;">M</span><span style="color:#5dade2;">o</span><span style="color:#f5b041;">o</span><span style="color:#58d68d;">d</span><span style="color:#af7ac5;">s</span> 
+            of U.S. Democracy</h1>
+            <p class="subtitle">Across centuries of change, every American president 
+                has stepped forward to deliver words of hope, unity, defiance, or pride. 
+                Their inaugural addresses are not merely political manifestos;
+                they are emotional blueprints for a nation in motion. 
+                This project traces the emotional journeys of presidential speeches, 
+                revealing how leaders shape, echo, and sometimes struggle with the spirit 
+                of their times. Scroll down or up to navigate.<br/><br/>
+                <i>by Akbar Saputra</i>
+            </p>
+        </div>
+        <div class="opening-background"></div>
+    </header>
+      
+
+  <main>
+    <!-- Section 1: Emotional Compass -->
+    <section id="section-emotional-compass">
+        <div class="scroll-step" id="step-1">
+            <div class="section1-text-box">
+                <h2>The Emotional Compass</h2>
+                <p>Every inaugural speech weaves through a spectrum of emotions, from fierce resolve to soaring hope. 
+                    It reflects the vision each inaugurated president offers of what America should become over the next four years.</p>
+            </div>
+        </div>
+            
+        <div class="scroll-step" id="step-2">
+            <div class="section1-text-box">
+                <h2>What We Did</h2>
+                <p>In this project, we collected all <strong>63 inaugural speeches</strong>, both Inaugural Addresses and Addresses Upon Assuming the Office of President, 
+                    spanning from George Washington in 1789 to Donald Trump's second term in 2025. 
+                    The texts were sourced from <a href='https://www.presidency.ucsb.edu/documents/app-categories/spoken-addresses-and-remarks/presidential/inaugural-addresses'>The American Presidency Project</a> 
+                    maintained by the University of California, Santa Barbara. We translate these speeches to retrieve their emotional aspects by using machine learning models.
+                    <br><br>Of course, no machine learning model is as advanced as human brains. 
+                    So think of this project as a vibe check: it's not gonna produce a perfectly accurate result, but it's a fun, experimental way to see history through an algorithmic lens.</p>
+            </div>
+        </div>
+            
+        <div class="scroll-step" id="step-3">
+            <div class="section1-text-box">
+                <h2>Our Model</h2>
+                <p>To capture the emotional tone of each speech, we used the <strong><code>all-mpnet-base-v2</code></strong> sentence embedding model to represent each sentence semantically. 
+                    We sliced every speech into individual sentences, then used the model to map them against our five emotional anchors: 
+                    <span class="text-pride">pride</span>, <span class="text-unity">unity</span>, <span class="text-hope">hope</span>, 
+                    <span class="text-resolve">resolve</span>, and <span class="text-anger">anger</span>. 
+                    If none of these five emotions fit, we categorize the sentences as <span class="text-neutral">Neutral</span>.</p>
+            </div>
+        </div>
+            
+        <div class="scroll-step" id="step-4">
+            <div class="section1-text-box">
+                <h2>Anchoring Emotions</h2>
+                <p>To detect the emotion, we measures the similarities of the sentences into anchors. 
+                    Some of the anchors are as follows:<br/><br/><img src='assets/images/text-grouped.jpg' style='width:100%;'>
+                    <br><br>If none of the anchors matches closely to the sentence, we assumed it as <span class="text-neutral">Neutral</span>.</p>
+            </div>
+        </div>
+
+        <div id="cloud-container">
+            <img id="cloud-gray" src="assets/images/text-only.jpg" style="opacity:0;">
+            <img id="cloud-colored" src="assets/images/text-highlighted.jpg" style="opacity:0;">
+            <img id="cloud-third" src="assets/images/text-highlighted-faded.jpg" style="opacity:0;">
+        </div>
+    </section>
+    <section id="section-journey-single-speech">
+        <div class="section2-content">
+            <h2>Case #1: Barack Obama's First-Term Inauguration Speech</h2>
+            <p class="section2-caption">
+            Let's start with a modern classic as an example. Barack Obama took the oath of office as the first African American president during a moment of immense peril—
+            the worst financial crisis since the Great Depression and two ongoing wars. 
+            Over a million people gathered on a freezing National Mall, not just to celebrate history, but to find reassurance.
+            </p>
+            <img src="assets/images/obama_inauguration.jpg" alt="Obama Inauguration" class="obama-photo">
+            <div id="journey-single-speech">
+                <div id="chart-floating-title" class="chart-title"><strong>Obama's Emotional Journey</strong></div>
+                <div id="chart-floating-subtitle" class="chart-subtitle">Here's the timeline of Barack Obama's first inaugural speech and the breakdowns of 5 moods based on their scores. Keep scrolling.</div>
+                <div id="annotation-box" class="annotation-box"></div>
+                
+                <svg></svg>
+
+                <div id="chart-bottom-caption" class="chart-caption">
+                    <strong>The Verdict: A Speech of Resolve</strong> <br/>
+                    While often remembered for <span class="text-hope">hope</span>, our model shows that the dominant emotion here is actually <span class="text-resolve">resolve</span>. 
+                    This makes perfect sense given the context: the economy was freefalling. 
+                    Obama didn't just offer optimism; he demanded grit. Frequent use of words like "work", "risk", "endure", and "remake" drives the score up, 
+                    reflecting a nation that needed to "pick itself up" rather than just dream.
+                </div>
+            </div>
+            <div class="annotation-step" data-chunk="-1"></div> <!-- dummy step -->
+            <div class="annotation-step" data-chunk="9"></div>
+            <div class="annotation-step" data-chunk="20"></div>
+            <div class="annotation-step" data-chunk="35"></div>
+            <div class="annotation-step" data-chunk="46"></div>
+            <div class="annotation-step" data-chunk="70"></div>
+            
+            <div class="annotation-step" data-chunk="breather" style="height: 60vh;"></div>
+            <div class="annotation-step" data-chunk="conclusion" style="height: 80vh;"></div>
+            <div class="annotation-step" style="height: 80vh;"></div>
+                    
+        </div>
+    </section>
+    <section id="section-journey-trump">
+        <div class="section2-content">
+            <h2>Case #2: Donald Trump's First-Term Inauguration Speech</h2>
+            <p class="section2-caption">
+                Now, let's look at a sharp pivot. Donald Trump entered office on a wave of populist discontent, promising to dismantle the status quo. 
+                The setting was starkly different from his predecessors—less a celebration of continuity, and more a declaration of disruption. 
+                His speech, famously short and punchy, painted a dark picture of "American Carnage" that only he could fix.
+            </p>
+            
+            <img src="assets/images/trump_inauguration.jpg" alt="Trump Inauguration" class="trump-photo">
+            
+            <div id="journey-trump">
+                <div id="trump-floating-title" class="chart-title"><strong>Trump's Emotional Journey</strong></div>
+                <div id="trump-floating-subtitle" class="chart-subtitle">Here is the timeline of Donald Trump's 2017 inaugural speech and the breakdowns of 5 moods.</div>
+                
+                <svg></svg>
+                
+                <div id="trump-annotation-box" class="annotation-box"></div>
+                
+                <div id="trump-bottom-caption" class="chart-caption">
+                    <strong>The Verdict: Pride & Protectionism</strong> <br/>
+                    The model picks up a distinct shift here. While the media focused on the dark imagery, the algorithmic dominance is <span class="text-pride">pride</span>. 
+                    This tracks perfectly with the "America First" doctrine. The speech wasn't about complex policy nuance; 
+                    it was a blunt instrument of nationalism. The high pride score comes from the repetitive assertion of American ownership like "our country" or "our nation".
+                </div>   
+            </div>
+
+            <div class="trump-step" data-chunk="-1"></div>
+            <div class="trump-step" data-chunk="9"></div>
+            <div class="trump-step" data-chunk="19"></div>
+            <div class="trump-step" data-chunk="40"></div>
+            <div class="trump-step" data-chunk="46"></div>
+            <div class="trump-step" data-chunk="75"></div>
+            
+            <div class="trump-step" data-chunk="breather" style="height: 60vh;"></div>
+            <div class="trump-step" data-chunk="conclusion" style="height: 100vh;"></div>
+        </div>
+    </section>    
+    <section id="section-all-presidents">
+        <div class="grid-container">
+            <div class="left-panel">
+                <div id="presidents-grid"></div>
+            </div>
+
+            <div class="right-panel">
+                
+                <div class="grid-step" data-mode="all">
+                    <div class="text-card">
+                        <h2>The Big Picture</h2>
+                        <p>Now, let's widen the lens. Here is the emotional footprint of <strong>every inaugural speech of every U.S. President</strong> since George Washington.
+                            Keep scrolling down as we dissect the top 3 speeches with the highest score of each mood.</p>
+                    </div>
+                </div>
+
+                <div class="grid-step" data-mode="Hope">
+                    <div class="text-card">
+                        <h2>The Architects of Hope</h2>
+                        <p>The peak of <span class="text-hope">hope</span> often coincides with moments of technological transition or a desperate need for social healing. 
+                            <strong>Bill Clinton (1997)</strong> famously campaigned on a 'Bridge to the 21st Century', using his second inaugural to paint a glowing picture of the looming digital age. 
+                            Interestingly, <strong>Richard Nixon (1969)</strong> ranks high despite the turmoil of Vietnam; 
+                            his speech was a deliberate attempt to 'lower our voices' and offer the hope of peace to a fractured generation. 
+                            <strong>Lyndon B. Johnson (1965)</strong> used his address to introduce the 'Great Society', framing the elimination of poverty not just as a policy goal, 
+                            but as a moral hope for a more just America.</p>
+                    </div>
+                </div>
+
+                <div class="grid-step" data-mode="Anger">
+                    <div class="text-card">
+                        <h2>The Voices of Anger</h2>
+                        <p>In our model, <span class="text-anger">anger</span> often reflects existential friction and political defiance. 
+                            <strong>Abraham Lincoln's (1861)</strong> first inaugural carries the weight of a nation splitting in two; 
+                            while he sought peace, his stern refusal to allow the Union to be dissolved creates a high-tension <span class="text-anger">anger</span> profile. 
+                            <strong>John Tyler (1841)</strong> and <strong>William Henry Harrison (1841)</strong> represent a different kind of friction—the bitter partisanship of the Whig vs. Democrat era. 
+                            Harrison's record-length speech was an aggressive 8,000-word defense of Whig principles, 
+                            while Tyler's address (delivered after Harrison's sudden death) was a defensive, sharp response to a Congress that didn't yet trust his 'accidental' presidency.</p>
+                    </div>
+                </div>
+
+                <div class="grid-step" data-mode="Pride">
+                    <div class="text-card">
+                        <h2>The Sentiment of Pride</h2>
+                        <p>The <span class="text-pride">pride</span> score captures moments of intense national identity and the 'exceptionalism' of the American project. 
+                            <strong>John Adams (1797)</strong>, as only the second president, spent much of his speech validating the success of the new Constitution—
+                            a moment of immense revolutionary pride. <strong>John Quincy Adams (1825)</strong> echoed this, 
+                            celebrating the 'Era of Good Feelings' where the U.S. began to feel like a global power. 
+                            <strong>Franklin D. Roosevelt</strong>'s third inaugural <strong>(1941)</strong> sits at a unique crossroads; 
+                            as Europe fell to fascism, his speech was a proud, defiant celebration of democracy's resilience, framing America as the last, greatest hope for freedom.</p>
+                    </div>
+                </div>
+
+                <div class="grid-step" data-mode="Resolve">
+                    <div class="text-card">
+                        <h2>The Weight of Resolve</h2>
+                        <p>When the nation faces an external threat, the rhetoric shifts to <span class="text-resolve">resolve</span>. 
+                            <strong>John F. Kennedy (1961)</strong> is the gold standard for this mood; his 'bear any burden' speech was a cold-war manifesto of sheer determination. 
+                            <strong>Andrew Jackson (1829)</strong>, the 'Old Hickory' general, brought that same soldierly resolve to his first inaugural, signaling a blunt, 
+                            unyielding shift toward populist rule. Finally, <strong>Franklin D. Roosevelt</strong>'s short <strong>1945</strong> address, 
+                            delivered from a porch during the height of World War II, 
+                            was stripped of all fluff—it was a somber, iron-willed commitment to see the war through to the end.</p>
+                    </div>
+                </div>
+
+                <div class="grid-step" data-mode="Unity">
+                    <div class="text-card">
+                        <h2>The Unifiers</h2>
+                        <p><span class="text-unity">Unity</span> is rarely organic; it is usually a rhetorical strategy used to bridge deep divides. 
+                            <strong>Abraham Lincoln's (1865)</strong> second inaugural is arguably the greatest <span class="text-unity">unity</span> speech in history, 
+                            urging 'malice toward none' as the Civil War ended. 
+                            <strong>Rutherford B. Hayes (1877)</strong> holds a high score because he had to—his election was so contested it nearly sparked a second civil war; 
+                            his speech was a desperate plea for national reconciliation. Even the combative <strong>Andrew Jackson (1833)</strong> spiked in <span class="text-unity">unity</span> during his second term 
+                            as he fought the Nullification Crisis, using his rhetoric to hold the states together against the threat of secession.</p>
+                    </div>
+                </div>
+
+                <div class="grid-step" data-mode="pres-GeorgeWashington-1793">
+                    <div class="text-card">
+                        <h2>The Briefest Neutrality</h2>
+                        <p><strong>George Washington</strong>'s second inaugural address <strong>(1793)</strong> remains the shortest in history—just 135 words. 
+                            It is strictly procedural, reflecting a <span class="text-neutral">neutral</span> tone unlike any modern speech.</p>
+                    </div>
+                </div>
+                
+                <div class="grid-step" data-mode="all">
+                   <div class="text-card">
+                       <h2>The Mosaic of Democracy</h2>
+                       <p>Looking at the full grid, one thing is clear: <strong>there is no single "presidential sound"</strong>.
+                        The mood of the Oval Office is as varied as the men who have occupied it.
+                        But this diversity raises new questions: is there a "red" tone and a "blue" tone? 
+                        And how have these emotions shifted as we moved from the age of quill pens to the age of the internet? 
+                        Let's break the data down by <strong>party</strong> and then by <strong>time</strong>.</p></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="section-bipartisan">
+        
+        <div class="bipartisan-sticky">
+            <div class="split-pane pane-dem"></div>
+            <div class="split-pane pane-rep"></div>            
+            <div class="bipartisan-chart-container">
+                <div id="chart-bipartisan"></div>
+            </div>
+        </div>
+
+        <div class="bipartisan-scroll">
+            
+            <div class="bi-step" data-step="1">
+                <div class="bi-text-card">
+                    <h2>Two Worlds, One Podium</h2>
+                    <p>To understand the partisan divide, we filtered our dataset to start from <strong>1853 (Franklin Pierce)</strong>. Why here?
+                        This era marks the dawn of the modern two-party system. With the Whig party collapsing and the Republican party emerging just a year later (1854), 
+                        this is the starting line for the Democrat vs. Republican dynamic that defines American politics today. 
+                        Anything before this mixes Federalists and Democratic-Republicans, which don't fit the modern "red vs. blue" mold.</p>
+                </div>
+            </div>
+
+            <div class="bi-step" data-step="2">
+                <div class="bi-text-card">
+                    <h2>The Primary Colors</h2>
+                    <p>If we compare the highest moods for each party, we saw that <strong>Democrats</strong> are the party of <span class="text-resolve">resolve</span> emphasized in 29.3% of their rhetoric.
+                        This means that most Democratic presidents' speeches contain a nuance of <span class="text-resolve">resolve</span>, with words that emphasized working towards solutions and grit to achieve something.
+                        Meanwhile, <strong>Republican</strong> presidents delivered speeches that are mostly dominated by <span class="text-pride">pride</span>, 
+                        as we see here that <span class="text-pride">pride</span> tops their list at 28.0%. Their speeches mostly revolved around how the American people should be proud of their 
+                        country or how the United States stands as the greatest country in the world.</p>
+                </div>
+            </div>
+
+            <div class="bi-step" data-step="3">
+                <div class="bi-text-card">
+                    <h2>The Trade-Off</h2>
+                    <p>Now if we compare each of the 5 moods between these two parties, we found that Democrats are higher at <span class="text-resolve">resolve</span> (+4.1%) 
+                        and <span class="text-hope">hope</span> (+3.2%). Meanwhile, Republicans gain higher score at <span class="text-anger">anger</span> (+3.0%) and
+                        <span class="text-unity">unity</span> (+2.1%). Republicans are also slightly higher than Democrats at <span class="text-pride">pride</span> by a small margin (+0.6%).
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <section id="section-flow">
+        <div class="flow-sticky-window">
+            <div class="flow-static-title">
+                <span style="font-family: 'Instrument Serif', serif; font-size:36px; font-weight: 600;">The Mood Landscape<br></span>
+                <span class="flow-static-subtitle">
+                    <br>Now let's see how inaugural speeches moods evolve over time, as we tried to analyze how their change might be affected by the social and political contexts at that time.
+                    This is the mood timeline of all U.S. presidents' inaugural speeches. 
+                    Keep scrolling up or down. Hover your mouse over the chart to see more details.</span>
+            </div>
+            <div class="flow-story-box">
+                <h3 id="flow-title">The River of History</h3>
+                <p id="flow-desc">Scroll down to move forward in time...</p>
+                <div class="flow-year-display">1789</div>
+            </div>
+
+            <div class="flow-rail">
+                <div id="chart-flow"></div>
+            </div>
+            
+        </div>
+    </section>
+    <section id="section-conclusion">
+        <div class="conclusion-container">
+            <h2>The Algorithm as a Mirror</h2>
+            
+            <p>
+                We began this project with a simple question: <strong>can a machine understand the soul of a nation?</strong> 
+                By feeding 63 inaugural addresses into a sentence-embedding model, we tried to quantify the unquantifiable: 
+                <span class="text-pride">pride</span>, <span class="text-unity">unity</span>, <span class="text-hope">hope</span>, 
+                <span class="text-resolve">resolve</span>, and <span class="text-anger">anger</span>.
+                It turns out the data reveals a clear trajectory. The early presidency was a place of stoic duty, 
+                dominated by <span class="text-neutral">neutral</span> procedural language and high-minded <span class="text-unity">unity</span>.
+                As the nation matured and fractured, the emotional vocabulary expanded. 
+                We saw <span class="text-pride">pride</span> swell during the era of expansion, 
+                <span class="text-resolve">resolve</span> harden during the Cold War, and <span class="text-hope">hope</span> becomes a professional political tool in the modern media age. 
+                The presidency has evolved from a role of administration to one of emotional leadership.
+                Our analysis also exposed a fascinating divergence in the modern two-party system. 
+                Democrats have historically leaned into the language of <span class="text-resolve">resolve</span> and <span class="text-hope">hope</span>,
+                framing politics as a struggle for a better tomorrow. 
+                Republicans, conversely, have anchored their rhetoric in <span class="text-anger">anger</span> and <span class="text-unity">unity</span>
+                (and, slightly, <span class="text-pride">pride</span>), framing politics as a defense of shared American values and identity.
+                <br><br>
+                However, we must view these results with a healthy dose of skepticism. 
+                Our model is a bag-of-sentences: it understands semantic closeness, but it misses the human spark. 
+                It struggles with sarcasm, often misreads rhetorical questions, and cannot feel the tremble in a voice or the roar of a crowd. 
+                When Lincoln spoke of "malice toward none", the model sees <span class="text-unity">unity</span>. 
+                It doesn't see the thousands of dead soldiers that gave those words their weight.
+                <br><br>
+                Yet, even with these flaws, the "vibe check" holds value. 
+                It acts as a mirror, reflecting macro-trends that are too slow to see with the naked eye. 
+                It shows us that the <span class="text-anger">anger</span> we feel in politics today is not new, 
+                but a recurrence of the populist frustration seen in the 1890s. 
+                It reminds us that <span class="text-unity">unity</span> is often highest not when we are at peace, but when we are most broken.
+            </p>
+            
+            <p>
+                Ultimately, this project suggests that while the words change, the emotional blueprint of democracy remains cyclical. 
+                We are a nation forever oscillating between the resolve to endure and the hope to rebuild.
+            </p>
+
+            <div class="methodology-note">
+                <h4>References</h4>
+                <p>
+                    <strong>Model:</strong> <code>all-mpnet-base-v2</code> (Hugging Face) for sentence embeddings. <br>
+                    <strong>Classification:</strong> Cosine similarity against 5 emotional anchor clusters.<br>
+                    <strong>Data Source:</strong> The American Presidency Project (UC Santa Barbara). <br>
+                    <strong>Images:</strong> 
+                        Lyndon B. Johnson's 2nd ianuguration photo (main image) was from <a href="https://en.wikipedia.org/wiki/Second_inauguration_of_Lyndon_B._Johnson#/media/File:1965_Inauguration_of_President_Lyndon_Johnson.jpg">Wikipedia</a>, 
+                        Barack Obama's 1st inauguration photo was from <a href="https://id.wikipedia.org/wiki/Berkas:Barack_Obama_after_inaugural_address_1-20-09_hires_090120-N-0696M-327a.jpg">Wikipedia</a>,
+                        Donald J. Trump's 1st inauguration photo was from <a href="https://en.wikipedia.org/wiki/File:Donald_Trump_delivering_inauguration_speech_01-20-17_(cropped).jpg">Wikipedia</a>,
+                        The White House photo was from <a href="https://www.stockvault.net/photo/205126/white-house">Stockvault</a>
+                    <br>
+                </p>
+            </div>
+            
+            <div class="footer-signoff">
+                <p>Created by Akbar Saputra • 2025</p>
+            </div>
+        </div>
+    </section>    
+  </main>
+  <!-- Scripts -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="charts/journey_single_speech.js"></script>
+  <script src="charts/journey_trump.js"></script>
+  <script src="charts/all_presidents.js"></script>
+  <script src="charts/bipartisan.js"></script>
+  <script src="charts/flow.js"></script>
+  <script src="script.js"></script> <!-- general scrolling logic -->
+</body>
+</html>

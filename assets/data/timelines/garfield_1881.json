@@ -1,0 +1,1445 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Fellow-Citizens:\nWe stand to-day upon an eminence which overlooks a hundred years of national life--a century crowded with perils, but crowned with the triumphs of liberty and law.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22876906482399198,
+      "unity": 0.13448957497730246,
+      "hope": 0.1776904136876804,
+      "resolve": 0.16846435737857873,
+      "anger": 0.13004153197569793,
+      "neutral": 0.16054505715674847
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Before continuing the onward march let us pause on this height for a moment to strengthen our faith and renew our hope by a glance at the pathway along which our people have traveled.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16618403101759735,
+      "unity": 0.1637956368634191,
+      "hope": 0.21238471591669622,
+      "resolve": 0.19774631739131088,
+      "anger": 0.12052206126059498,
+      "neutral": 0.13936723755038147
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "It is now three days more than a hundred years since the adoption of the first written constitution of the United States--the Articles of Confederation and Perpetual Union.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24117434917566605,
+      "unity": 0.14897597806164226,
+      "hope": 0.15988506794126114,
+      "resolve": 0.14671278514758573,
+      "anger": 0.1352149434324745,
+      "neutral": 0.16803687624137034
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "The new Republic was then beset with danger on every hand.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17382826721336936,
+      "unity": 0.15366489136255143,
+      "hope": 0.18638440205059667,
+      "resolve": 0.21883636841576554,
+      "anger": 0.1787823593245685,
+      "neutral": 0.08850371163314849
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "It had not conquered a place in the family of nations.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3477327442305333,
+      "unity": 0.17493034340338484,
+      "hope": 0.05922246165849793,
+      "resolve": 0.16908018453551246,
+      "anger": 0.17867324071362226,
+      "neutral": 0.07036102545844926
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "The decisive battle of the war for independence, whose centennial anniversary will soon be gratefully celebrated at Yorktown, had not yet been fought.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.31480500116136473,
+      "unity": 0.10808974089589829,
+      "hope": 0.14937802431078961,
+      "resolve": 0.20790658490783714,
+      "anger": 0.09533153575918987,
+      "neutral": 0.12448911296492038
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "The colonists were struggling not only against the armies of a great nation, but against the settled opinions of mankind; for the world did not then believe that the supreme authority of government could be safely intrusted to the guardianship of the people themselves.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20362030476733634,
+      "unity": 0.19288496300971045,
+      "hope": 0.12650676379722833,
+      "resolve": 0.21524094941212346,
+      "anger": 0.20380010072738444,
+      "neutral": 0.057946918286216995
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "We can not overestimate the fervent love of liberty, the intelligent courage, and the sum of common sense with which our fathers made the great experiment of self-government.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2393210687863659,
+      "unity": 0.1488379474570242,
+      "hope": 0.17280101765233483,
+      "resolve": 0.22075156767443074,
+      "anger": 0.11748514998763135,
+      "neutral": 0.10080324844221301
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "When they found, after a short trial, that the confederacy of States, was too weak to meet the necessities of a vigorous and expanding republic, they boldly set it aside, and in its stead established a National Union, founded directly upon the will of the people, endowed with full power of self-preservation and ample authority for the accomplishment of its great object.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21895649586233396,
+      "unity": 0.1973738344373038,
+      "hope": 0.1213688672976221,
+      "resolve": 0.1744186148624389,
+      "anger": 0.15318302093291103,
+      "neutral": 0.1346991666073902
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "Under this Constitution the boundaries of freedom have been enlarged, the foundations of order and peace have been strengthened, and the growth of our people in all the better elements of national life has indicated the wisdom of the founders and given new hope to their descendants.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23406137296741827,
+      "unity": 0.1463889327453196,
+      "hope": 0.18596017022671404,
+      "resolve": 0.1831655183198986,
+      "anger": 0.11039226091402189,
+      "neutral": 0.14003174482662756
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "Under this Constitution our people long ago made themselves safe against danger from without and secured for their mariners and flag equality of rights on all the seas.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2271759060785172,
+      "unity": 0.13939857743706552,
+      "hope": 0.14637616532716313,
+      "resolve": 0.2155673350653576,
+      "anger": 0.13969095917970073,
+      "neutral": 0.13179105691219584
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "Under this Constitution twenty-five States have been added to the Union, with constitutions and laws, framed and enforced by their own citizens, to secure the manifold blessings of local self-government.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.261550219908691,
+      "unity": 0.20071201203895536,
+      "hope": 0.13353972656219895,
+      "resolve": 0.15902058716273748,
+      "anger": 0.06881491253461651,
+      "neutral": 0.1763625417928007
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "The jurisdiction of this Constitution now covers an area fifty times greater than that of the original thirteen States and a population twenty times greater than that of 1780.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2545014684867289,
+      "unity": 0.13721345809659893,
+      "hope": 0.16323166820646323,
+      "resolve": 0.1500820976131327,
+      "anger": 0.145651284302511,
+      "neutral": 0.1493200232945652
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "The supreme trial of the Constitution came at last under the tremendous pressure of civil war.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.19802862782511488,
+      "unity": 0.15886750201112326,
+      "hope": 0.0963967104847957,
+      "resolve": 0.18580337576087724,
+      "anger": 0.22917919399031653,
+      "neutral": 0.1317245899277724
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "We ourselves are witnesses that the Union emerged from the blood and fire of that conflict purified and made stronger for all the beneficent purposes of good government.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22648655381425087,
+      "unity": 0.1839815367088394,
+      "hope": 0.14806409894253703,
+      "resolve": 0.20016813247201573,
+      "anger": 0.11865191803605134,
+      "neutral": 0.12264776002630563
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "And now, at the close of this first century of growth, with the inspirations of its history in their hearts, our people have lately reviewed the condition of the nation, passed judgment upon the conduct and opinions of political parties, and have registered their will concerning the future administration of the Government.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19287420274878292,
+      "unity": 0.15929747127162955,
+      "hope": 0.1918318266709637,
+      "resolve": 0.14815038532424735,
+      "anger": 0.17139802774454918,
+      "neutral": 0.13644808623982727
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "To interpret and to execute that will in accordance with the Constitution is the paramount duty of the Executive.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15037045748171923,
+      "unity": 0.1507282123043333,
+      "hope": 0.1442979377398916,
+      "resolve": 0.2220798061472356,
+      "anger": 0.156735495669009,
+      "neutral": 0.17578809065781123
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "Even from this brief review it is manifest that the nation is resolutely facing to the front, resolved to employ its best energies in developing the great possibilities of the future.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1929423875182301,
+      "unity": 0.15348460505626133,
+      "hope": 0.21613326981425288,
+      "resolve": 0.20986788338702114,
+      "anger": 0.13395732605582672,
+      "neutral": 0.09361452816840782
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "Sacredly preserving whatever has been gained to liberty and good government during the century, our people are determined to leave behind them all those bitter controversies concerning things which have been irrevocably settled, and the further discussion of which can only stir up strife and delay the onward march.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1900603969518599,
+      "unity": 0.17230972520652962,
+      "hope": 0.15479625755702747,
+      "resolve": 0.18940794677907397,
+      "anger": 0.16207684899402047,
+      "neutral": 0.13134882451148855
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "The supremacy of the nation and its laws should be no longer a subject of debate.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.19264814335536623,
+      "unity": 0.18365154181808852,
+      "hope": 0.08752131179018796,
+      "resolve": 0.14748222584501658,
+      "anger": 0.24033838909698843,
+      "neutral": 0.14835838809435228
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "That discussion, which for half a century threatened the existence of the Union, was closed at last in the high court of war by a decree from which there is no appeal--that the Constitution and the laws made in pursuance thereof are and shall continue to be the supreme law of the land, binding alike upon the States and the people.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.19296577782100133,
+      "unity": 0.18326785064647821,
+      "hope": 0.09362756642346835,
+      "resolve": 0.1613016254155916,
+      "anger": 0.19647648322561959,
+      "neutral": 0.17236069646784094
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "This decree does not disturb the autonomy of the States nor interfere with any of their necessary rights of local self-government, but it does fix and establish the permanent supremacy of the Union.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20804702042715967,
+      "unity": 0.1762510492138176,
+      "hope": 0.11386757694311662,
+      "resolve": 0.18688463857850263,
+      "anger": 0.13989081564241465,
+      "neutral": 0.17505889919498885
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "The will of the nation, speaking with the voice of battle and through the amended Constitution, has fulfilled the great promise of 1776 by proclaiming \"liberty throughout the land to all the inhabitants thereof.\"",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20650630463334158,
+      "unity": 0.1380355141989058,
+      "hope": 0.1601451482120555,
+      "resolve": 0.1839398087770943,
+      "anger": 0.14378208460115371,
+      "neutral": 0.16759113957744912
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "The elevation of the negro race from slavery to the full rights of citizenship is the most important political change we have known since the adoption of the Constitution of 1787.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2051889854744363,
+      "unity": 0.17000943279711445,
+      "hope": 0.18331354578174447,
+      "resolve": 0.14453064499746873,
+      "anger": 0.1513202786024342,
+      "neutral": 0.1456371123468019
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "NO thoughtful man can fail to appreciate its beneficent effect upon our institutions and people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.26258208169790576,
+      "unity": 0.12146157425176242,
+      "hope": 0.15222405375688175,
+      "resolve": 0.18131114354809277,
+      "anger": 0.14081172536683204,
+      "neutral": 0.14160942137852525
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "It has freed us from the perpetual danger of war and dissolution.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2254481010296593,
+      "unity": 0.16178247171016327,
+      "hope": 0.1710379963782876,
+      "resolve": 0.17951590569408732,
+      "anger": 0.13549499086963995,
+      "neutral": 0.12672053431816258
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "It has added immensely to the moral and industrial forces of our people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2771398143047501,
+      "unity": 0.11383971989091045,
+      "hope": 0.19339769049474256,
+      "resolve": 0.16915530194708742,
+      "anger": 0.11883807201745929,
+      "neutral": 0.12762940134505016
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "It has liberated the master as well as the slave from a relation which wronged and enfeebled both.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21117546544363433,
+      "unity": 0.18512170997846583,
+      "hope": 0.18762976773370965,
+      "resolve": 0.17283613076107637,
+      "anger": 0.10788542904475058,
+      "neutral": 0.13535149703836322
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "It has surrendered to their own guardianship the manhood of more than 5,000,000 people, and has opened to each one of them a career of freedom and usefulness.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23078068966268314,
+      "unity": 0.12465821951787079,
+      "hope": 0.19210707534088473,
+      "resolve": 0.1496807017908847,
+      "anger": 0.12549600172029046,
+      "neutral": 0.17727731196738622
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "It has given new inspiration to the power of self-help in both races by making labor more honorable to the one and more necessary to the other.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21813497712150043,
+      "unity": 0.17377032966885814,
+      "hope": 0.21381394506673207,
+      "resolve": 0.1681677563422101,
+      "anger": 0.09613168848664068,
+      "neutral": 0.1299813033140586
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "The influence of this force will grow greater and bear richer fruit with the coming years.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14785928407497348,
+      "unity": 0.115811738558164,
+      "hope": 0.2945495463732966,
+      "resolve": 0.2141004520742405,
+      "anger": 0.10633454310623565,
+      "neutral": 0.12134443581308976
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "No doubt this great change has caused serious disturbance to our Southern communities.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12715772070052003,
+      "unity": 0.1849140244878713,
+      "hope": 0.16116348666978608,
+      "resolve": 0.14928452031470313,
+      "anger": 0.25732439842996346,
+      "neutral": 0.12015584939715598
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "This is to be deplored, though it was perhaps unavoidable.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11653457495811785,
+      "unity": 0.17010711897271114,
+      "hope": 0.10577735382626945,
+      "resolve": 0.14765588971824292,
+      "anger": 0.2939865085628712,
+      "neutral": 0.1659385539617875
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "But those who resisted the change should remember that under our institutions there was no middle ground for the negro race between slavery and equal citizenship.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.14303769409466088,
+      "unity": 0.2715698542189923,
+      "hope": 0.08820968844464105,
+      "resolve": 0.20849840482600324,
+      "anger": 0.2459082317127195,
+      "neutral": 0.04277612670298299
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "There can be no permanent disfranchised peasantry in the United States.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16451671524880668,
+      "unity": 0.14745622826662402,
+      "hope": 0.15022440284263971,
+      "resolve": 0.19434411469256946,
+      "anger": 0.22530534711872996,
+      "neutral": 0.11815319183063015
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "Freedom can never yield its fullness of blessings so long as the law or its administration places the smallest obstacle in the pathway of any virtuous citizen.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19086947325229253,
+      "unity": 0.15767937237552362,
+      "hope": 0.16299472659438838,
+      "resolve": 0.20713145025293533,
+      "anger": 0.1806380340148408,
+      "neutral": 0.10068694351001932
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "The emancipated race has already made remarkable progress.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.22101470746050322,
+      "unity": 0.12762179356739764,
+      "hope": 0.2255895590982608,
+      "resolve": 0.16005181465537482,
+      "anger": 0.11939214904992883,
+      "neutral": 0.14632997616853463
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "With unquestioning devotion to the Union, with a patience and gentleness not born of fear, they have \"followed the light as God gave them to see the light.\"",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1980684009727613,
+      "unity": 0.16797962788505708,
+      "hope": 0.16782302384804507,
+      "resolve": 0.20895285783474724,
+      "anger": 0.1205013926550611,
+      "neutral": 0.13667469680432823
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "They are rapidly laying the material foundations of self-support, widening their circle of intelligence, and beginning to enjoy the blessings that gather around the homes of the industrious poor.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.2016269009173492,
+      "unity": 0.12610722737407548,
+      "hope": 0.2653575628363796,
+      "resolve": 0.1798752145424315,
+      "anger": 0.10376586152784747,
+      "neutral": 0.1232672328019167
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "They deserve the generous encouragement of all good men.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18432746421012428,
+      "unity": 0.1142949171727375,
+      "hope": 0.20360638994744742,
+      "resolve": 0.23734744555680776,
+      "anger": 0.10326072599281001,
+      "neutral": 0.157163057120073
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "So far as my authority can lawfully extend they shall enjoy the full and equal protection of the Constitution and the laws.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1656328333104395,
+      "unity": 0.12711801585050722,
+      "hope": 0.1292968754696893,
+      "resolve": 0.20369751337421094,
+      "anger": 0.17232385124853544,
+      "neutral": 0.20193091074661765
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "The free enjoyment of equal suffrage is still in question, and a frank statement of the issue may aid its solution.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15410431939982702,
+      "unity": 0.1929497781083768,
+      "hope": 0.15545248520164653,
+      "resolve": 0.1811024293253996,
+      "anger": 0.20608069908349685,
+      "neutral": 0.1103102888812532
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "It is alleged that in many communities negro citizens are practically denied the freedom of the ballot.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14325080455431558,
+      "unity": 0.2187435757591838,
+      "hope": 0.09739043793149271,
+      "resolve": 0.16827768865047146,
+      "anger": 0.3726464520755537,
+      "neutral": -0.00030895897101725073
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "In so far as the truth of this allegation is admitted, it is answered that in many places honest local government is impossible if the mass of uneducated negroes are allowed to vote.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13325840527223554,
+      "unity": 0.20193344441278357,
+      "hope": 0.11115123814405801,
+      "resolve": 0.1580981862846088,
+      "anger": 0.27926813169046644,
+      "neutral": 0.11629059419584765
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "These are grave allegations.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.0795384818017543,
+      "unity": 0.12955254393978646,
+      "hope": 0.14840009110113828,
+      "resolve": 0.1888175065640089,
+      "anger": 0.31871749454680837,
+      "neutral": 0.1349738820465037
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "So far as the latter is true, it is the only palliation that can be offered for opposing the freedom of the ballot.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12345318910486004,
+      "unity": 0.15756352782762614,
+      "hope": 0.08590270301162002,
+      "resolve": 0.2042802154816169,
+      "anger": 0.2947336080509699,
+      "neutral": 0.13406675652330702
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "Bad local government is certainly a great evil, which ought to be prevented; but to violate the freedom and sanctities of the suffrage is more than an evil.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15752794375269097,
+      "unity": 0.16903120259948198,
+      "hope": 0.11638881305996993,
+      "resolve": 0.17483458787087325,
+      "anger": 0.2869689251870808,
+      "neutral": 0.09524852752990311
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "It is a crime which, if persisted in, will destroy the Government itself.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16674974753095173,
+      "unity": 0.11208403086745113,
+      "hope": 0.06858279047168583,
+      "resolve": 0.16871613495406998,
+      "anger": 0.3735375688033999,
+      "neutral": 0.11032972737244141
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "Suicide is not a remedy.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.07576436549221172,
+      "unity": 0.216561924677383,
+      "hope": 0.11498342464688316,
+      "resolve": 0.18664329265464738,
+      "anger": 0.2665495274348364,
+      "neutral": 0.13949746509403835
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "If in other lands it be high treason to compass the death of the king, it shall be counted no less a crime here to strangle our sovereign power and stifle its voice.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1684534529047749,
+      "unity": 0.14752899276194975,
+      "hope": 0.11812474090039751,
+      "resolve": 0.18328190582952705,
+      "anger": 0.23460431184419428,
+      "neutral": 0.1480065957591565
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "It has been said that unsettled questions have no pity for the repose of nations.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17166138195134306,
+      "unity": 0.18572503849800778,
+      "hope": 0.15466902499671595,
+      "resolve": 0.22168388303144018,
+      "anger": 0.1822616131508072,
+      "neutral": 0.08399905837168585
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "It should be said with the utmost emphasis that this question of the suffrage will never give repose or safety to the States or to the nation until each, within its own jurisdiction, makes and keeps the ballot free and pure by the strong sanctions of the law.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17149304693681477,
+      "unity": 0.17297923631200435,
+      "hope": 0.11798425582036064,
+      "resolve": 0.2095404499064729,
+      "anger": 0.20453058263103716,
+      "neutral": 0.12347242839331021
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "But the danger which arises from ignorance in the voter can not be denied.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11880937730794795,
+      "unity": 0.17068927171674575,
+      "hope": 0.15915323570953382,
+      "resolve": 0.24053007773560928,
+      "anger": 0.2527738446581248,
+      "neutral": 0.05804419287203841
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "It covers a field far wider than that of negro suffrage and the present condition of the race.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18307590224791478,
+      "unity": 0.1923980202619053,
+      "hope": 0.22405492605652064,
+      "resolve": 0.1700139672417893,
+      "anger": 0.1511642722615093,
+      "neutral": 0.07929291193036066
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "It is a danger that lurks and hides in the sources and fountains of power in every state.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16629030275599896,
+      "unity": 0.1605618848331561,
+      "hope": 0.1582857121545502,
+      "resolve": 0.21604195039507268,
+      "anger": 0.2088080732313562,
+      "neutral": 0.09001207662986589
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "We have no standard by which to measure the disaster that may be brought upon us by ignorance and vice in the citizens when joined to corruption and fraud in the suffrage.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11260529250074527,
+      "unity": 0.17610375436011666,
+      "hope": 0.13544453379178298,
+      "resolve": 0.15995263143664654,
+      "anger": 0.37270831123672704,
+      "neutral": 0.04318547667398149
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "The voters of the Union, who make and unmake constitutions, and upon whose will hang the destinies of our governments, can transmit their supreme authority to no successors save the coming generation of voters, who are the sole heirs of sovereign power.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16802132589232016,
+      "unity": 0.163515207283181,
+      "hope": 0.15676224299138225,
+      "resolve": 0.18656169788053356,
+      "anger": 0.15645176592525792,
+      "neutral": 0.1686877600273251
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "If that generation comes to its inheritance blinded by ignorance and corrupted by vice, the fall of the Republic will be certain and remediless.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1419916875885897,
+      "unity": 0.12909767521284482,
+      "hope": 0.20977832788779147,
+      "resolve": 0.18462939312112114,
+      "anger": 0.22197790890558863,
+      "neutral": 0.11252500728406424
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "The census has already sounded the alarm in the appalling figures which mark how dangerously high the tide of illiteracy has risen among our voters and their children.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11800610513804095,
+      "unity": 0.1399871627766672,
+      "hope": 0.193389772655645,
+      "resolve": 0.1353876830190718,
+      "anger": 0.29201387950906765,
+      "neutral": 0.12121539690150737
+    }
+  },
+  {
+    "chunk_index": 59,
+    "text": "To the South this question is of supreme importance.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20845145511886234,
+      "unity": 0.20235974535518214,
+      "hope": 0.12501130154575776,
+      "resolve": 0.1660022402863375,
+      "anger": 0.18728406270232256,
+      "neutral": 0.1108911949915377
+    }
+  },
+  {
+    "chunk_index": 60,
+    "text": "But the responsibility for the existence of slavery did not rest upon the South alone.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22725121966598436,
+      "unity": 0.18448585780085608,
+      "hope": 0.14135545356604157,
+      "resolve": 0.22323871449367225,
+      "anger": 0.12985520576685894,
+      "neutral": 0.09381354870658681
+    }
+  },
+  {
+    "chunk_index": 61,
+    "text": "The nation itself is responsible for the extension of the suffrage, and is under special obligations to aid in removing the illiteracy which it has added to the voting population.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.20094238532615874,
+      "unity": 0.15705231243309964,
+      "hope": 0.12453829359695413,
+      "resolve": 0.1627311548833692,
+      "anger": 0.21746259657039915,
+      "neutral": 0.13727325719001915
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "For the North and South alike there is but one remedy.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.15960411300066552,
+      "unity": 0.21318266675786574,
+      "hope": 0.15185734905383527,
+      "resolve": 0.19011505828411274,
+      "anger": 0.1790290990207196,
+      "neutral": 0.10621171388280115
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "All the constitutional power of the nation and of the States and all the volunteer forces of the people should be surrendered to meet this danger by the savory influence of universal education.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15744088248994142,
+      "unity": 0.15667801077836147,
+      "hope": 0.16675238480684437,
+      "resolve": 0.18851688949222933,
+      "anger": 0.19147119001963978,
+      "neutral": 0.13914064241298363
+    }
+  },
+  {
+    "chunk_index": 64,
+    "text": "It is the high privilege and sacred duty of those now living to educate their successors and fit them, by intelligence and virtue, for the inheritance which awaits them.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15806208877556924,
+      "unity": 0.13252291855800608,
+      "hope": 0.22837558387739476,
+      "resolve": 0.19001574130602245,
+      "anger": 0.1235709698870658,
+      "neutral": 0.16745269759594167
+    }
+  },
+  {
+    "chunk_index": 65,
+    "text": "In this beneficent work sections and races should be forgotten and partisanship should be unknown.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14837512660157592,
+      "unity": 0.17167685986951672,
+      "hope": 0.12862076252072216,
+      "resolve": 0.1796894775153843,
+      "anger": 0.22229515101057365,
+      "neutral": 0.14934262248222724
+    }
+  },
+  {
+    "chunk_index": 66,
+    "text": "Let our people find a new meaning in the divine oracle which declares that \"a little child shall lead them,\" for our own little children will soon control the destinies of the Republic.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14616530385702065,
+      "unity": 0.148896097601118,
+      "hope": 0.21570070429450272,
+      "resolve": 0.1720017818771583,
+      "anger": 0.16742635908340953,
+      "neutral": 0.1498097532867908
+    }
+  },
+  {
+    "chunk_index": 67,
+    "text": "My countrymen, we do not now differ in our judgment concerning the controversies of past generations, and fifty years hence our children will not be divided in their opinions concerning our controversies.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.177363956272433,
+      "unity": 0.17351890413376586,
+      "hope": 0.16750219535137748,
+      "resolve": 0.18737639901281136,
+      "anger": 0.15343074784497068,
+      "neutral": 0.1408077973846416
+    }
+  },
+  {
+    "chunk_index": 68,
+    "text": "They will surely bless their fathers and their fathers' God that the Union was preserved, that slavery was overthrown, and that both races were made equal before the law.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21231693254730563,
+      "unity": 0.12351359861975598,
+      "hope": 0.18614309809431084,
+      "resolve": 0.1683704618806074,
+      "anger": 0.12566325885683582,
+      "neutral": 0.18399265000118428
+    }
+  },
+  {
+    "chunk_index": 69,
+    "text": "We may hasten or we may retard, but we can not prevent, the final reconciliation.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.11274066994781845,
+      "unity": 0.22401718495762957,
+      "hope": 0.15985792420423042,
+      "resolve": 0.19010008698274364,
+      "anger": 0.1840380558846309,
+      "neutral": 0.129246078022947
+    }
+  },
+  {
+    "chunk_index": 70,
+    "text": "Is it not possible for us now to make a truce with time by anticipating and accepting its inevitable verdict?",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.08808226295906858,
+      "unity": 0.17724974292538345,
+      "hope": 0.20276062384741103,
+      "resolve": 0.18349731895192295,
+      "anger": 0.22027385864207444,
+      "neutral": 0.12813619267413956
+    }
+  },
+  {
+    "chunk_index": 71,
+    "text": "Enterprises of the highest importance to our moral and material well-being unite us and offer ample employment of our best powers.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2324706360829108,
+      "unity": 0.15340274682919258,
+      "hope": 0.19741819961572732,
+      "resolve": 0.20503403271036907,
+      "anger": 0.10105838980545669,
+      "neutral": 0.11061599495634356
+    }
+  },
+  {
+    "chunk_index": 72,
+    "text": "Let all our people, leaving behind them the battlefields of dead issues, move forward and in their strength of liberty and the restored Union win the grander victories of peace.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1834995941298585,
+      "unity": 0.16918711731843414,
+      "hope": 0.17299368033686874,
+      "resolve": 0.1828369411114914,
+      "anger": 0.13619549071441373,
+      "neutral": 0.1552871763889335
+    }
+  },
+  {
+    "chunk_index": 73,
+    "text": "The prosperity which now prevails is without parallel in our history.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.26974912225737707,
+      "unity": 0.13331308926897908,
+      "hope": 0.20632039330295024,
+      "resolve": 0.15222033265881088,
+      "anger": 0.14908208831353426,
+      "neutral": 0.08931497419834847
+    }
+  },
+  {
+    "chunk_index": 74,
+    "text": "Fruitful seasons have done much to secure it, but they have not done all.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19619367679058036,
+      "unity": 0.16260241588078087,
+      "hope": 0.20823198359492226,
+      "resolve": 0.18997013203562133,
+      "anger": 0.15957134989454416,
+      "neutral": 0.08343044180355101
+    }
+  },
+  {
+    "chunk_index": 75,
+    "text": "The preservation of the public credit and the resumption of specie payments, so successfully attained by the Administration of my predecessors, have enabled our people to secure the blessings which the seasons brought.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22085981616591632,
+      "unity": 0.11592588942832015,
+      "hope": 0.1787600259244138,
+      "resolve": 0.16986879149126527,
+      "anger": 0.10909140969870813,
+      "neutral": 0.2054940672913763
+    }
+  },
+  {
+    "chunk_index": 76,
+    "text": "By the experience of commercial nations in all ages it has been found that gold and silver afford the only safe foundation for a monetary system.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2593003612529766,
+      "unity": 0.14030790682319555,
+      "hope": 0.16598041100107241,
+      "resolve": 0.1808172910315875,
+      "anger": 0.1133147967805913,
+      "neutral": 0.1402792331105766
+    }
+  },
+  {
+    "chunk_index": 77,
+    "text": "Confusion has recently been created by variations in the relative value of the two metals, but I confidently believe that arrangements can be made between the leading commercial nations which will secure the general use of both metals.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16593499973215797,
+      "unity": 0.2072482759840197,
+      "hope": 0.19357111705135435,
+      "resolve": 0.18376862696685964,
+      "anger": 0.12342836006103454,
+      "neutral": 0.1260486202045738
+    }
+  },
+  {
+    "chunk_index": 78,
+    "text": "Congress should provide that the compulsory coinage of silver now required by law may not disturb our monetary system by driving either metal out of circulation.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1503529782694878,
+      "unity": 0.1238088441954128,
+      "hope": 0.12162372558668272,
+      "resolve": 0.17785189704129983,
+      "anger": 0.20538616545175187,
+      "neutral": 0.22097638945536496
+    }
+  },
+  {
+    "chunk_index": 79,
+    "text": "If possible, such an adjustment should be made that the purchasing power of every coined dollar will be exactly equal to its debt-paying power in all the markets of the world.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17920965821658089,
+      "unity": 0.153513671827341,
+      "hope": 0.1500853698791213,
+      "resolve": 0.2139935277023171,
+      "anger": 0.13705399980134836,
+      "neutral": 0.16614377257329135
+    }
+  },
+  {
+    "chunk_index": 80,
+    "text": "The chief duty of the National Government in connection with the currency of the country is to coin money and declare its value.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3005441564075922,
+      "unity": 0.09445551718955399,
+      "hope": 0.06929521344762829,
+      "resolve": 0.1133578595717584,
+      "anger": 0.17941949596310558,
+      "neutral": 0.24292775742036155
+    }
+  },
+  {
+    "chunk_index": 81,
+    "text": "Grave doubts have been entertained whether Congress is authorized by the Constitution to make any form of paper money legal tender.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.10617980698834803,
+      "unity": 0.10098099925443561,
+      "hope": 0.09161092331443886,
+      "resolve": 0.19077800192282718,
+      "anger": 0.349076112322265,
+      "neutral": 0.16137415619768533
+    }
+  },
+  {
+    "chunk_index": 82,
+    "text": "The present issue of United States notes has been sustained by the necessities of war; but such paper should depend for its value and currency upon its convenience in use and its prompt redemption in coin at the will of the holder, and not upon its compulsory circulation.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20245900027460945,
+      "unity": 0.11535613797601059,
+      "hope": 0.14775811098585953,
+      "resolve": 0.1774419699381446,
+      "anger": 0.16838637955878796,
+      "neutral": 0.18859840126658786
+    }
+  },
+  {
+    "chunk_index": 83,
+    "text": "These notes are not money, but promises to pay money.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.04100258382522347,
+      "unity": 0.05143275680665112,
+      "hope": 0.22593297117198424,
+      "resolve": 0.1196612604321234,
+      "anger": 0.20367807489030162,
+      "neutral": 0.35829235287371614
+    }
+  },
+  {
+    "chunk_index": 84,
+    "text": "If the holders demand it, the promise should be kept.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.08970699260223863,
+      "unity": 0.12686440095197402,
+      "hope": 0.17011094265587012,
+      "resolve": 0.19874722493983002,
+      "anger": 0.2069092963359201,
+      "neutral": 0.20766114251416712
+    }
+  },
+  {
+    "chunk_index": 85,
+    "text": "The refunding of the national debt at a lower rate of interest should be accomplished without compelling the withdrawal of the national-bank notes, and thus disturbing the business of the country.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1621328807788712,
+      "unity": 0.15239146854206626,
+      "hope": 0.10226203298069705,
+      "resolve": 0.16750134007336748,
+      "anger": 0.22222574485310886,
+      "neutral": 0.19348653277188915
+    }
+  },
+  {
+    "chunk_index": 86,
+    "text": "I venture to refer to the position I have occupied on financial questions during a long service in Congress, and to say that time and experience have strengthened the opinions I have so often expressed on these subjects.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.20761289990699322,
+      "unity": 0.09980824729755372,
+      "hope": 0.16006485669714324,
+      "resolve": 0.1760106559179951,
+      "anger": 0.09579084099610352,
+      "neutral": 0.2607124991842112
+    }
+  },
+  {
+    "chunk_index": 87,
+    "text": "The finances of the Government shall suffer no detriment which it may be possible for my Administration to prevent.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1499792177107186,
+      "unity": 0.12282706900428665,
+      "hope": 0.16140668592944932,
+      "resolve": 0.21087437783682392,
+      "anger": 0.16884689375801112,
+      "neutral": 0.18606575576071038
+    }
+  },
+  {
+    "chunk_index": 88,
+    "text": "The interests of agriculture deserve more attention from the Government than they have yet received.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17494008428314828,
+      "unity": 0.14011803767338993,
+      "hope": 0.19680383113440045,
+      "resolve": 0.15777463305724373,
+      "anger": 0.21954856353211863,
+      "neutral": 0.11081485031969898
+    }
+  },
+  {
+    "chunk_index": 89,
+    "text": "The farms of the United States afford homes and employment for more than one-half our people, and furnish much the largest part of all our exports.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.31407940344435165,
+      "unity": 0.14224655804715827,
+      "hope": 0.16866388598626808,
+      "resolve": 0.15081842825139727,
+      "anger": 0.11255683163105946,
+      "neutral": 0.11163489263976527
+    }
+  },
+  {
+    "chunk_index": 90,
+    "text": "As the Government lights our coasts for the protection of mariners and the benefit of commerce, so it should give to the tillers of the soil the best lights of practical science and experience.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17185588772449356,
+      "unity": 0.10197156069553785,
+      "hope": 0.2599695764619421,
+      "resolve": 0.1904324040990596,
+      "anger": 0.1226923170811623,
+      "neutral": 0.1530782539378046
+    }
+  },
+  {
+    "chunk_index": 91,
+    "text": "Our manufacturers are rapidly making us industrially independent, and are opening to capital and labor new and profitable fields of employment.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.2250567769648929,
+      "unity": 0.11912230171959878,
+      "hope": 0.27473736631194173,
+      "resolve": 0.17849054774275377,
+      "anger": 0.098743723718119,
+      "neutral": 0.10384928354269381
+    }
+  },
+  {
+    "chunk_index": 92,
+    "text": "Their steady and healthy growth should still be matured.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15427690741356997,
+      "unity": 0.0875064210624431,
+      "hope": 0.2562827247804929,
+      "resolve": 0.18960454966046494,
+      "anger": 0.2090156096655457,
+      "neutral": 0.10331378741748339
+    }
+  },
+  {
+    "chunk_index": 93,
+    "text": "Our facilities for transportation should be promoted by the continued improvement of our harbors and great interior waterways and by the increase of our tonnage on the ocean.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2426742482139732,
+      "unity": 0.12521740351581687,
+      "hope": 0.22339062602228318,
+      "resolve": 0.22188529008667898,
+      "anger": 0.07337402021183002,
+      "neutral": 0.11345841194941773
+    }
+  },
+  {
+    "chunk_index": 94,
+    "text": "The development of the world's commerce has led to an urgent demand for shortening the great sea voyage around Cape Horn by constructing ship canals or railways across the isthmus which unites the continents.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1729658307835882,
+      "unity": 0.12608674517105073,
+      "hope": 0.27778673066997844,
+      "resolve": 0.22146002063776662,
+      "anger": 0.08752156785327815,
+      "neutral": 0.11417910488433788
+    }
+  },
+  {
+    "chunk_index": 95,
+    "text": "Various plans to this end have been suggested and will need consideration, but none of them has been sufficiently matured to warrant the United States in extending pecuniary aid.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12308043128679527,
+      "unity": 0.17746124635655172,
+      "hope": 0.16293227440030597,
+      "resolve": 0.1952613222152632,
+      "anger": 0.23877684143522465,
+      "neutral": 0.10248788430585916
+    }
+  },
+  {
+    "chunk_index": 96,
+    "text": "The subject, however, is one which will immediately engage the attention of the Government with a view to a thorough protection to American interests.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22738532909679526,
+      "unity": 0.128640598490634,
+      "hope": 0.17411980611348454,
+      "resolve": 0.2148189111595447,
+      "anger": 0.16825559973386864,
+      "neutral": 0.08677975540567284
+    }
+  },
+  {
+    "chunk_index": 97,
+    "text": "We will urge no narrow policy nor seek peculiar or exclusive privileges in any commercial route; but, in the language of my predecessor, I believe it to be the right \"and duty of the United States to assert and maintain such supervision and authority over any interoceanic canal across the isthmus that connects North and South America as will protect our national interest.\"",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.185480195396567,
+      "unity": 0.14134806471208555,
+      "hope": 0.15687522484910107,
+      "resolve": 0.20551236863506347,
+      "anger": 0.14682465249123025,
+      "neutral": 0.1639594939159526
+    }
+  },
+  {
+    "chunk_index": 98,
+    "text": "The Constitution guarantees absolute religious freedom.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.26727061063104207,
+      "unity": 0.12427024945614878,
+      "hope": 0.06982631835326908,
+      "resolve": 0.20891209316546733,
+      "anger": 0.19228601992584562,
+      "neutral": 0.1374347084682271
+    }
+  },
+  {
+    "chunk_index": 99,
+    "text": "Congress is prohibited from making any law respecting an establishment of religion or prohibiting the free exercise thereof.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.23995686660497056,
+      "unity": 0.12681422735481945,
+      "hope": 0.027217144819735722,
+      "resolve": 0.198231604128984,
+      "anger": 0.27541234093088024,
+      "neutral": 0.13236781616061002
+    }
+  },
+  {
+    "chunk_index": 100,
+    "text": "The Territories of the United States are subject to the direct legislative authority of Congress, and hence the General Government is responsible for any violation of the Constitution in any of them.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2721967567164136,
+      "unity": 0.1548859430644745,
+      "hope": -0.007352768907790129,
+      "resolve": 0.21185636873701297,
+      "anger": 0.251373092023429,
+      "neutral": 0.11704060836646006
+    }
+  },
+  {
+    "chunk_index": 101,
+    "text": "It is therefore a reproach to the Government that in the most populous of the Territories the constitutional guaranty is not enjoyed by the people and the authority of Congress is set at naught.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.21418218778394124,
+      "unity": 0.16134478848324152,
+      "hope": 0.07636030145727947,
+      "resolve": 0.17057233375842232,
+      "anger": 0.25467310760358375,
+      "neutral": 0.12286728091353172
+    }
+  },
+  {
+    "chunk_index": 102,
+    "text": "The Mormon Church not only offends the moral sense of manhood by sanctioning polygamy, but prevents the administration of justice through ordinary instrumentalities of law.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.0920451770503741,
+      "unity": 0.2164175815883987,
+      "hope": 0.0605226234124391,
+      "resolve": 0.17678940646131228,
+      "anger": 0.3268461398286496,
+      "neutral": 0.12737907165882625
+    }
+  },
+  {
+    "chunk_index": 103,
+    "text": "In my judgment it is the duty of Congress, while respecting to the uttermost the conscientious convictions and religious scruples of every citizen, to prohibit within its jurisdiction all criminal practices, especially of that class which destroy the family relations and endanger social order.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13030407288293944,
+      "unity": 0.14039005278856892,
+      "hope": 0.10991846115250893,
+      "resolve": 0.16881707748342178,
+      "anger": 0.2502970694193074,
+      "neutral": 0.20027326627325354
+    }
+  },
+  {
+    "chunk_index": 104,
+    "text": "Nor can any ecclesiastical organization be safely permitted to usurp in the smallest degree the functions and powers of the National Government.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15293290857583627,
+      "unity": 0.1998350758436339,
+      "hope": 0.1078507838886417,
+      "resolve": 0.18930594022919925,
+      "anger": 0.24660125509447708,
+      "neutral": 0.10347403636821179
+    }
+  },
+  {
+    "chunk_index": 105,
+    "text": "The civil service can never be placed on a satisfactory basis until it is regulated by law.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.013717485229478644,
+      "unity": 0.15740761254248922,
+      "hope": 0.08748294073897141,
+      "resolve": 0.23627571659445426,
+      "anger": 0.44161689532891757,
+      "neutral": 0.06349934956568895
+    }
+  },
+  {
+    "chunk_index": 106,
+    "text": "For the good of the service itself, for the protection of those who are intrusted with the appointing power against the waste of time and obstruction to the public business caused by the inordinate pressure for place, and for the protection of incumbents against intrigue and wrong, I shall at the proper time ask Congress to fix the tenure of the minor offices of the several Executive Departments and prescribe the grounds upon which removals shall be made during the terms for which incumbents have been appointed.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.11910435312115325,
+      "unity": 0.117945051410711,
+      "hope": 0.12153809732275452,
+      "resolve": 0.1643688018282485,
+      "anger": 0.21543138656436647,
+      "neutral": 0.2616123097527663
+    }
+  },
+  {
+    "chunk_index": 107,
+    "text": "Finally, acting always within the authority and limitations of the Constitution, invading neither the rights of the States nor the reserved rights of the people, it will be the purpose of my Administration to maintain the authority of the nation in all places within its jurisdiction; to enforce obedience to all the laws of the Union in the interests of the people; to demand rigid economy in all the expenditures of the Government, and to require the honest and faithful service of all executive officers, remembering that the offices were created, not for the benefit of incumbents or their supporters, but for the service of the Government.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17821228636090095,
+      "unity": 0.14032493304607802,
+      "hope": 0.14427579745184402,
+      "resolve": 0.20687062740440662,
+      "anger": 0.13805252347189745,
+      "neutral": 0.19226383226487292
+    }
+  },
+  {
+    "chunk_index": 108,
+    "text": "And now, fellow-citizens, I am about to assume the great trust which you have committed to my hands.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.149933008559275,
+      "unity": 0.13414065143115558,
+      "hope": 0.17548877757647088,
+      "resolve": 0.1684974659562233,
+      "anger": 0.1446267202395934,
+      "neutral": 0.22731337623728182
+    }
+  },
+  {
+    "chunk_index": 109,
+    "text": "I appeal to you for that earnest and thoughtful support which makes this Government in fact, as it is in law, a government of the people.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18307318773993403,
+      "unity": 0.15224942871206676,
+      "hope": 0.14302186024556054,
+      "resolve": 0.1755373090033453,
+      "anger": 0.15980612438011865,
+      "neutral": 0.18631208991897474
+    }
+  },
+  {
+    "chunk_index": 110,
+    "text": "I shall greatly rely upon the wisdom and patriotism of Congress and of those who may share with me the responsibilities and duties of administration, and, above all, upon our efforts to promote the welfare of this great people and their Government I reverently invoke the support and blessings of Almighty God.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17963721134225777,
+      "unity": 0.13986409961866628,
+      "hope": 0.16625531842833205,
+      "resolve": 0.18258274818927098,
+      "anger": 0.1294836866184258,
+      "neutral": 0.20217693580304716
+    }
+  }
+]

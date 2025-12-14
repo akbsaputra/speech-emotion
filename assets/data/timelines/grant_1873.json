@@ -1,0 +1,561 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Fellow-Citizens:\nUnder Providence I have been called a second time to act as Executive over this great nation.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18682922962492113,
+      "unity": 0.15590456579303624,
+      "hope": 0.15090891274610937,
+      "resolve": 0.14801396609109163,
+      "anger": 0.14358403561916278,
+      "neutral": 0.21475929012567885
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "It has been my endeavor in the past to maintain all the laws, and, so far as lay in my power, to act for the best interests of the whole people.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16906823621031528,
+      "unity": 0.149284669331785,
+      "hope": 0.14025572735071046,
+      "resolve": 0.1938765237749709,
+      "anger": 0.14815680435715542,
+      "neutral": 0.19935803897506296
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "My best efforts will be given in the same direction in the future, aided, I trust, by my four years' experience in the office.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1240928059856673,
+      "unity": 0.11388599991283221,
+      "hope": 0.26451582922661476,
+      "resolve": 0.24721981751166724,
+      "anger": 0.03535870631455269,
+      "neutral": 0.21492684104866577
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "When my first term of the office of Chief Executive began, the country had not recovered from the effects of a great internal revolution, and three of the former States of the Union had not been restored to their Federal relations.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23485316081118154,
+      "unity": 0.22533008285190861,
+      "hope": 0.11532968630469609,
+      "resolve": 0.15502514239946766,
+      "anger": 0.13699773435563473,
+      "neutral": 0.13246419327711137
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "It seemed to me wise that no new questions should be raised so long as that condition of affairs existed.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14390574204069384,
+      "unity": 0.1539248637187544,
+      "hope": 0.140857455353531,
+      "resolve": 0.23048127194249274,
+      "anger": 0.1838254084700874,
+      "neutral": 0.1470052584744406
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Therefore the past four years, so far as I could control events, have been consumed in the effort to restore harmony, public credit, commerce, and all the arts of peace and progress.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17441157243735345,
+      "unity": 0.17523051274519552,
+      "hope": 0.1718586857964537,
+      "resolve": 0.1634035840383468,
+      "anger": 0.13679616069138859,
+      "neutral": 0.17829948429126194
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "It is my firm conviction that the civilized world is tending toward republicanism, or government by the people through their chosen representatives, and that our own great Republic is destined to be the guiding star to all others.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20682116208218493,
+      "unity": 0.16797764017265998,
+      "hope": 0.17099158765777855,
+      "resolve": 0.16334450272434364,
+      "anger": 0.15419742275053802,
+      "neutral": 0.1366676846124949
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "Under our Republic we support an army less than that of any European power of any standing and a navy less than that of either of at least five of them.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.28780255732489984,
+      "unity": 0.16736129277890083,
+      "hope": 0.10123670582690875,
+      "resolve": 0.22022592866937724,
+      "anger": 0.16501992557772174,
+      "neutral": 0.058353589822191625
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "There could be no extension of territory on the continent which would call for an increase of this force, but rather might such extension enable us to diminish it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20852262174506486,
+      "unity": 0.17432320366791793,
+      "hope": 0.10068071419502465,
+      "resolve": 0.2992815141726546,
+      "anger": 0.1760057517484172,
+      "neutral": 0.041186194470920756
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "The theory of government changes with general progress.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21473522050475286,
+      "unity": 0.17586820341863993,
+      "hope": 0.1824658378969004,
+      "resolve": 0.12928589096736864,
+      "anger": 0.1639291197548396,
+      "neutral": 0.13371572745749857
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "Now that the telegraph is made available for communicating thought, together with rapid transit by steam, all parts of a continent are made contiguous for all purposes of government, and communication between the extreme limits of the country made easier than it was throughout the old thirteen States at the beginning of our national existence.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22578969251673633,
+      "unity": 0.18843257327452748,
+      "hope": 0.19864368687051057,
+      "resolve": 0.1577123173756765,
+      "anger": 0.09621697443584216,
+      "neutral": 0.13320475552670696
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "The effects of the late civil strife have been to free the slave and make him a citizen.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24851351237394292,
+      "unity": 0.17905665393442946,
+      "hope": 0.15687454771439158,
+      "resolve": 0.12404723909751506,
+      "anger": 0.1376702689972593,
+      "neutral": 0.1538377778824617
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "Yet he is not possessed of the civil rights which citizenship should carry with it.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.22013627819839296,
+      "unity": 0.22051188389752488,
+      "hope": 0.09251112082008994,
+      "resolve": 0.12599625860440974,
+      "anger": 0.2295026125390178,
+      "neutral": 0.11134184594056468
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "This is wrong, and should be corrected.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11458203604909406,
+      "unity": 0.19219160849848566,
+      "hope": 0.16602956125213206,
+      "resolve": 0.127058913071854,
+      "anger": 0.21047433726366538,
+      "neutral": 0.18966354386476883
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "To this correction I stand committed, so far as Executive influence can avail.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.10789843176647079,
+      "unity": 0.15239680470244232,
+      "hope": 0.15117686464189936,
+      "resolve": 0.19502502698640142,
+      "anger": 0.1754731785488355,
+      "neutral": 0.2180296933539506
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "Social equality is not a subject to be legislated upon, nor shall I ask that anything be done to advance the social status of the colored man, except to give him a fair chance to develop what there is good in him, give him access to the schools, and when he travels let him feel assured that his conduct will regulate the treatment and fare he will receive.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1489728199672668,
+      "unity": 0.2205392902858244,
+      "hope": 0.18535768436551328,
+      "resolve": 0.16198880515783418,
+      "anger": 0.15317976921071114,
+      "neutral": 0.12996163101285024
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "The States lately at war with the General Government are now happily rehabilitated, and no Executive control is exercised in any one of them that would not be exercised in any other State under like circumstances.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2519045790884954,
+      "unity": 0.16179768412256024,
+      "hope": 0.061678505433451325,
+      "resolve": 0.16178615971327934,
+      "anger": 0.1990181336330589,
+      "neutral": 0.1638149380091548
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "In the first year of the past Administration the proposition came up for the admission of Santo Domingo as a Territory of the Union.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.30039470283971664,
+      "unity": 0.1699365909227957,
+      "hope": 0.10408920590435318,
+      "resolve": 0.11117035965956391,
+      "anger": 0.08834272224462832,
+      "neutral": 0.22606641842894223
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "It was not a question of my seeking, but was a proposition from the people of Santo Domingo, and which I entertained.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.154240836107147,
+      "unity": 0.1511378286302945,
+      "hope": 0.20266995741342872,
+      "resolve": 0.14183533271856288,
+      "anger": 0.15112704433490137,
+      "neutral": 0.19898900079566553
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "I believe now, as I did then, that it was for the best interest of this country, for the people of Santo Domingo, and all concerned that the proposition should be received favorably.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18051159938408384,
+      "unity": 0.15864608433127086,
+      "hope": 0.1580690518449904,
+      "resolve": 0.1648612263094945,
+      "anger": 0.15071704056530286,
+      "neutral": 0.18719499756485752
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "It was, however, rejected constitutionally, and therefore the subject was never brought up again by me.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.20294496215062527,
+      "unity": 0.18447103143550772,
+      "hope": 0.0030561658098744483,
+      "resolve": 0.10538274402068412,
+      "anger": 0.3066067420015177,
+      "neutral": 0.19753835458179075
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "In future, while I hold my present office, the subject of acquisition of territory must have the support of the people before I will recommend any proposition looking to such acquisition.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13277641170102142,
+      "unity": 0.1342286886491703,
+      "hope": 0.17222598449395884,
+      "resolve": 0.183942704343694,
+      "anger": 0.15331233081241097,
+      "neutral": 0.22351387999974448
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "I say here, however, that I do not share in the apprehension held by many as to the danger of governments becoming weakened and destroyed by reason of their extension of territory.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1530640127417674,
+      "unity": 0.1810306009874168,
+      "hope": 0.1565879180343121,
+      "resolve": 0.22913175016211043,
+      "anger": 0.17925914455207426,
+      "neutral": 0.10092657352231903
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "Commerce, education, and rapid transit of thought and matter by telegraph and steam have changed all this.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.23843497081949733,
+      "unity": 0.15189597259130325,
+      "hope": 0.328138585010603,
+      "resolve": 0.0864625749350315,
+      "anger": 0.13911971188432254,
+      "neutral": 0.055948184759242396
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "Rather do I believe that our Great Maker is preparing the world, in His own good time, to become one nation, speaking one language, and when armies and navies will be no longer required.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.14950192520688388,
+      "unity": 0.20524339484675921,
+      "hope": 0.20355153240784124,
+      "resolve": 0.1916554014092837,
+      "anger": 0.1291959851390773,
+      "neutral": 0.12085176099015468
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "My efforts in the future will be directed to the restoration of good feeling between the different sections of our common country; to the restoration of our currency to a fixed value as compared with the world's standard of values--gold--and, if possible, to a par with it; to the construction of cheap routes of transit throughout the land, to the end that the products of all may find a market and leave a living remuneration to the producer; to the maintenance of friendly relations with all our neighbors and with distant nations; to the reestablishment of our commerce and share in the carrying trade upon the ocean; to the encouragement of such manufacturing industries as can be economically pursued in this country, to the end that the exports of home products and industries may pay for our imports--the only sure method of returning to and permanently maintaining a specie basis; to the elevation of labor; and, by a humane course, to bring the aborigines of the country under the benign influences of education and civilization.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16643819160566592,
+      "unity": 0.16072007670016022,
+      "hope": 0.2091707591580762,
+      "resolve": 0.16986199056086715,
+      "anger": 0.11983972851499775,
+      "neutral": 0.17396925346023273
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "It is either this or war of extermination: Wars of extermination, engaged in by people pursuing commerce and all industrial pursuits, are expensive even against the weakest people, and are demoralizing and wicked.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17360947607240795,
+      "unity": 0.16692792227893827,
+      "hope": 0.11127533727947284,
+      "resolve": 0.22229195055169573,
+      "anger": 0.26922638574716096,
+      "neutral": 0.056668928070324226
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "Our superiority of strength and advantages of civilization should make us lenient toward the Indian.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21452322636820037,
+      "unity": 0.1640499685106492,
+      "hope": 0.12018676233890563,
+      "resolve": 0.23216313463213442,
+      "anger": 0.1955978284673783,
+      "neutral": 0.0734790796827321
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "The wrong inflicted upon him should be taken into account and the balance placed to his credit.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14507719792752719,
+      "unity": 0.15836650560174792,
+      "hope": 0.10323236922067992,
+      "resolve": 0.17030844386874305,
+      "anger": 0.24777411782488482,
+      "neutral": 0.17524136555641712
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "The moral view of the question should be considered and the question asked, Can not the Indian be made a useful and productive member of society by proper teaching and treatment?",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1861598220694745,
+      "unity": 0.17936628508704988,
+      "hope": 0.1859020505229497,
+      "resolve": 0.1630691043156472,
+      "anger": 0.22295598285728402,
+      "neutral": 0.06254675514759467
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "If the effort is made in good faith, we will stand better before the civilized nations of the earth and in our own consciences for having made it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17377589004984265,
+      "unity": 0.16546991618035184,
+      "hope": 0.1700737641371553,
+      "resolve": 0.21621382531070435,
+      "anger": 0.1487720871153839,
+      "neutral": 0.12569451720656197
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "All these things are not to be accomplished by one individual, but they will receive my support and such recommendations to Congress as will in my judgment best serve to carry them into effect.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.12257527196137974,
+      "unity": 0.14423422490256654,
+      "hope": 0.16400628199301573,
+      "resolve": 0.20081189776335734,
+      "anger": 0.15636622027470815,
+      "neutral": 0.21200610310497248
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "I beg your support and encouragement.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.10491254269223321,
+      "unity": 0.15374837397275146,
+      "hope": 0.22401018510611267,
+      "resolve": 0.21351635377913997,
+      "anger": 0.1456774551694936,
+      "neutral": 0.15813508928026906
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "It has been, and is, my earnest desire to correct abuses that have grown up in the civil service of the country.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14286229719245078,
+      "unity": 0.15598191077029022,
+      "hope": 0.16159416588269018,
+      "resolve": 0.18168681298716566,
+      "anger": 0.19549297516370887,
+      "neutral": 0.1623818380036943
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "To secure this reformation rules regulating methods of appointment and promotions were established and have been tried.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.10171168016618498,
+      "unity": 0.15558933727201313,
+      "hope": 0.10163420241903985,
+      "resolve": 0.17644254045540902,
+      "anger": 0.2687282342863685,
+      "neutral": 0.19589400540098453
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "My efforts for such reformation shall be continued to the best of my judgment.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.10843274995674432,
+      "unity": 0.18965693734172626,
+      "hope": 0.18466988261268397,
+      "resolve": 0.209897023147277,
+      "anger": 0.1613772246194417,
+      "neutral": 0.14596618232212677
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "The spirit of the rules adopted will be maintained.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1457188083440112,
+      "unity": 0.1501333469791705,
+      "hope": 0.16112479467958557,
+      "resolve": 0.23381868668482,
+      "anger": 0.1312256672664957,
+      "neutral": 0.17797869604591698
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "I acknowledge before this assemblage, representing, as it does, every section of our country, the obligation I am under to my countrymen for the great honor they have conferred on me by returning me to the highest office within their gift, and the further obligation resting on me to render to them the best services within my power.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.20755662179220283,
+      "unity": 0.13184388144586015,
+      "hope": 0.13285127380632664,
+      "resolve": 0.15366908372340893,
+      "anger": 0.11616004905009009,
+      "neutral": 0.2579190901821114
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "This I promise, looking forward with the greatest anxiety to the day when I shall be released from responsibilities that at times are almost overwhelming, and from which I have scarcely had a respite since the eventful firing upon Fort Sumter, in April, 1861, to the present day.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1575484640096263,
+      "unity": 0.13325947893352597,
+      "hope": 0.1993866782514716,
+      "resolve": 0.1997297705192335,
+      "anger": 0.1302766672386889,
+      "neutral": 0.17979894104745375
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "My services were then tendered and accepted under the first call for troops growing out of that event.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.26342976580201694,
+      "unity": 0.09461709671061566,
+      "hope": 0.13325277578864755,
+      "resolve": 0.1787346270894982,
+      "anger": 0.06304674136700762,
+      "neutral": 0.26691899324221396
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "I did not ask for place or position, and was entirely without influence or the acquaintance of persons of influence, but was resolved to perform my part in a struggle threatening the very existence of the nation.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17866655712462,
+      "unity": 0.16387158733771512,
+      "hope": 0.1346340393565063,
+      "resolve": 0.2320309759520535,
+      "anger": 0.16005924203133032,
+      "neutral": 0.13073759819777475
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "I performed a conscientious duty, without asking promotion or command, and without a revengeful feeling toward any section or individual.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.21965689462795948,
+      "unity": 0.10047756558158406,
+      "hope": 0.06901517869902278,
+      "resolve": 0.21374457336436745,
+      "anger": 0.1545302073550374,
+      "neutral": 0.24257558037202884
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "Notwithstanding this, throughout the war, and from my candidacy for my present office in 1868 to the close of the last Presidential campaign, I have been the subject of abuse and slander scarcely ever equaled in political history, which to-day I feel that I can afford to disregard in view of your verdict, which I gratefully accept as my vindication.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17150206958603068,
+      "unity": 0.1416695622268019,
+      "hope": 0.11480742379075783,
+      "resolve": 0.16729940414016892,
+      "anger": 0.20882249167902486,
+      "neutral": 0.19589904857721577
+    }
+  }
+]

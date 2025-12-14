@@ -1,0 +1,431 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "My fellow-citizens,\nNo people on earth have more cause to be thankful than ours, and this is said reverently, in no spirit of boastfulness in our own strength, but with gratitude to the Giver of Good who has blessed us with the conditions which have enabled us to achieve so large a measure of well-being and of happiness.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2316869834353708,
+      "unity": 0.1382820321232269,
+      "hope": 0.16821671227271404,
+      "resolve": 0.1520888316366709,
+      "anger": 0.11995141247804625,
+      "neutral": 0.18977402805397114
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "To us as a people it has been granted to lay the foundations of our national life in a new continent.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23430609446144132,
+      "unity": 0.15022413296847187,
+      "hope": 0.18658898503246601,
+      "resolve": 0.17686122537403567,
+      "anger": 0.12150619660128559,
+      "neutral": 0.1305133655622995
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "We are the heirs of the ages, and yet we have had to pay few of the penalties which in old countries are exacted by the dead hand of a bygone civilization.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22150023035432603,
+      "unity": 0.12336597592326326,
+      "hope": 0.16518588359233533,
+      "resolve": 0.16574911089042701,
+      "anger": 0.20418960845577128,
+      "neutral": 0.12000919078387709
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "We have not been obliged to fight for our existence against any alien race; and yet our life has called for the vigor and effort without which the manlier and hardier virtues wither away.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19938347640519546,
+      "unity": 0.16181389908166943,
+      "hope": 0.1542381211713107,
+      "resolve": 0.23359911050379667,
+      "anger": 0.14763305034971536,
+      "neutral": 0.1033323424883124
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "Under such conditions it would be our own fault if we failed; and the success which we have had in the past, the success which we confidently believe the future will bring, should cause in us no feeling of vainglory, but rather a deep and abiding realization of all which life has offered us; a full acknowledgment of the responsibility which is ours; and a fixed determination to show that under a free government a mighty people can thrive best, alike as regards the things of the body and the things of the soul.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18266319453209698,
+      "unity": 0.1627553282637273,
+      "hope": 0.2059964695115447,
+      "resolve": 0.2006629956158847,
+      "anger": 0.13293653546112547,
+      "neutral": 0.11498547661562084
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Much has been given us, and much will rightfully be expected from us.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17336115299113192,
+      "unity": 0.14466445997601127,
+      "hope": 0.19684351234036043,
+      "resolve": 0.19791894011294076,
+      "anger": 0.1479461889390558,
+      "neutral": 0.13926574564049984
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "We have duties to others and duties to ourselves; and we can shirk neither.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.137195366723935,
+      "unity": 0.20553150310953647,
+      "hope": 0.13874502995696414,
+      "resolve": 0.21837765397586895,
+      "anger": 0.17055082833998558,
+      "neutral": 0.12959961789370986
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "We have become a great nation, forced by the fact of its greatness into relations with the other nations of the earth, and we must behave as beseems a people with such responsibilities.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20877834205761983,
+      "unity": 0.17272354495192602,
+      "hope": 0.15029586302402695,
+      "resolve": 0.18229351644817007,
+      "anger": 0.15464112776206687,
+      "neutral": 0.13126760575619023
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Toward all other nations, large and small, our attitude must be one of cordial and sincere friendship.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21053740248619215,
+      "unity": 0.17754118977045785,
+      "hope": 0.15582113616541865,
+      "resolve": 0.19088529762239143,
+      "anger": 0.12558384923472285,
+      "neutral": 0.13963112472081707
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "We must show not only in our words, but in our deeds, that we are earnestly desirous of securing their good will by acting toward them in a spirit of just and generous recognition of all their rights.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1895687908939193,
+      "unity": 0.1495545780739657,
+      "hope": 0.1636008666049649,
+      "resolve": 0.20990351734426674,
+      "anger": 0.14545249119609882,
+      "neutral": 0.14191975588678457
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "But justice and generosity in a nation, as in an individual, count most when shown not by the weak but by the strong.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23287714462661302,
+      "unity": 0.16949922382200489,
+      "hope": 0.1572875728704227,
+      "resolve": 0.19762626163622163,
+      "anger": 0.13100276537208028,
+      "neutral": 0.11170703167265748
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "While ever careful to refrain from wrongdoing others, we must be no less insistent that we are not wronged ourselves.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13155361880623775,
+      "unity": 0.18007380239677886,
+      "hope": 0.1727758777582608,
+      "resolve": 0.24871651269719616,
+      "anger": 0.1535516129943317,
+      "neutral": 0.11332857534719472
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "We wish peace, but we wish the peace of justice, the peace of righteousness.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15909508322278426,
+      "unity": 0.1848057976336254,
+      "hope": 0.16681420444897369,
+      "resolve": 0.1886630159331039,
+      "anger": 0.15912143615838836,
+      "neutral": 0.14150046260312435
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "We wish it because we think it is right and not because we are afraid.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1535485045849583,
+      "unity": 0.19961318771665798,
+      "hope": 0.17969075553879432,
+      "resolve": 0.1849638787077573,
+      "anger": 0.1785212939326798,
+      "neutral": 0.10366237951915233
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "No weak nation that acts manfully and justly should ever have cause to fear us, and no strong power should ever be able to single us out as a subject for insolent aggression.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.23366556289992857,
+      "unity": 0.1650209067689214,
+      "hope": 0.1137910805955613,
+      "resolve": 0.23645166223114134,
+      "anger": 0.17579478016055672,
+      "neutral": 0.07527600734389066
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "Our relations with the other powers of the world are important; but still more important are our relations among ourselves.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.20510313911736797,
+      "unity": 0.20941066413348325,
+      "hope": 0.14852652975600997,
+      "resolve": 0.20644205691795342,
+      "anger": 0.13279499916203008,
+      "neutral": 0.09772261091315532
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "Such growth in wealth, in population, and in power as this nation has seen during the century and a quarter of its national life is inevitably accompanied by a like growth in the problems which are ever before every nation that rises to greatness.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19344055142504188,
+      "unity": 0.14159253546762243,
+      "hope": 0.2303582817280741,
+      "resolve": 0.17817680053139165,
+      "anger": 0.15847110628295957,
+      "neutral": 0.09796072456491035
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "Power invariably means both responsibility and danger.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16033079703027453,
+      "unity": 0.13893175386402914,
+      "hope": 0.15813075883155508,
+      "resolve": 0.23695746332764012,
+      "anger": 0.1918889803381441,
+      "neutral": 0.113760246608357
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "Our forefathers faced certain perils which we have outgrown.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20241654359925496,
+      "unity": 0.14985960759443312,
+      "hope": 0.16573692534862003,
+      "resolve": 0.215218653822791,
+      "anger": 0.17306493521696018,
+      "neutral": 0.09370333441794068
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "We now face other perils, the very existence of which it was impossible that they should foresee.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.11591778132896263,
+      "unity": 0.16481375291371891,
+      "hope": 0.22584135616268275,
+      "resolve": 0.2673139656585332,
+      "anger": 0.20033626191271947,
+      "neutral": 0.025776882023383036
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "Modern life is both complex and intense, and the tremendous changes wrought by the extraordinary industrial development of the last half century are felt in every fiber of our social and political being.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.20147746364662278,
+      "unity": 0.15799789677969248,
+      "hope": 0.22922854833403758,
+      "resolve": 0.1605953219793102,
+      "anger": 0.14832577763003013,
+      "neutral": 0.10237499163030682
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "Never before have men tried so vast and formidable an experiment as that of administering the affairs of a continent under the forms of a Democratic republic.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2539291741964108,
+      "unity": 0.13807454448288123,
+      "hope": 0.15909122822770766,
+      "resolve": 0.19007717884123368,
+      "anger": 0.15799154292635806,
+      "neutral": 0.10083633132540855
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "The conditions which have told for our marvelous material well-being, which have developed to a very high degree our energy, self-reliance, and individual initiative, have also brought the care and anxiety inseparable from the accumulation of great wealth in industrial centers.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.2298661227212038,
+      "unity": 0.14837917583908902,
+      "hope": 0.25819643332065784,
+      "resolve": 0.1680321370377302,
+      "anger": 0.10987876300848842,
+      "neutral": 0.08564736807283073
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "Upon the success of our experiment much depends, not only as regards our own welfare, but as regards the welfare of mankind.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1606167755055289,
+      "unity": 0.17607520200609547,
+      "hope": 0.23047118240555695,
+      "resolve": 0.22744283571198087,
+      "anger": 0.11944163909727348,
+      "neutral": 0.08595236527356429
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "If we fail, the cause of free self-government throughout the world will rock to its foundations, and therefore our responsibility is heavy, to ourselves, to the world as it is to-day, and to the generations yet unborn.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1580131460392591,
+      "unity": 0.16653090420916666,
+      "hope": 0.18478125617603602,
+      "resolve": 0.20964879241109668,
+      "anger": 0.15827003243249704,
+      "neutral": 0.12275586873194448
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "There is no good reason why we should fear the future, but there is every reason why we should face it seriously, neither hiding from ourselves the gravity of the problems before us nor fearing to approach these problems with the unbending, unflinching purpose to solve them aright.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1266084625025525,
+      "unity": 0.14961903092189027,
+      "hope": 0.2707411065330345,
+      "resolve": 0.23199990943077312,
+      "anger": 0.12575018413522968,
+      "neutral": 0.09528130647651989
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "Yet, after all, though the problems are new, though the tasks set before us differ from the tasks set before our fathers who founded and preserved this Republic, the spirit in which these tasks must be undertaken and these problems faced, if our duty is to be well done, remains essentially unchanged.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17168188676632168,
+      "unity": 0.17735292906620934,
+      "hope": 0.18833717494679603,
+      "resolve": 0.2191537223546008,
+      "anger": 0.1387722088669559,
+      "neutral": 0.10470207799911627
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "We know that self-government is difficult.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1485470026055363,
+      "unity": 0.21739682429368345,
+      "hope": 0.1525747263972875,
+      "resolve": 0.24397626190145433,
+      "anger": 0.19909685913741965,
+      "neutral": 0.0384083256646188
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "We know that no people needs such high traits of character as that people which seeks to govern its affairs aright through the freely expressed will of the freemen who compose it.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21197545807253715,
+      "unity": 0.16587770641881086,
+      "hope": 0.15490348519483801,
+      "resolve": 0.21098211706805756,
+      "anger": 0.15335797859122297,
+      "neutral": 0.10290325465453343
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "But we have faith that we shall not prove false to the memories of the men of the mighty past.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1769155182606388,
+      "unity": 0.1521861623700449,
+      "hope": 0.17630385986327907,
+      "resolve": 0.2557787959879379,
+      "anger": 0.14022800772096433,
+      "neutral": 0.09858765579713501
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "They did their work, they left us the splendid heritage we now enjoy.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.26166934146962834,
+      "unity": 0.11349851027517789,
+      "hope": 0.14269146363858848,
+      "resolve": 0.16572606711872995,
+      "anger": 0.14239042174036082,
+      "neutral": 0.17402419575751452
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "We in our turn have an assured confidence that we shall be able to leave this heritage unwasted and enlarged to our children and our children's children.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20601196079824313,
+      "unity": 0.1311243007167219,
+      "hope": 0.18311499726175792,
+      "resolve": 0.20043254997165855,
+      "anger": 0.1124671967357452,
+      "neutral": 0.16684899451587326
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "To do so we must show, not merely in great crises, but in the everyday affairs of life, the qualities of practical intelligence, of courage, of hardihood, and endurance, and above all the power of devotion to a lofty ideal, which made great the men who founded this Republic in the days of Washington, which made great the men who preserved this Republic in the days of Abraham Lincoln.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23819140435714506,
+      "unity": 0.15526071358945834,
+      "hope": 0.16323990873386676,
+      "resolve": 0.2066787141501299,
+      "anger": 0.11336484630000562,
+      "neutral": 0.12326441286939434
+    }
+  }
+]

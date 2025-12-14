@@ -1,0 +1,392 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Fellow-Citizens:\nThe will of the American people, expressed through their unsolicited suffrages, calls me before you to pass through the solemnities preparatory to taking upon myself the duties of President of the United States for another term.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17604740065620236,
+      "unity": 0.14312369003400685,
+      "hope": 0.15354421155281037,
+      "resolve": 0.15238516627160065,
+      "anger": 0.14918504500464932,
+      "neutral": 0.22571448648073045
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "For their approbation of my public conduct through a period which has not been without its difficulties, and for this renewed expression of their confidence in my good intentions, I am at a loss for terms adequate to the expression of my gratitude.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17480640764411112,
+      "unity": 0.13166488544066737,
+      "hope": 0.16944165101753395,
+      "resolve": 0.17014622204544558,
+      "anger": 0.1054530077539656,
+      "neutral": 0.24848782609827638
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "It shall be displayed to the extent of my humble abilities in continued efforts so to administer the Government as to preserve their liberty and promote their happiness.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20357546547588623,
+      "unity": 0.12550525225821585,
+      "hope": 0.16352982272936806,
+      "resolve": 0.19345851491046348,
+      "anger": 0.1226053463567354,
+      "neutral": 0.19132559826933096
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "So many events have occurred within the last four years which have necessarily called forth--sometimes under circumstances the most delicate and painful--my views of the principles and policy which ought to be pursued by the General Government that I need on this occasion but allude to a few leading considerations connected with some of them.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17935309963735316,
+      "unity": 0.1681708591858678,
+      "hope": 0.13863252000494175,
+      "resolve": 0.16975706165560508,
+      "anger": 0.19916139226131085,
+      "neutral": 0.14492506725492135
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "The foreign policy adopted by our Government soon after the formation of our present Constitution, and very generally pursued by successive Administrations, has been crowned with almost complete success, and has elevated our character among the nations of the earth.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.30171440612557376,
+      "unity": 0.1265384583112305,
+      "hope": 0.1311254903314233,
+      "resolve": 0.1919444357869234,
+      "anger": 0.12209444456938189,
+      "neutral": 0.12658276487546713
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "To do justice to all and to submit to wrong from none has been during my Administration its governing maxim, and so happy have been its results that we are not only at peace with all the world, but have few causes of controversy, and those of minor importance, remaining unadjusted.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17829612331438308,
+      "unity": 0.16719044605395242,
+      "hope": 0.13835700216341323,
+      "resolve": 0.1833746255888862,
+      "anger": 0.17174053662943906,
+      "neutral": 0.161041266249926
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "In the domestic policy of this Government there are two objects which especially deserve the attention of the people and their representatives, and which have been and will continue to be the subjects of my increasing solicitude.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17489394322085147,
+      "unity": 0.15504110889423298,
+      "hope": 0.15006177758101943,
+      "resolve": 0.1696437916481961,
+      "anger": 0.18800161684029382,
+      "neutral": 0.16235776181540623
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "They are the preservation of the rights of the several States and the integrity of the Union.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22829391490182144,
+      "unity": 0.19404094417798,
+      "hope": 0.10905343119123083,
+      "resolve": 0.21108496723255799,
+      "anger": 0.13048679471521,
+      "neutral": 0.12703994778119973
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "These great objects are necessarily connected, and can only be attained by an enlightened exercise of the powers of each within its appropriate sphere in conformity with the public will constitutionally expressed.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.17422347887503928,
+      "unity": 0.21911704280783473,
+      "hope": 0.14984074857159901,
+      "resolve": 0.1894871730303746,
+      "anger": 0.14329147545320456,
+      "neutral": 0.12404008126194785
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "To this end it becomes the duty of all to yield a ready and patriotic submission to the laws constitutionally enacted, and thereby promote and strengthen a proper confidence in those institutions of the several States and of the United States which the people themselves have ordained for their own government.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1855708601945482,
+      "unity": 0.1551895073651769,
+      "hope": 0.13707130989012584,
+      "resolve": 0.19193219044869453,
+      "anger": 0.15233729055242104,
+      "neutral": 0.1778988415490335
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "My experience in public concerns and the observation of a life somewhat advanced confirm the opinions long since imbibed by me, that the destruction of our State governments or the annihilation of their control over the local concerns of the people would lead directly to revolution and anarchy, and finally to despotism and military domination.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17170077921917623,
+      "unity": 0.16604175968727455,
+      "hope": 0.16707948293825603,
+      "resolve": 0.1758363856137943,
+      "anger": 0.20966084068880447,
+      "neutral": 0.10968075185269442
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "In proportion, therefore, as the General Government encroaches upon the rights of the States, in the same proportion does it impair its own power and detract from its ability to fulfill the purposes of its creation.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.18872353672162284,
+      "unity": 0.19264166139845787,
+      "hope": 0.13259560967702091,
+      "resolve": 0.18921291052918982,
+      "anger": 0.18001278651233896,
+      "neutral": 0.11681349516136963
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "Solemnly impressed with these considerations, my countrymen will ever find me ready to exercise my constitutional powers in arresting measures which may directly or indirectly encroach upon the rights of the States or tend to consolidate all political power in the General Government.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1566456518183961,
+      "unity": 0.1332357124197365,
+      "hope": 0.15497814982816804,
+      "resolve": 0.19528611356820802,
+      "anger": 0.20069450525261218,
+      "neutral": 0.15915986711287916
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "But of equal, and, indeed, of incalculable, importance is the union of these States, and the sacred duty of all to contribute to its preservation by a liberal support of the General Government in the exercise of its just powers.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20773175538218502,
+      "unity": 0.20521475498497244,
+      "hope": 0.12625638882784107,
+      "resolve": 0.19246488124541813,
+      "anger": 0.12536063681861706,
+      "neutral": 0.14297158274096627
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "You have been wisely admonished to \"accustom yourselves to think and speak of the Union as of the palladium of your political safety and prosperity, watching for its preservation with jealous anxiety, discountenancing whatever may suggest even a suspicion that it can in any event be abandoned, and indignantly frowning upon the first dawning of any attempt to alienate any portion of our country from the rest or to enfeeble the sacred ties which now link together the various parts.\"",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1740801874702675,
+      "unity": 0.18422811991050114,
+      "hope": 0.14779678956216566,
+      "resolve": 0.17922404311407492,
+      "anger": 0.15291079760337709,
+      "neutral": 0.16176006233961368
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "Without union our independence and liberty would never have been achieved; without union they never can be maintained.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.20558196562859013,
+      "unity": 0.20638123886148252,
+      "hope": 0.14287619573643062,
+      "resolve": 0.19910414548814032,
+      "anger": 0.13705028191531135,
+      "neutral": 0.10900617237004506
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "Divided into twenty-four, or even a smaller number, of separate communities, we shall see our internal trade burdened with numberless restraints and exactions; communication between distant points and sections obstructed or cut off; our sons made soldiers to deluge with blood the fields they now till in peace; the mass of our people borne down and impoverished by taxes to support armies and navies, and military leaders at the head of their victorious legions becoming our lawgivers and judges.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.18400099052163216,
+      "unity": 0.19753044801945197,
+      "hope": 0.16869868117428732,
+      "resolve": 0.1835489944213454,
+      "anger": 0.14442811702172226,
+      "neutral": 0.1217927688415609
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "The loss of liberty, of all good government, of peace, plenty, and happiness, must inevitably follow a dissolution of the Union.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.14570636994692693,
+      "unity": 0.1949058006494253,
+      "hope": 0.14945615763594147,
+      "resolve": 0.17942312889489806,
+      "anger": 0.18211899089672232,
+      "neutral": 0.14838955197608594
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "In supporting it, therefore, we support all that is dear to the freeman and the philanthropist.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2056728614561254,
+      "unity": 0.16158211811928075,
+      "hope": 0.16871444988994763,
+      "resolve": 0.1989304073134382,
+      "anger": 0.12125211496670514,
+      "neutral": 0.14384804825450287
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "The time at which I stand before you is full of interest.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1255953714151394,
+      "unity": 0.1357140406647505,
+      "hope": 0.2346997871156452,
+      "resolve": 0.14322200758137923,
+      "anger": 0.1295908824962794,
+      "neutral": 0.23117791072680627
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "The eyes of all nations are fixed on our Republic.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2379422637254201,
+      "unity": 0.15712091982069715,
+      "hope": 0.15126151481437827,
+      "resolve": 0.19020852176094083,
+      "anger": 0.14876396899074704,
+      "neutral": 0.11470281088781664
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "The event of the existing crisis will be decisive in the opinion of mankind of the practicability of our federal system of government.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1746161210818978,
+      "unity": 0.1785092858011108,
+      "hope": 0.1773249043305962,
+      "resolve": 0.18745448683435906,
+      "anger": 0.1770458483021242,
+      "neutral": 0.10504935364991194
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "Great is the stake placed in our hands; great is the responsibility which must rest upon the people of the United States.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21309238744076658,
+      "unity": 0.15761991491396152,
+      "hope": 0.15871233056574363,
+      "resolve": 0.18699225803360708,
+      "anger": 0.13734852929420358,
+      "neutral": 0.14623457975171758
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "Let us realize the importance of the attitude in which we stand before the world.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.179904825978844,
+      "unity": 0.15891999340019733,
+      "hope": 0.1902557117960203,
+      "resolve": 0.19754952820115554,
+      "anger": 0.12889777366273644,
+      "neutral": 0.1444721669610464
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "Let us exercise forbearance and firmness.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13156625983007958,
+      "unity": 0.16077158086887228,
+      "hope": 0.18160422969569068,
+      "resolve": 0.2281581316858622,
+      "anger": 0.162865472925122,
+      "neutral": 0.1350343249943733
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "Let us extricate our country from the dangers which surround it and learn wisdom from the lessons they inculcate.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15798536237860739,
+      "unity": 0.1693403520927916,
+      "hope": 0.16408447821176986,
+      "resolve": 0.1900257810150872,
+      "anger": 0.18816815596687356,
+      "neutral": 0.1303958703348704
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "Deeply impressed with the truth of these observations, and under the obligation of that solemn oath which I am about to take, I shall continue to exert all my faculties to maintain the just powers of the Constitution and to transmit unimpaired to posterity the blessings of our Federal Union.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16942061231012356,
+      "unity": 0.1233301714405684,
+      "hope": 0.1610167024947817,
+      "resolve": 0.18537890812068641,
+      "anger": 0.13938137682739124,
+      "neutral": 0.22147222880644868
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "At the same time, it will be my aim to inculcate by my official acts the necessity of exercising by the General Government those powers only that are clearly delegated; to encourage simplicity and economy in the expenditures of the Government; to raise no more money from the people than may be requisite for these objects, and in a manner that will best promote the interests of all classes of the community and of all portions of the Union.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.15552316885254952,
+      "unity": 0.14897579718219373,
+      "hope": 0.1602869253587508,
+      "resolve": 0.1692983843038051,
+      "anger": 0.15131503064251403,
+      "neutral": 0.2146006936601868
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "Constantly bearing in mind that in entering into society \"individuals must give up a share of liberty to preserve the rest,\" it will be my desire so to discharge my duties as to foster with our brethren in all parts of the country a spirit of liberal concession and compromise, and, by reconciling our fellow-citizens to those partial sacrifices which they must unavoidably make for the preservation of a greater good, to recommend our invaluable Government and Union to the confidence and affections of the American people.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1671489761645271,
+      "unity": 0.16451672890211216,
+      "hope": 0.16463496694251684,
+      "resolve": 0.1807675128996046,
+      "anger": 0.13990038371819977,
+      "neutral": 0.18303143137303954
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "Finally, it is my most fervent prayer to that Almighty Being before whom I now stand, and who has kept us in His hands from the infancy of our Republic to the present day, that He will so overrule all my intentions and actions and inspire the hearts of my fellow-citizens that we may be preserved from dangers of all kinds and continue forever a united and happy people.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16268671583409966,
+      "unity": 0.15216534024489012,
+      "hope": 0.17454208009743,
+      "resolve": 0.17703973633659542,
+      "anger": 0.14155975325902587,
+      "neutral": 0.19200637422795894
+    }
+  }
+]

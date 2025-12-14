@@ -1,0 +1,522 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Citizens of the United States:\nYour suffrages having elected me to the office of President of the United States, I have, in conformity to the Constitution of our country, taken the oath of office prescribed therein.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.19101721717454162,
+      "unity": 0.12317545910731956,
+      "hope": 0.14256073749640885,
+      "resolve": 0.14177179053972905,
+      "anger": 0.1414281556801639,
+      "neutral": 0.260046640001837
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "I have taken this oath without mental reservation and with the determination to do to the best of my ability all that is required of me.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.14790784861941506,
+      "unity": 0.125064473415555,
+      "hope": 0.15605325873328163,
+      "resolve": 0.18103246561383546,
+      "anger": 0.13805986635251338,
+      "neutral": 0.2518820872653995
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "The responsibilities of the position I feel, but accept them without fear.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.0876923739643079,
+      "unity": 0.10342864397168611,
+      "hope": 0.21941111862512877,
+      "resolve": 0.24591127353346295,
+      "anger": 0.13037463592409054,
+      "neutral": 0.21318195398132372
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "The office has come to me unsought; I commence its duties untrammeled.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.07912228820335165,
+      "unity": 0.11963054655538953,
+      "hope": 0.12671290030174429,
+      "resolve": 0.1567378865494111,
+      "anger": 0.24158938166669444,
+      "neutral": 0.276206996723409
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "I bring to it a conscious desire and determination to fill it to the best of my ability to the satisfaction of the people.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18304030722719583,
+      "unity": 0.1332429798380646,
+      "hope": 0.18027640672403814,
+      "resolve": 0.1875200342056392,
+      "anger": 0.11467710136336508,
+      "neutral": 0.20124317064169714
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "On all leading questions agitating the public mind I will always express my views to Congress and urge them according to my judgment, and when I think it advisable will exercise the constitutional privilege of interposing a veto to defeat measures which I oppose; but all laws will be faithfully executed, whether they meet my approval or not.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.15100683524869632,
+      "unity": 0.13303051975767877,
+      "hope": 0.13680319652245843,
+      "resolve": 0.18462497707620612,
+      "anger": 0.19220576928018812,
+      "neutral": 0.20232870211477225
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "I shall on all subjects have a policy to recommend, but none to enforce against the will of the people.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11886699309359619,
+      "unity": 0.16131910329050397,
+      "hope": 0.12232344585855781,
+      "resolve": 0.18660282659931732,
+      "anger": 0.24625201425365192,
+      "neutral": 0.16463561690437278
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "Laws are to govern all alike--those opposed as well as those who favor them.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.15735923671790888,
+      "unity": 0.2019470579418201,
+      "hope": 0.12952327787088333,
+      "resolve": 0.19309096956899166,
+      "anger": 0.18496345066214376,
+      "neutral": 0.1331160072382523
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "I know no method to secure the repeal of bad or obnoxious laws so effective as their stringent execution.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14871834631100522,
+      "unity": 0.1074595443201615,
+      "hope": 0.11278794927908356,
+      "resolve": 0.2199472075343914,
+      "anger": 0.2547903606660802,
+      "neutral": 0.1562965918892781
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "The country having just emerged from a great rebellion, many questions will come before it for settlement in the next four years which preceding Administrations have never had to deal with.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18161514370304757,
+      "unity": 0.15064888986122882,
+      "hope": 0.1849953979085885,
+      "resolve": 0.19244424778795924,
+      "anger": 0.17493841805923555,
+      "neutral": 0.11535790267994037
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "In meeting these it is desirable that they should be approached calmly, without prejudice, hate, or sectional pride, remembering that the greatest good to the greatest number is the object to be attained.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14051515215932137,
+      "unity": 0.2005983732127659,
+      "hope": 0.1487997774707723,
+      "resolve": 0.22514204557158213,
+      "anger": 0.15942521119412686,
+      "neutral": 0.12551944039143142
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "This requires security of person, property, and free religious and political opinion in every part of our common country, without regard to local prejudice.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20988780938509205,
+      "unity": 0.17784004925212393,
+      "hope": 0.12970538319070912,
+      "resolve": 0.18430760543000968,
+      "anger": 0.17946204483345962,
+      "neutral": 0.1187971079086056
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "All laws to secure these ends will receive my best efforts for their enforcement.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12331129618928757,
+      "unity": 0.12455431681229913,
+      "hope": 0.15732251332334307,
+      "resolve": 0.22031581748620632,
+      "anger": 0.16702602740056946,
+      "neutral": 0.20747002878829446
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "A great debt has been contracted in securing to us and our posterity the Union.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19664212661353098,
+      "unity": 0.15593313359734218,
+      "hope": 0.1494369575522449,
+      "resolve": 0.1836765620172319,
+      "anger": 0.14808651775957046,
+      "neutral": 0.16622470246007962
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "The payment of this, principal and interest, as well as the return to a specie basis as soon as it can be accomplished without material detriment to the debtor class or to the country at large, must be provided for.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.15055114295979033,
+      "unity": 0.1291373242457527,
+      "hope": 0.14561689568263658,
+      "resolve": 0.16416601101164882,
+      "anger": 0.19036991297309255,
+      "neutral": 0.22015871312707902
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "To protect the national honor, every dollar of Government indebtedness should be paid in gold, unless otherwise expressly stipulated in the contract.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22090362684213835,
+      "unity": 0.14034970175431774,
+      "hope": 0.07596828595568506,
+      "resolve": 0.17665751499568877,
+      "anger": 0.19415321910394456,
+      "neutral": 0.19196765134822555
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "Let it be understood that no repudiator of one farthing of our public debt will be trusted in public place, and it will go far toward strengthening a credit which ought to be the best in the world, and will ultimately enable us to replace the debt with bonds bearing less interest than we now pay.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.15403961536437152,
+      "unity": 0.14285997927679311,
+      "hope": 0.16885447229779024,
+      "resolve": 0.17779786152179952,
+      "anger": 0.1712232800679555,
+      "neutral": 0.18522479147129006
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "To this should be added a faithful collection of the revenue, a strict accountability to the Treasury for every dollar collected, and the greatest practicable retrenchment in expenditure in every department of Government.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14851464052933294,
+      "unity": 0.14255586790450736,
+      "hope": 0.12155324798287614,
+      "resolve": 0.2352499157069407,
+      "anger": 0.17632489084546665,
+      "neutral": 0.1758014370308762
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "When we compare the paying capacity of the country now, with the ten States in poverty from the effects of war, but soon to emerge, I trust, into greater prosperity than ever before, with its paying capacity twenty-five years ago, and calculate what it probably will be twenty-five years hence, who can doubt the feasibility of paying every dollar then with more ease than we now pay for useless luxuries?",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18628734157112115,
+      "unity": 0.13088353583029616,
+      "hope": 0.24499139456035288,
+      "resolve": 0.16817066967212976,
+      "anger": 0.13999034270595795,
+      "neutral": 0.12967671566014213
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "Why, it looks as though Providence had bestowed upon us a strong box in the precious metals locked up in the sterile mountains of the far West, and which we are now forging the key to unlock, to meet the very contingency that is now upon us.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15679367010209339,
+      "unity": 0.16834713635406717,
+      "hope": 0.2110796330124988,
+      "resolve": 0.20449635752457415,
+      "anger": 0.13269580113843032,
+      "neutral": 0.12658740186833617
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "Ultimately it may be necessary to insure the facilities to reach these riches and it may be necessary also that the General Government should give its aid to secure this access; but that should only be when a dollar of obligation to pay secures precisely the same sort of dollar to use now, and not before.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17926793012474615,
+      "unity": 0.1326108671717494,
+      "hope": 0.1940820927345255,
+      "resolve": 0.20309103846160445,
+      "anger": 0.16173536564453475,
+      "neutral": 0.12921270586283976
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "Whilst the question of specie payments is in abeyance the prudent business man is careful about contracting debts payable in the distant future.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.05426648312135243,
+      "unity": 0.10065303960462457,
+      "hope": 0.2341087418874634,
+      "resolve": 0.28483132343273476,
+      "anger": 0.17551428378253892,
+      "neutral": 0.15062612817128596
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "The nation should follow the same rule.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19981390314353623,
+      "unity": 0.17588970612695404,
+      "hope": 0.10318991496148644,
+      "resolve": 0.1624272366015298,
+      "anger": 0.1918319778552098,
+      "neutral": 0.1668472613112837
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "A prostrate commerce is to be rebuilt and all industries encouraged.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18035337689422903,
+      "unity": 0.12575904155394657,
+      "hope": 0.23018242145543488,
+      "resolve": 0.1578571006231584,
+      "anger": 0.13810527818055465,
+      "neutral": 0.1677427812926765
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "The young men of the country--those who from their age must be its rulers twenty-five years hence--have a peculiar interest in maintaining the national honor.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2539313471654511,
+      "unity": 0.11884936594246125,
+      "hope": 0.16298452942058247,
+      "resolve": 0.18682904512477364,
+      "anger": 0.1137729746463762,
+      "neutral": 0.16363273770035536
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "A moment's reflection as to what will be our commanding influence among the nations of the earth in their day, if they are only true to themselves, should inspire them with national pride.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20008542278498723,
+      "unity": 0.1570552404764888,
+      "hope": 0.1971093160506385,
+      "resolve": 0.19262465081333466,
+      "anger": 0.12612809376192016,
+      "neutral": 0.12699727611263065
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "All divisions--geographical, political, and religious--can join in this common sentiment.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.173818109859265,
+      "unity": 0.23832612227722125,
+      "hope": 0.15604493052857613,
+      "resolve": 0.16952305819498661,
+      "anger": 0.14120738316375678,
+      "neutral": 0.12108039597619426
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "How the public debt is to be paid or specie payments resumed is not so important as that a plan should be adopted and acquiesced in.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13636766101522543,
+      "unity": 0.15916337626720298,
+      "hope": 0.1421141221519312,
+      "resolve": 0.1739191224492158,
+      "anger": 0.21070507780609987,
+      "neutral": 0.1777306403103247
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "A united determination to do is worth more than divided counsels upon the method of doing.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1294198374975218,
+      "unity": 0.20828394450858578,
+      "hope": 0.1778510988159677,
+      "resolve": 0.23243010677449075,
+      "anger": 0.12857752854289223,
+      "neutral": 0.12343748386054175
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "Legislation upon this subject may not be necessary now, or even advisable, but it will be when the civil law is more fully restored in all parts of the country and trade resumes its wonted channels.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1309963487149064,
+      "unity": 0.15112012740091613,
+      "hope": 0.14968731011450903,
+      "resolve": 0.10950613050926176,
+      "anger": 0.294649223037282,
+      "neutral": 0.16404086022312467
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "It will be my endeavor to execute all laws in good faith, to collect all revenues assessed, and to have them properly accounted for and economically disbursed.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.12389125237624724,
+      "unity": 0.114375778231198,
+      "hope": 0.17735174649820967,
+      "resolve": 0.2176453767766222,
+      "anger": 0.1309375954259963,
+      "neutral": 0.23579825069172658
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "I will to the best of my ability appoint to office those only who will carry out this design.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1123804881092832,
+      "unity": 0.11627798189470172,
+      "hope": 0.17614322171289828,
+      "resolve": 0.20347716191950752,
+      "anger": 0.14450417172503313,
+      "neutral": 0.24721697463857617
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "In regard to foreign policy, I would deal with nations as equitable law requires individuals to deal with each other, and I would protect the law-abiding citizen, whether of native or foreign birth, wherever his rights are jeopardized or the flag of our country floats.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23776788438221277,
+      "unity": 0.1496667556319462,
+      "hope": 0.12027461919587507,
+      "resolve": 0.1631252562177194,
+      "anger": 0.11521360649204748,
+      "neutral": 0.2139518780801991
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "I would respect the rights of all nations, demanding equal respect for our own.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23129824668869312,
+      "unity": 0.15176790782933178,
+      "hope": 0.12065540764129208,
+      "resolve": 0.15750139503877048,
+      "anger": 0.1776400843670877,
+      "neutral": 0.16113695843482484
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "If others depart from this rule in their dealings with us, we may be compelled to follow their precedent.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16119382280552982,
+      "unity": 0.19135731361988698,
+      "hope": 0.11333788103189366,
+      "resolve": 0.22051541562945057,
+      "anger": 0.20209624312467706,
+      "neutral": 0.11149932378856192
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "The proper treatment of the original occupants of this land--the Indians one deserving of careful study.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24781530580630046,
+      "unity": 0.15185526932692586,
+      "hope": 0.12810095224313434,
+      "resolve": 0.15811541518611663,
+      "anger": 0.16084911548648045,
+      "neutral": 0.15326394195104226
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "I will favor any course toward them which tends to their civilization and ultimate citizenship.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18447092197562853,
+      "unity": 0.16328027295334555,
+      "hope": 0.172124808411498,
+      "resolve": 0.18770615955210404,
+      "anger": 0.18256143955204618,
+      "neutral": 0.10985639755537772
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "The question of suffrage is one which is likely to agitate the public so long as a portion of the citizens of the nation are excluded from its privileges in any State.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15768715927774163,
+      "unity": 0.1979989482473527,
+      "hope": 0.13829588408690047,
+      "resolve": 0.18973458822058456,
+      "anger": 0.2709107094864728,
+      "neutral": 0.045372710680947864
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "It seems to me very desirable that this question should be settled now, and I entertain the hope and express the desire that it may be by the ratification of the fifteenth article of amendment to the Constitution.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16539284457716977,
+      "unity": 0.1738071294175627,
+      "hope": 0.12904122107644553,
+      "resolve": 0.15112259875002163,
+      "anger": 0.19762725311958845,
+      "neutral": 0.18300895305921192
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "In conclusion I ask patient forbearance one toward another throughout the land, and a determined effort on the part of every citizen to do his share toward cementing a happy union; and I ask the prayers of the nation to Almighty God in behalf of this consummation.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16025246566633997,
+      "unity": 0.16899656184448733,
+      "hope": 0.16939899003223913,
+      "resolve": 0.157373765798399,
+      "anger": 0.12748697281058977,
+      "neutral": 0.21649124384794477
+    }
+  }
+]

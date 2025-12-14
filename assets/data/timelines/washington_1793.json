@@ -1,0 +1,54 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Fellow Citizens:\nI AM again called upon by the voice of my country to execute the functions of its Chief Magistrate.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.15734555456737648,
+      "unity": 0.13827466513788064,
+      "hope": 0.14430266250052703,
+      "resolve": 0.14003378050955112,
+      "anger": 0.18532665402028592,
+      "neutral": 0.2347166832643788
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "When the occasion proper for it shall arrive, I shall endeavor to express the high sense I entertain of this distinguished honor, and of the confidence which has been reposed in me by the people of united America.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.19184783778294762,
+      "unity": 0.10943721917849197,
+      "hope": 0.17187592640092159,
+      "resolve": 0.1497981602601376,
+      "anger": 0.11371080901084343,
+      "neutral": 0.26333004736665777
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Previous to the execution of any official act of the President the Constitution requires an oath of office.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.15541147910968073,
+      "unity": 0.08803552866058562,
+      "hope": 0.06999173167662893,
+      "resolve": 0.16984163185964463,
+      "anger": 0.19566876643071143,
+      "neutral": 0.32105086226274865
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "This oath I am now about to take, and in your presence: That if it shall be found during my administration of the Government I have in any instance violated willingly or knowingly the injunctions thereof, I may (besides incurring constitutional punishment) be subject to the upbraidings of all who are now witnesses of the present solemn ceremony.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.129991269583976,
+      "unity": 0.11197837047030045,
+      "hope": 0.14568703162182586,
+      "resolve": 0.17089405852866826,
+      "anger": 0.19113202496642778,
+      "neutral": 0.2503172448288017
+    }
+  }
+]

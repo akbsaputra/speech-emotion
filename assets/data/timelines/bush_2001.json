@@ -1,0 +1,1250 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Thank you, all.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.14452772475971695,
+      "unity": 0.14500354155091608,
+      "hope": 0.17398360675885824,
+      "resolve": 0.15041803347983726,
+      "anger": 0.11720519428036195,
+      "neutral": 0.2688618991703095
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Chief Justice Rehnquist, President Carter, President Bush, President Clinton, distinguished guests, and my fellow citizens.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.2090235187198711,
+      "unity": 0.13108283550487118,
+      "hope": 0.14978740750828964,
+      "resolve": 0.13468074395484808,
+      "anger": 0.13271250649509292,
+      "neutral": 0.2427129878170271
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "The peaceful transfer of authority is rare in history, yet common in our country.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20457258787076038,
+      "unity": 0.15781736563130766,
+      "hope": 0.11463394757238975,
+      "resolve": 0.15487700426413137,
+      "anger": 0.20266308393686017,
+      "neutral": 0.16543601072455066
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "With a simple oath, we affirm old traditions and make new beginnings.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16993229045779026,
+      "unity": 0.14687228407610695,
+      "hope": 0.17260399418853736,
+      "resolve": 0.15789022543050132,
+      "anger": 0.14153384279342793,
+      "neutral": 0.21116736305363618
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "As I begin, I thank President Clinton for his service to our Nation, and I thank Vice President Gore for a contest conducted with spirit and ended with grace.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.211886280459251,
+      "unity": 0.13073596337701937,
+      "hope": 0.15961026148982746,
+      "resolve": 0.14524968993933404,
+      "anger": 0.11653817424380218,
+      "neutral": 0.23597963049076592
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "I am honored and humbled to stand here where so many of America's leaders have come before me, and so many will follow.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.2114310681438081,
+      "unity": 0.11896718412102418,
+      "hope": 0.1674201120795785,
+      "resolve": 0.14792805710075563,
+      "anger": 0.11755754591096165,
+      "neutral": 0.23669603264387196
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "We have a place, all of us, in a long story, a story we continue but whose end we will not see.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17252260688118587,
+      "unity": 0.18543665873704748,
+      "hope": 0.20313116146411825,
+      "resolve": 0.20372866139547977,
+      "anger": 0.10171275278375336,
+      "neutral": 0.13346815873841528
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "It is a story of a new world that became a friend and liberator of the old, the story of a slaveholding society that became a servant of freedom, the story of a power that went into the world to protect but not possess, to defend but not to conquer.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2597784309096151,
+      "unity": 0.16991138315834056,
+      "hope": 0.18761252616977972,
+      "resolve": 0.18359287854685555,
+      "anger": 0.11498603319096498,
+      "neutral": 0.08411874802444408
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "It is the American story, a story of flawed and fallible people united across the generations by grand and enduring ideals.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2855691014053881,
+      "unity": 0.18998547316394737,
+      "hope": 0.14132282320025455,
+      "resolve": 0.16689943185323386,
+      "anger": 0.12221262135195227,
+      "neutral": 0.09401054902522386
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "The grandest of these ideals is an unfolding American promise that everyone belongs, that everyone deserves a chance, that no insignificant person was ever born.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2280520146529545,
+      "unity": 0.16469145665531112,
+      "hope": 0.19562751001762024,
+      "resolve": 0.17124890073976765,
+      "anger": 0.1073252504966315,
+      "neutral": 0.133054867437715
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "Americans are called to enact this promise in our lives and in our laws.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16864370693473185,
+      "unity": 0.149355852831121,
+      "hope": 0.17758188758635432,
+      "resolve": 0.1784997523375279,
+      "anger": 0.16418900783288023,
+      "neutral": 0.1617297924773847
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "And though our Nation has sometimes halted and sometimes delayed, we must follow no other course.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17536185008012248,
+      "unity": 0.18450690008532514,
+      "hope": 0.14270510772845016,
+      "resolve": 0.20766976879065274,
+      "anger": 0.1755971982653987,
+      "neutral": 0.11415917505005078
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "Through much of the last century, America's faith in freedom and democracy was a rock in a raging sea.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.25258488846468696,
+      "unity": 0.15896831607164771,
+      "hope": 0.14746554363448286,
+      "resolve": 0.19631329870727401,
+      "anger": 0.17064035054038035,
+      "neutral": 0.07402760258152814
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "Now it is a seed upon the wind, taking root in many nations.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.2082413924032866,
+      "unity": 0.14726593328668525,
+      "hope": 0.22463610409452406,
+      "resolve": 0.13216119836945078,
+      "anger": 0.151220260565481,
+      "neutral": 0.13647511128057233
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "Our democratic faith is more than the creed of our country.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21222649741404687,
+      "unity": 0.1810918313980822,
+      "hope": 0.13235427472483727,
+      "resolve": 0.18833803799423096,
+      "anger": 0.18838829509412178,
+      "neutral": 0.09760106337468095
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "It is the inborn hope of our humanity, an ideal we carry but do not own, a trust we bear and pass along.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1790839803234599,
+      "unity": 0.17229533318392987,
+      "hope": 0.22273333985430183,
+      "resolve": 0.20910456069241246,
+      "anger": 0.11280147986891723,
+      "neutral": 0.10398130607697874
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "Even after nearly 225 years, we have a long way yet to travel.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1833957523204048,
+      "unity": 0.16537586882903568,
+      "hope": 0.24326581231933359,
+      "resolve": 0.21165936620695622,
+      "anger": 0.11477542443464384,
+      "neutral": 0.08152777588962587
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "While many of our citizens prosper, others doubt the promise, even the justice of our own country.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19498200482475403,
+      "unity": 0.17280587522265586,
+      "hope": 0.1799016964282518,
+      "resolve": 0.18737562485423415,
+      "anger": 0.16507938629072774,
+      "neutral": 0.09985541237937647
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "The ambitions of some Americans are limited by failing schools and hidden prejudice and the circumstances of their birth.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2147377087068641,
+      "unity": 0.1973027509942651,
+      "hope": 0.1765007177906887,
+      "resolve": 0.17511532948428568,
+      "anger": 0.18647327364349806,
+      "neutral": 0.049870219380398324
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "And sometimes our differences run so deep, it seems we share a continent but not a country.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.24677083313077197,
+      "unity": 0.308309694064211,
+      "hope": 0.12553425142057356,
+      "resolve": 0.16633646150423903,
+      "anger": 0.12593946110417062,
+      "neutral": 0.02710929877603383
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "We do not accept this, and we will not allow it.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12441295521634484,
+      "unity": 0.16028355072320022,
+      "hope": 0.13112583799376654,
+      "resolve": 0.18836395426630573,
+      "anger": 0.2590560020916875,
+      "neutral": 0.13675769970869517
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "Our unity, our Union, is a serious work of leaders and citizens and every generation.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18671105055867548,
+      "unity": 0.17984436777495305,
+      "hope": 0.17016951260742968,
+      "resolve": 0.18904184510005428,
+      "anger": 0.13586765803835107,
+      "neutral": 0.13836556592053642
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "And this is my solemn pledge: I will work to build a single nation of justice and opportunity.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15479096011969312,
+      "unity": 0.17551674077470455,
+      "hope": 0.18191080508995888,
+      "resolve": 0.17956789482560054,
+      "anger": 0.1420187833718727,
+      "neutral": 0.16619481581817014
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "I know this is in our reach because we are guided by a power larger than ourselves, who creates us equal, in His image, and we are confident in principles that unite and lead us onward.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1729547607684955,
+      "unity": 0.18015683826400097,
+      "hope": 0.21106818106265374,
+      "resolve": 0.23198746801185763,
+      "anger": 0.11465554636951845,
+      "neutral": 0.0891772055234737
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "America has never been united by blood or birth or soil.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.23053372317788035,
+      "unity": 0.2630162724744818,
+      "hope": 0.06607917237620786,
+      "resolve": 0.15553936983194144,
+      "anger": 0.20396717341436577,
+      "neutral": 0.08086428872512282
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "We are bound by ideals that move us beyond our backgrounds, lift us above our interests, and teach us what it means to be citizens.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2037916913592514,
+      "unity": 0.18430645043136906,
+      "hope": 0.17429999286868442,
+      "resolve": 0.20136895905556784,
+      "anger": 0.12408091259693492,
+      "neutral": 0.11215199368819234
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "Every child must be taught these principles.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13588597667722807,
+      "unity": 0.15712985496657603,
+      "hope": 0.17251796487428725,
+      "resolve": 0.2219955517701206,
+      "anger": 0.1762874366808219,
+      "neutral": 0.13618321503096617
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "Every citizen must uphold them.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18555489725354235,
+      "unity": 0.14937116699456998,
+      "hope": 0.11523643322031783,
+      "resolve": 0.20745691660656154,
+      "anger": 0.1956036643815129,
+      "neutral": 0.1467769215434954
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "And every immigrant, by embracing these ideals, makes our country more, not less, American.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24967785483507726,
+      "unity": 0.17594304004492195,
+      "hope": 0.15891744468448882,
+      "resolve": 0.16642113819406226,
+      "anger": 0.12087306722420338,
+      "neutral": 0.12816745501724633
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "Today we affirm a new commitment to live out our Nation's promise through civility, courage, compassion, and character.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18601692495200736,
+      "unity": 0.14855543809131708,
+      "hope": 0.186472384874146,
+      "resolve": 0.18479835759006552,
+      "anger": 0.13046703539472496,
+      "neutral": 0.1636898590977391
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "America at its best matches a commitment to principle with a concern for civility.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2561620261958819,
+      "unity": 0.16664998420504207,
+      "hope": 0.12718493590177718,
+      "resolve": 0.1777958408007112,
+      "anger": 0.15232396307091406,
+      "neutral": 0.11988324982567357
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "A civil society demands from each of us good will and respect, fair dealing and forgiveness.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16076617726429032,
+      "unity": 0.19201758914188985,
+      "hope": 0.14482544985940538,
+      "resolve": 0.17086958419783352,
+      "anger": 0.1903382834032758,
+      "neutral": 0.14118291613330514
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "Some seem to believe that our politics can afford to be petty because in a time of peace the stakes of our debates appear small.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17695241268512268,
+      "unity": 0.19516683753176794,
+      "hope": 0.14313797588411908,
+      "resolve": 0.17689103968248024,
+      "anger": 0.1979643357387409,
+      "neutral": 0.10988739847776914
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "But the stakes for America are never small.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20162036623870438,
+      "unity": 0.15758641968781523,
+      "hope": 0.1616757059685616,
+      "resolve": 0.21757350257263763,
+      "anger": 0.16586538538809503,
+      "neutral": 0.09567862014418614
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "If our country does not lead the cause of freedom, it will not be led.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22569895186537375,
+      "unity": 0.16427173961092728,
+      "hope": 0.15941874003281106,
+      "resolve": 0.20823076300530002,
+      "anger": 0.15832175861353753,
+      "neutral": 0.08405804687205032
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "If we do not turn the hearts of children toward knowledge and character, we will lose their gifts and undermine their idealism.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.12069277003938637,
+      "unity": 0.1598388886991062,
+      "hope": 0.23921050613349185,
+      "resolve": 0.21451232107225512,
+      "anger": 0.16796043442189704,
+      "neutral": 0.09778507963386342
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "If we permit our economy to drift and decline, the vulnerable will suffer most.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11236408763941061,
+      "unity": 0.16839272753442527,
+      "hope": 0.18830981750082865,
+      "resolve": 0.18324631575719752,
+      "anger": 0.2720334832811586,
+      "neutral": 0.07565356828697932
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "We must live up to the calling we share.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12196058943089928,
+      "unity": 0.1704711449266028,
+      "hope": 0.20609584378276585,
+      "resolve": 0.22163832838364333,
+      "anger": 0.13831616288480425,
+      "neutral": 0.14151793059128448
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "Civility is not a tactic or a sentiment; it is the determined choice of trust over cynicism, of community over chaos.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1568542641958711,
+      "unity": 0.2108570487253359,
+      "hope": 0.15008516117674983,
+      "resolve": 0.19080895690523436,
+      "anger": 0.17116071604249872,
+      "neutral": 0.12023385295431012
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "And this commitment, if we keep it, is a way to shared accomplishment.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15261664892713206,
+      "unity": 0.17422338407615046,
+      "hope": 0.19866099217784725,
+      "resolve": 0.22536730026266044,
+      "anger": 0.10254317355859749,
+      "neutral": 0.14658850099761234
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "America at its best is also courageous.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.29467946427862846,
+      "unity": 0.139684281870469,
+      "hope": 0.14069775130702591,
+      "resolve": 0.20783206642268845,
+      "anger": 0.1260587887757631,
+      "neutral": 0.09104764734542511
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "Our national courage has been clear in times of depression and war, when defeating common dangers defined our common good.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23665965157067753,
+      "unity": 0.16369890087871058,
+      "hope": 0.1560237619024927,
+      "resolve": 0.21615559733148726,
+      "anger": 0.12043640826324735,
+      "neutral": 0.10702568005338456
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "Now we must choose if the example of our fathers and mothers will inspire us or condemn us.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17549873960289494,
+      "unity": 0.17900454311533723,
+      "hope": 0.20255692785514753,
+      "resolve": 0.2003877623081339,
+      "anger": 0.14800844981332295,
+      "neutral": 0.09454357730516341
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "We must show courage in a time of blessing by confronting problems instead of passing them on to future generations.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16979293674948323,
+      "unity": 0.15837749616744687,
+      "hope": 0.21168581083915014,
+      "resolve": 0.20120252554912815,
+      "anger": 0.152748246345835,
+      "neutral": 0.1061929843489566
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "Together we will reclaim America's schools before ignorance and apathy claim more young lives.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15220560069408326,
+      "unity": 0.17550790463839508,
+      "hope": 0.19158838587486604,
+      "resolve": 0.17293387572064342,
+      "anger": 0.17896693120161242,
+      "neutral": 0.1287973018703998
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "We will reform Social Security and Medicare, sparing our children from struggles we have the power to prevent.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16850665213671676,
+      "unity": 0.13240085541591728,
+      "hope": 0.20724524035639325,
+      "resolve": 0.17393617333919742,
+      "anger": 0.1522799556092551,
+      "neutral": 0.16563112314252018
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "And we will reduce taxes to recover the momentum of our economy and reward the effort and enterprise of working Americans.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18244510833838626,
+      "unity": 0.12505802076195013,
+      "hope": 0.19384315861941676,
+      "resolve": 0.17435029411418881,
+      "anger": 0.1499357722074384,
+      "neutral": 0.17436764595861964
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "We will build our defenses beyond challenge, lest weakness invite challenge.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15437193585414452,
+      "unity": 0.15827881530397303,
+      "hope": 0.19228508589959697,
+      "resolve": 0.2755927438192959,
+      "anger": 0.13247111708276246,
+      "neutral": 0.08700030204022714
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "We will confront weapons of mass destruction, so that a new century is spared new horrors.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15767338178185716,
+      "unity": 0.12304101499509856,
+      "hope": 0.20069751048290577,
+      "resolve": 0.21406715452553907,
+      "anger": 0.16274087157572845,
+      "neutral": 0.14178006663887097
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "The enemies of liberty and our country should make no mistake: America remains engaged in the world, by history and by choice, shaping a balance of power that favors freedom.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23491420685796616,
+      "unity": 0.145445107633391,
+      "hope": 0.15556620662575923,
+      "resolve": 0.2224995646120316,
+      "anger": 0.15039873138687868,
+      "neutral": 0.09117618288397333
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "We will defend our allies and our interests.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19495374479748964,
+      "unity": 0.13790489949120766,
+      "hope": 0.16112251281725287,
+      "resolve": 0.2561208878600203,
+      "anger": 0.13817393190562016,
+      "neutral": 0.11172402312840937
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "We will show purpose without arrogance.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17543006888988488,
+      "unity": 0.1501865523521505,
+      "hope": 0.17672873290555646,
+      "resolve": 0.25310692137111923,
+      "anger": 0.133891651581007,
+      "neutral": 0.11065607290028193
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "We will meet aggression and bad faith with resolve and strength.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14755101452149813,
+      "unity": 0.16876843979824943,
+      "hope": 0.17397371220596627,
+      "resolve": 0.24848919015301302,
+      "anger": 0.17267062916779355,
+      "neutral": 0.08854701415347963
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "And to all nations, we will speak for the values that gave our Nation birth.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2085660710990518,
+      "unity": 0.16024005571333233,
+      "hope": 0.1652636460773143,
+      "resolve": 0.1695912736759094,
+      "anger": 0.1383142531106636,
+      "neutral": 0.1580247003237286
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "America at its best is compassionate.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.30370439333331606,
+      "unity": 0.1740404200014903,
+      "hope": 0.13776618934528967,
+      "resolve": 0.14448166251964678,
+      "anger": 0.16269642453709965,
+      "neutral": 0.07731091026315753
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "In the quiet of American conscience, we know that deep, persistent poverty is unworthy of our Nation's promise.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17531424848581822,
+      "unity": 0.15441103109472878,
+      "hope": 0.17483582794943545,
+      "resolve": 0.17067107861116798,
+      "anger": 0.21915280214370098,
+      "neutral": 0.10561501171514859
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "And whatever our views of its cause, we can agree that children at risk are not at fault.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16830696665638395,
+      "unity": 0.179652876590378,
+      "hope": 0.15664795460157463,
+      "resolve": 0.19655976433159186,
+      "anger": 0.19462364830168657,
+      "neutral": 0.10420878951838498
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "Abandonment and abuse are not acts of God; they are failures of love.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.05656100508648363,
+      "unity": 0.30376725595957293,
+      "hope": 0.018503992087019396,
+      "resolve": 0.15039027395797497,
+      "anger": 0.34138548644443395,
+      "neutral": 0.1293919864645151
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "And the proliferation of prisons, however necessary, is no substitute for hope and order in our souls.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14877424350609111,
+      "unity": 0.1754680231952346,
+      "hope": 0.19504687196664836,
+      "resolve": 0.2248789181991776,
+      "anger": 0.1416734131149375,
+      "neutral": 0.11415853001791083
+    }
+  },
+  {
+    "chunk_index": 59,
+    "text": "Where there is suffering, there is duty.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1508387567812682,
+      "unity": 0.17912095264196912,
+      "hope": 0.14961227208417371,
+      "resolve": 0.22506434997539781,
+      "anger": 0.1733875685294395,
+      "neutral": 0.12197609998775163
+    }
+  },
+  {
+    "chunk_index": 60,
+    "text": "Americans in need are not strangers; they are citizens\u2014not problems but priorities.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1918354679756627,
+      "unity": 0.17361796825005424,
+      "hope": 0.17224083605945192,
+      "resolve": 0.18022350994711892,
+      "anger": 0.1551569475245963,
+      "neutral": 0.12692527024311592
+    }
+  },
+  {
+    "chunk_index": 61,
+    "text": "And all of us are diminished when any are hopeless.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.11258030689070267,
+      "unity": 0.20697511862400503,
+      "hope": 0.18972085496084873,
+      "resolve": 0.2252112398847137,
+      "anger": 0.17657504610805805,
+      "neutral": 0.08893743353167181
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "Government has great responsibilities for public safety and public health, for civil rights and common schools.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23625137929281928,
+      "unity": 0.13942434276652976,
+      "hope": 0.16432332222558993,
+      "resolve": 0.18945513878166426,
+      "anger": 0.137810877947621,
+      "neutral": 0.13273493898577574
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "Yet, compassion is the work of a nation, not just a government.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.25073415838196866,
+      "unity": 0.2109315427332334,
+      "hope": 0.1353198851890558,
+      "resolve": 0.1790672033219976,
+      "anger": 0.14324098021339718,
+      "neutral": 0.08070623016034736
+    }
+  },
+  {
+    "chunk_index": 64,
+    "text": "And some needs and hurts are so deep they will only respond to a mentor's touch or a pastor's prayer.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.040130602792993804,
+      "unity": 0.32250728948507057,
+      "hope": 0.25323071975321443,
+      "resolve": 0.2686087528120763,
+      "anger": 0.12391684749944658,
+      "neutral": -0.00839421234280174
+    }
+  },
+  {
+    "chunk_index": 65,
+    "text": "Church and charity, synagogue and mosque lend our communities their humanity, and they will have an honored place in our plans and in our laws.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17979556089189022,
+      "unity": 0.1837412054588345,
+      "hope": 0.18859155366163174,
+      "resolve": 0.17153428261288925,
+      "anger": 0.12653627943885115,
+      "neutral": 0.14980111793590314
+    }
+  },
+  {
+    "chunk_index": 66,
+    "text": "Many in our country do not know the pain of poverty.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.20807763904704296,
+      "unity": 0.16259314447779752,
+      "hope": 0.18201390250608396,
+      "resolve": 0.13469937077149519,
+      "anger": 0.2546789212126719,
+      "neutral": 0.057937021984908514
+    }
+  },
+  {
+    "chunk_index": 67,
+    "text": "But we can listen to those who do.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11131793564963936,
+      "unity": 0.19790280952009695,
+      "hope": 0.13755318525073723,
+      "resolve": 0.21960496340794883,
+      "anger": 0.24777026393599497,
+      "neutral": 0.08585084223558269
+    }
+  },
+  {
+    "chunk_index": 68,
+    "text": "And I can pledge our Nation to a goal: When we see that wounded traveler on the road to Jericho, we will not pass to the other side.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15631547637981766,
+      "unity": 0.15804911567800226,
+      "hope": 0.1767092245293689,
+      "resolve": 0.21645933244372656,
+      "anger": 0.13678428024253994,
+      "neutral": 0.15568257072654465
+    }
+  },
+  {
+    "chunk_index": 69,
+    "text": "America at its best is a place where personal responsibility is valued and expected.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2804545581928852,
+      "unity": 0.14916912180162575,
+      "hope": 0.14686080055345083,
+      "resolve": 0.1593404849501333,
+      "anger": 0.1419071010910321,
+      "neutral": 0.12226793341087282
+    }
+  },
+  {
+    "chunk_index": 70,
+    "text": "Encouraging responsibility is not a search for scapegoats; it is a call to conscience.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12896941874322654,
+      "unity": 0.16512140681089119,
+      "hope": 0.1976985039483887,
+      "resolve": 0.18534572971926663,
+      "anger": 0.2021844506570304,
+      "neutral": 0.12068049012119657
+    }
+  },
+  {
+    "chunk_index": 71,
+    "text": "And though it requires sacrifice, it brings a deeper fulfillment.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16168667168633824,
+      "unity": 0.1834079115065989,
+      "hope": 0.19132274336805125,
+      "resolve": 0.22989984847476502,
+      "anger": 0.09998236561731447,
+      "neutral": 0.13370045934693212
+    }
+  },
+  {
+    "chunk_index": 72,
+    "text": "We find the fullness of life not only in options but in commitments.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15885661698130557,
+      "unity": 0.17846147738742796,
+      "hope": 0.2196009894541179,
+      "resolve": 0.2213208443036845,
+      "anger": 0.08970346634911171,
+      "neutral": 0.13205660552435233
+    }
+  },
+  {
+    "chunk_index": 73,
+    "text": "And we find that children and community are the commitments that set us free.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1753584804705071,
+      "unity": 0.18259704075826136,
+      "hope": 0.20662198072337398,
+      "resolve": 0.18587127197630324,
+      "anger": 0.12068679405051953,
+      "neutral": 0.1288644320210348
+    }
+  },
+  {
+    "chunk_index": 74,
+    "text": "Our public interest depends on private character, on civic duty and family bonds and basic fairness, on uncounted, unhonored acts of decency, which give direction to our freedom.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.212049253221195,
+      "unity": 0.17509816468279707,
+      "hope": 0.1472846871325217,
+      "resolve": 0.2000826179114829,
+      "anger": 0.1766039267145448,
+      "neutral": 0.08888135033745852
+    }
+  },
+  {
+    "chunk_index": 75,
+    "text": "Sometimes in life we're called to do great things.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18266200008024694,
+      "unity": 0.1394053551664196,
+      "hope": 0.23668303349897082,
+      "resolve": 0.20465832251876406,
+      "anger": 0.08986426334505689,
+      "neutral": 0.14672702539054167
+    }
+  },
+  {
+    "chunk_index": 76,
+    "text": "But as a saint of our times has said, \"Every day we are called to do small things with great love.\"",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15477179362833451,
+      "unity": 0.16819628923985522,
+      "hope": 0.2210550815088256,
+      "resolve": 0.19822764481831984,
+      "anger": 0.10637352026659457,
+      "neutral": 0.15137567053807024
+    }
+  },
+  {
+    "chunk_index": 77,
+    "text": "The most important tasks of a democracy are done by everyone.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18759419869704644,
+      "unity": 0.16258271691803927,
+      "hope": 0.15379860359640288,
+      "resolve": 0.1907292971155148,
+      "anger": 0.15846171888844812,
+      "neutral": 0.14683346478454845
+    }
+  },
+  {
+    "chunk_index": 78,
+    "text": "I will live and lead by these principles: to advance my convictions with civility, to serve the public interest with courage, to speak for greater justice and compassion, to call for responsibility and try to live it, as well.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15042958233141696,
+      "unity": 0.15179886886504107,
+      "hope": 0.1831615421336968,
+      "resolve": 0.1945652709750259,
+      "anger": 0.14043009636875955,
+      "neutral": 0.17961463932605973
+    }
+  },
+  {
+    "chunk_index": 79,
+    "text": "In all these ways, I will bring the values of our history to the care of our times.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19521937309466372,
+      "unity": 0.15201148785370971,
+      "hope": 0.19825461661593263,
+      "resolve": 0.17809472964917988,
+      "anger": 0.1303174247596863,
+      "neutral": 0.14610236802682774
+    }
+  },
+  {
+    "chunk_index": 80,
+    "text": "What you do is as important as anything Government does.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18630978439678192,
+      "unity": 0.15114355049349987,
+      "hope": 0.14781972851455735,
+      "resolve": 0.21187570517015314,
+      "anger": 0.16159133260990785,
+      "neutral": 0.14125989881509984
+    }
+  },
+  {
+    "chunk_index": 81,
+    "text": "I ask you to seek a common good beyond your comfort, to defend needed reforms against easy attacks, to serve your Nation, beginning with your neighbor.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1695589271033262,
+      "unity": 0.17425377984689808,
+      "hope": 0.16795930150377622,
+      "resolve": 0.19367969332394802,
+      "anger": 0.14727605379578163,
+      "neutral": 0.14727224442626985
+    }
+  },
+  {
+    "chunk_index": 82,
+    "text": "I ask you to be citizens: Citizens, not spectators; citizens, not subjects; responsible citizens building communities of service and a nation of character.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.18250721736308037,
+      "unity": 0.1678605329018479,
+      "hope": 0.16799435934793472,
+      "resolve": 0.1709444608357121,
+      "anger": 0.15133448919865988,
+      "neutral": 0.159358940352765
+    }
+  },
+  {
+    "chunk_index": 83,
+    "text": "Americans are generous and strong and decent, not because we believe in ourselves but because we hold beliefs beyond ourselves.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3215451734774922,
+      "unity": 0.16499673942328758,
+      "hope": 0.12602184879860165,
+      "resolve": 0.1902766275889261,
+      "anger": 0.10621851951067977,
+      "neutral": 0.09094109120101272
+    }
+  },
+  {
+    "chunk_index": 84,
+    "text": "When this spirit of citizenship is missing, no Government program can replace it.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.20069729135233977,
+      "unity": 0.17078313752822788,
+      "hope": 0.15037755426876057,
+      "resolve": 0.15503799398965695,
+      "anger": 0.21540015612483746,
+      "neutral": 0.1077038667361774
+    }
+  },
+  {
+    "chunk_index": 85,
+    "text": "When this spirit is present, no wrong can stand against it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14664059076934727,
+      "unity": 0.1825302790278651,
+      "hope": 0.18374623522225078,
+      "resolve": 0.20665183864541015,
+      "anger": 0.15783189381365653,
+      "neutral": 0.1225991625214702
+    }
+  },
+  {
+    "chunk_index": 86,
+    "text": "After the Declaration of Independence was signed, Virginia statesman John Page wrote to Thomas Jefferson, \"We know the race is not to the swift, nor the battle to the strong.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20385586541401396,
+      "unity": 0.1896199160403378,
+      "hope": 0.14481993142593302,
+      "resolve": 0.2051073633159301,
+      "anger": 0.14164915805090983,
+      "neutral": 0.11494776575287527
+    }
+  },
+  {
+    "chunk_index": 87,
+    "text": "Do you not think an angel rides in the whirlwind and directs this storm?\"",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.11463921061923679,
+      "unity": 0.16213622294549712,
+      "hope": 0.23409334717514993,
+      "resolve": 0.19796825704841656,
+      "anger": 0.16022018028114168,
+      "neutral": 0.13094278193055792
+    }
+  },
+  {
+    "chunk_index": 88,
+    "text": "Much time has passed since Jefferson arrived for his inauguration.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.22506669351286818,
+      "unity": 0.1034088865437167,
+      "hope": 0.17566366116070994,
+      "resolve": 0.101767814596079,
+      "anger": 0.14133671513329188,
+      "neutral": 0.2527562290533343
+    }
+  },
+  {
+    "chunk_index": 89,
+    "text": "The years and changes accumulate, but the themes of this day, he would know: our Nation's grand story of courage and its simple dream of dignity.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22765435242817875,
+      "unity": 0.14211538546321484,
+      "hope": 0.1919489016430482,
+      "resolve": 0.18240502319431842,
+      "anger": 0.10479605605963328,
+      "neutral": 0.15108028121160652
+    }
+  },
+  {
+    "chunk_index": 90,
+    "text": "We are not this story's author, who fills time and eternity with his purpose.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.11273768342977286,
+      "unity": 0.21561277080777944,
+      "hope": 0.20243477368106189,
+      "resolve": 0.20977846980975484,
+      "anger": 0.18668263286723527,
+      "neutral": 0.07275366940439572
+    }
+  },
+  {
+    "chunk_index": 91,
+    "text": "Yet, his purpose is achieved in our duty.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16508376681122883,
+      "unity": 0.17463420097682314,
+      "hope": 0.14562086786964215,
+      "resolve": 0.24215210965267772,
+      "anger": 0.13698658510287,
+      "neutral": 0.13552246958675812
+    }
+  },
+  {
+    "chunk_index": 92,
+    "text": "And our duty is fulfilled in service to one another.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17172930036962245,
+      "unity": 0.18328984639350704,
+      "hope": 0.15527206444313252,
+      "resolve": 0.20999857350522855,
+      "anger": 0.12190990191645783,
+      "neutral": 0.15780031337205164
+    }
+  },
+  {
+    "chunk_index": 93,
+    "text": "Never tiring, never yielding, never finishing, we renew that purpose today, to make our country more just and generous, to affirm the dignity of our lives and every life.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1888186840049287,
+      "unity": 0.15158563190470617,
+      "hope": 0.17547468815216405,
+      "resolve": 0.19278453565679313,
+      "anger": 0.13327547409028992,
+      "neutral": 0.15806098619111805
+    }
+  },
+  {
+    "chunk_index": 94,
+    "text": "This work continues, the story goes on, and an angel still rides in the whirlwind and directs this storm.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16570982270368506,
+      "unity": 0.14995017549851752,
+      "hope": 0.2267607829928998,
+      "resolve": 0.20791694760542234,
+      "anger": 0.09038270414637167,
+      "neutral": 0.1592795670531036
+    }
+  },
+  {
+    "chunk_index": 95,
+    "text": "God bless you all, and God bless America.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22856212751604735,
+      "unity": 0.15338641431141348,
+      "hope": 0.1460046885850665,
+      "resolve": 0.14266768403930113,
+      "anger": 0.11848429600023253,
+      "neutral": 0.21089478954793903
+    }
+  }
+]

@@ -1,0 +1,1744 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Fellow-Citizens of the United States:\nIn compliance with a custom as old as the Government itself, I appear before you to address you briefly and to take in your presence the oath prescribed by the Constitution of the United States to be taken by the President \"before he enters on the execution of this office.\"",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17885159878507534,
+      "unity": 0.1303992378061631,
+      "hope": 0.122754936197417,
+      "resolve": 0.14287164174314357,
+      "anger": 0.15158519235519927,
+      "neutral": 0.27353739311300174
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "I do not consider it necessary at present for me to discuss those matters of administration about which there is no special anxiety or excitement.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17186473735568036,
+      "unity": 0.0838831700650135,
+      "hope": 0.1459326522658096,
+      "resolve": 0.1036141103623913,
+      "anger": 0.11168429698595372,
+      "neutral": 0.3830210329651515
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Apprehension seems to exist among the people of the Southern States that by the accession of a Republican Administration their property and their peace and personal security are to be endangered.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16106259769982706,
+      "unity": 0.16052074961039053,
+      "hope": 0.15926308962702174,
+      "resolve": 0.2015091443868858,
+      "anger": 0.19106311711423307,
+      "neutral": 0.1265813015616418
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "There has never been any reasonable cause for such apprehension.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.21367262799655606,
+      "unity": 0.12034876032538862,
+      "hope": 0.1003940064534158,
+      "resolve": 0.22706402440115248,
+      "anger": 0.24548002400625699,
+      "neutral": 0.09304055681723006
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "Indeed, the most ample evidence to the contrary has all the while existed and been open to their inspection.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21114262692675045,
+      "unity": 0.07701833903378266,
+      "hope": 0.07961167089837698,
+      "resolve": 0.26898629565331633,
+      "anger": 0.2674708596849102,
+      "neutral": 0.0957702078028634
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "It is found in nearly all the published speeches of him who now addresses you.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18025828774435,
+      "unity": 0.15308123800685364,
+      "hope": 0.15501041158108864,
+      "resolve": 0.125029154138741,
+      "anger": 0.12571729056453748,
+      "neutral": 0.2609036179644293
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "I do but quote from one of those speeches when I declare that--\nI have no purpose, directly or indirectly, to interfere with the institution of slavery in the States where it exists.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.14364676807206364,
+      "unity": 0.15261767354059694,
+      "hope": 0.08814200541043267,
+      "resolve": 0.1656244391971734,
+      "anger": 0.2139962356567957,
+      "neutral": 0.2359728781229376
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "I believe I have no lawful right to do so, and I have no inclination to do so.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.07817078439632456,
+      "unity": 0.13474561505841998,
+      "hope": 0.06372335221235462,
+      "resolve": 0.13720648087411877,
+      "anger": 0.3561128808080496,
+      "neutral": 0.2300408866507325
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Those who nominated and elected me did so with full knowledge that I had made this and many similar declarations and had never recanted them; and more than this, they placed in the platform for my acceptance, and as a law to themselves and to me, the clear and emphatic resolution which I now read:\n'Resolved', That the maintenance inviolate of the rights of the States, and especially the right of each State to order and control its own domestic institutions according to its own judgment exclusively, is essential to that balance of power on which the perfection and endurance of our political fabric depend; and we denounce the lawless invasion by armed force of the soil of any State or Territory, no matter what pretext, as among the gravest of crimes.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18830828708154923,
+      "unity": 0.15077940530819975,
+      "hope": 0.11733876393202264,
+      "resolve": 0.16299096468782734,
+      "anger": 0.1852248224322288,
+      "neutral": 0.19535775655817222
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "I now reiterate these sentiments, and in doing so I only press upon the public attention the most conclusive evidence of which the case is susceptible that the property, peace, and security of no section are to be in any wise endangered by the now incoming Administration.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15115909187585932,
+      "unity": 0.14868345144976802,
+      "hope": 0.12954118664996583,
+      "resolve": 0.19498620793322807,
+      "anger": 0.19663030763517625,
+      "neutral": 0.17899975445600252
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "I add, too, that all the protection which, consistently with the Constitution and the laws, can be given will be cheerfully given to all the States when lawfully demanded, for whatever cause--as cheerfully to one section as to another.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21045769489274468,
+      "unity": 0.14869867677349197,
+      "hope": 0.13871276601112853,
+      "resolve": 0.20946548321391825,
+      "anger": 0.12006477201161846,
+      "neutral": 0.17260060709709807
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "There is much controversy about the delivering up of fugitives from service or labor.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1564394104933091,
+      "unity": 0.1851881948044367,
+      "hope": 0.11450877794083109,
+      "resolve": 0.2157067253575139,
+      "anger": 0.25042563492101766,
+      "neutral": 0.07773125648289154
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "The clause I now read is as plainly written in the Constitution as any other of its provisions:\nNo person held to service or labor in one State, under the laws thereof, escaping into another, shall in consequence of any law or regulation therein be discharged from such service or labor, but shall be delivered up on claim of the party to whom such service or labor may be due.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20681061009777052,
+      "unity": 0.16194057637491296,
+      "hope": 0.043794061713248296,
+      "resolve": 0.20562835259750054,
+      "anger": 0.17614694127228211,
+      "neutral": 0.2056794579442856
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "It is scarcely questioned that this provision was intended by those who made it for the reclaiming of what we call fugitive slaves; and the intention of the lawgiver is the law.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1783340052876746,
+      "unity": 0.15070429656220843,
+      "hope": 0.14925944391814777,
+      "resolve": 0.23056193687535181,
+      "anger": 0.14478697935155663,
+      "neutral": 0.14635333800506078
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "All members of Congress swear their support to the whole Constitution--to this provision as much as to any other.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18957970492373527,
+      "unity": 0.13056916421083928,
+      "hope": 0.10691924740711,
+      "resolve": 0.18623465038910336,
+      "anger": 0.14826588772942498,
+      "neutral": 0.2384313453397871
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "To the proposition, then, that slaves whose cases come within the terms of this clause \"shall be delivered up\" their oaths are unanimous.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13293264715657974,
+      "unity": 0.15876971354665778,
+      "hope": 0.12329442731230002,
+      "resolve": 0.19140931101369105,
+      "anger": 0.17194992675194248,
+      "neutral": 0.22164397421882892
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "Now, if they would make the effort in good temper, could they not with nearly equal unanimity frame and pass a law by means of which to keep good that unanimous oath?",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1314388747073718,
+      "unity": 0.17848272479340338,
+      "hope": 0.12107372476976191,
+      "resolve": 0.18882009383327286,
+      "anger": 0.20285026122097566,
+      "neutral": 0.17733432067521437
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "There is some difference of opinion whether this clause should be enforced by national or by State authority, but surely that difference is not a very material one.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18432443587533356,
+      "unity": 0.19955742264510692,
+      "hope": 0.06556633371857518,
+      "resolve": 0.15857203210402707,
+      "anger": 0.2701114617503926,
+      "neutral": 0.12186831390656468
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "If the slave is to be surrendered, it can be of but little consequence to him or to others by which authority it is done.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13420249246426952,
+      "unity": 0.16718726806469963,
+      "hope": 0.10409795820558222,
+      "resolve": 0.20463715549902228,
+      "anger": 0.1941972449197282,
+      "neutral": 0.19567788084669813
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "And should anyone in any case be content that his oath shall go unkept on a merely unsubstantial controversy as to 'how' it shall be kept?",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14221207457467014,
+      "unity": 0.1621281516381382,
+      "hope": 0.08784634733571406,
+      "resolve": 0.1945913694946987,
+      "anger": 0.21583286398944573,
+      "neutral": 0.19738919296733315
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "Again: In any law upon this subject ought not all the safeguards of liberty known in civilized and humane jurisprudence to be introduced, so that a free man be not in any case surrendered as a slave?",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1694958598599616,
+      "unity": 0.1665554963432135,
+      "hope": 0.11385238668671722,
+      "resolve": 0.2077372786390147,
+      "anger": 0.2076687476604563,
+      "neutral": 0.13469023081063666
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "And might it not be well at the same time to provide by law for the enforcement of that clause in the Constitution which guarantees that \"the citizens of each State shall be entitled to all privileges and immunities of citizens in the several States\"?",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1901822590256231,
+      "unity": 0.238753093696631,
+      "hope": 0.08985999549820539,
+      "resolve": 0.1826054831371564,
+      "anger": 0.20332474709701415,
+      "neutral": 0.09527442154536996
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "I take the official oath to-day with no mental reservations and with no purpose to construe the Constitution or laws by any hypercritical rules; and while I do not choose now to specify particular acts of Congress as proper to be enforced, I do suggest that it will be much safer for all, both in official and private stations, to conform to and abide by all those acts which stand unrepealed than to violate any of them trusting to find impunity in having them held to be unconstitutional.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.15709717052287653,
+      "unity": 0.12155767176720562,
+      "hope": 0.12853753828197356,
+      "resolve": 0.16888606488927232,
+      "anger": 0.1759623330202459,
+      "neutral": 0.2479592215184261
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "It is seventy-two years since the first inauguration of a President under our National Constitution.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24377455208546098,
+      "unity": 0.11547824012896102,
+      "hope": 0.15464057188943006,
+      "resolve": 0.13404619093720727,
+      "anger": 0.1450854924642979,
+      "neutral": 0.20697495249464276
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "During that period fifteen different and greatly distinguished citizens have in succession administered the executive branch of the Government.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.27614082738886847,
+      "unity": 0.13149379154428958,
+      "hope": 0.12598032781529017,
+      "resolve": 0.12150667348107176,
+      "anger": 0.1245129801078374,
+      "neutral": 0.22036539966264262
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "They have conducted it through many perils, and generally with great success.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.29461824613770193,
+      "unity": 0.09853285213385868,
+      "hope": 0.1342648996509205,
+      "resolve": 0.22741009214307858,
+      "anger": 0.12498880053449493,
+      "neutral": 0.12018510939994537
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "Yet, with all this scope of precedent, I now enter upon the same task for the brief constitutional term of four years under great and peculiar difficulty.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12691415698455386,
+      "unity": 0.1565545300843774,
+      "hope": 0.1737136307508393,
+      "resolve": 0.2271876738821797,
+      "anger": 0.13884371102482881,
+      "neutral": 0.176786297273221
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "A disruption of the Federal Union, heretofore only menaced, is now formidably attempted.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15578613464152963,
+      "unity": 0.18002460415074298,
+      "hope": 0.12077560121196314,
+      "resolve": 0.19333267870073725,
+      "anger": 0.2255284520240094,
+      "neutral": 0.1245525292710176
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "I hold that in contemplation of universal law and of the Constitution the Union of these States is perpetual.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20420896104279176,
+      "unity": 0.19171177710548512,
+      "hope": 0.1340132815562535,
+      "resolve": 0.18568491133303325,
+      "anger": 0.13129528410492383,
+      "neutral": 0.15308578485751256
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "Perpetuity is implied, if not expressed, in the fundamental law of all national governments.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21357809817596474,
+      "unity": 0.12289274118845092,
+      "hope": 0.10575729768275101,
+      "resolve": 0.21327085800461257,
+      "anger": 0.20742455057213957,
+      "neutral": 0.1370764543760812
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "It is safe to assert that no government proper ever had a provision in its organic law for its own termination.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.4018314724849025,
+      "unity": -0.018330422836693828,
+      "hope": -0.2193862472962279,
+      "resolve": 0.10649336985536859,
+      "anger": 0.482653893864211,
+      "neutral": 0.24673793392843968
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "Continue to execute all the express provisions of our National Constitution, and the Union will endure forever, it being impossible to destroy it except by some action not provided for in the instrument itself.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18043254741856296,
+      "unity": 0.15338507001002327,
+      "hope": 0.14947578598531228,
+      "resolve": 0.1972743354524758,
+      "anger": 0.1446935441260854,
+      "neutral": 0.17473871700754032
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "Again: If the United States be not a government proper, but an association of States in the nature of contract merely, can it, as a contract, be peaceably unmade by less than all the parties who made it?",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.17781437639641307,
+      "unity": 0.2053551098379032,
+      "hope": 0.10297281186698783,
+      "resolve": 0.19980523417431825,
+      "anger": 0.1660701536660677,
+      "neutral": 0.14798231405830997
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "One party to a contract may violate it--break it, so to speak--but does it not require all to lawfully rescind it?",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.033083546093338585,
+      "unity": 0.23396507594557475,
+      "hope": 0.037867309729588496,
+      "resolve": 0.18536492016282766,
+      "anger": 0.34872168289497213,
+      "neutral": 0.16099746517369837
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "Descending from these general principles, we find the proposition that in legal contemplation the Union is perpetual confirmed by the history of the Union itself.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20506371485592087,
+      "unity": 0.1943764644132854,
+      "hope": 0.14236253050247774,
+      "resolve": 0.19379552835148273,
+      "anger": 0.12101839641594046,
+      "neutral": 0.1433833654608928
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "The Union is much older than the Constitution.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2612591234479062,
+      "unity": 0.19798194095859065,
+      "hope": 0.07156313894272484,
+      "resolve": 0.14234528597435336,
+      "anger": 0.22512687709794996,
+      "neutral": 0.101723633578475
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "It was formed, in fact, by the Articles of Association in 1774.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3541761101030282,
+      "unity": 0.21493468758317466,
+      "hope": 0.025555861524453372,
+      "resolve": 0.10851151374356814,
+      "anger": 0.11853506553109336,
+      "neutral": 0.17828676151468226
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "It was matured and continued by the Declaration of Independence in 1776.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2514741672747067,
+      "unity": 0.18294333213119185,
+      "hope": 0.1456064602217044,
+      "resolve": 0.16228736345154507,
+      "anger": 0.14344931747055537,
+      "neutral": 0.11423935945029669
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "It was further matured, and the faith of all the then thirteen States expressly plighted and engaged that it should be perpetual, by the Articles of Confederation in 1778.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23703465021708323,
+      "unity": 0.18420475525195715,
+      "hope": 0.13041556291057627,
+      "resolve": 0.19200714055668008,
+      "anger": 0.1356323131214819,
+      "neutral": 0.12070557794222138
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "And finally, in 1787, one of the declared objects for ordaining and establishing the Constitution was \"to form a more perfect Union.\"",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2253062281492775,
+      "unity": 0.20076951416231775,
+      "hope": 0.1456442790660787,
+      "resolve": 0.16883294352743164,
+      "anger": 0.08071782550791132,
+      "neutral": 0.17872920958698307
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "But if destruction of the Union by one or by a part only of the States be lawfully possible, the Union is 'less' perfect than before the Constitution, having lost the vital element of perpetuity.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1673913014766804,
+      "unity": 0.2188126214151678,
+      "hope": 0.12620614171322556,
+      "resolve": 0.19701086703967258,
+      "anger": 0.16224792579823027,
+      "neutral": 0.12833114255702335
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "It follows from these views that no State upon its own mere motion can lawfully get out of the Union; that 'resolves' and 'ordinances' to that effect are legally void, and that acts of violence within any State or States against the authority of the United States are insurrectionary or revolutionary, according to circumstances.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18641720674153897,
+      "unity": 0.19682444930895332,
+      "hope": 0.09690705108168819,
+      "resolve": 0.18532517503941218,
+      "anger": 0.2054207130717405,
+      "neutral": 0.12910540475666682
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "I therefore consider that in view of the Constitution and the laws the Union is unbroken, and to the extent of my ability, I shall take care, as the Constitution itself expressly enjoins upon me, that the laws of the Union be faithfully executed in all the States.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1916717046856757,
+      "unity": 0.18220691915868262,
+      "hope": 0.12489099805677517,
+      "resolve": 0.20488310477248942,
+      "anger": 0.11534020939542841,
+      "neutral": 0.18100706393094865
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "Doing this I deem to be only a simple duty on my part, and I shall perform it so far as practicable unless my rightful masters, the American people, shall withhold the requisite means or in some authoritative manner direct the contrary.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.14944451499337602,
+      "unity": 0.1424444307340686,
+      "hope": 0.13080059653013862,
+      "resolve": 0.18457868173986364,
+      "anger": 0.19586318508871262,
+      "neutral": 0.19686859091384049
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "I trust this will not be regarded as a menace, but only as the declared purpose of the Union that it 'will' constitutionally defend and maintain itself.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15629638889821407,
+      "unity": 0.14563945975271114,
+      "hope": 0.17040765869679197,
+      "resolve": 0.2240405926497439,
+      "anger": 0.1704478909079575,
+      "neutral": 0.1331680090945814
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "In doing this there needs to be no bloodshed or violence, and there shall be none unless it be forced upon the national authority.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13988133593478286,
+      "unity": 0.17348664934107988,
+      "hope": 0.122728572034568,
+      "resolve": 0.18932145499616176,
+      "anger": 0.22286663899193615,
+      "neutral": 0.15171534870147135
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "The power confided to me will be used to hold, occupy, and possess the property and places belonging to the Government and to collect the duties and imposts; but beyond what may be necessary for these objects, there will be no invasion, no using of force against or among the people anywhere.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18079243790145225,
+      "unity": 0.13430805019247555,
+      "hope": 0.15074316471214502,
+      "resolve": 0.1978360257760112,
+      "anger": 0.15677840355697326,
+      "neutral": 0.17954191786094273
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "Where hostility to the United States in any interior locality shall be so great and universal as to prevent competent resident citizens from holding the Federal offices, there will be no attempt to force obnoxious strangers among the people for that object.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16961670292412476,
+      "unity": 0.1827969146255501,
+      "hope": 0.11247516504897848,
+      "resolve": 0.18767948515085464,
+      "anger": 0.2063019767644835,
+      "neutral": 0.14112975548600853
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "While the strict legal right may exist in the Government to enforce the exercise of these offices, the attempt to do so would be so irritating and so nearly impracticable withal that I deem it better to forego for the time the uses of such offices.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.026835241351680826,
+      "unity": 0.12618010562944787,
+      "hope": 0.09792192199551857,
+      "resolve": 0.17684989691792669,
+      "anger": 0.35348189045639067,
+      "neutral": 0.2187309436490354
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "The mails, unless repelled, will continue to be furnished in all parts of the Union.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.24070501942060624,
+      "unity": 0.12469203224313172,
+      "hope": 0.08813248209794283,
+      "resolve": 0.3069953061347352,
+      "anger": 0.06959381822691413,
+      "neutral": 0.1698813418766699
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "So far as possible the people everywhere shall have that sense of perfect security which is most favorable to calm thought and reflection.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15939176611503522,
+      "unity": 0.16234883396443098,
+      "hope": 0.1971822305178268,
+      "resolve": 0.21685079555623044,
+      "anger": 0.12003261461921791,
+      "neutral": 0.14419375922725866
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "The course here indicated will be followed unless current events and experience shall show a modification or change to be proper, and in every case and exigency my best discretion will be exercised, according to circumstances actually existing and with a view and a hope of a peaceful solution of the national troubles and the restoration of fraternal sympathies and affections.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.10800264334352783,
+      "unity": 0.17342829884630173,
+      "hope": 0.15405395748852413,
+      "resolve": 0.19027964887471346,
+      "anger": 0.1904329772952504,
+      "neutral": 0.18380247415168244
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "That there are persons in one section or another who seek to destroy the Union at all events and are glad of any pretext to do it I will neither affirm nor deny; but if there be such, I need address no word to them.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1400654132900399,
+      "unity": 0.18178374043524273,
+      "hope": 0.12982293785202706,
+      "resolve": 0.19830950850423004,
+      "anger": 0.19507987314670042,
+      "neutral": 0.15493852677175982
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "To those, however, who really love the Union may I not speak?",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1747536584758709,
+      "unity": 0.1829971375805291,
+      "hope": 0.12288809722415853,
+      "resolve": 0.1640279275932205,
+      "anger": 0.1816902256293422,
+      "neutral": 0.17364295349687875
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "Before entering upon so grave a matter as the destruction of our national fabric, with all its benefits, its memories, and its hopes, would it not be wise to ascertain precisely why we do it?",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20852913709785464,
+      "unity": 0.17451447164356143,
+      "hope": 0.0986975101897596,
+      "resolve": 0.20178194167375768,
+      "anger": 0.20556944751384454,
+      "neutral": 0.11090749188122208
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "Will you hazard so desperate a step while there is any possibility that any portion of the ills you fly from have no real existence?",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.09466225270396353,
+      "unity": 0.1771596366966446,
+      "hope": 0.2409289067410211,
+      "resolve": 0.26592676358808104,
+      "anger": 0.159974422773695,
+      "neutral": 0.06134801749659477
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "Will you, while the certain ills you fly to are greater than all the real ones you fly from, will you risk the commission of so fearful a mistake?",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.11243207489559116,
+      "unity": 0.15264011615306958,
+      "hope": 0.21963026671164493,
+      "resolve": 0.2533291185862245,
+      "anger": 0.1285133283001157,
+      "neutral": 0.13345509535335415
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "All profess to be content in the Union if all constitutional rights can be maintained.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.19262550273875445,
+      "unity": 0.20038439574792805,
+      "hope": 0.13998186756237224,
+      "resolve": 0.18367392165762972,
+      "anger": 0.13697152419429867,
+      "neutral": 0.14636278809901684
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "Is it true, then, that any right plainly written in the Constitution has been denied?",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.21461741948926621,
+      "unity": 0.1405239080864121,
+      "hope": 0.10326257035403047,
+      "resolve": 0.18707527464951848,
+      "anger": 0.28326635205943423,
+      "neutral": 0.0712544753613385
+    }
+  },
+  {
+    "chunk_index": 60,
+    "text": "Happily, the human mind is so constituted that no party can reach to the audacity of doing this.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1590121284954438,
+      "unity": 0.17781712801118213,
+      "hope": 0.12372210771478824,
+      "resolve": 0.18555429264024872,
+      "anger": 0.18950548227638558,
+      "neutral": 0.16438886086195154
+    }
+  },
+  {
+    "chunk_index": 61,
+    "text": "Think, if you can, of a single instance in which a plainly written provision of the Constitution has ever been denied.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.2351352915288079,
+      "unity": 0.1409137978943187,
+      "hope": 0.07246097402133239,
+      "resolve": 0.18630020945657302,
+      "anger": 0.2572226749235066,
+      "neutral": 0.1079670521754614
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "If by the mere force of numbers a majority should deprive a minority of any clearly written constitutional right, it might in a moral point of view justify revolution; certainly would if such right were a vital one.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16630655822009438,
+      "unity": 0.16773985182580528,
+      "hope": 0.12520681865477984,
+      "resolve": 0.16581837525296267,
+      "anger": 0.291766368349966,
+      "neutral": 0.08316202769639182
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "But such is not our case.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.2019122516440693,
+      "unity": 0.18362549540970058,
+      "hope": 0.14373253165328648,
+      "resolve": 0.21438699804332426,
+      "anger": 0.21514550556957998,
+      "neutral": 0.041197217680039436
+    }
+  },
+  {
+    "chunk_index": 64,
+    "text": "All the vital rights of minorities and of individuals are so plainly assured to them by affirmations and negations, guaranties and prohibitions, in the Constitution that controversies never arise concerning them.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.208759512466551,
+      "unity": 0.15170920914311484,
+      "hope": 0.12535325682208634,
+      "resolve": 0.2115180490812573,
+      "anger": 0.17289594910821296,
+      "neutral": 0.12976402337877757
+    }
+  },
+  {
+    "chunk_index": 65,
+    "text": "But no organic law can ever be framed with a provision specifically applicable to every question which may occur in practical administration.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0,
+      "unity": 0,
+      "hope": 0,
+      "resolve": 0,
+      "anger": 0,
+      "neutral": 0
+    }
+  },
+  {
+    "chunk_index": 66,
+    "text": "No foresight can anticipate nor any document of reasonable length contain express provisions for all possible questions.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": -0.04223844395849339,
+      "unity": 0.1149584983733832,
+      "hope": 0.24799348614920172,
+      "resolve": 0.34299418500811757,
+      "anger": 0.31842540170975075,
+      "neutral": 0.01786687271804011
+    }
+  },
+  {
+    "chunk_index": 67,
+    "text": "Shall fugitives from labor be surrendered by national or by State authority?",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16188402669927762,
+      "unity": 0.1434265479582134,
+      "hope": 0.06889714879493156,
+      "resolve": 0.2129585268818195,
+      "anger": 0.2508534862334749,
+      "neutral": 0.161980263432283
+    }
+  },
+  {
+    "chunk_index": 68,
+    "text": "The Constitution does not expressly say.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1910898763482633,
+      "unity": 0.13681553250311815,
+      "hope": 0.037412844629966024,
+      "resolve": 0.17600737463475713,
+      "anger": 0.264388903576202,
+      "neutral": 0.1942854683076934
+    }
+  },
+  {
+    "chunk_index": 69,
+    "text": "'May' Congress prohibit slavery in the Territories?",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18492075751449563,
+      "unity": 0.15345390408155393,
+      "hope": 0.1096933836514231,
+      "resolve": 0.18089150815616692,
+      "anger": 0.20546696381013568,
+      "neutral": 0.16557348278622472
+    }
+  },
+  {
+    "chunk_index": 70,
+    "text": "The Constitution does not expressly say.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1910898763482633,
+      "unity": 0.13681553250311815,
+      "hope": 0.037412844629966024,
+      "resolve": 0.17600737463475713,
+      "anger": 0.264388903576202,
+      "neutral": 0.1942854683076934
+    }
+  },
+  {
+    "chunk_index": 71,
+    "text": "'Must' Congress protect slavery in the Territories?",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18365199123865594,
+      "unity": 0.15327983897422803,
+      "hope": 0.09663081257953045,
+      "resolve": 0.22458054300074987,
+      "anger": 0.1972150748956069,
+      "neutral": 0.14464173931122884
+    }
+  },
+  {
+    "chunk_index": 72,
+    "text": "The Constitution does not expressly say.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1910898763482633,
+      "unity": 0.13681553250311815,
+      "hope": 0.037412844629966024,
+      "resolve": 0.17600737463475713,
+      "anger": 0.264388903576202,
+      "neutral": 0.1942854683076934
+    }
+  },
+  {
+    "chunk_index": 73,
+    "text": "From questions of this class spring all our constitutional controversies, and we divide upon them into majorities and minorities.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.17347577474422568,
+      "unity": 0.204380669985442,
+      "hope": 0.13524232158226718,
+      "resolve": 0.18521801132081328,
+      "anger": 0.19140340002494555,
+      "neutral": 0.11027982234230634
+    }
+  },
+  {
+    "chunk_index": 74,
+    "text": "If the minority will not acquiesce, the majority must, or the Government must cease.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12406494704364973,
+      "unity": 0.16949492203624567,
+      "hope": 0.11375275455685221,
+      "resolve": 0.1798853893836058,
+      "anger": 0.24970273570343104,
+      "neutral": 0.16309925127621552
+    }
+  },
+  {
+    "chunk_index": 75,
+    "text": "There is no other alternative, for continuing the Government is acquiescence on one side or the other.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13109535487930526,
+      "unity": 0.1694177747164906,
+      "hope": 0.12057910921112223,
+      "resolve": 0.1763544761045496,
+      "anger": 0.25358319631919035,
+      "neutral": 0.14897008876934195
+    }
+  },
+  {
+    "chunk_index": 76,
+    "text": "If a minority in such case will secede rather than acquiesce, they make a precedent which in turn will divide and ruin them, for a minority of their own will secede from them whenever a majority refuses to be controlled by such minority.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1513746140032971,
+      "unity": 0.22409463005635535,
+      "hope": 0.11794023780246637,
+      "resolve": 0.1909766316186552,
+      "anger": 0.2149330729531819,
+      "neutral": 0.10068081356604408
+    }
+  },
+  {
+    "chunk_index": 77,
+    "text": "For instance, why may not any portion of a new confederacy a year or two hence arbitrarily secede again, precisely as portions of the present Union now claim to secede from it?",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1609039729818699,
+      "unity": 0.2851866410067741,
+      "hope": 0.08821702047240394,
+      "resolve": 0.22667672802525088,
+      "anger": 0.1752008506230219,
+      "neutral": 0.06381478689067926
+    }
+  },
+  {
+    "chunk_index": 78,
+    "text": "All who cherish disunion sentiments are now being educated to the exact temper of doing this.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1188085518118068,
+      "unity": 0.18394739084390108,
+      "hope": 0.16127256740104537,
+      "resolve": 0.1776659007040371,
+      "anger": 0.2148317293708936,
+      "neutral": 0.14347385986831604
+    }
+  },
+  {
+    "chunk_index": 79,
+    "text": "Is there such perfect identity of interests among the States to compose a new union as to produce harmony only and prevent renewed secession?",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1583361907943359,
+      "unity": 0.2744208401280257,
+      "hope": 0.15275207580373165,
+      "resolve": 0.19797347083282127,
+      "anger": 0.1292877974150466,
+      "neutral": 0.08722962502603891
+    }
+  },
+  {
+    "chunk_index": 80,
+    "text": "Plainly the central idea of secession is the essence of anarchy.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.18654379890124273,
+      "unity": 0.23694328804303402,
+      "hope": 0.1230932755275659,
+      "resolve": 0.17976742178126096,
+      "anger": 0.18327612127973184,
+      "neutral": 0.09037609446716459
+    }
+  },
+  {
+    "chunk_index": 81,
+    "text": "A majority held in restraint by constitutional checks and limitations, and always changing easily with deliberate changes of popular opinions and sentiments, is the only true sovereign of a free people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2148865322785296,
+      "unity": 0.16055744964902255,
+      "hope": 0.12416940976196474,
+      "resolve": 0.19253803842385778,
+      "anger": 0.1881217259030301,
+      "neutral": 0.1197268439835952
+    }
+  },
+  {
+    "chunk_index": 82,
+    "text": "Whoever rejects it does of necessity fly to anarchy or to despotism.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12373332782807536,
+      "unity": 0.1803320944478914,
+      "hope": 0.12481836607396207,
+      "resolve": 0.17868164811183998,
+      "anger": 0.2699572060249096,
+      "neutral": 0.12247735751332164
+    }
+  },
+  {
+    "chunk_index": 83,
+    "text": "Unanimity is impossible.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.08547368984886206,
+      "unity": 0.2608286425648624,
+      "hope": 0.11440908781615851,
+      "resolve": 0.21652282047995464,
+      "anger": 0.2449315237871716,
+      "neutral": 0.07783423550299083
+    }
+  },
+  {
+    "chunk_index": 84,
+    "text": "The rule of a minority, as a permanent arrangement, is wholly inadmissible; so that, rejecting the majority principle, anarchy or despotism in some form is all that is left.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.140138000029892,
+      "unity": 0.18630400117229962,
+      "hope": 0.11530363208557992,
+      "resolve": 0.17061796940366716,
+      "anger": 0.25611036946536875,
+      "neutral": 0.1315260278431925
+    }
+  },
+  {
+    "chunk_index": 85,
+    "text": "I do not forget the position assumed by some that constitutional questions are to be decided by the Supreme Court, nor do I deny that such decisions must be binding in any case upon the parties to a suit as to the object of that suit, while they are also entitled to very high respect and consideration in all parallel cases by all other departments of the Government.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1777223696000889,
+      "unity": 0.16312198635510136,
+      "hope": 0.07745136397932756,
+      "resolve": 0.2115349245732122,
+      "anger": 0.20881076236543789,
+      "neutral": 0.1613585931268321
+    }
+  },
+  {
+    "chunk_index": 86,
+    "text": "And while it is obviously possible that such decision may be erroneous in any given case, still the evil effect following it, being limited to that particular case, with the chance that it may be overruled and never become a precedent for other cases, can better be borne than could the evils of a different practice.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.07842413934876565,
+      "unity": 0.19194249183601528,
+      "hope": 0.1254000212139194,
+      "resolve": 0.2842392684896591,
+      "anger": 0.25908101795698,
+      "neutral": 0.060913061154660546
+    }
+  },
+  {
+    "chunk_index": 87,
+    "text": "At the same time, the candid citizen must confess that if the policy of the Government upon vital questions affecting the whole people is to be irrevocably fixed by decisions of the Supreme Court, the instant they are made in ordinary litigation between parties in personal actions the people will have ceased to be their own rulers, having to that extent practically resigned their Government into the hands of that eminent tribunal.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16735155284874037,
+      "unity": 0.15774790231173944,
+      "hope": 0.12878583100403546,
+      "resolve": 0.16064318737720235,
+      "anger": 0.21746442024328994,
+      "neutral": 0.16800710621499246
+    }
+  },
+  {
+    "chunk_index": 88,
+    "text": "Nor is there in this view any assault upon the court or the judges.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1647333252255259,
+      "unity": 0.09962658399728813,
+      "hope": 0.020676342534873115,
+      "resolve": 0.18368850518234311,
+      "anger": 0.38996605101162246,
+      "neutral": 0.14130919204834727
+    }
+  },
+  {
+    "chunk_index": 89,
+    "text": "It is a duty from which they may not shrink to decide cases properly brought before them, and it is no fault of theirs if others seek to turn their decisions to political purposes.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15353652972802898,
+      "unity": 0.14190325482328087,
+      "hope": 0.07197658868118507,
+      "resolve": 0.22553173776033483,
+      "anger": 0.27402895094576846,
+      "neutral": 0.13302293806140175
+    }
+  },
+  {
+    "chunk_index": 90,
+    "text": "One section of our country believes slavery is 'right' and ought to be extended, while the other believes it is 'wrong' and ought not to be extended.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.19854438133492472,
+      "unity": 0.25671388278832896,
+      "hope": 0.1089184191333979,
+      "resolve": 0.16114228962579175,
+      "anger": 0.19146288990654567,
+      "neutral": 0.08321813721101101
+    }
+  },
+  {
+    "chunk_index": 91,
+    "text": "This is the only substantial dispute.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13477241108154014,
+      "unity": 0.18638100730487941,
+      "hope": 0.07538855266175792,
+      "resolve": 0.20356739446341035,
+      "anger": 0.229798004550921,
+      "neutral": 0.17009262993749116
+    }
+  },
+  {
+    "chunk_index": 92,
+    "text": "The fugitive-slave clause of the Constitution and the law for the suppression of the foreign slave trade are each as well enforced, perhaps, as any law can ever be in a community where the moral sense of the people imperfectly supports the law itself.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20927016780859886,
+      "unity": 0.1645468475232687,
+      "hope": 0.10948644709712459,
+      "resolve": 0.21106024225913525,
+      "anger": 0.19214960634303765,
+      "neutral": 0.11348668896883496
+    }
+  },
+  {
+    "chunk_index": 93,
+    "text": "The great body of the people abide by the dry legal obligation in both cases, and a few break over in each.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.2142556347048612,
+      "unity": 0.1905836348802312,
+      "hope": 0.05000009763986533,
+      "resolve": 0.16214391713843485,
+      "anger": 0.23344719805668185,
+      "neutral": 0.14956951757992562
+    }
+  },
+  {
+    "chunk_index": 94,
+    "text": "This, I think, can not be perfectly cured, and it would be worse in both cases 'after' the separation of the sections than before.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": -0.8445821119223754,
+      "unity": 1.456366095666897,
+      "hope": -0.4641614678772859,
+      "resolve": 0.3299759315041047,
+      "anger": 0.3941791903388937,
+      "neutral": 0.1282223622897661
+    }
+  },
+  {
+    "chunk_index": 95,
+    "text": "The foreign slave trade, now imperfectly suppressed, would be ultimately revived without restriction in one section, while fugitive slaves, now only partially surrendered, would not be surrendered at all by the other.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22475855992205393,
+      "unity": 0.20850350231526268,
+      "hope": 0.15823962874165723,
+      "resolve": 0.1858593245044092,
+      "anger": 0.1580689186296117,
+      "neutral": 0.06457006588700523
+    }
+  },
+  {
+    "chunk_index": 96,
+    "text": "Physically speaking, we can not separate.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.11258062736975363,
+      "unity": 0.40492359372444964,
+      "hope": 0.1328934892490018,
+      "resolve": 0.1829063189624026,
+      "anger": 0.11184166388563867,
+      "neutral": 0.05485430680875368
+    }
+  },
+  {
+    "chunk_index": 97,
+    "text": "We can not remove our respective sections from each other nor build an impassable wall between them.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.10829822859766826,
+      "unity": 0.3312410798272431,
+      "hope": 0.09242789684935183,
+      "resolve": 0.26035401658561763,
+      "anger": 0.20554525319640043,
+      "neutral": 0.0021335249437187715
+    }
+  },
+  {
+    "chunk_index": 98,
+    "text": "A husband and wife may be divorced and go out of the presence and beyond the reach of each other, but the different parts of our country can not do this.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.14225145517964566,
+      "unity": 0.35519551121841614,
+      "hope": 0.03021416040500429,
+      "resolve": 0.1256414347146891,
+      "anger": 0.1918531089515069,
+      "neutral": 0.1548443295307379
+    }
+  },
+  {
+    "chunk_index": 99,
+    "text": "They can not but remain face to face, and intercourse, either amicable or hostile, must continue between them.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.07435860662734453,
+      "unity": 0.2606608419065791,
+      "hope": 0.1425785337654902,
+      "resolve": 0.219995659639032,
+      "anger": 0.1380766066797061,
+      "neutral": 0.16432975138184802
+    }
+  },
+  {
+    "chunk_index": 100,
+    "text": "Is it possible, then, to make that intercourse more advantageous or more satisfactory 'after' separation than 'before'?",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.005435701042176849,
+      "unity": 0.44522727815310364,
+      "hope": 0.13239904237425568,
+      "resolve": 0.19834868264847752,
+      "anger": 0.09308042799447544,
+      "neutral": 0.12550886778751086
+    }
+  },
+  {
+    "chunk_index": 101,
+    "text": "Can aliens make treaties easier than friends can make laws?",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16964234571921952,
+      "unity": 0.18998075985159804,
+      "hope": 0.06954524089254134,
+      "resolve": 0.1938776991060408,
+      "anger": 0.2283841737195762,
+      "neutral": 0.1485697807110241
+    }
+  },
+  {
+    "chunk_index": 102,
+    "text": "Can treaties be more faithfully enforced between aliens than laws can among friends?",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19093095632111112,
+      "unity": 0.20687118039770666,
+      "hope": 0.04003590430036591,
+      "resolve": 0.2389957389923031,
+      "anger": 0.18482444034247833,
+      "neutral": 0.13834177964603492
+    }
+  },
+  {
+    "chunk_index": 103,
+    "text": "Suppose you go to war, you can not fight always; and when, after much loss on both sides and no gain on either, you cease fighting, the identical old questions, as to terms of intercourse, are again upon you.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1340365718628725,
+      "unity": 0.20610744475250758,
+      "hope": 0.13907345561629142,
+      "resolve": 0.20274668379680189,
+      "anger": 0.15864315671531493,
+      "neutral": 0.1593926872562117
+    }
+  },
+  {
+    "chunk_index": 104,
+    "text": "This country, with its institutions, belongs to the people who inhabit it.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23060404046049457,
+      "unity": 0.16957077798084794,
+      "hope": 0.11313303454384965,
+      "resolve": 0.14140845308218536,
+      "anger": 0.1743689547536488,
+      "neutral": 0.17091473917897368
+    }
+  },
+  {
+    "chunk_index": 105,
+    "text": "Whenever they shall grow weary of the existing Government, they can exercise their 'constitutional' right of amending it or their 'revolutionary' right to dismember or overthrow it.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17090957248662084,
+      "unity": 0.13852110432761042,
+      "hope": 0.13162860646945204,
+      "resolve": 0.18917607563973657,
+      "anger": 0.24351640727742405,
+      "neutral": 0.12624823379915612
+    }
+  },
+  {
+    "chunk_index": 106,
+    "text": "I can not be ignorant of the fact that many worthy and patriotic citizens are desirous of having the National Constitution amended.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16819683528086704,
+      "unity": 0.14122083514712672,
+      "hope": 0.16590859021759166,
+      "resolve": 0.19420695416347927,
+      "anger": 0.20451924943560887,
+      "neutral": 0.12594753575532647
+    }
+  },
+  {
+    "chunk_index": 107,
+    "text": "While I make no recommendation of amendments, I fully recognize the rightful authority of the people over the whole subject, to be exercised in either of the modes prescribed in the instrument itself; and I should, under existing circumstances, favor rather than oppose a fair opportunity being afforded the people to act upon it.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13718934583262746,
+      "unity": 0.15526901067577245,
+      "hope": 0.13988015221500333,
+      "resolve": 0.16050280691075905,
+      "anger": 0.21395719113362346,
+      "neutral": 0.19320149323221425
+    }
+  },
+  {
+    "chunk_index": 108,
+    "text": "I will venture to add that to me the convention mode seems preferable, in that it allows amendments to originate with the people themselves, instead of only permitting them to take or reject propositions originated by others, not especially chosen for the purpose, and which might not be precisely such as they would wish to either accept or refuse.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16519619914021544,
+      "unity": 0.18661316657568358,
+      "hope": 0.08995778132979229,
+      "resolve": 0.16937818659786757,
+      "anger": 0.22289105345906,
+      "neutral": 0.16596361289738112
+    }
+  },
+  {
+    "chunk_index": 109,
+    "text": "I understand a proposed amendment to the Constitution--which amendment, however, I have not seen--has passed Congress, to the effect that the Federal Government shall never interfere with the domestic institutions of the States, including that of persons held to service.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.19728669049201047,
+      "unity": 0.14549141499732,
+      "hope": 0.026786482651799216,
+      "resolve": 0.21014237074532413,
+      "anger": 0.2092111622270314,
+      "neutral": 0.2110818788865148
+    }
+  },
+  {
+    "chunk_index": 110,
+    "text": "To avoid misconstruction of what I have said, I depart from my purpose not to speak of particular amendments so far as to say that, holding such a provision to now be implied constitutional law, I have no objection to its being made express and irrevocable.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.14580636104942982,
+      "unity": 0.13561714370743408,
+      "hope": 0.12442926967021765,
+      "resolve": 0.19390507854329858,
+      "anger": 0.19221437141431988,
+      "neutral": 0.2080277756153
+    }
+  },
+  {
+    "chunk_index": 111,
+    "text": "The Chief Magistrate derives all his authority from the people, and they have referred none upon him to fix terms for the separation of the States.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18476636323946657,
+      "unity": 0.24937933522435157,
+      "hope": -0.12666803606234217,
+      "resolve": 0.1403806476584253,
+      "anger": 0.29019578759764003,
+      "neutral": 0.2619459023424587
+    }
+  },
+  {
+    "chunk_index": 112,
+    "text": "The people themselves can do this if also they choose, but the Executive as such has nothing to do with it.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14986691881728828,
+      "unity": 0.1351694465587617,
+      "hope": 0.0580888377687422,
+      "resolve": 0.07846074786551488,
+      "anger": 0.3132027673554031,
+      "neutral": 0.26521128163428986
+    }
+  },
+  {
+    "chunk_index": 113,
+    "text": "His duty is to administer the present Government as it came to his hands and to transmit it unimpaired by him to his successor.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18539081413804467,
+      "unity": 0.12672876926359694,
+      "hope": 0.09834986922681055,
+      "resolve": 0.15542188822060554,
+      "anger": 0.16586940091687488,
+      "neutral": 0.2682392582340674
+    }
+  },
+  {
+    "chunk_index": 114,
+    "text": "Why should there not be a patient confidence in the ultimate justice of the people?",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12286293523940031,
+      "unity": 0.14224777460546742,
+      "hope": 0.15166080151748698,
+      "resolve": 0.2298702481958528,
+      "anger": 0.23730152163517912,
+      "neutral": 0.11605671880661336
+    }
+  },
+  {
+    "chunk_index": 115,
+    "text": "Is there any better or equal hope in the world?",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1224739369006216,
+      "unity": 0.21207278177564934,
+      "hope": 0.2353257132614688,
+      "resolve": 0.1950981221498821,
+      "anger": 0.15676799328680752,
+      "neutral": 0.07826145262557066
+    }
+  },
+  {
+    "chunk_index": 116,
+    "text": "In our present differences, is either party without faith of being in the right?",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.15081017723132567,
+      "unity": 0.2524047601137398,
+      "hope": 0.10902252282360778,
+      "resolve": 0.1808930187463512,
+      "anger": 0.22498226982507755,
+      "neutral": 0.081887251259898
+    }
+  },
+  {
+    "chunk_index": 117,
+    "text": "If the Almighty Ruler of Nations, with His eternal truth and justice, be on your side of the North, or on yours of the South, that truth and that justice will surely prevail by the judgment of this great tribunal of the American people.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17654584681980826,
+      "unity": 0.17867020456364224,
+      "hope": 0.14625009816500567,
+      "resolve": 0.1923794494001353,
+      "anger": 0.16217410306342392,
+      "neutral": 0.14398029798798462
+    }
+  },
+  {
+    "chunk_index": 118,
+    "text": "By the frame of the Government under which we live this same people have wisely given their public servants but little power for mischief, and have with equal wisdom provided for the return of that little to their own hands at very short intervals.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15359168711870122,
+      "unity": 0.15101056007823413,
+      "hope": 0.13987991953347365,
+      "resolve": 0.18473968036074476,
+      "anger": 0.23083834510739548,
+      "neutral": 0.13993980780145077
+    }
+  },
+  {
+    "chunk_index": 119,
+    "text": "While the people retain their virtue and vigilance no Administration by any extreme of wickedness or folly can very seriously injure the Government in the short space of four years.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21828748320224436,
+      "unity": 0.12600374123716226,
+      "hope": 0.13935705671320006,
+      "resolve": 0.22246528160378162,
+      "anger": 0.17110230178143124,
+      "neutral": 0.12278413546218042
+    }
+  },
+  {
+    "chunk_index": 120,
+    "text": "My countrymen, one and all, think calmly and 'well' upon this whole subject.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1846221570295185,
+      "unity": 0.16440735626931338,
+      "hope": 0.12372177539529576,
+      "resolve": 0.16798094199732833,
+      "anger": 0.21585997860712103,
+      "neutral": 0.14340779070142298
+    }
+  },
+  {
+    "chunk_index": 121,
+    "text": "Nothing valuable can be lost by taking time.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.08172141438832493,
+      "unity": 0.18798301932433648,
+      "hope": 0.2256320799105745,
+      "resolve": 0.2294615428473767,
+      "anger": 0.15432135081839474,
+      "neutral": 0.1208805927109927
+    }
+  },
+  {
+    "chunk_index": 122,
+    "text": "If there be an object to 'hurry' any of you in hot haste to a step which you would never take 'deliberately', that object will be frustrated by taking time; but no good object can be frustrated by it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.07357974433686344,
+      "unity": 0.19257633108911973,
+      "hope": 0.17907724229744593,
+      "resolve": 0.2642663113125061,
+      "anger": 0.2017781346860127,
+      "neutral": 0.08872223627805206
+    }
+  },
+  {
+    "chunk_index": 123,
+    "text": "Such of you as are now dissatisfied still have the old Constitution unimpaired, and, on the sensitive point, the laws of your own framing under it; while the new Administration will have no immediate power, if it would, to change either.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1506908640940855,
+      "unity": 0.1651104600054627,
+      "hope": 0.14549785182590325,
+      "resolve": 0.18009353965664487,
+      "anger": 0.2249220868678038,
+      "neutral": 0.1336851975500999
+    }
+  },
+  {
+    "chunk_index": 124,
+    "text": "If it were admitted that you who are dissatisfied hold the right side in the dispute, there still is no single good reason for precipitate action.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.032633231990012675,
+      "unity": 0.20865732296789768,
+      "hope": 0.07785265475304162,
+      "resolve": 0.21795381250485435,
+      "anger": 0.31864993956858323,
+      "neutral": 0.14425303821561042
+    }
+  },
+  {
+    "chunk_index": 125,
+    "text": "Intelligence, patriotism, Christianity, and a firm reliance on Him who has never yet forsaken this favored land are still competent to adjust in the best way all our present difficulty.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23636748793504064,
+      "unity": 0.17458120365602034,
+      "hope": 0.1560498261998164,
+      "resolve": 0.2176737823187488,
+      "anger": 0.11252678478814233,
+      "neutral": 0.10280091510223151
+    }
+  },
+  {
+    "chunk_index": 126,
+    "text": "In 'your' hands, my dissatisfied fellow-countrymen, and not in 'mine', is the momentous issue of civil war.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.145189597359564,
+      "unity": 0.19470861981385623,
+      "hope": 0.1395502393927922,
+      "resolve": 0.18119512956628603,
+      "anger": 0.2030810893463361,
+      "neutral": 0.13627532452116545
+    }
+  },
+  {
+    "chunk_index": 127,
+    "text": "The Government will not assail 'you'.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18469722877466146,
+      "unity": 0.10948694471023009,
+      "hope": 0.13315510272070136,
+      "resolve": 0.21923292313341936,
+      "anger": 0.19335808627596973,
+      "neutral": 0.16006971438501802
+    }
+  },
+  {
+    "chunk_index": 128,
+    "text": "You can have no conflict without being yourselves the aggressors.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.14761853620003426,
+      "unity": 0.23217890036027197,
+      "hope": 0.1260298991571846,
+      "resolve": 0.21937856847463896,
+      "anger": 0.19221040285465496,
+      "neutral": 0.08258369295321523
+    }
+  },
+  {
+    "chunk_index": 129,
+    "text": "'You' have no oath registered in heaven to destroy the Government, while I shall have the most solemn one to \"preserve, protect, and defend it.\"",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.15531758172633728,
+      "unity": 0.14653619412699295,
+      "hope": 0.12882007403748288,
+      "resolve": 0.18047044394565134,
+      "anger": 0.18720361751653664,
+      "neutral": 0.2016520886469989
+    }
+  },
+  {
+    "chunk_index": 130,
+    "text": "I am loath to close.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": -0.0010528805526109702,
+      "unity": 0.21213897889178898,
+      "hope": 0.13069594662896084,
+      "resolve": 0.20752844459432013,
+      "anger": 0.2557045212837026,
+      "neutral": 0.19498498915383844
+    }
+  },
+  {
+    "chunk_index": 131,
+    "text": "We are not enemies, but friends.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17125244454215108,
+      "unity": 0.1993299301514537,
+      "hope": 0.14605802642796725,
+      "resolve": 0.2355391971281517,
+      "anger": 0.15781613424463228,
+      "neutral": 0.09000426750564398
+    }
+  },
+  {
+    "chunk_index": 132,
+    "text": "We must not be enemies.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1391557203035882,
+      "unity": 0.21163953528938068,
+      "hope": 0.15609155895752527,
+      "resolve": 0.2278604326778394,
+      "anger": 0.18159956353899115,
+      "neutral": 0.08365318923267531
+    }
+  },
+  {
+    "chunk_index": 133,
+    "text": "Though passion may have strained it must not break our bonds of affection.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.12472848531115523,
+      "unity": 0.25240918459885486,
+      "hope": 0.16886484659138812,
+      "resolve": 0.2435718002832476,
+      "anger": 0.12057588408743052,
+      "neutral": 0.08984979912792367
+    }
+  },
+  {
+    "chunk_index": 134,
+    "text": "The mystic chords of memory, stretching from every battlefield and patriot grave to every living heart and hearthstone all over this broad land, will yet swell the chorus of the Union, when again touched, as surely they will be, by the better angels of our nature.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19291803398639826,
+      "unity": 0.152520477115705,
+      "hope": 0.19224341727997368,
+      "resolve": 0.18893431967722152,
+      "anger": 0.11136754053204384,
+      "neutral": 0.1620162114086577
+    }
+  }
+]

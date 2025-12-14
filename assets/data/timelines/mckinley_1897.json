@@ -1,0 +1,1692 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Fellow-Citizens:\nIn obedience to the will of the people, and in their presence, by the authority vested in me by this oath, I assume the arduous and responsible duties of President of the United States, relying upon the support of my countrymen and invoking the guidance of Almighty God.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1734938036999139,
+      "unity": 0.13378967169023853,
+      "hope": 0.14599601490969982,
+      "resolve": 0.15803266394483836,
+      "anger": 0.13924738860686064,
+      "neutral": 0.24944045714844873
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Our faith teaches that there is no safer reliance than upon the God of our fathers, who has so singularly favored the American people in every national trial, and who will not forsake us so long as we obey His commandments and walk humbly in His footsteps.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23321012139828967,
+      "unity": 0.15552505033163516,
+      "hope": 0.14516548339288118,
+      "resolve": 0.2222198817720582,
+      "anger": 0.12852685592048085,
+      "neutral": 0.1153526071846549
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "The responsibilities of the high trust to which I have been called--always of grave importance--are augmented by the prevailing business conditions entailing idleness upon willing labor and loss to useful enterprises.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.11297852714519904,
+      "unity": 0.09452232930244957,
+      "hope": 0.21337129591986573,
+      "resolve": 0.20693309018319347,
+      "anger": 0.17592307661849493,
+      "neutral": 0.19627168083079724
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "The country is suffering from industrial disturbances from which speedy relief must be had.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16455637391073735,
+      "unity": 0.14970178681167431,
+      "hope": 0.177781172709932,
+      "resolve": 0.15501812380737393,
+      "anger": 0.23889775861328014,
+      "neutral": 0.11404478414700228
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "Our financial system needs some revision; our money is all good now, but its value must not further be threatened.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11466688586788289,
+      "unity": 0.16613637095588618,
+      "hope": 0.20174567063550403,
+      "resolve": 0.17733192446572144,
+      "anger": 0.21198843302508236,
+      "neutral": 0.12813071504992313
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "It should all be put upon an enduring basis, not subject to easy attack, nor its stability to doubt or dispute.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1798633918368272,
+      "unity": 0.1734571549433483,
+      "hope": 0.14724821299436086,
+      "resolve": 0.23432330549853833,
+      "anger": 0.14901246832379514,
+      "neutral": 0.11609546640313016
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "Our currency should continue under the supervision of the Government.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.2054983462909655,
+      "unity": 0.14503777605607396,
+      "hope": 0.10525675386348708,
+      "resolve": 0.1665006199975233,
+      "anger": 0.21898569044876215,
+      "neutral": 0.158720813343188
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "The several forms of our paper money offer, in my judgment, a constant embarrassment to the Government and a safe balance in the Treasury.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.19481824595990152,
+      "unity": 0.14226409644271054,
+      "hope": 0.07335486150591743,
+      "resolve": 0.18260965871938512,
+      "anger": 0.24936856335769084,
+      "neutral": 0.15758457401439455
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Therefore I believe it necessary to devise a system which, without diminishing the circulating medium or offering a premium for its contraction, will present a remedy for those arrangements which, temporary in their nature, might well in the years of our prosperity have been displaced by wiser provisions.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.127086902508855,
+      "unity": 0.15785924501481657,
+      "hope": 0.199432674471725,
+      "resolve": 0.19033206037543698,
+      "anger": 0.17696960107450185,
+      "neutral": 0.14831951655466463
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "With adequate revenue secured, but not until then, we can enter upon such changes in our fiscal laws as will, while insuring safety and volume to our money, no longer impose upon the Government the necessity of maintaining so large a gold reserve, with its attendant and inevitable temptations to speculation.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.13810386452283788,
+      "unity": 0.1274734795603916,
+      "hope": 0.1970942398305415,
+      "resolve": 0.19179946484748425,
+      "anger": 0.16788286121814658,
+      "neutral": 0.17764609002059817
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "Most of our financial laws are the outgrowth of experience and trial, and should not be amended without investigation and demonstration of the wisdom of the proposed changes.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18004073177816274,
+      "unity": 0.08510019541197927,
+      "hope": 0.19756405260312712,
+      "resolve": 0.24820997908929482,
+      "anger": 0.20324598106180564,
+      "neutral": 0.08583906005563043
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "We must be both \"sure we are right\" and \"make haste slowly.\"",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.11786299014642637,
+      "unity": 0.18562618240505005,
+      "hope": 0.16495622706984622,
+      "resolve": 0.2282016730150957,
+      "anger": 0.17802277954613793,
+      "neutral": 0.12533014781744375
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "If, therefore, Congress, in its wisdom, shall deem it expedient to create a commission to take under early consideration the revision of our coinage, banking and currency laws, and give them that exhaustive, careful and dispassionate examination that their importance demands, I shall cordially concur in such action.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13079643060623797,
+      "unity": 0.1307386546430756,
+      "hope": 0.145876855645614,
+      "resolve": 0.16070665607053755,
+      "anger": 0.19010658335944422,
+      "neutral": 0.24177481967509065
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "If such power is vested in the President, it is my purpose to appoint a commission of prominent, well-informed citizens of different parties, who will command public confidence, both on account of their ability and special fitness for the work.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13219996007918833,
+      "unity": 0.14701551376232166,
+      "hope": 0.1687925028671846,
+      "resolve": 0.1832310230086152,
+      "anger": 0.16056009052224907,
+      "neutral": 0.20820090976044114
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "Business experience and public training may thus be combined, and the patriotic zeal of the friends of the country be so directed that such a report will be made as to receive the support of all parties, and our finances cease to be the subject of mere partisan contention.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17617733202110233,
+      "unity": 0.16737104722292742,
+      "hope": 0.17922256109930645,
+      "resolve": 0.16279279849487568,
+      "anger": 0.14069804660738444,
+      "neutral": 0.1737382145544037
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "The experiment is, at all events, worth a trial, and, in my opinion, it can but prove beneficial to the entire country.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22053585060016584,
+      "unity": 0.133313603963989,
+      "hope": 0.1875348687553752,
+      "resolve": 0.18462531425983958,
+      "anger": 0.12863045053861843,
+      "neutral": 0.14535991188201194
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "The question of international bimetallism will have early and earnest attention.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.18551466216471416,
+      "unity": 0.2129096823988205,
+      "hope": 0.20147977916862883,
+      "resolve": 0.1687307860781972,
+      "anger": 0.1298271559292345,
+      "neutral": 0.10153793426040485
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "It will be my constant endeavor to secure it by co-operation with the other great commercial powers of the world.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18271371115255444,
+      "unity": 0.1375685297093477,
+      "hope": 0.18254330281989226,
+      "resolve": 0.21835528566971948,
+      "anger": 0.12565897227908282,
+      "neutral": 0.15316019836940334
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "Until that condition is realized when the parity between our gold and silver money springs from and is supported by the relative value of the two metals, the value of the silver already coined and of that which may hereafter be coined, must be kept constantly at par with gold by every resource at our command.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13669793981636993,
+      "unity": 0.17877727171230567,
+      "hope": 0.18449417358254963,
+      "resolve": 0.20157564056082852,
+      "anger": 0.16011845218861798,
+      "neutral": 0.13833652213932826
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "The credit of the Government, the integrity of its currency, and the inviolability of its obligations must be preserved.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23739718384010972,
+      "unity": 0.14116042039422402,
+      "hope": 0.10726941068044091,
+      "resolve": 0.21717232022775831,
+      "anger": 0.1519581401532483,
+      "neutral": 0.14504252470421874
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "This was the commanding verdict of the people, and it will not be unheeded.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1688762621030399,
+      "unity": 0.13363619180883127,
+      "hope": 0.1398908488885578,
+      "resolve": 0.17999313892505417,
+      "anger": 0.2273514316877946,
+      "neutral": 0.15025212658672224
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "Economy is demanded in every branch of the Government at all times, but especially in periods, like the present, of depression in business and distress among the people.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18378214554293218,
+      "unity": 0.14950160559421574,
+      "hope": 0.19976070438066404,
+      "resolve": 0.1593439499838126,
+      "anger": 0.1878631426477731,
+      "neutral": 0.11974845185060234
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "The severest economy must be observed in all public expenditures, and extravagance stopped wherever it is found, and prevented wherever in the future it may be developed.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17630063010211985,
+      "unity": 0.1377514850476117,
+      "hope": 0.15312678240342878,
+      "resolve": 0.1992898260919081,
+      "anger": 0.2250304402724038,
+      "neutral": 0.10850083608252781
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "If the revenues are to remain as now, the only relief that can come must be from decreased expenditures.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.0511627773023668,
+      "unity": 0.15279732350710673,
+      "hope": 0.1789752716623124,
+      "resolve": 0.26734194328731786,
+      "anger": 0.22489784652486575,
+      "neutral": 0.12482483771603047
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "But the present must not become the permanent condition of the Government.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15762898607963063,
+      "unity": 0.15253626481232882,
+      "hope": 0.16326405416560574,
+      "resolve": 0.19325497857100177,
+      "anger": 0.20560007323475096,
+      "neutral": 0.12771564313668207
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "It has been our uniform practice to retire, not increase our outstanding obligations, and this policy must again be resumed and vigorously enforced.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.154198828265956,
+      "unity": 0.1416221260539155,
+      "hope": 0.12691747488185345,
+      "resolve": 0.18844074727950685,
+      "anger": 0.2021457751190905,
+      "neutral": 0.18667504839967772
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "Our revenues should always be large enough to meet with ease and promptness not only our current needs and the principal and interest of the public debt, but to make proper and liberal provision for that most deserving body of public creditors, the soldiers and sailors and the widows and orphans who are the pensioners of the United States.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19537629100552353,
+      "unity": 0.12836193407461843,
+      "hope": 0.15112607877603712,
+      "resolve": 0.20407376540654232,
+      "anger": 0.1507521568155067,
+      "neutral": 0.17030977392177188
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "The Government should not be permitted to run behind or increase its debt in times like the present.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15070514620946113,
+      "unity": 0.1459113919129504,
+      "hope": 0.137063770679309,
+      "resolve": 0.18647361721715588,
+      "anger": 0.2723484329922702,
+      "neutral": 0.10749764098885342
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "Suitably to provide against this is the mandate of duty--the certain and easy remedy for most of our financial difficulties.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14468852114708142,
+      "unity": 0.12590078302560456,
+      "hope": 0.1626552887025828,
+      "resolve": 0.23949045381802103,
+      "anger": 0.18429983143546572,
+      "neutral": 0.14296512187124444
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "A deficiency is inevitable so long as the expenditures of the Government exceed its receipts.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12827660559249493,
+      "unity": 0.07760789776566929,
+      "hope": 0.15820473538697058,
+      "resolve": 0.2673726973909087,
+      "anger": 0.24250410454744634,
+      "neutral": 0.1260339593165102
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "It can only be met by loans or an increased revenue.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": -0.1470967891768398,
+      "unity": 0.18616856376920402,
+      "hope": 0.40096573507940403,
+      "resolve": 0.3427008889856415,
+      "anger": 0.3718120546044616,
+      "neutral": -0.15455045326187136
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "While a large annual surplus of revenue may invite waste and extravagance, inadequate revenue creates distrust and undermines public and private credit.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11521785904518306,
+      "unity": 0.2100143203578932,
+      "hope": 0.19554711453153073,
+      "resolve": 0.19591283847154708,
+      "anger": 0.25674005276518114,
+      "neutral": 0.026567814828664778
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "Neither should be encouraged.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.09487578012980073,
+      "unity": 0.19956265739244367,
+      "hope": 0.15443447802407034,
+      "resolve": 0.21317251957695593,
+      "anger": 0.24772201578794614,
+      "neutral": 0.09023254908878317
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "Between more loans and more revenue there ought to be but one opinion.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11115912365313574,
+      "unity": 0.1752458157497566,
+      "hope": 0.20386115494231824,
+      "resolve": 0.20115159898245744,
+      "anger": 0.22484201597268402,
+      "neutral": 0.08374029069964796
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "We should have more revenue, and that without delay, hindrance, or postponement.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13288058705168262,
+      "unity": 0.1549225484083613,
+      "hope": 0.19901733274499542,
+      "resolve": 0.16356019477081915,
+      "anger": 0.21461212273872496,
+      "neutral": 0.13500721428541654
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "A surplus in the Treasury created by loans is not a permanent or safe reliance.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1373979076161577,
+      "unity": 0.16090551711098264,
+      "hope": 0.11566847762934812,
+      "resolve": 0.23312307095876647,
+      "anger": 0.27234381217668124,
+      "neutral": 0.0805612145080638
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "It will suffice while it lasts, but it can not last long while the outlays of the Government are greater than its receipts, as has been the case during the past two years.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17871320276322994,
+      "unity": 0.12200223997935897,
+      "hope": 0.17730613517079963,
+      "resolve": 0.19097831722958183,
+      "anger": 0.19775737135058455,
+      "neutral": 0.13324273350644508
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "Nor must it be forgotten that however much such loans may temporarily relieve the situation, the Government is still indebted for the amount of the surplus thus accrued, which it must ultimately pay, while its ability to pay is not strengthened, but weakened by a continued deficit.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1847652728803617,
+      "unity": 0.18260416781252037,
+      "hope": 0.1107818044048834,
+      "resolve": 0.26472281674133336,
+      "anger": 0.17700183236589306,
+      "neutral": 0.0801241057950081
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "Loans are imperative in great emergencies to preserve the Government or its credit, but a failure to supply needed revenue in time of peace for the maintenance of either has no justification.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17730787448273513,
+      "unity": 0.16419048705333128,
+      "hope": 0.10912993096500674,
+      "resolve": 0.21818400056187937,
+      "anger": 0.2404627160704577,
+      "neutral": 0.09072499086658982
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "The best way for the Government to maintain its credit is to pay as it goes--not by resorting to loans, but by keeping out of debt--through an adequate income secured by a system of taxation, external or internal, or both.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24046180829926897,
+      "unity": 0.1342134646245973,
+      "hope": 0.10886238720846966,
+      "resolve": 0.22097690672216036,
+      "anger": 0.14723523910248856,
+      "neutral": 0.14825019404301515
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "It is the settled policy of the Government, pursued from the beginning and practiced by all parties and Administrations, to raise the bulk of our revenue from taxes upon foreign productions entering the United States for sale and consumption, and avoiding, for the most part, every form of direct taxation, except in time of war.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.39192146297807184,
+      "unity": 0.10218961315629817,
+      "hope": 0.02156810246787845,
+      "resolve": 0.1449823837827905,
+      "anger": 0.1835043068097492,
+      "neutral": 0.15583413080521183
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "The country is clearly opposed to any needless additions to the subject of internal taxation, and is committed by its latest popular utterance to the system of tariff taxation.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1889037675967591,
+      "unity": 0.13595792165888376,
+      "hope": 0.024781246382981844,
+      "resolve": 0.21587279937089132,
+      "anger": 0.36957559337550727,
+      "neutral": 0.0649086716149767
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "There can be no misunderstanding, either, about the principle upon which this tariff taxation shall be levied.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.2005031302949313,
+      "unity": 0.16654391857548592,
+      "hope": 0.10093363361194164,
+      "resolve": 0.2572314885433981,
+      "anger": 0.14627008885887344,
+      "neutral": 0.12851774011536954
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "Nothing has ever been made plainer at a general election than that the controlling principle in the raising of revenue from duties on imports is zealous care for American interests and American labor.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21981279620538086,
+      "unity": 0.13891751697988763,
+      "hope": 0.12114027677683543,
+      "resolve": 0.19167882486927024,
+      "anger": 0.18024662427463775,
+      "neutral": 0.1482039608939881
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "The people have declared that such legislation should be had as will give ample protection and encouragement to the industries and the development of our country.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2137232501788896,
+      "unity": 0.08952582323174793,
+      "hope": 0.18191330544715778,
+      "resolve": 0.17573193246462343,
+      "anger": 0.16567655230373518,
+      "neutral": 0.1734291363738461
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "It is, therefore, earnestly hoped and expected that Congress will, at the earliest practicable moment, enact revenue legislation that shall be fair, reasonable, conservative, and just, and which, while supplying sufficient revenue for public purposes, will still be signally beneficial and helpful to every section and every enterprise of the people.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.14676885693551664,
+      "unity": 0.13128688181940967,
+      "hope": 0.19526152186865497,
+      "resolve": 0.17147974692889678,
+      "anger": 0.15763705981018433,
+      "neutral": 0.1975659326373376
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "To this policy we are all, of whatever party, firmly bound by the voice of the people--a power vastly more potential than the expression of any political platform.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16784339149734834,
+      "unity": 0.17888581982270274,
+      "hope": 0.15487567328241544,
+      "resolve": 0.18906391936797476,
+      "anger": 0.18333686941921515,
+      "neutral": 0.12599432661034357
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "The paramount duty of Congress is to stop deficiencies by the restoration of that protective legislation which has always been the firmest prop of the Treasury.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1738731347496181,
+      "unity": 0.11487576517089641,
+      "hope": 0.11373951376845914,
+      "resolve": 0.2213703554742732,
+      "anger": 0.18081314051361536,
+      "neutral": 0.1953280903231378
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "The passage of such a law or laws would strengthen the credit of the Government both at home and abroad, and go far toward stopping the drain upon the gold reserve held for the redemption of our currency, which has been heavy and well-nigh constant for several years.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2114402710406101,
+      "unity": 0.11265894734195214,
+      "hope": 0.14817982786864584,
+      "resolve": 0.15794924831630144,
+      "anger": 0.1973661124301361,
+      "neutral": 0.17240559300235436
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "In the revision of the tariff especial attention should be given to the re-enactment and extension of the reciprocity principle of the law of 1890, under which so great a stimulus was given to our foreign trade in new and advantageous markets for our surplus agricultural and manufactured products.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2556963604562004,
+      "unity": 0.14058230314284015,
+      "hope": 0.14570833414490342,
+      "resolve": 0.1593172979836834,
+      "anger": 0.13534875776490396,
+      "neutral": 0.16334694650746867
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "The brief trial given this legislation amply justifies a further experiment and additional discretionary power in the making of commercial treaties, the end in view always to be the opening up of new markets for the products of our country, by granting concessions to the products of other lands that we need and cannot produce ourselves, and which do not involve any loss of labor to our own people, but tend to increase their employment.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.20022079313518984,
+      "unity": 0.11379272159882824,
+      "hope": 0.16620399110495934,
+      "resolve": 0.16814427015890215,
+      "anger": 0.14983005753438114,
+      "neutral": 0.2018081664677393
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "The depression of the past four years has fallen with especial severity upon the great body of toilers of the country, and upon none more than the holders of small farms.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17059973896572073,
+      "unity": 0.14795509485399422,
+      "hope": 0.2037538210021506,
+      "resolve": 0.12101650506226944,
+      "anger": 0.1881733657162674,
+      "neutral": 0.16850147439959767
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "Agriculture has languished and labor suffered.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1314819721466841,
+      "unity": 0.20270705122245106,
+      "hope": 0.2465578118942514,
+      "resolve": 0.040166815229525914,
+      "anger": 0.4789838928303822,
+      "neutral": -0.09989754332329466
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "The revival of manufacturing will be a relief to both.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18357315384526102,
+      "unity": 0.12254143241555061,
+      "hope": 0.25790676957053227,
+      "resolve": 0.17700876394107792,
+      "anger": 0.11350681389546655,
+      "neutral": 0.14546306633211162
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "No portion of our population is more devoted to the institution of free government nor more loyal in their support, while none bears more cheerfully or fully its proper share in the maintenance of the Government or is better entitled to its wise and liberal care and protection.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21811232205832254,
+      "unity": 0.16041474283575777,
+      "hope": 0.14515873255739986,
+      "resolve": 0.18631445154768414,
+      "anger": 0.1575664664367947,
+      "neutral": 0.13243328456404097
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "Legislation helpful to producers is beneficial to all.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20440757327803366,
+      "unity": 0.1096639280759274,
+      "hope": 0.1896871666484174,
+      "resolve": 0.16692629025556846,
+      "anger": 0.14320264599825464,
+      "neutral": 0.18611239574379843
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "The depressed condition of industry on the farm and in the mine and factory has lessened the ability of the people to meet the demands upon them, and they rightfully expect that not only a system of revenue shall be established that will secure the largest income with the least burden, but that every means will be taken to decrease, rather than increase, our public expenditures.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12345222859600168,
+      "unity": 0.15632406399927395,
+      "hope": 0.1957016684373746,
+      "resolve": 0.16324483415982136,
+      "anger": 0.21116304036851458,
+      "neutral": 0.1501141644390138
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "Business conditions are not the most promising.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.02153633325115663,
+      "unity": 0.17137268984085724,
+      "hope": 0.33720417035203015,
+      "resolve": 0.2121474514674432,
+      "anger": 0.2524169101788239,
+      "neutral": 0.005322444909688863
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "It will take time to restore the prosperity of former years.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.13708912225594588,
+      "unity": 0.1655990068841971,
+      "hope": 0.26167841153968413,
+      "resolve": 0.13867890723397114,
+      "anger": 0.20231118863845166,
+      "neutral": 0.09464336344775012
+    }
+  },
+  {
+    "chunk_index": 59,
+    "text": "If we cannot promptly attain it, we can resolutely turn our faces in that direction and aid its return by friendly legislation.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16236553994812633,
+      "unity": 0.17389533474652163,
+      "hope": 0.18721621151504889,
+      "resolve": 0.20373416751046783,
+      "anger": 0.1785093585351117,
+      "neutral": 0.09427938774472361
+    }
+  },
+  {
+    "chunk_index": 60,
+    "text": "However troublesome the situation may appear, Congress will not, I am sure, be found lacking in disposition or ability to relieve it as far as legislation can do so.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14837616069364137,
+      "unity": 0.1275478394485779,
+      "hope": 0.13825368207677236,
+      "resolve": 0.25594868534406134,
+      "anger": 0.1792309073390664,
+      "neutral": 0.15064272509788065
+    }
+  },
+  {
+    "chunk_index": 61,
+    "text": "The restoration of confidence and the revival of business, which men of all parties so much desire, depend more largely upon the prompt, energetic, and intelligent action of Congress than upon any other single agency affecting the situation.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1730797972696066,
+      "unity": 0.1507821854018279,
+      "hope": 0.17173962564385373,
+      "resolve": 0.1962552560744946,
+      "anger": 0.15875638779151413,
+      "neutral": 0.1493867478187031
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "It is inspiring, too, to remember that no great emergency in the one hundred and eight years of our eventful national life has ever arisen that has not been met with wisdom and courage by the American people, with fidelity to their best interests and highest destiny, and to the honor of the American name.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2477350900485596,
+      "unity": 0.137192258027291,
+      "hope": 0.1635265638325291,
+      "resolve": 0.2025722925622234,
+      "anger": 0.10875500643936363,
+      "neutral": 0.14021878909003327
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "These years of glorious history have exalted mankind and advanced the cause of freedom throughout the world, and immeasurably strengthened the precious free institutions which we enjoy.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.25659003263876323,
+      "unity": 0.12287204930825651,
+      "hope": 0.17381425190111066,
+      "resolve": 0.1710829105635772,
+      "anger": 0.13113229663285836,
+      "neutral": 0.14450845895543407
+    }
+  },
+  {
+    "chunk_index": 64,
+    "text": "The people love and will sustain these institutions.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22112010587729836,
+      "unity": 0.12498726325844396,
+      "hope": 0.1649881486759918,
+      "resolve": 0.20387377268616538,
+      "anger": 0.13775848949792469,
+      "neutral": 0.14727222000417584
+    }
+  },
+  {
+    "chunk_index": 65,
+    "text": "The great essential to our happiness and prosperity is that we adhere to the principles upon which the Government was established and insist upon their faithful observance.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22181774140044294,
+      "unity": 0.16316081485499281,
+      "hope": 0.14456789785413018,
+      "resolve": 0.20626891717181478,
+      "anger": 0.1341011321232749,
+      "neutral": 0.13008349659534438
+    }
+  },
+  {
+    "chunk_index": 66,
+    "text": "Equality of rights must prevail, and our laws be always and everywhere respected and obeyed.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1847935761418524,
+      "unity": 0.16228211887891514,
+      "hope": 0.14268241345222507,
+      "resolve": 0.20115781348864434,
+      "anger": 0.17576019231198553,
+      "neutral": 0.13332388572637752
+    }
+  },
+  {
+    "chunk_index": 67,
+    "text": "We may have failed in the discharge of our full duty as citizens of the great Republic, but it is consoling and encouraging to realize that free speech, a free press, free thought, free schools, the free and unmolested right of religious liberty and worship, and free and fair elections are dearer and more universally enjoyed to-day than ever before.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2066315814001394,
+      "unity": 0.15140813742982145,
+      "hope": 0.16828227281416522,
+      "resolve": 0.16801556730015535,
+      "anger": 0.1555327714332247,
+      "neutral": 0.1501296696224939
+    }
+  },
+  {
+    "chunk_index": 68,
+    "text": "These guaranties must be sacredly preserved and wisely strengthened.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15898145462222238,
+      "unity": 0.12681409236520405,
+      "hope": 0.17301720883878768,
+      "resolve": 0.26553210805127625,
+      "anger": 0.11384009569148573,
+      "neutral": 0.16181504043102388
+    }
+  },
+  {
+    "chunk_index": 69,
+    "text": "The constituted authorities must be cheerfully and vigorously upheld.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1716795327567335,
+      "unity": 0.11689637697394546,
+      "hope": 0.13056669976463955,
+      "resolve": 0.20782157424285086,
+      "anger": 0.1999050739576883,
+      "neutral": 0.17313074230414233
+    }
+  },
+  {
+    "chunk_index": 70,
+    "text": "Lynchings must not be tolerated in a great and civilized country like the United States; courts, not mobs, must execute the penalties of the law.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14390393001179674,
+      "unity": 0.17166886335982953,
+      "hope": 0.10817524090476167,
+      "resolve": 0.17358133342489865,
+      "anger": 0.25262398610950093,
+      "neutral": 0.15004664618921246
+    }
+  },
+  {
+    "chunk_index": 71,
+    "text": "The preservation of public order, the right of discussion, the integrity of courts, and the orderly administration of justice must continue forever the rock of safety upon which our Government securely rests.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19322343127158786,
+      "unity": 0.14455468004263378,
+      "hope": 0.13664255112051463,
+      "resolve": 0.21360187492679275,
+      "anger": 0.15197719829740503,
+      "neutral": 0.16000026434106596
+    }
+  },
+  {
+    "chunk_index": 72,
+    "text": "One of the lessons taught by the late election, which all can rejoice in, is that the citizens of the United States are both law-respecting and law-abiding people, not easily swerved from the path of patriotism and honor.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2170671106794221,
+      "unity": 0.15804406909443913,
+      "hope": 0.14102293001099622,
+      "resolve": 0.18453960304165665,
+      "anger": 0.15705198122534836,
+      "neutral": 0.14227430594813753
+    }
+  },
+  {
+    "chunk_index": 73,
+    "text": "This is in entire accord with the genius of our institutions, and but emphasizes the advantages of inculcating even a greater love for law and order in the future.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20527366208083414,
+      "unity": 0.147865072065435,
+      "hope": 0.1907780560769748,
+      "resolve": 0.19706282555930346,
+      "anger": 0.11323540193727512,
+      "neutral": 0.1457849822801775
+    }
+  },
+  {
+    "chunk_index": 74,
+    "text": "Immunity should be granted to none who violate the laws, whether individuals, corporations, or communities; and as the Constitution imposes upon the President the duty of both its own execution, and of the statutes enacted in pursuance of its provisions, I shall endeavor carefully to carry them into effect.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17565099638301482,
+      "unity": 0.12666923070033329,
+      "hope": 0.11118930293323792,
+      "resolve": 0.20592453890634943,
+      "anger": 0.191767656340687,
+      "neutral": 0.18879827473637759
+    }
+  },
+  {
+    "chunk_index": 75,
+    "text": "The declaration of the party now restored to power has been in the past that of \"opposition to all combinations of capital organized in trusts, or otherwise, to control arbitrarily the condition of trade among our citizens,\" and it has supported \"such legislation as will prevent the execution of all schemes to oppress the people by undue charges on their supplies, or by unjust rates for the transportation of their products to the market.\"",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1677525373346683,
+      "unity": 0.14941902378141214,
+      "hope": 0.1369008700618737,
+      "resolve": 0.15809682601928848,
+      "anger": 0.2410809573934548,
+      "neutral": 0.14674978540930256
+    }
+  },
+  {
+    "chunk_index": 76,
+    "text": "This purpose will be steadily pursued, both by the enforcement of the laws now in existence and the recommendation and support of such new statutes as may be necessary to carry it into effect.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.11026637004978014,
+      "unity": 0.10892901173712982,
+      "hope": 0.1948314292571049,
+      "resolve": 0.2744642003032913,
+      "anger": 0.17117067491661062,
+      "neutral": 0.14033831373608327
+    }
+  },
+  {
+    "chunk_index": 77,
+    "text": "Our naturalization and immigration laws should be further improved to the constant promotion of a safer, a better, and a higher citizenship.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20822236791314497,
+      "unity": 0.1491381465404497,
+      "hope": 0.17734406979116205,
+      "resolve": 0.18007164280224616,
+      "anger": 0.1376563728133127,
+      "neutral": 0.14756740013968442
+    }
+  },
+  {
+    "chunk_index": 78,
+    "text": "A grave peril to the Republic would be a citizenship too ignorant to understand or too vicious to appreciate the great value and beneficence of our institutions and laws, and against all who come here to make war upon them our gates must be promptly and tightly closed.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18363593236731854,
+      "unity": 0.1587731532344886,
+      "hope": 0.12466429591274791,
+      "resolve": 0.2012725579411216,
+      "anger": 0.21932328704908252,
+      "neutral": 0.11233077349524087
+    }
+  },
+  {
+    "chunk_index": 79,
+    "text": "Nor must we be unmindful of the need of improvement among our own citizens, but with the zeal of our forefathers encourage the spread of knowledge and free education.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18047461593173914,
+      "unity": 0.17541752210759184,
+      "hope": 0.18256964083422678,
+      "resolve": 0.205318323467319,
+      "anger": 0.15678195871892417,
+      "neutral": 0.09943793894019905
+    }
+  },
+  {
+    "chunk_index": 80,
+    "text": "Illiteracy must be banished from the land if we shall attain that high destiny as the foremost of the enlightened nations of the world which, under Providence, we ought to achieve.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15011696634603705,
+      "unity": 0.16568339020659234,
+      "hope": 0.19333762630040632,
+      "resolve": 0.18408072125720656,
+      "anger": 0.17549555600783504,
+      "neutral": 0.13128573988192266
+    }
+  },
+  {
+    "chunk_index": 81,
+    "text": "Reforms in the civil service must go on; but the changes should be real and genuine, not perfunctory, or prompted by a zeal in behalf of any party simply because it happens to be in power.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.10610653157596045,
+      "unity": 0.16071753936671845,
+      "hope": 0.1663342997744783,
+      "resolve": 0.17246892378591777,
+      "anger": 0.24336564423214432,
+      "neutral": 0.1510070612647807
+    }
+  },
+  {
+    "chunk_index": 82,
+    "text": "As a member of Congress I voted and spoke in favor of the present law, and I shall attempt its enforcement in the spirit in which it was enacted.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1752925328567275,
+      "unity": 0.12255985110626877,
+      "hope": 0.13711695093451243,
+      "resolve": 0.17464449790720216,
+      "anger": 0.16246261442885612,
+      "neutral": 0.227923552766433
+    }
+  },
+  {
+    "chunk_index": 83,
+    "text": "The purpose in view was to secure the most efficient service of the best men who would accept appointment under the Government, retaining faithful and devoted public servants in office, but shielding none, under the authority of any rule or custom, who are inefficient, incompetent, or unworthy.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18050976758839873,
+      "unity": 0.13669624524233698,
+      "hope": 0.13749824742608469,
+      "resolve": 0.22154768652123144,
+      "anger": 0.1374114036668989,
+      "neutral": 0.18633664955504922
+    }
+  },
+  {
+    "chunk_index": 84,
+    "text": "The best interests of the country demand this, and the people heartily approve the law wherever and whenever it has been thus administrated.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20920745349281453,
+      "unity": 0.1271287235361069,
+      "hope": 0.11287653956341819,
+      "resolve": 0.15177897124777318,
+      "anger": 0.19628802285587743,
+      "neutral": 0.20272028930400976
+    }
+  },
+  {
+    "chunk_index": 85,
+    "text": "Congress should give prompt attention to the restoration of our American merchant marine, once the pride of the seas in all the great ocean highways of commerce.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20487281939103713,
+      "unity": 0.12750259118313984,
+      "hope": 0.1647938011879582,
+      "resolve": 0.1875649134245891,
+      "anger": 0.14017337866899554,
+      "neutral": 0.17509249614428016
+    }
+  },
+  {
+    "chunk_index": 86,
+    "text": "To my mind, few more important subjects so imperatively demand its intelligent consideration.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17985669531418116,
+      "unity": 0.1391291868146862,
+      "hope": 0.17915114624741832,
+      "resolve": 0.172209302012662,
+      "anger": 0.21283812719752307,
+      "neutral": 0.11681554241352927
+    }
+  },
+  {
+    "chunk_index": 87,
+    "text": "The United States has progressed with marvelous rapidity in every field of enterprise and endeavor until we have become foremost in nearly all the great lines of inland trade, commerce, and industry.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2756436899884011,
+      "unity": 0.12894374205105025,
+      "hope": 0.20440189476047638,
+      "resolve": 0.178633051287737,
+      "anger": 0.08888137159133508,
+      "neutral": 0.12349625032100023
+    }
+  },
+  {
+    "chunk_index": 88,
+    "text": "Yet, while this is true, our American merchant marine has been steadily declining until it is now lower, both in the percentage of tonnage and the number of vessels employed, than it was prior to the Civil War.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.22449300858138746,
+      "unity": 0.1741916460378852,
+      "hope": 0.10546762070017458,
+      "resolve": 0.20475290950852706,
+      "anger": 0.236492106400361,
+      "neutral": 0.05460270877166467
+    }
+  },
+  {
+    "chunk_index": 89,
+    "text": "Commendable progress has been made of late years in the upbuilding of the American Navy, but we must supplement these efforts by providing as a proper consort for it a merchant marine amply sufficient for our own carrying trade to foreign countries.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.2215712909264648,
+      "unity": 0.14083858798161658,
+      "hope": 0.19652275080699605,
+      "resolve": 0.2247768877038249,
+      "anger": 0.06778950382855223,
+      "neutral": 0.14850097875254542
+    }
+  },
+  {
+    "chunk_index": 90,
+    "text": "The question is one that appeals both to our business necessities and the patriotic aspirations of a great people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22478914364873906,
+      "unity": 0.13545585999453413,
+      "hope": 0.16687245082356728,
+      "resolve": 0.19552402450572234,
+      "anger": 0.1463599116787817,
+      "neutral": 0.1309986093486555
+    }
+  },
+  {
+    "chunk_index": 91,
+    "text": "It has been the policy of the United States since the foundation of the Government to cultivate relations of peace and amity with all the nations of the world, and this accords with my conception of our duty now.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1824610146902496,
+      "unity": 0.17029607431359015,
+      "hope": 0.1473861473591514,
+      "resolve": 0.18040375709212705,
+      "anger": 0.15435469111216207,
+      "neutral": 0.1650983154327197
+    }
+  },
+  {
+    "chunk_index": 92,
+    "text": "We have cherished the policy of non-interference with affairs of foreign governments wisely inaugurated by Washington, keeping ourselves free from entanglement, either as allies or foes, content to leave undisturbed with them the settlement of their own domestic concerns.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2643736605787969,
+      "unity": 0.16012047572902416,
+      "hope": 0.0876899158214282,
+      "resolve": 0.2128113092418364,
+      "anger": 0.16659440759235455,
+      "neutral": 0.10841023103655978
+    }
+  },
+  {
+    "chunk_index": 93,
+    "text": "It will be our aim to pursue a firm and dignified foreign policy, which shall be just, impartial, ever watchful of our national honor, and always insisting upon the enforcement of the lawful rights of American citizens everywhere.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18831354337155445,
+      "unity": 0.13500446446374226,
+      "hope": 0.15357994307322664,
+      "resolve": 0.230184663310013,
+      "anger": 0.14485340326501164,
+      "neutral": 0.14806398251645198
+    }
+  },
+  {
+    "chunk_index": 94,
+    "text": "Our diplomacy should seek nothing more and accept nothing less than is due us.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16487557581397838,
+      "unity": 0.17514747139510395,
+      "hope": 0.11557562680891313,
+      "resolve": 0.22120366850414902,
+      "anger": 0.2086818909206932,
+      "neutral": 0.11451576655716232
+    }
+  },
+  {
+    "chunk_index": 95,
+    "text": "We want no wars of conquest; we must avoid the temptation of territorial aggression.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17557890771301704,
+      "unity": 0.17731457734353176,
+      "hope": 0.14399793301073702,
+      "resolve": 0.22898432028906085,
+      "anger": 0.17843291260609861,
+      "neutral": 0.09569134903755473
+    }
+  },
+  {
+    "chunk_index": 96,
+    "text": "War should never be entered upon until every agency of peace has failed; peace is preferable to war in almost every contingency.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1376276184453566,
+      "unity": 0.1882121980872994,
+      "hope": 0.1357793016192054,
+      "resolve": 0.22611697681315843,
+      "anger": 0.19654368484558124,
+      "neutral": 0.11572022018939897
+    }
+  },
+  {
+    "chunk_index": 97,
+    "text": "Arbitration is the true method of settlement of international as well as local or individual differences.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16225720013774111,
+      "unity": 0.20463866628327726,
+      "hope": 0.08301311181797841,
+      "resolve": 0.15648334573368822,
+      "anger": 0.21873093788045128,
+      "neutral": 0.17487673814686372
+    }
+  },
+  {
+    "chunk_index": 98,
+    "text": "It was recognized as the best means of adjustment of differences between employers and employees by the Forty-ninth Congress, in 1886, and its application was extended to our diplomatic relations by the unanimous concurrence of the Senate and House of the Fifty-first Congress in 1890.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21985373981280307,
+      "unity": 0.18305916106767053,
+      "hope": 0.09908581300462026,
+      "resolve": 0.1522120418575367,
+      "anger": 0.1617501445922196,
+      "neutral": 0.18403909966514986
+    }
+  },
+  {
+    "chunk_index": 99,
+    "text": "The latter resolution was accepted as the basis of negotiations with us by the British House of Commons in 1893, and upon our invitation a treaty of arbitration between the United States and Great Britain was signed at Washington and transmitted to the Senate for its ratification in January last.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.20629423299787994,
+      "unity": 0.16760469076440387,
+      "hope": 0.06445870177767891,
+      "resolve": 0.1340337016396027,
+      "anger": 0.18615705862858276,
+      "neutral": 0.2414516141918518
+    }
+  },
+  {
+    "chunk_index": 100,
+    "text": "Since this treaty is clearly the result of our own initiative; since it has been recognized as the leading feature of our foreign policy throughout our entire national history--the adjustment of difficulties by judicial methods rather than force of arms--and since it presents to the world the glorious example of reason and peace, not passion and war, controlling the relations between two of the greatest nations in the world, an example certain to be followed by others, I respectfully urge the early action of the Senate thereon, not merely as a matter of policy, but as a duty to mankind.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1929516335812858,
+      "unity": 0.1476106353075715,
+      "hope": 0.13422108029180954,
+      "resolve": 0.16522749118077226,
+      "anger": 0.169293826219134,
+      "neutral": 0.19069533341942685
+    }
+  },
+  {
+    "chunk_index": 101,
+    "text": "The importance and moral influence of the ratification of such a treaty can hardly be overestimated in the cause of advancing civilization.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23018535404960455,
+      "unity": 0.12395018800983786,
+      "hope": 0.16012073276496952,
+      "resolve": 0.1844342282770309,
+      "anger": 0.1295967590293626,
+      "neutral": 0.17171273786919458
+    }
+  },
+  {
+    "chunk_index": 102,
+    "text": "It may well engage the best thought of the statesmen and people of every country, and I cannot but consider it fortunate that it was reserved to the United States to have the leadership in so grand a work.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.26287302049259176,
+      "unity": 0.12892159004877207,
+      "hope": 0.18241268411847233,
+      "resolve": 0.17671522743167578,
+      "anger": 0.1035901671417975,
+      "neutral": 0.14548731076669058
+    }
+  },
+  {
+    "chunk_index": 103,
+    "text": "It has been the uniform practice of each President to avoid, as far as possible, the convening of Congress in extraordinary session.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1929259074830105,
+      "unity": 0.11553557501016248,
+      "hope": -0.010633494608547038,
+      "resolve": 0.14814120033996575,
+      "anger": 0.24848996555572053,
+      "neutral": 0.30554084621968775
+    }
+  },
+  {
+    "chunk_index": 104,
+    "text": "It is an example which, under ordinary circumstances and in the absence of a public necessity, is to be commended.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.32145002042420356,
+      "unity": 0.0969417864585349,
+      "hope": 0.10936662360462232,
+      "resolve": 0.14719141844606176,
+      "anger": 0.14095210616347442,
+      "neutral": 0.18409804490310303
+    }
+  },
+  {
+    "chunk_index": 105,
+    "text": "But a failure to convene the representatives of the people in Congress in extra session when it involves neglect of a public duty places the responsibility of such neglect upon the Executive himself.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.133442938989423,
+      "unity": 0.17262447896089458,
+      "hope": 0.047799950105820554,
+      "resolve": 0.17019526029534804,
+      "anger": 0.26665422487441737,
+      "neutral": 0.20928314677409646
+    }
+  },
+  {
+    "chunk_index": 106,
+    "text": "The condition of the public Treasury, as has been indicated, demands the immediate consideration of Congress.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1318978905828775,
+      "unity": 0.11740151954849781,
+      "hope": 0.14593865219508334,
+      "resolve": 0.14393065526003568,
+      "anger": 0.2458858371762458,
+      "neutral": 0.21494544523725992
+    }
+  },
+  {
+    "chunk_index": 107,
+    "text": "It alone has the power to provide revenues for the Government.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.29116342716286453,
+      "unity": 0.1144824147080262,
+      "hope": 0.10076721540525113,
+      "resolve": 0.20407653778475976,
+      "anger": 0.1628272333707242,
+      "neutral": 0.12668317156837416
+    }
+  },
+  {
+    "chunk_index": 108,
+    "text": "Not to convene it under such circumstances I can view in no other sense than the neglect of a plain duty.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1226919117457891,
+      "unity": 0.17274565750531942,
+      "hope": 0.062178544898892366,
+      "resolve": 0.1669390474491824,
+      "anger": 0.2857953269580465,
+      "neutral": 0.18964951144277023
+    }
+  },
+  {
+    "chunk_index": 109,
+    "text": "I do not sympathize with the sentiment that Congress in session is dangerous to our general business interests.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12982673304024428,
+      "unity": 0.17085159703831673,
+      "hope": 0.10510768960188985,
+      "resolve": 0.1469520428903056,
+      "anger": 0.3042228224675108,
+      "neutral": 0.14303911496173274
+    }
+  },
+  {
+    "chunk_index": 110,
+    "text": "Its members are the agents of the people, and their presence at the seat of Government in the execution of the sovereign will should not operate as an injury, but a benefit.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18662690919621683,
+      "unity": 0.14192589596155786,
+      "hope": 0.11120788401646702,
+      "resolve": 0.1919536535695148,
+      "anger": 0.19514012404381462,
+      "neutral": 0.1731455332124289
+    }
+  },
+  {
+    "chunk_index": 111,
+    "text": "There could be no better time to put the Government upon a sound financial and economic basis than now.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15800628368152503,
+      "unity": 0.15420145797142248,
+      "hope": 0.20724175354286123,
+      "resolve": 0.14102480155611158,
+      "anger": 0.18586223870902016,
+      "neutral": 0.1536634645390595
+    }
+  },
+  {
+    "chunk_index": 112,
+    "text": "The people have only recently voted that this should be done, and nothing is more binding upon the agents of their will than the obligation of immediate action.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13148916627857363,
+      "unity": 0.14260443904379297,
+      "hope": 0.1551807955506855,
+      "resolve": 0.15705211176198694,
+      "anger": 0.24136694409756462,
+      "neutral": 0.1723065432673963
+    }
+  },
+  {
+    "chunk_index": 113,
+    "text": "It has always seemed to me that the postponement of the meeting of Congress until more than a year after it has been chosen deprived Congress too often of the inspiration of the popular will and the country of the corresponding benefits.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.145192308746415,
+      "unity": 0.15718876183797137,
+      "hope": 0.10666163530207529,
+      "resolve": 0.1360222787445936,
+      "anger": 0.25693519421782507,
+      "neutral": 0.19799982115111964
+    }
+  },
+  {
+    "chunk_index": 114,
+    "text": "It is evident, therefore, that to postpone action in the presence of so great a necessity would be unwise on the part of the Executive because unjust to the interests of the people.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.10677199629665657,
+      "unity": 0.17494689495949275,
+      "hope": 0.12373464497217669,
+      "resolve": 0.21048554578992104,
+      "anger": 0.2788839101392097,
+      "neutral": 0.10517700784254325
+    }
+  },
+  {
+    "chunk_index": 115,
+    "text": "Our action now will be freer from mere partisan consideration than if the question of tariff revision was postponed until the regular session of Congress.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.18146117640711348,
+      "unity": 0.1661836024550277,
+      "hope": 0.13960280377586531,
+      "resolve": 0.16723252535650532,
+      "anger": 0.17810168974659168,
+      "neutral": 0.1674182022588965
+    }
+  },
+  {
+    "chunk_index": 116,
+    "text": "We are nearly two years from a Congressional election, and politics cannot so greatly distract us as if such contest was immediately pending.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15806485076776716,
+      "unity": 0.16353989039713449,
+      "hope": 0.15738518897712186,
+      "resolve": 0.17489814309951254,
+      "anger": 0.19627152259463368,
+      "neutral": 0.14984040416383024
+    }
+  },
+  {
+    "chunk_index": 117,
+    "text": "We can approach the problem calmly and patriotically, without fearing its effect upon an early election.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15547900440826995,
+      "unity": 0.16836046459757606,
+      "hope": 0.13558671289763663,
+      "resolve": 0.2185476621011738,
+      "anger": 0.20375043728726716,
+      "neutral": 0.11827571870807638
+    }
+  },
+  {
+    "chunk_index": 118,
+    "text": "Our fellow-citizens who may disagree with us upon the character of this legislation prefer to have the question settled now, even against their preconceived views, and perhaps settled so reasonably, as I trust and believe it will be, as to insure great permanence, than to have further uncertainty menacing the vast and varied business interests of the United States.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1365304950803272,
+      "unity": 0.1712021662363049,
+      "hope": 0.1671163122332159,
+      "resolve": 0.194482476471922,
+      "anger": 0.17205139127719735,
+      "neutral": 0.15861715870103266
+    }
+  },
+  {
+    "chunk_index": 119,
+    "text": "Again, whatever action Congress may take will be given a fair opportunity for trial before the people are called to pass judgment upon it, and this I consider a great essential to the rightful and lasting settlement of the question.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15738332660621926,
+      "unity": 0.1347042276276147,
+      "hope": 0.1384023101997132,
+      "resolve": 0.17562452942691345,
+      "anger": 0.2044901068124103,
+      "neutral": 0.1893954993271291
+    }
+  },
+  {
+    "chunk_index": 120,
+    "text": "In view of these considerations, I shall deem it my duty as President to convene Congress in extraordinary session on Monday, the 15th day of March, 1897.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1416754494320835,
+      "unity": 0.13175163881286137,
+      "hope": 0.14113853362915874,
+      "resolve": 0.14359837504711087,
+      "anger": 0.1761997888158866,
+      "neutral": 0.2656362142628989
+    }
+  },
+  {
+    "chunk_index": 121,
+    "text": "In conclusion, I congratulate the country upon the fraternal spirit of the people and the manifestations of good will everywhere so apparent.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2303910005113723,
+      "unity": 0.14280450917295207,
+      "hope": 0.1642314627822963,
+      "resolve": 0.1473925232364434,
+      "anger": 0.10662999027785741,
+      "neutral": 0.20855051401907856
+    }
+  },
+  {
+    "chunk_index": 122,
+    "text": "The recent election not only most fortunately demonstrated the obliteration of sectional or geographical lines, but to some extent also the prejudices which for years have distracted our councils and marred our true greatness as a nation.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.20260527465753098,
+      "unity": 0.20699103957645623,
+      "hope": 0.13784653982967593,
+      "resolve": 0.15314843187978072,
+      "anger": 0.17729368494023381,
+      "neutral": 0.1221150291163223
+    }
+  },
+  {
+    "chunk_index": 123,
+    "text": "The triumph of the people, whose verdict is carried into effect today, is not the triumph of one section, nor wholly of one party, but of all sections and all the people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20835700550596062,
+      "unity": 0.16054245674922035,
+      "hope": 0.14944013873693265,
+      "resolve": 0.16620677384422505,
+      "anger": 0.15983761263048613,
+      "neutral": 0.1556160125331752
+    }
+  },
+  {
+    "chunk_index": 124,
+    "text": "The North and the South no longer divide on the old lines, but upon principles and policies; and in this fact surely every lover of the country can find cause for true felicitation.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21491715655231605,
+      "unity": 0.20512185275544523,
+      "hope": 0.1513816950578931,
+      "resolve": 0.15364417397883298,
+      "anger": 0.11617477439442928,
+      "neutral": 0.15876034726108337
+    }
+  },
+  {
+    "chunk_index": 125,
+    "text": "Let us rejoice in and cultivate this spirit; it is ennobling and will be both a gain and a blessing to our beloved country.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21238937347720274,
+      "unity": 0.14343029560284207,
+      "hope": 0.1882384195936607,
+      "resolve": 0.1701493356596619,
+      "anger": 0.12456798143747944,
+      "neutral": 0.16122459422915317
+    }
+  },
+  {
+    "chunk_index": 126,
+    "text": "It will be my constant aim to do nothing, and permit nothing to be done, that will arrest or disturb this growing sentiment of unity and cooperation, this revival of esteem and affiliation which now animates so many thousands in both the old antagonistic sections, but I shall cheerfully do everything possible to promote and increase it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14398422774013206,
+      "unity": 0.17414115544183517,
+      "hope": 0.17800638227078971,
+      "resolve": 0.2001209398152885,
+      "anger": 0.15024016093441214,
+      "neutral": 0.15350713379754244
+    }
+  },
+  {
+    "chunk_index": 127,
+    "text": "Let me again repeat the words of the oath administered by the Chief Justice which, in their respective spheres, so far as applicable, I would have all my countrymen observe: \"I will faithfully execute the office of President of the United States, and will, to the best of my ability, preserve, protect, and defend the Constitution of the United States.\"",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16452353806897196,
+      "unity": 0.1308810468543135,
+      "hope": 0.1333648811528589,
+      "resolve": 0.16801998971923643,
+      "anger": 0.16498476674641316,
+      "neutral": 0.238225777458206
+    }
+  },
+  {
+    "chunk_index": 128,
+    "text": "This is the obligation I have reverently taken before the Lord Most High.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.09404018276084648,
+      "unity": 0.1434836726481505,
+      "hope": 0.17771514732984775,
+      "resolve": 0.19203804542458955,
+      "anger": 0.15923766232601358,
+      "neutral": 0.23348528951055214
+    }
+  },
+  {
+    "chunk_index": 129,
+    "text": "To keep it will be my single purpose, my constant prayer; and I shall confidently rely upon the forbearance and assistance of all the people in the discharge of my solemn responsibilities.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1262988183399488,
+      "unity": 0.15434878195984358,
+      "hope": 0.18283230975476522,
+      "resolve": 0.2268754029498033,
+      "anger": 0.11771720615206337,
+      "neutral": 0.19192748084357572
+    }
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Fellow-Citizens of the Senate and of the House of Representatives:\nAmong the vicissitudes incident to life no event could have filled me with greater anxieties than that of which the notification was transmitted by your order, and received on the 14th day of the present month.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.15814952192168852,
+      "unity": 0.14290112182741418,
+      "hope": 0.1577966581000707,
+      "resolve": 0.15250811093006886,
+      "anger": 0.16099990586808863,
+      "neutral": 0.22764468135266913
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "On the one hand, I was summoned by my country, whose voice I can never hear but with veneration and love, from a retreat which I had chosen with the fondest predilection, and, in my flattering hopes, with an immutable decision, as the asylum of my declining years\u2014a retreat which was rendered every day more necessary as well as more dear to me by the addition of habit to inclination, and of frequent interruptions in my health to the gradual waste committed on it by time.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.18936558492947714,
+      "unity": 0.1772121906860177,
+      "hope": 0.16556817533404714,
+      "resolve": 0.16946628618346954,
+      "anger": 0.11785426070215674,
+      "neutral": 0.18053350216483177
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "On the other hand, the magnitude and difficulty of the trust to which the voice of my country called me, being sufficient to awaken in the wisest and most experienced of her citizens a distrustful scrutiny into his qualifications, could not but overwhelm with despondence one who (inheriting inferior endowments from nature and unpracticed in the duties of civil administration) ought to be peculiarly conscious of his own deficiencies.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15389302083273104,
+      "unity": 0.16327356096949266,
+      "hope": 0.14795356190097697,
+      "resolve": 0.20262736655227692,
+      "anger": 0.18303641122230632,
+      "neutral": 0.14921607852221608
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "In this conflict of emotions all I dare aver is that it has been my faithful study to collect my duty from a just appreciation of every circumstance by which it might be affected.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14425307477809352,
+      "unity": 0.1703774691981783,
+      "hope": 0.17840199873729126,
+      "resolve": 0.21169729102597523,
+      "anger": 0.13180839522462265,
+      "neutral": 0.16346177103583906
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "All I dare hope is that if, in executing this task, I have been too much swayed by a grateful remembrance of former instances, or by an affectionate sensibility to this transcendent proof of the confidence of my fellow-citizens, and have thence too little consulted my incapacity as well as disinclination for the weighty and untried cares before me, my error will be palliated by the motives which mislead[see APP note]me, and its consequences be judged by my country with some share of the partiality in which they originated.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16770966768747012,
+      "unity": 0.14692244718538422,
+      "hope": 0.1596436705283631,
+      "resolve": 0.1829469581436459,
+      "anger": 0.1590029283843085,
+      "neutral": 0.18377432807082822
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Such being the impressions under which I have, in obedience to the public summons, repaired to the present station, it would be peculiarly improper to omit in this first official act my fervent supplications to that Almighty Being who rules over the universe, who presides in the councils of nations, and whose providential aids can supply every human defect, that His benediction may consecrate to the liberties and happiness of the people of the United States a Government instituted by themselves for these essential purposes, and may enable every instrument employed in its administration to execute with success the functions allotted to his charge.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.19663335156663825,
+      "unity": 0.14523391407861083,
+      "hope": 0.1412171576369146,
+      "resolve": 0.16491869150132565,
+      "anger": 0.14052057881899863,
+      "neutral": 0.21147630639751205
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "In tendering this homage to the Great Author of every public and private good, I assure myself that it expresses your sentiments not less than my own, nor those of my fellow-citizens at large less than either.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21630195650808437,
+      "unity": 0.13556479839874824,
+      "hope": 0.16166436619376243,
+      "resolve": 0.1616367601561515,
+      "anger": 0.12745879875973073,
+      "neutral": 0.19737331998352273
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "No people can be bound to acknowledge and adore the Invisible Hand which conducts the affairs of men more than those of the United States.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24758804788227143,
+      "unity": 0.13637910622927074,
+      "hope": 0.10937632797735038,
+      "resolve": 0.19115499317116316,
+      "anger": 0.18433775670874922,
+      "neutral": 0.1311637680311951
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Every step by which they have advanced to the character of an independent nation seems to have been distinguished by some token of providential agency; and in the important revolution just accomplished in the system of their united government the tranquil deliberations and voluntary consent of so many distinct communities from which the event has resulted can not be compared with the means by which most governments have been established without some return of pious gratitude, along with an humble anticipation of the future blessings which the past seem to presage.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24471078207614488,
+      "unity": 0.1592128542003338,
+      "hope": 0.16113208446264426,
+      "resolve": 0.14277509781163195,
+      "anger": 0.1354627378061066,
+      "neutral": 0.15670644364313852
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "These reflections, arising out of the present crisis, have forced themselves too strongly on my mind to be suppressed.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1489596866766444,
+      "unity": 0.1821835511040162,
+      "hope": 0.1880759255445078,
+      "resolve": 0.16981271108854418,
+      "anger": 0.20459072350864796,
+      "neutral": 0.10637740207763942
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "You will join with me, I trust, in thinking that there are none under the influence of which the proceedings of a new and free government can more auspiciously commence.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16653427254638425,
+      "unity": 0.1486943180007059,
+      "hope": 0.19350982607746106,
+      "resolve": 0.19296471415381558,
+      "anger": 0.13320929822539157,
+      "neutral": 0.1650875709962416
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "By the article establishing the executive department it is made the duty of the President \"to recommend to your consideration such measures as he shall judge necessary and expedient.\"",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.11423137277462043,
+      "unity": 0.1427208135229132,
+      "hope": 0.09873341978165666,
+      "resolve": 0.16616298014173073,
+      "anger": 0.21146174210620242,
+      "neutral": 0.26668967167287655
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "The circumstances under which I now meet you will acquit me from entering into that subject further than to refer to the great constitutional charter under which you are assembled, and which, in defining your powers, designates the objects to which your attention is to be given.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.12514737294585693,
+      "unity": 0.14085285075690454,
+      "hope": 0.14333973946370884,
+      "resolve": 0.1801501212240224,
+      "anger": 0.16416824769298402,
+      "neutral": 0.24634166791652326
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "It will be more consistent with those circumstances, and far more congenial with the feelings which actuate me, to substitute, in place of a recommendation of particular measures, the tribute that is due to the talents, the rectitude, and the patriotism which adorn the characters selected to devise and adopt them.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16585676783487802,
+      "unity": 0.13319570040088713,
+      "hope": 0.15745020934988507,
+      "resolve": 0.17150569425325765,
+      "anger": 0.16066505889146537,
+      "neutral": 0.21132656926962679
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "In these honorable qualifications I behold the surest pledges that as on one side no local prejudices or attachments, no separate views nor party animosities, will misdirect the comprehensive and equal eye which ought to watch over this great assemblage of communities and interests, so, on another, that the foundation of our national policy will be laid in the pure and immutable principles of private morality, and the preeminence of free government be exemplified by all the attributes which can win the affections of its citizens and command the respect of the world.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17051613727332116,
+      "unity": 0.17303166583109603,
+      "hope": 0.14971486051237648,
+      "resolve": 0.18589184166676542,
+      "anger": 0.14978974550056529,
+      "neutral": 0.17105574921587563
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "I dwell on this prospect with every satisfaction which an ardent love for my country can inspire, since there is no truth more thoroughly established than that there exists in the economy and course of nature an indissoluble union between virtue and happiness; between duty and advantage; between the genuine maxims of an honest and magnanimous policy and the solid rewards of public prosperity and felicity; since we ought to be no less persuaded that the propitious smiles of Heaven can never be expected on a nation that disregards the eternal rules of order and right which Heaven itself has ordained; and since the preservation of the sacred fire of liberty and the destiny of the republican model of government are justly considered, perhaps, as deeply, as finally, staked on the experiment entrusted to the hands of the American people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1909577582939252,
+      "unity": 0.14624266626882657,
+      "hope": 0.18666847696922176,
+      "resolve": 0.17059920020695782,
+      "anger": 0.14484354887534998,
+      "neutral": 0.1606883493857187
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "Besides the ordinary objects submitted to your care, it will remain with your judgment to decide how far an exercise of the occasional power delegated by the fifth article of the Constitution is rendered expedient at the present juncture by the nature of objections which have been urged against the system, or by the degree of inquietude which has given birth to them.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13372601983328092,
+      "unity": 0.14339644237141502,
+      "hope": 0.10748562963918395,
+      "resolve": 0.18650196161002316,
+      "anger": 0.24159663634145465,
+      "neutral": 0.1872933102046423
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "Instead of undertaking particular recommendations on this subject, in which I could be guided by no lights derived from official opportunities, I shall again give way to my entire confidence in your discernment and pursuit of the public good; for I assure myself that whilst you carefully avoid every alteration which might endanger the benefits of an united and effective government, or which ought to await the future lessons of experience, a reverence for the characteristic rights of freemen and a regard for the public harmony will sufficiently influence your deliberations on the question how far the former can be impregnably fortified or the latter be safely and advantageously promoted.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13986896846724914,
+      "unity": 0.1728567052089946,
+      "hope": 0.16699571323739665,
+      "resolve": 0.17173475009327263,
+      "anger": 0.1688707525644411,
+      "neutral": 0.1796731104286459
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "To the foregoing observations I have one to add, which will be most properly addressed to the House of Representatives.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13022193682994376,
+      "unity": 0.14987373429866027,
+      "hope": 0.14180888636522154,
+      "resolve": 0.16029564217252662,
+      "anger": 0.20621562826034395,
+      "neutral": 0.21158417207330385
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "It concerns myself, and will therefore be as brief as possible.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2060019374632781,
+      "unity": 0.15318012212954082,
+      "hope": 0.15168679085484765,
+      "resolve": 0.20224772721282497,
+      "anger": 0.14451043305344088,
+      "neutral": 0.14237298928606756
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "When I was first honored with a call into the service of my country, then on the eve of an arduous struggle for its liberties, the light in which I contemplated my duty required that I should renounce every pecuniary compensation.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1946352427836379,
+      "unity": 0.13638227009323806,
+      "hope": 0.1377349327055276,
+      "resolve": 0.18203882139014646,
+      "anger": 0.13980873108115954,
+      "neutral": 0.20940000194629044
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "From this resolution I have in no instance departed; and being still under the impressions which produced it, I must decline as inapplicable to myself any share in the personal emoluments which may be indispensably included in a permanent provision for the executive department, and must accordingly pray that the pecuniary estimates for the station in which I am placed may during my continuance in it be limited to such actual expenditures as the public good may be thought to require.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.10176453134146399,
+      "unity": 0.15081498641754792,
+      "hope": 0.12063044484791494,
+      "resolve": 0.14818172774019217,
+      "anger": 0.18988740216205857,
+      "neutral": 0.2887209074908224
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "Having thus imparted to you my sentiments as they have been awakened by the occasion which brings us together, I shall take my present leave; but not without resorting once more to the benign Parent of the Human Race in humble supplication that, since He has been pleased to favor the American people with opportunities for deliberating in perfect tranquillity, and dispositions for deciding with unparalleled unanimity on a form of government for the security of their union and the advancement of their happiness, so His divine blessing may be equally conspicuous in the enlarged views, the temperate consultations, and the wise measures on which the success of this Government must depend.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16049842398797962,
+      "unity": 0.16139405829376008,
+      "hope": 0.1642999547395365,
+      "resolve": 0.14704091748203185,
+      "anger": 0.15329185302952905,
+      "neutral": 0.2134747924671629
+    }
+  }
+]

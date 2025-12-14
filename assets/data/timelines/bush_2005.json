@@ -1,0 +1,1289 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Vice President Cheney, Mr. Chief Justice, President Carter, President Bush, President Clinton, Members of the United States Congress, reverend clergy, distinguished guests, fellow citizens:\nOn this day, prescribed by law and marked by ceremony, we celebrate the durable wisdom of our Constitution and recall the deep commitments that unite our country.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.2268756054705391,
+      "unity": 0.1318049892160319,
+      "hope": 0.15116178172804415,
+      "resolve": 0.13706087598575462,
+      "anger": 0.12279630930141539,
+      "neutral": 0.2303004382982149
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "I am grateful for the honor of this hour, mindful of the consequential times in which we live, and determined to fulfill the oath that I have sworn and you have witnessed.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1457003586159719,
+      "unity": 0.13384431968572813,
+      "hope": 0.16922546106252961,
+      "resolve": 0.16848223977558482,
+      "anger": 0.1389620237138064,
+      "neutral": 0.24378559714637915
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "At this second gathering, our duties are defined not by the words I use but by the history we have seen together.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.17305404175029562,
+      "unity": 0.19590630446962218,
+      "hope": 0.14816525739964798,
+      "resolve": 0.19581287434856648,
+      "anger": 0.1332422407827931,
+      "neutral": 0.15381928124907465
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "For a half a century, America defended our own freedom by standing watch on distant borders.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2865750950480204,
+      "unity": 0.13963861977523967,
+      "hope": 0.11563375080639862,
+      "resolve": 0.22062510380552566,
+      "anger": 0.1340913011599007,
+      "neutral": 0.10343612940491491
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "After the shipwreck of communism came years of relative quiet, years of repose, years of sabbatical, and then there came a day of fire.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19035158004633015,
+      "unity": 0.15719967934934415,
+      "hope": 0.2058011541270389,
+      "resolve": 0.14804248561378494,
+      "anger": 0.15278082651429828,
+      "neutral": 0.1458242743492036
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "We have seen our vulnerability, and we have seen its deepest source.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15905129625406098,
+      "unity": 0.16869019040049205,
+      "hope": 0.194750440897163,
+      "resolve": 0.21814086274129665,
+      "anger": 0.1773090995684173,
+      "neutral": 0.08205811013857
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "For as long as whole regions of the world simmer in resentment and tyranny, prone to ideologies that feed hatred and excuse murder, violence will gather and multiply in destructive power and cross the most defended borders and raise a mortal threat.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15306656407126587,
+      "unity": 0.18560680579610622,
+      "hope": 0.16220180216885088,
+      "resolve": 0.20642756968690607,
+      "anger": 0.19910506938195374,
+      "neutral": 0.0935921888949172
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "There is only one force of history that can break the reign of hatred and resentment and expose the pretensions of tyrants and reward the hopes of the decent and tolerant, and that is the force of human freedom.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1947389948591991,
+      "unity": 0.175533774610875,
+      "hope": 0.1653218566250562,
+      "resolve": 0.20478766731611778,
+      "anger": 0.15848102647228726,
+      "neutral": 0.10113668011646468
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "We are led, by events and common sense, to one conclusion: The survival of liberty in our land increasingly depends on the success of liberty in other lands.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22587996002960647,
+      "unity": 0.17512352849231572,
+      "hope": 0.16229590906931568,
+      "resolve": 0.21151397891578821,
+      "anger": 0.1348314766659196,
+      "neutral": 0.0903551468270543
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "The best hope for peace in our world is the expansion of freedom in all the world.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17430657113075967,
+      "unity": 0.17716569355293543,
+      "hope": 0.20263201047736626,
+      "resolve": 0.20729252259704473,
+      "anger": 0.12373486371267839,
+      "neutral": 0.1148683385292155
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "America's vital interests and our deepest beliefs are now one.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20513341014936926,
+      "unity": 0.18163559504918664,
+      "hope": 0.16025001709887704,
+      "resolve": 0.18554520002971286,
+      "anger": 0.14450606730249715,
+      "neutral": 0.12292971037035703
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "From the day of our founding, we have proclaimed that every man and woman on this Earth has rights and dignity and matchless value, because they bear the image of the Maker of heaven and Earth.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20809352228175507,
+      "unity": 0.16474536345823318,
+      "hope": 0.15456488751570302,
+      "resolve": 0.16754042198474858,
+      "anger": 0.16077464731282737,
+      "neutral": 0.14428115744673278
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "Across the generations, we have proclaimed the imperative of self-government, because no one is fit to be a master and no one deserves to be a slave.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.18707138109227775,
+      "unity": 0.18125734834651963,
+      "hope": 0.15962676549871188,
+      "resolve": 0.18270948982385835,
+      "anger": 0.16399689184235017,
+      "neutral": 0.12533812339628222
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "Advancing these ideals is the mission that created our Nation.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2317559139380673,
+      "unity": 0.1636097539272599,
+      "hope": 0.17889805553753294,
+      "resolve": 0.2048344805634787,
+      "anger": 0.11339326326901449,
+      "neutral": 0.10750853276464667
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "It is the honorable achievement of our fathers.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.223285831955372,
+      "unity": 0.12402253031401687,
+      "hope": 0.1416980287803535,
+      "resolve": 0.1858230716560862,
+      "anger": 0.14952194722646844,
+      "neutral": 0.175648590067703
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "Now, it is the urgent requirement of our Nation's security and the calling of our time.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14955088303742659,
+      "unity": 0.15115764281582972,
+      "hope": 0.16354280051577924,
+      "resolve": 0.2092056910299892,
+      "anger": 0.19019699678391927,
+      "neutral": 0.13634598581705598
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "So it is the policy of the United States to seek and support the growth of democratic movements and institutions in every nation and culture, with the ultimate goal of ending tyranny in our world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20824225505505986,
+      "unity": 0.15979910135595915,
+      "hope": 0.1458233456048291,
+      "resolve": 0.1922000207973359,
+      "anger": 0.18277175014385635,
+      "neutral": 0.11116352704295966
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "This is not primarily the task of arms, though we will defend ourselves and our friends by force of arms when necessary.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18352124439121187,
+      "unity": 0.1423337498112555,
+      "hope": 0.1337180376853493,
+      "resolve": 0.25596669564922586,
+      "anger": 0.16490182060503233,
+      "neutral": 0.1195584518579252
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "Freedom, by its nature, must be chosen and defended by citizens and sustained by the rule of law and the protection of minorities.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22149516966530292,
+      "unity": 0.16603136299258364,
+      "hope": 0.14564838251524717,
+      "resolve": 0.2135951610160195,
+      "anger": 0.15960007242726829,
+      "neutral": 0.09362985138357849
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "And when the soul of a nation finally speaks, the institutions that arise may reflect customs and traditions very different from our own.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19818052377220552,
+      "unity": 0.19445952987564438,
+      "hope": 0.17014453398473908,
+      "resolve": 0.15906153376210017,
+      "anger": 0.15570621077457444,
+      "neutral": 0.12244766783073636
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "America will not impose our own style of government on the unwilling.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2546009103219227,
+      "unity": 0.14007847186944367,
+      "hope": 0.1172619585192825,
+      "resolve": 0.2046415780537943,
+      "anger": 0.21265422515895827,
+      "neutral": 0.07076285607659856
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "Our goal instead is to help others find their own voice, attain their own freedom, and make their own way.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16091787748834926,
+      "unity": 0.1940525090384143,
+      "hope": 0.20553268043152537,
+      "resolve": 0.2021314115447664,
+      "anger": 0.13733509628155627,
+      "neutral": 0.10003042521538835
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "The great objective of ending tyranny is the concentrated work of generations.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16982772827273784,
+      "unity": 0.13659207129932804,
+      "hope": 0.19883599776493868,
+      "resolve": 0.21106291650691364,
+      "anger": 0.1680260830919086,
+      "neutral": 0.11565520306417318
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "The difficulty of the task is no excuse for avoiding it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.08426742857956233,
+      "unity": 0.140087824424939,
+      "hope": 0.17497801677418431,
+      "resolve": 0.36951930188430243,
+      "anger": 0.1826775955657487,
+      "neutral": 0.048469832771263203
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "America's influence is not unlimited, but fortunately for the oppressed, America's influence is considerable and we will use it confidently in freedom's cause.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2527843934614961,
+      "unity": 0.14162618902819993,
+      "hope": 0.1596697313013931,
+      "resolve": 0.21076341950635133,
+      "anger": 0.1656373531353716,
+      "neutral": 0.06951891356718796
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "My most solemn duty is to protect this Nation and its people from further attacks and emerging threats.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15841580519780385,
+      "unity": 0.1393674321457098,
+      "hope": 0.14679396122215985,
+      "resolve": 0.2107102105650997,
+      "anger": 0.157218393091163,
+      "neutral": 0.1874941977780638
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "Some have unwisely chosen to test America's resolve and have found it firm.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.22127651515531319,
+      "unity": 0.16360617051806706,
+      "hope": 0.12112566405649723,
+      "resolve": 0.22566096707550973,
+      "anger": 0.1982201756450683,
+      "neutral": 0.07011050754954447
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "We will persistently clarify the choice before every ruler and every nation, the moral choice between oppression, which is always wrong, and freedom, which is eternally right.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16675516525711073,
+      "unity": 0.16187796397306314,
+      "hope": 0.16504263577952255,
+      "resolve": 0.227769588882614,
+      "anger": 0.1612150929379084,
+      "neutral": 0.11733955316978116
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "America will not pretend that jailed dissidents prefer their chains or that women welcome humiliation and servitude or that any human being aspires to live at the mercy of bullies.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.2162004870832003,
+      "unity": 0.1276878536094391,
+      "hope": 0.12229840575665976,
+      "resolve": 0.21440973412987654,
+      "anger": 0.23532235884559136,
+      "neutral": 0.08408116057523295
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "We will encourage reform in other governments by making clear that success in our relations will require the decent treatment of their own people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1946493712701933,
+      "unity": 0.16158309798611706,
+      "hope": 0.17262524730981021,
+      "resolve": 0.18984024120171186,
+      "anger": 0.16771316800394634,
+      "neutral": 0.11358887422822123
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "America's belief in human dignity will guide our policies.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2234174649809353,
+      "unity": 0.14775232007780478,
+      "hope": 0.15909857305438946,
+      "resolve": 0.20038546026566548,
+      "anger": 0.14843932535357568,
+      "neutral": 0.12090685626762936
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "Yet rights must be more than the grudging concessions of dictators.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.183147194531672,
+      "unity": 0.15612978404163774,
+      "hope": 0.1380250687080893,
+      "resolve": 0.2102140939124831,
+      "anger": 0.2226979317300089,
+      "neutral": 0.08978592707610895
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "They are secured by free dissent and the participation of the governed.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21491893716945837,
+      "unity": 0.14606313188271203,
+      "hope": 0.12965730652006344,
+      "resolve": 0.21066956037212395,
+      "anger": 0.1963169574758798,
+      "neutral": 0.10237410657976243
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "In the long run, there is no justice without freedom and there can be no human rights without human liberty.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18936324041454217,
+      "unity": 0.16810393267138815,
+      "hope": 0.16632279431078653,
+      "resolve": 0.21189460957310283,
+      "anger": 0.1675408963781636,
+      "neutral": 0.09677452665201672
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "Some, I know, have questioned the global appeal of liberty, though this time in history, four decades defined by the swiftest advance of freedom ever seen, is an odd time for doubt.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24585177396587743,
+      "unity": 0.15336036968434394,
+      "hope": 0.18790412015629557,
+      "resolve": 0.21333414932640266,
+      "anger": 0.13745504781843948,
+      "neutral": 0.06209453904864092
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "Americans, of all people, should never be surprised by the power of our ideals.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.251567530618652,
+      "unity": 0.14026611332923433,
+      "hope": 0.14364239466861936,
+      "resolve": 0.20772771902239467,
+      "anger": 0.15737157298514354,
+      "neutral": 0.09942466937595608
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "Eventually, the call of freedom comes to every mind and every soul.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18530323855674272,
+      "unity": 0.17184669225358695,
+      "hope": 0.1941922268330731,
+      "resolve": 0.20567444409716562,
+      "anger": 0.12309667266270781,
+      "neutral": 0.1198867255967238
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "We do not accept the existence of permanent tyranny because we do not accept the possibility of permanent slavery.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17355872651467696,
+      "unity": 0.15674814445960886,
+      "hope": 0.1342558136105331,
+      "resolve": 0.22277079388494925,
+      "anger": 0.21122079357937434,
+      "neutral": 0.10144572795085746
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "Liberty will come to those who love it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19330439569270202,
+      "unity": 0.14654890422698666,
+      "hope": 0.1883319895283062,
+      "resolve": 0.19631927919851633,
+      "anger": 0.14989089740234854,
+      "neutral": 0.12560453395114024
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "Today, America speaks anew to the peoples of the world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24043745018832294,
+      "unity": 0.1417179161369686,
+      "hope": 0.17547835603317335,
+      "resolve": 0.14617330731072192,
+      "anger": 0.1393916290127482,
+      "neutral": 0.15680134131806497
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "All who live in tyranny and hopelessness can know: The United States will not ignore your oppression or excuse your oppressors.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.20305194396216494,
+      "unity": 0.14194045313103534,
+      "hope": 0.14033849943733911,
+      "resolve": 0.2022084183033608,
+      "anger": 0.20464201145463584,
+      "neutral": 0.10781867371146396
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "When you stand for your liberty, we will stand with you.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19077463277034654,
+      "unity": 0.15161299050866753,
+      "hope": 0.14996530083132428,
+      "resolve": 0.20940880137173212,
+      "anger": 0.15587709678426592,
+      "neutral": 0.14236117773366358
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "Democratic reformers facing repression, prison, or exile can know: America sees you for who you are, the future leaders of your free country.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2078384104483501,
+      "unity": 0.14266590831919326,
+      "hope": 0.1703362897381276,
+      "resolve": 0.18712987120803135,
+      "anger": 0.16985483120111958,
+      "neutral": 0.1221746890851781
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "The rulers of outlaw regimes can know that we still believe as Abraham Lincoln did: \"Those who deny freedom to others deserve it not for themselves and, under the rule of a just God, cannot long retain it.\"",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21267912309266818,
+      "unity": 0.1409864503071055,
+      "hope": 0.1408528026413855,
+      "resolve": 0.2002681086732079,
+      "anger": 0.19202703213985353,
+      "neutral": 0.11318648314577938
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "The leaders of governments with long habits of control need to know: To serve your people, you must learn to trust them.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15862300630675363,
+      "unity": 0.14856042709652767,
+      "hope": 0.1571336473433745,
+      "resolve": 0.20302092501803468,
+      "anger": 0.19459267987957435,
+      "neutral": 0.13806931435573516
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "Start on this journey of progress and justice, and America will walk at your side.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18290891833080578,
+      "unity": 0.16301062316284662,
+      "hope": 0.18477883245792473,
+      "resolve": 0.17895584929434583,
+      "anger": 0.15030300339396627,
+      "neutral": 0.14004277336011078
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "And all the allies of the United States can know: We honor your friendship; we rely on your counsel; and we depend on your help.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20168848220552757,
+      "unity": 0.16802990092663775,
+      "hope": 0.13772711275567082,
+      "resolve": 0.2093442991036407,
+      "anger": 0.14144119792455168,
+      "neutral": 0.1417690070839715
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "Division among free nations is a primary goal of freedom's enemies.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1815054260612552,
+      "unity": 0.24627797582361638,
+      "hope": 0.1157283121085468,
+      "resolve": 0.23988706302013915,
+      "anger": 0.19766842707364113,
+      "neutral": 0.01893279591280134
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "The concerted effort of free nations to promote democracy is a prelude to our enemies' defeat.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19045029078215198,
+      "unity": 0.15818765172492896,
+      "hope": 0.1499654125725689,
+      "resolve": 0.21108409183047455,
+      "anger": 0.19418406994557477,
+      "neutral": 0.09612848314430084
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "Today I also speak anew to my fellow citizens.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16314063717084737,
+      "unity": 0.15224054740619733,
+      "hope": 0.2007394123639173,
+      "resolve": 0.14055548426812248,
+      "anger": 0.1413408746298941,
+      "neutral": 0.20198304416102145
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "From all of you I have asked patience in the hard task of securing America, which you have granted in good measure.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18816797800335935,
+      "unity": 0.13510696327364843,
+      "hope": 0.15629015919739322,
+      "resolve": 0.1870632450487882,
+      "anger": 0.13403152745134875,
+      "neutral": 0.19934012702546203
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "Our country has accepted obligations that are difficult to fulfill and would be dishonorable to abandon.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17417085782706013,
+      "unity": 0.16826818509768132,
+      "hope": 0.11937890316437229,
+      "resolve": 0.21071411223083364,
+      "anger": 0.22344045574072233,
+      "neutral": 0.10402748593933028
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "Yet because we have acted in the great liberating tradition of this Nation, tens of millions have achieved their freedom.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2611062918671558,
+      "unity": 0.13148372545281878,
+      "hope": 0.15458567571756998,
+      "resolve": 0.18228684525728664,
+      "anger": 0.14337801191998353,
+      "neutral": 0.12715944978518529
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "And as hope kindles hope, millions more will find it.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.110117214678068,
+      "unity": 0.11572864034199783,
+      "hope": 0.3158440344414095,
+      "resolve": 0.2060589164952178,
+      "anger": 0.1085343954236784,
+      "neutral": 0.14371679861962847
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "By our efforts, we have lit a fire as well, a fire in the minds of men.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18183881885163014,
+      "unity": 0.16227627289501956,
+      "hope": 0.1997870073338878,
+      "resolve": 0.21899040730541258,
+      "anger": 0.1086268919594154,
+      "neutral": 0.12848060165463454
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "It warms those who feel its power.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2429950803480335,
+      "unity": 0.13174827704829364,
+      "hope": 0.19815195002765168,
+      "resolve": 0.19647795912216554,
+      "anger": 0.0656542682722423,
+      "neutral": 0.16497246518161332
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "It burns those who fight its progress.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1932538157979476,
+      "unity": 0.15923272916368328,
+      "hope": 0.14435835907071257,
+      "resolve": 0.1919556102830313,
+      "anger": 0.2289157596050815,
+      "neutral": 0.08228372607954375
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "And one day this untamed fire of freedom will reach the darkest corners of our world.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1909249195031161,
+      "unity": 0.14956351805971038,
+      "hope": 0.22029463403356217,
+      "resolve": 0.19733408432069577,
+      "anger": 0.1390343594396792,
+      "neutral": 0.10284848464323638
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "A few Americans have accepted the hardest duties in this cause, in the quiet work of intelligence and diplomacy, the idealistic work of helping raise up free governments, the dangerous and necessary work of fighting our enemies.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22673206908817098,
+      "unity": 0.1287361012225356,
+      "hope": 0.14001612606049132,
+      "resolve": 0.21893044256089686,
+      "anger": 0.14200703863695577,
+      "neutral": 0.14357822243094948
+    }
+  },
+  {
+    "chunk_index": 59,
+    "text": "Some have shown their devotion to our country in deaths that honored their whole lives, and we will always honor their names and their sacrifice.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.26374119269114316,
+      "unity": 0.12867866987925228,
+      "hope": 0.09518818575139139,
+      "resolve": 0.19600544115075755,
+      "anger": 0.1420783252976896,
+      "neutral": 0.174308185229766
+    }
+  },
+  {
+    "chunk_index": 60,
+    "text": "All Americans have witnessed this idealism and some for the first time.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2504948544628621,
+      "unity": 0.1457000783106902,
+      "hope": 0.17503745400923412,
+      "resolve": 0.14230896033875687,
+      "anger": 0.157225647776967,
+      "neutral": 0.12923300510148972
+    }
+  },
+  {
+    "chunk_index": 61,
+    "text": "I ask our youngest citizens to believe the evidence of your eyes.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13022440048734066,
+      "unity": 0.13476159637975502,
+      "hope": 0.18762455328988858,
+      "resolve": 0.16411572306572544,
+      "anger": 0.20296274194678585,
+      "neutral": 0.18031098483050445
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "You have seen duty and allegiance in the determined faces of our soldiers.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19192153601869916,
+      "unity": 0.1519545670613246,
+      "hope": 0.13572720693379028,
+      "resolve": 0.23638611179494795,
+      "anger": 0.1486610196007077,
+      "neutral": 0.1353495585905303
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "You have seen that life is fragile and evil is real and courage triumphs.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18885139496308634,
+      "unity": 0.1716982366367612,
+      "hope": 0.19140239492120717,
+      "resolve": 0.21825310935218598,
+      "anger": 0.13834735351747235,
+      "neutral": 0.09144751060928695
+    }
+  },
+  {
+    "chunk_index": 64,
+    "text": "Make the choice to serve in a cause larger than your wants, larger than yourself, and in your days you will add not just to the wealth of our country but to its character.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1924799722874841,
+      "unity": 0.14758104604914404,
+      "hope": 0.17934255605866836,
+      "resolve": 0.20110156126911813,
+      "anger": 0.13202279229163763,
+      "neutral": 0.1474720720439477
+    }
+  },
+  {
+    "chunk_index": 65,
+    "text": "America has need of idealism and courage because we have essential work at home, the unfinished work of American freedom.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21477833575988742,
+      "unity": 0.1552521880722302,
+      "hope": 0.19348300872889695,
+      "resolve": 0.20587289286242558,
+      "anger": 0.12368862032498752,
+      "neutral": 0.10692495425157232
+    }
+  },
+  {
+    "chunk_index": 66,
+    "text": "In a world moving toward liberty, we are determined to show the meaning and promise of liberty.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2045199937210875,
+      "unity": 0.14430371747550838,
+      "hope": 0.20137395900679567,
+      "resolve": 0.2014698020587072,
+      "anger": 0.12416113445755583,
+      "neutral": 0.1241713932803454
+    }
+  },
+  {
+    "chunk_index": 67,
+    "text": "In America's ideal of freedom, citizens find the dignity and security of economic independence instead of laboring on the edge of subsistence.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2626844720975548,
+      "unity": 0.15396730188979188,
+      "hope": 0.1854391517070594,
+      "resolve": 0.1750719763446191,
+      "anger": 0.12442071690825589,
+      "neutral": 0.09841638105271894
+    }
+  },
+  {
+    "chunk_index": 68,
+    "text": "This is the broader definition of liberty that motivated the Homestead Act, the Social Security Act, and the GI bill of rights.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.26957145173052155,
+      "unity": 0.15273695498009332,
+      "hope": 0.15348773258391296,
+      "resolve": 0.21250437954293003,
+      "anger": 0.0989558403724398,
+      "neutral": 0.11274364079010232
+    }
+  },
+  {
+    "chunk_index": 69,
+    "text": "And now we will extend this vision by reforming great institutions to serve the needs of our time.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14889556768160733,
+      "unity": 0.15746095978729832,
+      "hope": 0.2252139744287026,
+      "resolve": 0.1752980275560067,
+      "anger": 0.16122030494450038,
+      "neutral": 0.13191116560188462
+    }
+  },
+  {
+    "chunk_index": 70,
+    "text": "To give every American a stake in the promise and future of our country, we will bring the highest standards to our schools and build an ownership society.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1917202607869668,
+      "unity": 0.15241619111383162,
+      "hope": 0.19448713387326855,
+      "resolve": 0.18584380951363777,
+      "anger": 0.1359160018717279,
+      "neutral": 0.13961660284056737
+    }
+  },
+  {
+    "chunk_index": 71,
+    "text": "We will widen the ownership of homes and businesses, retirement savings, and health insurance, preparing our people for the challenges of life in a free society.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18991692281350828,
+      "unity": 0.13893634426478194,
+      "hope": 0.24024349938230766,
+      "resolve": 0.17393688464777385,
+      "anger": 0.1248565502360669,
+      "neutral": 0.13210979865556138
+    }
+  },
+  {
+    "chunk_index": 72,
+    "text": "By making every citizen an agent of his or her own destiny, we will give our fellow Americans greater freedom from want and fear and make our society more prosperous and just and equal.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17779720043628988,
+      "unity": 0.16175303017024642,
+      "hope": 0.21035912048413605,
+      "resolve": 0.19288873959042746,
+      "anger": 0.12729504191074775,
+      "neutral": 0.1299068674081524
+    }
+  },
+  {
+    "chunk_index": 73,
+    "text": "In America's ideal of freedom, the public interest depends on private character, on integrity and tolerance toward others and the rule of conscience in our own lives.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2408860076352107,
+      "unity": 0.16655243495603286,
+      "hope": 0.14720996999446717,
+      "resolve": 0.1958564967702479,
+      "anger": 0.15718046236791922,
+      "neutral": 0.09231462827612215
+    }
+  },
+  {
+    "chunk_index": 74,
+    "text": "Self-government relies, in the end, on the governing of the self.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2005297163711178,
+      "unity": 0.19136350826558982,
+      "hope": 0.15778984146059927,
+      "resolve": 0.19696348561941146,
+      "anger": 0.12345277396408207,
+      "neutral": 0.12990067431919955
+    }
+  },
+  {
+    "chunk_index": 75,
+    "text": "That edifice of character is built in families, supported by communities with standards, and sustained in our national life by the truths of Sinai, the Sermon on the Mount, the words of the Koran, and the varied faiths of our people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21030377169990028,
+      "unity": 0.18101909613290842,
+      "hope": 0.18800016864588542,
+      "resolve": 0.20326464331720895,
+      "anger": 0.12149364104007149,
+      "neutral": 0.09591867916402541
+    }
+  },
+  {
+    "chunk_index": 76,
+    "text": "Americans move forward in every generation by reaffirming all that is good and true that came before, ideals of justice and conduct that are the same yesterday, today, and forever.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22409267130294735,
+      "unity": 0.15004406398882028,
+      "hope": 0.19449605905696232,
+      "resolve": 0.18923713181440047,
+      "anger": 0.11261894503986376,
+      "neutral": 0.1295111287970058
+    }
+  },
+  {
+    "chunk_index": 77,
+    "text": "In America's ideal of freedom, the exercise of rights is ennobled by service and mercy and a heart for the weak.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2729026517732001,
+      "unity": 0.14284833458652463,
+      "hope": 0.1426712790752344,
+      "resolve": 0.18086940469428506,
+      "anger": 0.13733050255666515,
+      "neutral": 0.12337782731409065
+    }
+  },
+  {
+    "chunk_index": 78,
+    "text": "Liberty for all does not mean independence from one another.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22821459704220215,
+      "unity": 0.19496111968568783,
+      "hope": 0.1301639388013132,
+      "resolve": 0.20209255347897817,
+      "anger": 0.1629003101342565,
+      "neutral": 0.0816674808575622
+    }
+  },
+  {
+    "chunk_index": 79,
+    "text": "Our Nation relies on men and women who look after a neighbor and surround the lost with love.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21116467090338928,
+      "unity": 0.17131246898734806,
+      "hope": 0.16768470693261808,
+      "resolve": 0.19663749901062944,
+      "anger": 0.12461952810283722,
+      "neutral": 0.12858112606317795
+    }
+  },
+  {
+    "chunk_index": 80,
+    "text": "Americans, at our best, value the life we see in one another and must always remember that even the unwanted have worth.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2694658222327886,
+      "unity": 0.16590732437086708,
+      "hope": 0.13888704149176867,
+      "resolve": 0.17387985976222223,
+      "anger": 0.12764005357323208,
+      "neutral": 0.12421989856912136
+    }
+  },
+  {
+    "chunk_index": 81,
+    "text": "And our country must abandon all the habits of racism, because we cannot carry the message of freedom and the baggage of bigotry at the same time.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17580831896346652,
+      "unity": 0.1879461068591369,
+      "hope": 0.16275173078196942,
+      "resolve": 0.17973563090132344,
+      "anger": 0.19147073427934472,
+      "neutral": 0.102287478214759
+    }
+  },
+  {
+    "chunk_index": 82,
+    "text": "From the perspective of a single day, including this day of dedication, the issues and questions before our country are many.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20162717777965294,
+      "unity": 0.15567653709260854,
+      "hope": 0.19326952633311464,
+      "resolve": 0.17878975154967439,
+      "anger": 0.1308218495220498,
+      "neutral": 0.13981515772289965
+    }
+  },
+  {
+    "chunk_index": 83,
+    "text": "From the viewpoint of centuries, the questions that come to us are narrowed and few: Did our generation advance the cause of freedom?",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2362346518375062,
+      "unity": 0.14253661435815446,
+      "hope": 0.19891135136727606,
+      "resolve": 0.2013554037954745,
+      "anger": 0.14137810462966002,
+      "neutral": 0.07958387401192878
+    }
+  },
+  {
+    "chunk_index": 84,
+    "text": "And did our character bring credit to that cause?",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2220876740183433,
+      "unity": 0.15713285013344372,
+      "hope": 0.14885638932879122,
+      "resolve": 0.21556473687260483,
+      "anger": 0.16156831613474232,
+      "neutral": 0.0947900335120746
+    }
+  },
+  {
+    "chunk_index": 85,
+    "text": "These questions that judge us also unite us, because Americans of every party and background, Americans by choice and by birth are bound to one another in the cause of freedom.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.22653778047785494,
+      "unity": 0.23896107534670638,
+      "hope": 0.13220344816604884,
+      "resolve": 0.18951897612675678,
+      "anger": 0.13246822690714527,
+      "neutral": 0.08031049297548778
+    }
+  },
+  {
+    "chunk_index": 86,
+    "text": "We have known divisions, which must be healed to move forward in great purposes, and I will strive in good faith to heal them.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.12696775486908088,
+      "unity": 0.2202885304395506,
+      "hope": 0.18613224408502071,
+      "resolve": 0.21208601352841355,
+      "anger": 0.14612826939543172,
+      "neutral": 0.10839718768250256
+    }
+  },
+  {
+    "chunk_index": 87,
+    "text": "Yet those divisions do not define America.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.24981880340018756,
+      "unity": 0.3104506932480904,
+      "hope": 0.07937586229233246,
+      "resolve": 0.1823025452291648,
+      "anger": 0.1667517675128257,
+      "neutral": 0.011300328317399098
+    }
+  },
+  {
+    "chunk_index": 88,
+    "text": "We felt the unity and fellowship of our Nation when freedom came under attack, and our response came like a single hand over a single heart.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23710120448341124,
+      "unity": 0.18410896240220603,
+      "hope": 0.1465337246219297,
+      "resolve": 0.1953343648011432,
+      "anger": 0.11449946568459309,
+      "neutral": 0.12242227800671673
+    }
+  },
+  {
+    "chunk_index": 89,
+    "text": "And we can feel that same unity and pride whenever America acts for good and the victims of disaster are given hope and the unjust encounter justice and the captives are set free.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24705400604944697,
+      "unity": 0.17362456295415782,
+      "hope": 0.15046716233201426,
+      "resolve": 0.17609607856848142,
+      "anger": 0.12932593660019853,
+      "neutral": 0.123432253495701
+    }
+  },
+  {
+    "chunk_index": 90,
+    "text": "We go forward with complete confidence in the eventual triumph of freedom, not because history runs on the wheels of inevitability\u2014it is human choices that move events; not because we consider ourselves a chosen nation\u2014God moves and chooses as He wills.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20323207552223616,
+      "unity": 0.1571205626337811,
+      "hope": 0.18966036091179317,
+      "resolve": 0.211018857742051,
+      "anger": 0.1261600436234298,
+      "neutral": 0.11280809956670876
+    }
+  },
+  {
+    "chunk_index": 91,
+    "text": "We have confidence because freedom is the permanent hope of mankind, the hunger in dark places, the longing of the soul.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23095749006961533,
+      "unity": 0.13714166564752167,
+      "hope": 0.18956988616467985,
+      "resolve": 0.22953806352721473,
+      "anger": 0.10959696092412906,
+      "neutral": 0.10319593366683935
+    }
+  },
+  {
+    "chunk_index": 92,
+    "text": "When our Founders declared a new order of the ages, when soldiers died in wave upon wave for a union based on liberty, when citizens marched in peaceful outrage under the banner \"Freedom Now,\" they were acting on an ancient hope that is meant to be fulfilled.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21963675066771748,
+      "unity": 0.14534520951468505,
+      "hope": 0.17731898130574808,
+      "resolve": 0.1825560330683798,
+      "anger": 0.16245136338698704,
+      "neutral": 0.11269166205648255
+    }
+  },
+  {
+    "chunk_index": 93,
+    "text": "History has an ebb and flow of justice, but history also has a visible direction, set by liberty and the Author of Liberty.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22283594649472804,
+      "unity": 0.15519761295983733,
+      "hope": 0.1745373803281071,
+      "resolve": 0.1958554979645016,
+      "anger": 0.1485536463765624,
+      "neutral": 0.1030199158762635
+    }
+  },
+  {
+    "chunk_index": 94,
+    "text": "When the Declaration of Independence was first read in public and the Liberty Bell was sounded in celebration, a witness said, \"It rang as if it meant something.\"",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2276736238451258,
+      "unity": 0.1422086035693104,
+      "hope": 0.15300376681173394,
+      "resolve": 0.169225037586173,
+      "anger": 0.12245413976675855,
+      "neutral": 0.18543482842089834
+    }
+  },
+  {
+    "chunk_index": 95,
+    "text": "In our time, it means something still.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22083622810477124,
+      "unity": 0.16885722945552553,
+      "hope": 0.1777894422813862,
+      "resolve": 0.178918555106496,
+      "anger": 0.1297689772753142,
+      "neutral": 0.12382956777650685
+    }
+  },
+  {
+    "chunk_index": 96,
+    "text": "America, in this young century, proclaims liberty throughout all the world and to all the inhabitants thereof.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2524843069163726,
+      "unity": 0.13427309138514937,
+      "hope": 0.18014955970029814,
+      "resolve": 0.16765496873962846,
+      "anger": 0.11871372366553147,
+      "neutral": 0.14672434959302
+    }
+  },
+  {
+    "chunk_index": 97,
+    "text": "Renewed in our strength, tested but not weary, we are ready for the greatest achievements in the history of freedom.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20807613430871386,
+      "unity": 0.14300906721028964,
+      "hope": 0.18985081900284187,
+      "resolve": 0.21083577809647014,
+      "anger": 0.11888467980671834,
+      "neutral": 0.12934352157496617
+    }
+  },
+  {
+    "chunk_index": 98,
+    "text": "May God bless you, and may He watch over the United States of America.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18237135186946885,
+      "unity": 0.1562559788917766,
+      "hope": 0.17624419210287037,
+      "resolve": 0.16107491119172754,
+      "anger": 0.13612374176833664,
+      "neutral": 0.18792982417582002
+    }
+  }
+]

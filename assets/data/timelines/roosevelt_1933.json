@@ -1,0 +1,1120 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "I am certain that my fellow Americans expect that on my induction into the Presidency I will address them with a candor and a decision which the present situation of our Nation impels.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16014039353471515,
+      "unity": 0.12579966177611926,
+      "hope": 0.18425008008242597,
+      "resolve": 0.17906700546329127,
+      "anger": 0.144696326708359,
+      "neutral": 0.20604653243508933
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "[See APP note, below.]",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.121692210461239,
+      "unity": 0.13331405599873905,
+      "hope": 0.247672044549251,
+      "resolve": 0.16348535760139193,
+      "anger": 0.10264437571827098,
+      "neutral": 0.23119195567110803
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "This is preeminently the time to speak the truth, the whole truth, frankly and boldly.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11668264867170332,
+      "unity": 0.1740218579500804,
+      "hope": 0.1768002471275447,
+      "resolve": 0.1445749027991491,
+      "anger": 0.2504457377150794,
+      "neutral": 0.13747460573644307
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "Nor need we shrink from honestly facing conditions in our country today.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15395637659470957,
+      "unity": 0.1875415395877389,
+      "hope": 0.16437668180186696,
+      "resolve": 0.1830798269777723,
+      "anger": 0.2100371292007307,
+      "neutral": 0.10100844583718158
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "This great Nation will endure as it has endured, will revive and will prosper.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20805452015713052,
+      "unity": 0.13588179989612037,
+      "hope": 0.18620930005481892,
+      "resolve": 0.1964093754608866,
+      "anger": 0.12692973776702973,
+      "neutral": 0.14651526666401385
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself\u2014nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1692322296693287,
+      "unity": 0.17776726085593558,
+      "hope": 0.16768431365188938,
+      "resolve": 0.24087778940146837,
+      "anger": 0.14155653855916292,
+      "neutral": 0.10288186786221508
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "In every dark hour of our national life a leadership of frankness and vigor has met with that understanding and support of the people themselves which is essential to victory.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19813743608649304,
+      "unity": 0.1588260548341957,
+      "hope": 0.16934634673866883,
+      "resolve": 0.1981363623398289,
+      "anger": 0.1411122413663252,
+      "neutral": 0.1344415586344883
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "I am convinced that you will again give that support to leadership in these critical days.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1559994461103054,
+      "unity": 0.14180101720209767,
+      "hope": 0.18931265805609404,
+      "resolve": 0.22236478216294653,
+      "anger": 0.13061949393970734,
+      "neutral": 0.15990260252884905
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "In such a spirit on my part and on yours we face our common difficulties.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.13835390986048135,
+      "unity": 0.21521859203231627,
+      "hope": 0.20525110989211282,
+      "resolve": 0.20903852939302545,
+      "anger": 0.1260992000407273,
+      "neutral": 0.10603865878133682
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "They concern, thank God, only material things.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18735602548885832,
+      "unity": 0.14232323185473383,
+      "hope": 0.19373707674919619,
+      "resolve": 0.20552617566566414,
+      "anger": 0.17408986443394794,
+      "neutral": 0.09696762580759959
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "Values have shrunken to fantastic levels; taxes have risen; our ability to pay has fallen; government of all kinds is faced by serious curtailment of income; the means of exchange are frozen in the currents of trade; the withered leaves of industrial enterprise lie on every side; farmers find no markets for their produce; the savings of many years in thousands of families are gone.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15608351592438205,
+      "unity": 0.14879922040161436,
+      "hope": 0.21803324833088977,
+      "resolve": 0.092945842396811,
+      "anger": 0.2471480748478734,
+      "neutral": 0.1369900980984294
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "More important, a host of unemployed citizens face the grim problem of existence, and an equally great number toil with little return.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.12672979417343397,
+      "unity": 0.15362007111431136,
+      "hope": 0.23603713595855383,
+      "resolve": 0.201896246900537,
+      "anger": 0.2260344947003091,
+      "neutral": 0.055682257152854735
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "Only a foolish optimist can deny the dark realities of the moment.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.11792819555745557,
+      "unity": 0.16233718898147578,
+      "hope": 0.2453130528420825,
+      "resolve": 0.19440706973333444,
+      "anger": 0.1861625126029087,
+      "neutral": 0.09385198028274305
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "Yet our distress comes from no failure of substance.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1875450274307242,
+      "unity": 0.1819156926617539,
+      "hope": 0.14771755458576807,
+      "resolve": 0.23532289574498041,
+      "anger": 0.16786812882428,
+      "neutral": 0.07963070075249341
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "We are stricken by no plague of locusts.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2231127929991565,
+      "unity": 0.13068107361483,
+      "hope": 0.1381619694729234,
+      "resolve": 0.20861138391005293,
+      "anger": 0.17276084914700793,
+      "neutral": 0.12667193085602926
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "Compared with the perils which our forefathers conquered because they believed and were not afraid, we have still much to be thankful for.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.27481870381860013,
+      "unity": 0.12862948214188138,
+      "hope": 0.16074349024923046,
+      "resolve": 0.21701344349979879,
+      "anger": 0.10823442596245689,
+      "neutral": 0.11056045432803231
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "Nature still offers her bounty and human efforts have multiplied it.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.21155608908422005,
+      "unity": 0.13214453295665451,
+      "hope": 0.2491833727940742,
+      "resolve": 0.2034145819727505,
+      "anger": 0.09547568565733738,
+      "neutral": 0.10822573753496333
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "Plenty is at our doorstep, but a generous use of it languishes in the very sight of the supply.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17588366452557175,
+      "unity": 0.14598853559196673,
+      "hope": 0.2519422771005159,
+      "resolve": 0.18840401168550333,
+      "anger": 0.14528018835996107,
+      "neutral": 0.0925013227364812
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "Primarily this is because rulers of the exchange of mankind's goods have failed through their own stubbornness and their own incompetence, have admitted their failure, and have abdicated.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18023342793568553,
+      "unity": 0.17560478327232298,
+      "hope": 0.12973404979577516,
+      "resolve": 0.12887566200039524,
+      "anger": 0.23703502684900835,
+      "neutral": 0.14851705014681277
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "Practices of the unscrupulous money changers stand indicted in the court of public opinion, rejected by the hearts and minds of men.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.07746296711662295,
+      "unity": 0.17054483646994548,
+      "hope": 0.09687363562693632,
+      "resolve": 0.11470148476963049,
+      "anger": 0.41804456867647444,
+      "neutral": 0.12237250734039032
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "True they have tried, but their efforts have been cast in the pattern of an outworn tradition.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18395987413610254,
+      "unity": 0.17508693604751563,
+      "hope": 0.15301587966623456,
+      "resolve": 0.19386539108102763,
+      "anger": 0.2131659031697972,
+      "neutral": 0.08090601589932246
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "Faced by failure of credit they have proposed only the lending of more money.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": -0.2999439061508736,
+      "unity": 0.22567387670429193,
+      "hope": 0.3103536520146734,
+      "resolve": 0.1678967883606681,
+      "anger": 0.6195077842153819,
+      "neutral": -0.0234881951441417
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "Stripped of the lure of profit by which to induce our people to follow their false leadership, they have resorted to exhortations, pleading tearfully for restored confidence.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14872634487766578,
+      "unity": 0.16029856838084885,
+      "hope": 0.1656148838106424,
+      "resolve": 0.17231428538492222,
+      "anger": 0.22214413305633987,
+      "neutral": 0.13090178448958084
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "They know only the rules of a generation of self-seekers.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.08010379528854636,
+      "unity": 0.20122613785740281,
+      "hope": 0.16508028971280905,
+      "resolve": 0.18429834424083197,
+      "anger": 0.33377017314758495,
+      "neutral": 0.03552125975282485
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "They have no vision, and when there is no vision the people perish.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12009587065949051,
+      "unity": 0.17749178467983504,
+      "hope": 0.18116396645636068,
+      "resolve": 0.1992588640673236,
+      "anger": 0.26692009729560984,
+      "neutral": 0.05506941684138034
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "The money changers have fled from their high seats in the temple of our civilization.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13335389362423436,
+      "unity": 0.1581037727857265,
+      "hope": 0.19019823372238984,
+      "resolve": 0.0958479054111465,
+      "anger": 0.2496882683097825,
+      "neutral": 0.17280792614672033
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "We may now restore that temple to the ancient truths.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15994550631264448,
+      "unity": 0.1630927874214362,
+      "hope": 0.18557201277154248,
+      "resolve": 0.16617376059625857,
+      "anger": 0.16184737208988703,
+      "neutral": 0.16336856080823123
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "The measure of the restoration lies in the extent to which we apply social values more noble than mere monetary profit.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2112565884856926,
+      "unity": 0.17015378658461663,
+      "hope": 0.18070616610064735,
+      "resolve": 0.17587896800276565,
+      "anger": 0.1524097703534113,
+      "neutral": 0.1095947204728665
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "Happiness lies not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.2033748600638527,
+      "unity": 0.1349843288033173,
+      "hope": 0.25426060914272686,
+      "resolve": 0.195898810871657,
+      "anger": 0.0811261136583845,
+      "neutral": 0.1303552774600617
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "The joy and moral stimulation of work no longer must be forgotten in the mad chase of evanescent profits.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1533756325111568,
+      "unity": 0.1268303937356506,
+      "hope": 0.24440914214875964,
+      "resolve": 0.18356549006318792,
+      "anger": 0.16493299129177638,
+      "neutral": 0.12688635024946868
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "These dark days will be worth all they cost us if they teach us that our true destiny is not to be ministered unto but to minister to ourselves and to our fellow men.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14710718713785206,
+      "unity": 0.17163302673135333,
+      "hope": 0.22010275717344474,
+      "resolve": 0.207977019086393,
+      "anger": 0.1271256920687716,
+      "neutral": 0.12605431780218526
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "Recognition of the falsity of material wealth as the standard of success goes hand in hand with the abandonment of the false belief that public office and high political position are to be valued only by the standards of pride of place and personal profit; and there must be an end to a conduct in banking and in business which too often has given to a sacred trust the likeness of callous and selfish wrongdoing.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1567440719090437,
+      "unity": 0.14649192143962664,
+      "hope": 0.17666051466536808,
+      "resolve": 0.1507669075245961,
+      "anger": 0.20832254652465979,
+      "neutral": 0.16101403793670568
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "Small wonder that confidence languishes, for it thrives only on honesty, on honor, on the sacredness of obligations, on faithful protection, on unselfish performance; without them it cannot live.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17453745704295723,
+      "unity": 0.15625414720749345,
+      "hope": 0.19931095708273475,
+      "resolve": 0.23668777610145372,
+      "anger": 0.09850364740210003,
+      "neutral": 0.13470601516326083
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "Restoration calls, however, not for changes in ethics alone.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.12839362187943787,
+      "unity": 0.21341245285099386,
+      "hope": 0.1562763684731447,
+      "resolve": 0.2097362963166054,
+      "anger": 0.2271495254325439,
+      "neutral": 0.06503173504727428
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "This Nation asks for action, and action now.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15249717592383913,
+      "unity": 0.14864455506634905,
+      "hope": 0.16514222542942117,
+      "resolve": 0.16475907754712216,
+      "anger": 0.21701711061661283,
+      "neutral": 0.1519398554166557
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "Our greatest primary task is to put people to work.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1908906568954504,
+      "unity": 0.1366752515265317,
+      "hope": 0.19784213084683958,
+      "resolve": 0.23195794018581856,
+      "anger": 0.1261668443142368,
+      "neutral": 0.11646717623112297
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "This is no unsolvable problem if we face it wisely and courageously.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.11627423569296245,
+      "unity": 0.18839143322490953,
+      "hope": 0.20062703339399668,
+      "resolve": 0.23370147263254765,
+      "anger": 0.19356537300640017,
+      "neutral": 0.06744045204918353
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "It can be accomplished in part by direct recruiting by the Government itself, treating the task as we would treat the emergency of a war, but at the same time, through this employment, accomplishing greatly needed projects to stimulate and reorganize the use of our natural resources.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18888716060644553,
+      "unity": 0.13847809329691613,
+      "hope": 0.20363694617822314,
+      "resolve": 0.20523447514215015,
+      "anger": 0.1437810707049717,
+      "neutral": 0.11998225407129334
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "Hand in hand with this we must frankly recognize the overbalance of population in our industrial centers and, by engaging on a national scale in a redistribution, endeavor to provide a better use of the land for those best fitted for the land.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1446933161562611,
+      "unity": 0.1837234083634225,
+      "hope": 0.19441107493229898,
+      "resolve": 0.15326555661986815,
+      "anger": 0.1903636800669015,
+      "neutral": 0.1335429638612478
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "The task can be helped by definite efforts to raise the values of agricultural products and with this the power to purchase the output of our cities.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1812649159363053,
+      "unity": 0.13454076792596012,
+      "hope": 0.2796144887241457,
+      "resolve": 0.1657875163732719,
+      "anger": 0.14504977744694475,
+      "neutral": 0.09374253359337222
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "It can be helped by preventing realistically the tragedy of the growing loss through foreclosure of our small homes and our farms.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14808418115717573,
+      "unity": 0.15068711364543716,
+      "hope": 0.23064767937202119,
+      "resolve": 0.18484423919367213,
+      "anger": 0.16675959603003215,
+      "neutral": 0.11897719060166168
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "It can be helped by insistence that the Federal, State, and local governments act forthwith on the demand that their cost be drastically reduced.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13443429528565268,
+      "unity": 0.18486486142343195,
+      "hope": 0.13092130405340052,
+      "resolve": 0.17580968583068385,
+      "anger": 0.2315061649445097,
+      "neutral": 0.14246368846232133
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "It can be helped by the unifying of relief activities which today are often scattered, uneconomical, and unequal.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.13908714936341665,
+      "unity": 0.25727912080749005,
+      "hope": 0.19672549510275156,
+      "resolve": 0.19498439711283988,
+      "anger": 0.15404390742523957,
+      "neutral": 0.05787993018826231
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "It can be helped by national planning for and supervision of all forms of transportation and of communications and other utilities which have a definitely public character.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19551407942959545,
+      "unity": 0.14913827014519992,
+      "hope": 0.224741230358359,
+      "resolve": 0.18831679631266154,
+      "anger": 0.1275393107170604,
+      "neutral": 0.11475031303712367
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "There are many ways in which it can be helped, but it can never be helped merely by talking about it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1480189253292664,
+      "unity": 0.21040572918513006,
+      "hope": 0.20302123210312595,
+      "resolve": 0.23437406888861528,
+      "anger": 0.12245298431482718,
+      "neutral": 0.08172706017903512
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "We must act and act quickly.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.10999684070328275,
+      "unity": 0.15679480466601634,
+      "hope": 0.17456722503737862,
+      "resolve": 0.18174844582155592,
+      "anger": 0.24467521615798207,
+      "neutral": 0.13221746761378428
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "Finally, in our progress toward a resumption of work we require two safeguards against a return of the evils of the old order: there must be a strict supervision of all banking and credits and investments, so that there will be an end to speculation with other people's money; and there must be provision for an adequate but sound currency.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.11952607220528678,
+      "unity": 0.1392268849389806,
+      "hope": 0.215032410489893,
+      "resolve": 0.20035081842215632,
+      "anger": 0.18850566408006075,
+      "neutral": 0.13735814986362252
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "These are the lines of attack.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.14340674948853435,
+      "unity": 0.1512715822303832,
+      "hope": 0.155622638858051,
+      "resolve": 0.2340621633244403,
+      "anger": 0.20122325381098835,
+      "neutral": 0.11441361228760283
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "I shall presently urge upon a new Congress, in special session, detailed measures for their fulfillment, and I shall seek the immediate assistance of the several States.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1278313811255104,
+      "unity": 0.1536378597095552,
+      "hope": 0.16197973677151303,
+      "resolve": 0.15587862215191553,
+      "anger": 0.1733539751317603,
+      "neutral": 0.22731842510974554
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "Through this program of action we address ourselves to putting our own national house in order and making income balance outgo.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.171106557777466,
+      "unity": 0.16566485423491945,
+      "hope": 0.17825502411473462,
+      "resolve": 0.1710429500599693,
+      "anger": 0.1607188500587578,
+      "neutral": 0.15321176375415282
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "Our international trade relations, though vastly important, are in point of time and necessity secondary to the establishment of a sound national economy.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22269563999360634,
+      "unity": 0.17133230416973091,
+      "hope": 0.15819065250967845,
+      "resolve": 0.19637140217630542,
+      "anger": 0.15339924418773204,
+      "neutral": 0.09801075696294685
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "I favor as a practical policy the putting of first things first.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17418592513578543,
+      "unity": 0.17109389162979652,
+      "hope": 0.17021055483871791,
+      "resolve": 0.1803432788932355,
+      "anger": 0.160744428278824,
+      "neutral": 0.1434219212236406
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "I shall spare no effort to restore world trade by international economic readjustment, but the emergency at home cannot wait on that accomplishment.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1568217398111063,
+      "unity": 0.14711735437774665,
+      "hope": 0.17185664448684418,
+      "resolve": 0.1983280330890883,
+      "anger": 0.1779551441031351,
+      "neutral": 0.14792108413207947
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "The basic thought that guides these specific means of national recovery is not narrowly nationalistic.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2593118473876533,
+      "unity": 0.2225023272764235,
+      "hope": 0.14725330064524036,
+      "resolve": 0.20499697172985681,
+      "anger": 0.1257817009355752,
+      "neutral": 0.040153852025250805
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "It is the insistence, as a first considerations, upon the interdependence of the various elements in and parts of the United States\u2014a recognition of the old and permanently important manifestation of the American spirit of the pioneer.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2462738391270187,
+      "unity": 0.18601084074107657,
+      "hope": 0.15935718849843813,
+      "resolve": 0.19275836967042678,
+      "anger": 0.09827884328823053,
+      "neutral": 0.11732091867480933
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "It is the way to recovery.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12304605186688758,
+      "unity": 0.20199271735525853,
+      "hope": 0.18601552564245055,
+      "resolve": 0.21553142263141695,
+      "anger": 0.1419508422437841,
+      "neutral": 0.1314634402602023
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "It is the immediate way.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.10094588270685056,
+      "unity": 0.14358457412658665,
+      "hope": 0.17926152832046516,
+      "resolve": 0.1741947683696094,
+      "anger": 0.20155286251184087,
+      "neutral": 0.20046038396464735
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "It is the strongest assurance that the recovery will endure.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17933968674365733,
+      "unity": 0.14779628666487762,
+      "hope": 0.18924004386211699,
+      "resolve": 0.25207842311186396,
+      "anger": 0.07702336377282949,
+      "neutral": 0.15452219584465463
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "In the field of world policy I would dedicate this Nation to the policy of the good neighbor\u2014the neighbor who resolutely respects himself and, because he does so, respects the rights of others\u2014the neighbor who respects his obligations and respects the sanctity of his agreements in and with a world of neighbors.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20219524181598572,
+      "unity": 0.16682595003325112,
+      "hope": 0.15160522441466157,
+      "resolve": 0.17704994654967737,
+      "anger": 0.13567604962769006,
+      "neutral": 0.16664758755873416
+    }
+  },
+  {
+    "chunk_index": 59,
+    "text": "If I read the temper of our people correctly, we now realize as we have never realized before our interdependence on each other; that we cannot merely take but we must give as well; that if we are to go forward, we must move as a trained and loyal army willing to sacrifice for the good of a common discipline, because without such discipline no progress is made, no leadership becomes effective.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16642284358843795,
+      "unity": 0.18005287802691758,
+      "hope": 0.16790222672724955,
+      "resolve": 0.19951425475757328,
+      "anger": 0.1639348901202169,
+      "neutral": 0.12217290677960468
+    }
+  },
+  {
+    "chunk_index": 60,
+    "text": "We are, I know, ready and willing to submit our lives and property to such discipline, because it makes possible a leadership which aims at a larger good.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15370174559681893,
+      "unity": 0.14772706375528516,
+      "hope": 0.1706308529264836,
+      "resolve": 0.2317192036600186,
+      "anger": 0.1638571368929165,
+      "neutral": 0.1323639971684772
+    }
+  },
+  {
+    "chunk_index": 61,
+    "text": "This I propose to offer, pledging that the larger purposes will bind upon us all as a sacred obligation with a unity of duty hitherto evoked only in time of armed strife.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1340779468572092,
+      "unity": 0.17973442806181744,
+      "hope": 0.17661491614851205,
+      "resolve": 0.1976679724464386,
+      "anger": 0.13718057763849098,
+      "neutral": 0.17472415884753176
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "With this pledge taken, I assume unhesitatingly the leadership of this great army of our people dedicated to a disciplined attack upon our common problems.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17266257115599573,
+      "unity": 0.14164343595546272,
+      "hope": 0.1582452201059102,
+      "resolve": 0.19823171966239342,
+      "anger": 0.14631554132952027,
+      "neutral": 0.18290151179071767
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "Action in this image and to this end is feasible under the form of government which we have inherited from our ancestors.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.184660027746046,
+      "unity": 0.1641392038585256,
+      "hope": 0.1906892684453881,
+      "resolve": 0.18094826856108304,
+      "anger": 0.14967142484463566,
+      "neutral": 0.12989180654432156
+    }
+  },
+  {
+    "chunk_index": 64,
+    "text": "Our Constitution is so simple and practical that it is possible always to meet extraordinary needs by changes in emphasis and arrangement without loss of essential form.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23083142566925352,
+      "unity": 0.14775529273539295,
+      "hope": 0.13802513022447147,
+      "resolve": 0.1928482083322494,
+      "anger": 0.13547407978844786,
+      "neutral": 0.1550658632501848
+    }
+  },
+  {
+    "chunk_index": 65,
+    "text": "That is why our constitutional system has proved itself the most superbly enduring political mechanism the modern world has produced.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24642655657296134,
+      "unity": 0.15498245026098129,
+      "hope": 0.11138891599284251,
+      "resolve": 0.19384034556604293,
+      "anger": 0.18404022289156216,
+      "neutral": 0.10932150871560976
+    }
+  },
+  {
+    "chunk_index": 66,
+    "text": "It has met every stress of vast expansion of territory, of foreign wars, of bitter internal strife, of world relations.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.265182047607077,
+      "unity": 0.15350117571279218,
+      "hope": 0.15480050275469548,
+      "resolve": 0.21263273941801242,
+      "anger": 0.1423955551236528,
+      "neutral": 0.07148797938377018
+    }
+  },
+  {
+    "chunk_index": 67,
+    "text": "It is to be hoped that the normal balance of Executive and legislative authority may be wholly adequate to meet the unprecedented task before us.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15959295274075994,
+      "unity": 0.1316976409955727,
+      "hope": 0.18124887081141708,
+      "resolve": 0.2132110669188621,
+      "anger": 0.14562349202513272,
+      "neutral": 0.16862597650825548
+    }
+  },
+  {
+    "chunk_index": 68,
+    "text": "But it may be that an unprecedented demand and need for undelayed action may call for temporary departure from that normal balance of public procedure.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.10926075204659973,
+      "unity": 0.1696601750556856,
+      "hope": 0.17129456475389274,
+      "resolve": 0.15924092889610952,
+      "anger": 0.2683491774844687,
+      "neutral": 0.12219440176324373
+    }
+  },
+  {
+    "chunk_index": 69,
+    "text": "I am prepared under my constitutional duty to recommend the measures that a stricken Nation in the midst of a stricken world may require.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1377671758163556,
+      "unity": 0.1448668745123901,
+      "hope": 0.16907421467824635,
+      "resolve": 0.17723673751121888,
+      "anger": 0.17633362131618724,
+      "neutral": 0.19472137616560184
+    }
+  },
+  {
+    "chunk_index": 70,
+    "text": "These measures, or such other measures as the Congress may build out of its experience and wisdom, I shall seek, within my constitutional authority, to bring to speedy adoption.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.12693502169249343,
+      "unity": 0.10966789795860313,
+      "hope": 0.17558531154902293,
+      "resolve": 0.16323278209906852,
+      "anger": 0.17593781180076615,
+      "neutral": 0.24864117490004584
+    }
+  },
+  {
+    "chunk_index": 71,
+    "text": "But in the event that the Congress shall fail to take one of these two courses, and in the event that the national emergency is still critical, I shall not evade the clear course of duty that will then confront me.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13167744679471918,
+      "unity": 0.14835255699027144,
+      "hope": 0.13776464812291875,
+      "resolve": 0.25349054064718535,
+      "anger": 0.17750981337777785,
+      "neutral": 0.15120499406712745
+    }
+  },
+  {
+    "chunk_index": 72,
+    "text": "I shall ask the Congress for the one remaining instrument to meet the crisis\u2014broad Executive power to wage a war against the emergency, as great as the power that would be given to me if we were in fact invaded by a foreign foe.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1646202417922619,
+      "unity": 0.13531924066071863,
+      "hope": 0.13698075223018988,
+      "resolve": 0.200180297124536,
+      "anger": 0.17869317896649367,
+      "neutral": 0.18420628922579993
+    }
+  },
+  {
+    "chunk_index": 73,
+    "text": "For the trust reposed in me I will return the courage and the devotion that befit the time.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.1268403621234307,
+      "unity": 0.15509504293325954,
+      "hope": 0.20654076667279359,
+      "resolve": 0.20446563953596755,
+      "anger": 0.10406312281466731,
+      "neutral": 0.2029950659198813
+    }
+  },
+  {
+    "chunk_index": 74,
+    "text": "I can do no less.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.07708035138929911,
+      "unity": 0.14018424915965821,
+      "hope": 0.20685191836896372,
+      "resolve": 0.16677243268471223,
+      "anger": 0.17713623672915546,
+      "neutral": 0.23197481166821127
+    }
+  },
+  {
+    "chunk_index": 75,
+    "text": "We face the arduous days that lie before us in the warm courage of national unity; with the clear consciousness of seeking old and precious moral values; with the clean satisfaction that comes from the stern performance of duty by old and young alike.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19372457834550988,
+      "unity": 0.15598537454036002,
+      "hope": 0.19200907500874662,
+      "resolve": 0.18471648484317651,
+      "anger": 0.13152861598176716,
+      "neutral": 0.14203587128043982
+    }
+  },
+  {
+    "chunk_index": 76,
+    "text": "We aim at the assurance of a rounded and permanent national life.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21606326503314666,
+      "unity": 0.1521169801190032,
+      "hope": 0.17016698467072552,
+      "resolve": 0.18572904315645408,
+      "anger": 0.12183783512272314,
+      "neutral": 0.15408589189794739
+    }
+  },
+  {
+    "chunk_index": 77,
+    "text": "We do not distrust the future of essential democracy.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16913568171067733,
+      "unity": 0.14044086253965488,
+      "hope": 0.1852891775470965,
+      "resolve": 0.22538374407189943,
+      "anger": 0.1643269110080234,
+      "neutral": 0.11542362312264844
+    }
+  },
+  {
+    "chunk_index": 78,
+    "text": "The people of the United States have not failed.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23346556439101487,
+      "unity": 0.14306002660448985,
+      "hope": 0.1339033744931541,
+      "resolve": 0.20719722402850715,
+      "anger": 0.16085096805984,
+      "neutral": 0.12152284242299399
+    }
+  },
+  {
+    "chunk_index": 79,
+    "text": "In their need they have registered a mandate that they want direct, vigorous action.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.09190313910941539,
+      "unity": 0.14201727143998422,
+      "hope": 0.17649260359586533,
+      "resolve": 0.18894968450244598,
+      "anger": 0.2588639015693229,
+      "neutral": 0.1417733997829662
+    }
+  },
+  {
+    "chunk_index": 80,
+    "text": "They have asked for discipline and direction under leadership.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.08660755527371636,
+      "unity": 0.16553975919733932,
+      "hope": 0.1914825862401272,
+      "resolve": 0.23055269345144488,
+      "anger": 0.19135854042648687,
+      "neutral": 0.13445886541088536
+    }
+  },
+  {
+    "chunk_index": 81,
+    "text": "They have made me the present instrument of their wishes.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.0872230474323171,
+      "unity": 0.12999340281380317,
+      "hope": 0.20629877033511015,
+      "resolve": 0.1820588010950117,
+      "anger": 0.14230830811489623,
+      "neutral": 0.25211767020886167
+    }
+  },
+  {
+    "chunk_index": 82,
+    "text": "In the spirit of the gift I take it.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13277621217120378,
+      "unity": 0.13893096153891682,
+      "hope": 0.20779995723413547,
+      "resolve": 0.1464550875559513,
+      "anger": 0.08876568234152901,
+      "neutral": 0.2852720991582636
+    }
+  },
+  {
+    "chunk_index": 83,
+    "text": "In this dedication of a Nation we humbly ask the blessing of God.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21270549495541996,
+      "unity": 0.1428608835165463,
+      "hope": 0.17321934279805615,
+      "resolve": 0.1694407405522061,
+      "anger": 0.11944125587381621,
+      "neutral": 0.18233228230395532
+    }
+  },
+  {
+    "chunk_index": 84,
+    "text": "May He protect each and every one of us.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1394230163738001,
+      "unity": 0.14921802582702529,
+      "hope": 0.20162925057372838,
+      "resolve": 0.21240962669183042,
+      "anger": 0.12210647985737651,
+      "neutral": 0.1752136006762393
+    }
+  },
+  {
+    "chunk_index": 85,
+    "text": "May He guide me in the days to come.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.06468419546010921,
+      "unity": 0.17305317684316726,
+      "hope": 0.29475910954600637,
+      "resolve": 0.20343512385426427,
+      "anger": 0.08336386124002622,
+      "neutral": 0.18070453305642667
+    }
+  }
+]

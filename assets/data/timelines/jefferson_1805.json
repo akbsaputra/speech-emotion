@@ -1,0 +1,587 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "PROCEEDING, fellow-citizens, to that qualification which the Constitution requires before my entrance on the charge again conferred on me, it is my duty to express the deep sense I entertain of this new proof of confidence from my fellow-citizens at large, and the zeal with which it inspires me so to conduct myself as may best satisfy their just expectations.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16295275228005948,
+      "unity": 0.13456476203847062,
+      "hope": 0.1748501395769942,
+      "resolve": 0.181226997658194,
+      "anger": 0.12180883068077644,
+      "neutral": 0.22459651776550527
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "On taking this station on a former occasion I declared the principles on which I believed it my duty to administer the affairs of our Commonwealth.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17332535410296074,
+      "unity": 0.1392605200308644,
+      "hope": 0.1452834134791122,
+      "resolve": 0.1605411165138684,
+      "anger": 0.13592347493985266,
+      "neutral": 0.24566612093334161
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "My conscience tells me I have on every occasion acted up to that declaration according to its obvious import and to the understanding of every candid mind.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1540029232410507,
+      "unity": 0.14151182237521095,
+      "hope": 0.15938313541519786,
+      "resolve": 0.1971551634583795,
+      "anger": 0.1616796418807334,
+      "neutral": 0.18626731362942758
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "In the transaction of your foreign affairs we have endeavored to cultivate the friendship of all nations, and especially of those with which we have the most important relations.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23216102613258266,
+      "unity": 0.17462502463167753,
+      "hope": 0.14477483988540096,
+      "resolve": 0.19487364980397506,
+      "anger": 0.10315063874424006,
+      "neutral": 0.15041482080212368
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "We have done them justice on all occasions, favored where favor was lawful, and cherished mutual interests and intercourse on fair and equal terms.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2252181002026243,
+      "unity": 0.15279814264219185,
+      "hope": 0.12624934934970652,
+      "resolve": 0.19695814703137343,
+      "anger": 0.14711105709073163,
+      "neutral": 0.15166520368337227
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "We are firmly convinced, and we act on that conviction, that with nations as with individuals our interests soundly calculated will ever be found inseparable from our moral duties, and history bears witness to the fact that a just nation is trusted on its word when recourse is had to armaments and wars to bridle others.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21487809828568447,
+      "unity": 0.1773796675964948,
+      "hope": 0.13254610664902708,
+      "resolve": 0.22269661256250897,
+      "anger": 0.1582742367489131,
+      "neutral": 0.09422527815737161
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "At home, fellow-citizens, you best know whether we have done well or ill.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21024905146368855,
+      "unity": 0.1544417782621049,
+      "hope": 0.16750749007631915,
+      "resolve": 0.17750311132817673,
+      "anger": 0.14802925804784392,
+      "neutral": 0.14226931082186675
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "The suppression of unnecessary offices, of useless establishments and expenses, enabled us to discontinue our internal taxes.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.262175324804873,
+      "unity": 0.08677704053137016,
+      "hope": -0.026237461811447316,
+      "resolve": 0.042797063091378984,
+      "anger": 0.3383280945537786,
+      "neutral": 0.2961599388300466
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "These, covering our land with officers and opening our doors to their intrusions, had already begun that process of domiciliary vexation which once entered is scarcely to be restrained from reaching successively every article of property and produce.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15425057613071363,
+      "unity": 0.14379669931904276,
+      "hope": 0.15739567310334013,
+      "resolve": 0.19175394623010825,
+      "anger": 0.20669722821867495,
+      "neutral": 0.1461058769981203
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "If among these taxes some minor ones fell which had not been inconvenient, it was because their amount would not have paid the officers who collected them, and because, if they had any merit, the State authorities might adopt them instead of others less approved.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.19447459870754896,
+      "unity": 0.12688256818638693,
+      "hope": 0.1005683209625223,
+      "resolve": 0.1718036215605306,
+      "anger": 0.2225058459836216,
+      "neutral": 0.18376504459938955
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "The remaining revenue on the consumption of foreign articles is paid chiefly by those who can afford to add foreign luxuries to domestic comforts, being collected on our seaboard and frontiers only, and incorporated with the transactions of our mercantile citizens, it may be the pleasure and the pride of an American to ask, What farmer, what mechanic, what laborer ever sees a taxgatherer of the United States?",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3046970314266895,
+      "unity": 0.12463613077878295,
+      "hope": 0.114657009205155,
+      "resolve": 0.15619266344275334,
+      "anger": 0.14125119953971624,
+      "neutral": 0.15856596560690295
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "These contributions enable us to support the current expenses of the Government, to fulfill contracts with foreign nations, to extinguish the native right of soil within our limits, to extend those limits, and to apply such a surplus to our public debts as places at a short day their final redemption, and that redemption once effected the revenue thereby liberated may, by a just repartition of it among the States and a corresponding amendment of the Constitution, be applied in time of peace to rivers, canals, roads, arts, manufactures, education, and other great objects within each State.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2209783108483569,
+      "unity": 0.15514866946656142,
+      "hope": 0.15043111187448058,
+      "resolve": 0.1778520095156187,
+      "anger": 0.13904541223743716,
+      "neutral": 0.15654448605754526
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "In time of war, if injustice by ourselves or others must sometimes produce war, increased as the same revenue will be by increased population and consumption, and aided by other resources reserved for that crisis, it may meet within the year all the expenses of the year without encroaching on the rights of future generations by burthening them with the debts of the past.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16695389308212263,
+      "unity": 0.15184630365991686,
+      "hope": 0.18347261686861735,
+      "resolve": 0.20740995674431,
+      "anger": 0.17572672415934992,
+      "neutral": 0.11459050548568324
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "War will then be but a suspension of useful works, and a return to a state of peace, a return to the progress of improvement.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15996968682196344,
+      "unity": 0.15187203965265672,
+      "hope": 0.18288608239155896,
+      "resolve": 0.18941489154249877,
+      "anger": 0.1716628371543595,
+      "neutral": 0.14419446243696257
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "I have said, fellow-citizens, that the income reserved had enabled us to extend our limits, but that extension may possibly pay for itself before we are called on, and in the meantime may keep down the accruing interest; in all events, it will replace the advances we shall have made.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.131511928267858,
+      "unity": 0.14343602784115575,
+      "hope": 0.19185066061770314,
+      "resolve": 0.1795742420092992,
+      "anger": 0.1653958526121215,
+      "neutral": 0.18823128865186237
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "I know that the acquisition of Louisiana had been disapproved by some from a candid apprehension that the enlargement of our territory would endanger its union.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1869534037363139,
+      "unity": 0.24791086915122534,
+      "hope": 0.09975117890002917,
+      "resolve": 0.23827409930724824,
+      "anger": 0.169750344233474,
+      "neutral": 0.05736010467170934
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "But who can limit the extent to which the federative principle may operate effectively?",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.10303536205354483,
+      "unity": 0.21731483653968572,
+      "hope": 0.19793706006532497,
+      "resolve": 0.20095313072648166,
+      "anger": 0.26702349428882666,
+      "neutral": 0.013736116326136177
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "The larger our association the less will it be shaken by local passions; and in any view is it not better that the opposite bank of the Mississippi should be settled by our own brethren and children than by strangers of another family?",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.14440945494500396,
+      "unity": 0.2235461183474905,
+      "hope": 0.15196772864956046,
+      "resolve": 0.18919228864916973,
+      "anger": 0.15742917616896163,
+      "neutral": 0.13345523323981376
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "With which should we be most likely to live in harmony and friendly intercourse?",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.11795760555202886,
+      "unity": 0.2917594385050826,
+      "hope": 0.18382406519664402,
+      "resolve": 0.1838955721478032,
+      "anger": 0.12613176203697776,
+      "neutral": 0.09643155656146352
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "In matters of religion I have considered that its free exercise is placed by the Constitution independent of the powers of the General Government.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2696366773640329,
+      "unity": 0.1792540362583291,
+      "hope": 0.04659645008449048,
+      "resolve": 0.17322115228775836,
+      "anger": 0.20761171502630785,
+      "neutral": 0.12367996897908132
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "I have therefore undertaken on no occasion to prescribe the religious exercises suited to it, but have left them, as the Constitution found them, under the direction and discipline of the church or state authorities acknowledged by the several religious societies.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.0956339154600359,
+      "unity": 0.20397552800692265,
+      "hope": 0.054170447986398286,
+      "resolve": 0.12117725637249686,
+      "anger": 0.24832904314164225,
+      "neutral": 0.2767138090325041
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "The aboriginal inhabitants of these countries I have regarded with the commiseration their history inspires.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.30151710853721936,
+      "unity": 0.15855308823263164,
+      "hope": 0.12460640264320354,
+      "resolve": 0.1638006959047923,
+      "anger": 0.0878476184605673,
+      "neutral": 0.16367508622158589
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "Endowed with the faculties and the rights of men, breathing an ardent love of liberty and independence, and occupying a country which left them no desire but to be undisturbed, the stream of overflowing population from other regions directed itself on these shores; without power to divert or habits to contend against it, they have been overwhelmed by the current or driven before it; now reduced within limits too narrow for the hunter's state, humanity enjoins us to teach them agriculture and the domestic arts; to encourage them to that industry which alone can enable them to maintain their place in existence and to prepare them in time for that state of society which to bodily comforts adds the improvement of the mind and morals.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21635484632361388,
+      "unity": 0.1641804827252903,
+      "hope": 0.1904205084457965,
+      "resolve": 0.1586949512591232,
+      "anger": 0.13576647573515435,
+      "neutral": 0.1345827355110218
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "We have therefore liberally furnished them with the implements of husbandry and household use; we have placed among them instructors in the arts of first necessity, and they are covered with the aegis of the law against aggressors from among ourselves.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1817479060670432,
+      "unity": 0.13389307623916086,
+      "hope": 0.15519585243233214,
+      "resolve": 0.2159817426813704,
+      "anger": 0.15780878722067251,
+      "neutral": 0.1553726353594209
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "But the endeavors to enlighten them on the fate which awaits their present course of life, to induce them to exercise their reason, follow its dictates, and change their pursuits with the change of circumstances have powerful obstacles to encounter; they are combated by the habits of their bodies, prejudices of their minds, ignorance, pride, and the influence of interested and crafty individuals among them who feel themselves something in the present order of things and fear to become nothing in any other.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.11713473390143928,
+      "unity": 0.16818343534769756,
+      "hope": 0.25371828868786306,
+      "resolve": 0.2213569857218122,
+      "anger": 0.14282147533000966,
+      "neutral": 0.09678508101117828
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "These persons inculcate a sanctimonious reverence for the customs of their ancestors; that whatsoever they did must be done through all time; that reason is a false guide, and to advance under its counsel in their physical, moral, or political condition is perilous innovation; that their duty is to remain as their Creator made them, ignorance being safety and knowledge full of danger; in short, my friends, among them also is seen the action and counteraction of good sense and of bigotry; they too have their antiphilosophists who find an interest in keeping things in their present state, who dread reformation, and exert all their faculties to maintain the ascendancy of habit over the duty of improving our reason and obeying its mandates.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14288720176189035,
+      "unity": 0.19361514927415163,
+      "hope": 0.1632885877402311,
+      "resolve": 0.18251503255666818,
+      "anger": 0.2049043124168672,
+      "neutral": 0.11278971625019153
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "In giving these outlines I do not mean, fellow-citizens, to arrogate to myself the merit of the measures.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13400886852371274,
+      "unity": 0.16268813732971965,
+      "hope": 0.1464731252426427,
+      "resolve": 0.1901966959273682,
+      "anger": 0.19057792331263407,
+      "neutral": 0.17605524966392264
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "That is due, in the first place, to the reflecting character of our citizens at large, who, by the weight of public opinion, influence and strengthen the public measures.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24407435482945536,
+      "unity": 0.16438190548305034,
+      "hope": 0.12925306069897297,
+      "resolve": 0.19563739985908868,
+      "anger": 0.16618378461315447,
+      "neutral": 0.10046949451627818
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "It is due to the sound discretion with which they select from among themselves those to whom they confide the legislative duties.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.14711994269349102,
+      "unity": 0.12059196765155886,
+      "hope": 0.029347675412295847,
+      "resolve": 0.1626994680075511,
+      "anger": 0.23481080743240174,
+      "neutral": 0.3054301388027014
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "It is due to the zeal and wisdom of the characters thus selected, who lay the foundations of public happiness in wholesome laws, the execution of which alone remains for others, and it is due to the able and faithful auxiliaries, whose patriotism has associated them with me in the executive functions.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23085585727530006,
+      "unity": 0.1287830822895164,
+      "hope": 0.14566091088357805,
+      "resolve": 0.20747962990293367,
+      "anger": 0.10904176617729695,
+      "neutral": 0.17817875347137488
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "During this course of administration, and in order to disturb it, the artillery of the press has been leveled against us, charged with whatsoever its licentiousness could devise or dare.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15730041289291843,
+      "unity": 0.12766537829514366,
+      "hope": 0.10817595063353203,
+      "resolve": 0.22503700047756853,
+      "anger": 0.273597059092359,
+      "neutral": 0.10822419860847837
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "These abuses of an institution so important to freedom and science are deeply to be regretted, inasmuch as they tend to lessen its usefulness and to sap its safety.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13398813520455977,
+      "unity": 0.13409491718103175,
+      "hope": 0.1253621726303122,
+      "resolve": 0.19913302930680588,
+      "anger": 0.29550246388947227,
+      "neutral": 0.11191928178781813
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "They might, indeed, have been corrected by the wholesome punishments reserved to and provided by the laws of the several States against falsehood and defamation, but public duties more urgent press on the time of public servants, and the offenders have therefore been left to find their punishment in the public indignation.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13604818621355444,
+      "unity": 0.1376991016341303,
+      "hope": 0.1054242336874999,
+      "resolve": 0.16332588336851162,
+      "anger": 0.2912440684526529,
+      "neutral": 0.16625852664365084
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "Nor was it uninteresting to the world that an experiment should be fairly and fully made, whether freedom of discussion, unaided by power, is not sufficient for the propagation and protection of truth\u2014whether a government conducting itself in the true spirit of its constitution, with zeal and purity, and doing no act which it would be unwilling the whole world should witness, can be written down by falsehood and defamation.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19949778558729306,
+      "unity": 0.15551290358037595,
+      "hope": 0.1301258060529381,
+      "resolve": 0.20531516705399652,
+      "anger": 0.203254139197998,
+      "neutral": 0.10629419852739835
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "The experiment has been tried; you have witnessed the scene; our fellow-citizens looked on, cool and collected; they saw the latent source from which these outrages proceeded; they gathered around their public functionaries, and when the Constitution called them to the decision by suffrage, they pronounced their verdict, honorable to those who had served them and consolatory to the friend of man who believes that he may be trusted with the control of his own affairs.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17743625900823265,
+      "unity": 0.15171099816700553,
+      "hope": 0.12127915900213485,
+      "resolve": 0.1602710804597005,
+      "anger": 0.22083266729431933,
+      "neutral": 0.16846983606860713
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "No inference is here intended that the laws provided by the States against false and defamatory publications should not be enforced; he who has time renders a service to public morals and public tranquillity in reforming these abuses by the salutary coercions of the law; but the experiment is noted to prove that, since truth and reason have maintained their ground against false opinions in league with false facts, the press, confined to truth, needs no other legal restraint; the public judgment will correct false reasoning and opinions on a full hearing of all parties; and no other definite line can be drawn between the inestimable liberty of the press and its demoralizing licentiousness.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18201419213648676,
+      "unity": 0.13591146090872647,
+      "hope": 0.11368288735671993,
+      "resolve": 0.189168064223553,
+      "anger": 0.26478011663819206,
+      "neutral": 0.11444327873632179
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "If there be still improprieties which this rule would not restrain, its supplement must be sought in the censorship of public opinion.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.04457182607032547,
+      "unity": 0.178928531965656,
+      "hope": 0.06919818819704113,
+      "resolve": 0.22028349051048426,
+      "anger": 0.41991693357672,
+      "neutral": 0.06710102967977315
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "Contemplating the union of sentiment now manifested so generally as auguring harmony and happiness to our future course, I offer to our country sincere congratulations.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.20658002746843632,
+      "unity": 0.1643110133438181,
+      "hope": 0.181642819303962,
+      "resolve": 0.13557441856679536,
+      "anger": 0.10373387598952616,
+      "neutral": 0.20815784532746207
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "With those, too, not yet rallied to the same point the disposition to do so is gaining strength; facts are piercing through the veil drawn over them, and our doubting brethren will at length see that the mass of their fellow-citizens with whom they can not yet resolve to act as to principles and measures, think as they think and desire what they desire; that our wish as well as theirs is that the public efforts may be directed honestly to the public good, that peace be cultivated, civil and religious liberty unassailed, law and order preserved, equality of rights maintained, and that state of property, equal or unequal, which results to every man from his own industry or that of his father's.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1537630777473114,
+      "unity": 0.18967212885415308,
+      "hope": 0.16879862704378662,
+      "resolve": 0.1948745619161905,
+      "anger": 0.1668390245368384,
+      "neutral": 0.12605257990172
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "When satisfied of these views it is not in human nature that they should not approve and support them.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2005675221480762,
+      "unity": 0.1401769998015119,
+      "hope": 0.15065456461433152,
+      "resolve": 0.19684030494432478,
+      "anger": 0.1813045969706095,
+      "neutral": 0.1304560115211461
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "In the meantime let us cherish them with patient affection, let us do them justice, and more than justice, in all competitions of interest; and we need not doubt that truth, reason, and their own interests will at length prevail, will gather them into the fold of their country, and will complete that entire union of opinion which gives to a nation the blessing of harmony and the benefit of all its strength.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1886506066242718,
+      "unity": 0.1741836881228595,
+      "hope": 0.15769465103803473,
+      "resolve": 0.18678404687626807,
+      "anger": 0.15393836660004728,
+      "neutral": 0.13874864073851856
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "I shall now enter on the duties to which my fellow-citizens have again called me, and shall proceed in the spirit of those principles which they have approved.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1474235952932074,
+      "unity": 0.14457654574068415,
+      "hope": 0.17818384298657616,
+      "resolve": 0.1635197085053362,
+      "anger": 0.14647399690510243,
+      "neutral": 0.21982231056909368
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "I fear not that any motives of interest may lead me astray; I am sensible of no passion which could seduce me knowingly from the path of justice, but the weaknesses of human nature and the limits of my own understanding will produce errors of judgment sometimes injurious to your interests.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.08876022818929578,
+      "unity": 0.18069679618580947,
+      "hope": 0.1967509531763899,
+      "resolve": 0.2512466874384514,
+      "anger": 0.1697545644532452,
+      "neutral": 0.11279077055680825
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "I shall need, therefore, all the indulgence which I have heretofore experienced from my constituents; the want of it will certainly not lessen with increasing years.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.11954440599299038,
+      "unity": 0.11492178027308202,
+      "hope": 0.1923373058320389,
+      "resolve": 0.1958142090251883,
+      "anger": 0.16416478101661736,
+      "neutral": 0.21321751786008306
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "I shall need, too, the favor of that Being in whose hands we are, who led our fathers, as Israel of old, from their native land and planted them in a country flowing with all the necessaries and comforts of life; who has covered our infancy with His providence and our riper years with His wisdom and power, and to whose goodness I ask you to join in supplications with me that He will so enlighten the minds of your servants, guide their councils, and prosper their measures that whatsoever they do shall result in your good, and shall secure to you the peace, friendship, and approbation of all nations.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17105905275002592,
+      "unity": 0.1662827469877409,
+      "hope": 0.18775532890118496,
+      "resolve": 0.16669387015890688,
+      "anger": 0.11970060926933904,
+      "neutral": 0.18850839193280228
+    }
+  }
+]

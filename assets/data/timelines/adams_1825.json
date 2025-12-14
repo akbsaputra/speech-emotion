@@ -1,0 +1,990 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "In compliance with an usage coeval with the existence of our Federal Constitution, and sanctioned by the example of my predecessors in the career upon which I am about to enter, I appear, my fellow-citizens, in your presence and in that of Heaven to bind myself by the solemnities of religious obligation to the faithful performance of the duties allotted to me in the station to which I have been called.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.16042870189825784,
+      "unity": 0.14500768318104293,
+      "hope": 0.15804094580761263,
+      "resolve": 0.18081541230348827,
+      "anger": 0.12124962816443784,
+      "neutral": 0.23445762864516048
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "In unfolding to my countrymen the principles by which I shall be governed in the fulfillment of those duties my first resort will be to that Constitution which I shall swear to the best of my ability to preserve, protect, and defend.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1632658996183574,
+      "unity": 0.14556923728663107,
+      "hope": 0.14188288930922058,
+      "resolve": 0.19648148841347451,
+      "anger": 0.14049265962438168,
+      "neutral": 0.21230782574793478
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "That revered instrument enumerates the powers and prescribes the duties of the Executive Magistrate, and in its first words declares the purposes to which these and the whole action of the Government instituted by it should be invariably and sacredly devoted--to form a more perfect union, establish justice, insure domestic tranquillity, provide for the common defense, promote the general welfare, and secure the blessings of liberty to the people of this Union in their successive generations.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18912894503765493,
+      "unity": 0.163298246463404,
+      "hope": 0.12900574201309664,
+      "resolve": 0.20684968014247815,
+      "anger": 0.11221536224868693,
+      "neutral": 0.19950202409467938
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "Since the adoption of this social compact one of these generations has passed away.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18843373833039756,
+      "unity": 0.18538167961267252,
+      "hope": 0.19674960710916575,
+      "resolve": 0.08264809901723538,
+      "anger": 0.19499515169981793,
+      "neutral": 0.15179172423071083
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "It is the work of our forefathers.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24652351509320822,
+      "unity": 0.1329170473770156,
+      "hope": 0.13600204650410264,
+      "resolve": 0.1812393628609975,
+      "anger": 0.1485116394920837,
+      "neutral": 0.15480638867259233
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Administered by some of the most eminent men who contributed to its formation, through a most eventful period in the annals of the world, and through all the vicissitudes of peace and war incidental to the condition of associated man, it has not disappointed the hopes and aspirations of those illustrious benefactors of their age and nation.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.26106749146615543,
+      "unity": 0.1165812625338655,
+      "hope": 0.16161556797055832,
+      "resolve": 0.17641049053680063,
+      "anger": 0.10756711464730234,
+      "neutral": 0.1767580728453178
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "It has promoted the lasting welfare of that country so dear to us all; it has to an extent far beyond the ordinary lot of humanity secured the freedom and happiness of this people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2896404357057111,
+      "unity": 0.13468420317653548,
+      "hope": 0.13789559197797802,
+      "resolve": 0.16184113851515067,
+      "anger": 0.14408998916559518,
+      "neutral": 0.1318486414590296
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "We now receive it as a precious inheritance from those to whom we are indebted for its establishment, doubly bound by the examples which they have left us and by the blessings which we have enjoyed as the fruits of their labors to transmit the same unimpaired to the succeeding generation.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2491465720892723,
+      "unity": 0.1307803988351187,
+      "hope": 0.17180133946973297,
+      "resolve": 0.1729438259254276,
+      "anger": 0.11343210431999932,
+      "neutral": 0.16189575936044912
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "In the compass of thirty-six years since this great national covenant was instituted a body of laws enacted under its authority and in conformity with its provisions has unfolded its powers and carried into practical operation its effective energies.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2101296085433981,
+      "unity": 0.15097919790500253,
+      "hope": 0.1632339817144842,
+      "resolve": 0.1601982206178895,
+      "anger": 0.15556380484182417,
+      "neutral": 0.15989518637740152
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "Subordinate departments have distributed the executive functions in their various relations to foreign affairs, to the revenue and expenditures, and to the military force of the Union by land and sea.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.28845703743981094,
+      "unity": 0.18125064774717525,
+      "hope": 0.03953075960821348,
+      "resolve": 0.22681495153859246,
+      "anger": 0.04900599222384052,
+      "neutral": 0.21494061144236737
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "A coordinate department of the judiciary has expounded the Constitution and the laws, settling in harmonious coincidence with the legislative will numerous weighty questions of construction which the imperfection of human language had rendered unavoidable.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15019328054587494,
+      "unity": 0.17083365898706399,
+      "hope": 0.1393727739241412,
+      "resolve": 0.18196253744208826,
+      "anger": 0.17714760342317493,
+      "neutral": 0.1804901456776567
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "The year of jubilee since the first formation of our Union has just elapsed; that of the declaration of our independence is at hand.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21944989246450838,
+      "unity": 0.14835445194204808,
+      "hope": 0.18278919923335493,
+      "resolve": 0.1579454601382933,
+      "anger": 0.13254350333826095,
+      "neutral": 0.15891749288353435
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "The consummation of both was effected by this Constitution.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.20175995970321242,
+      "unity": 0.15953975098065426,
+      "hope": 0.08394135906861701,
+      "resolve": 0.1387148327338916,
+      "anger": 0.16564429644748394,
+      "neutral": 0.2503998010661408
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "Since that period a population of four millions has multiplied to twelve.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.20812909431503193,
+      "unity": 0.132417091276037,
+      "hope": 0.3015693954009168,
+      "resolve": 0.08269057809517823,
+      "anger": 0.1733889871245251,
+      "neutral": 0.10180485378831092
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "A territory bounded by the Mississippi has been extended from sea to sea.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23775411393946133,
+      "unity": 0.18390403032761726,
+      "hope": 0.1507877378295298,
+      "resolve": 0.15805782346623817,
+      "anger": 0.08717300097411981,
+      "neutral": 0.18232329346303364
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "New States have been admitted to the Union in numbers nearly equal to those of the first Confederation.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.28257962678107656,
+      "unity": 0.16305723334893898,
+      "hope": 0.16348581324689612,
+      "resolve": 0.16724391499508545,
+      "anger": 0.07747008963767717,
+      "neutral": 0.14616332199032572
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "Treaties of peace, amity, and commerce have been concluded with the principal dominions of the earth.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22455261264943968,
+      "unity": 0.1530187098908412,
+      "hope": 0.1435504550786413,
+      "resolve": 0.15358214662615574,
+      "anger": 0.11931692670732283,
+      "neutral": 0.2059791490475992
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "The people of other nations, inhabitants of regions acquired not by conquest, but by compact, have been united with us in the participation of our rights and duties, of our burdens and blessings.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23393448153881977,
+      "unity": 0.19036932211649177,
+      "hope": 0.1460787755475068,
+      "resolve": 0.168893565318083,
+      "anger": 0.1193899498517012,
+      "neutral": 0.14133390562739745
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "The forest has fallen by the ax of our woodsmen; the soil has been made to teem by the tillage of our farmers; our commerce has whitened every ocean.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20594463231595317,
+      "unity": 0.1627775718215699,
+      "hope": 0.1864671331395551,
+      "resolve": 0.16521523447351896,
+      "anger": 0.14315939505006822,
+      "neutral": 0.13643603319933464
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "The dominion of man over physical nature has been extended by the invention of our artists.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19682357196039507,
+      "unity": 0.14091536206940536,
+      "hope": 0.20805756936003358,
+      "resolve": 0.19656116122948886,
+      "anger": 0.14532686150082616,
+      "neutral": 0.11231547387985098
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "Liberty and law have marched hand in hand.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1916186289013547,
+      "unity": 0.15398218582199008,
+      "hope": 0.1585621737601811,
+      "resolve": 0.1821220774847821,
+      "anger": 0.165854695957843,
+      "neutral": 0.14786023807384902
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "All the purposes of human association have been accomplished as effectively as under any other government on the globe, and at a cost little exceeding in a whole generation the expenditure of other nations in a single year.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2415237503430062,
+      "unity": 0.17701616250561045,
+      "hope": 0.1479881146170853,
+      "resolve": 0.1586651374315962,
+      "anger": 0.13018900175340636,
+      "neutral": 0.14461783334929557
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "Such is the unexaggerated picture of our condition under a Constitution founded upon the republican principle of equal rights.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.20970465546751677,
+      "unity": 0.18891121675502673,
+      "hope": 0.13282123514827993,
+      "resolve": 0.15853862771075686,
+      "anger": 0.22315976534566423,
+      "neutral": 0.08686449957275551
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "To admit that this picture has its shades is but to say that it is still the condition of men upon earth.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16006275429705744,
+      "unity": 0.17769649343481658,
+      "hope": 0.19805154047427315,
+      "resolve": 0.18714484992461766,
+      "anger": 0.15405177083236804,
+      "neutral": 0.12299259103686713
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "From evil--physical, moral, and political--it is not our claim to be exempt.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1658988181790615,
+      "unity": 0.1785701908789906,
+      "hope": 0.1400286723701253,
+      "resolve": 0.256834060615162,
+      "anger": 0.20357211317005833,
+      "neutral": 0.05509614478660223
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "We have suffered sometimes by the visitation of Heaven through disease; often by the wrongs and injustice of other nations, even to the extremities of war; and, lastly, by dissensions among ourselves--dissensions perhaps inseparable from the enjoyment of freedom, but which have more than once appeared to threaten the dissolution of the Union, and with it the overthrow of all the enjoyments of our present lot and all our earthly hopes of the future.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.19536273433904003,
+      "unity": 0.2024282502399664,
+      "hope": 0.1451707063240436,
+      "resolve": 0.18668718438442858,
+      "anger": 0.165109807275444,
+      "neutral": 0.10524131743707736
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "The causes of these dissensions have been various, founded upon differences of speculation in the theory of republican government; upon conflicting views of policy in our relations with foreign nations; upon jealousies of partial and sectional interests, aggravated by prejudices and prepossessions which strangers to each other are ever apt to entertain.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16975504942377867,
+      "unity": 0.28219906475436674,
+      "hope": 0.1098041999747017,
+      "resolve": 0.17784604902786483,
+      "anger": 0.1951837696326312,
+      "neutral": 0.06521186718665686
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "It is a source of gratification and of encouragement to me to observe that the great result of this experiment upon the theory of human rights has at the close of that generation by which it was formed been crowned with success equal to the most sanguine expectations of its founders.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21601158917626023,
+      "unity": 0.12319246169066786,
+      "hope": 0.1828277939956106,
+      "resolve": 0.15763451603142156,
+      "anger": 0.1452675106976841,
+      "neutral": 0.17506612840835564
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "Union, justice, tranquillity, the common defense, the general welfare, and the blessings of liberty--all have been promoted by the Government under which we have lived.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24557118715609408,
+      "unity": 0.17677735631757355,
+      "hope": 0.15132671367481745,
+      "resolve": 0.186078053042315,
+      "anger": 0.12751107572554818,
+      "neutral": 0.11273561408365174
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "Standing at this point of time, looking back to that generation which has gone by and forward to that which is advancing, we may at once indulge in grateful exultation and in cheering hope.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18006109442652912,
+      "unity": 0.13884301764179874,
+      "hope": 0.23533305916827996,
+      "resolve": 0.16269763963487735,
+      "anger": 0.11275098232825326,
+      "neutral": 0.1703142068002616
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "From the experience of the past we derive instructive lessons for the future.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17854803778914896,
+      "unity": 0.14917740699190435,
+      "hope": 0.23963349351447985,
+      "resolve": 0.21446104849939862,
+      "anger": 0.11407903259702214,
+      "neutral": 0.10410098060804608
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "Of the two great political parties which have divided the opinions and feelings of our country, the candid and the just will now admit that both have contributed splendid talents, spotless integrity, ardent patriotism, and disinterested sacrifices to the formation and administration of this Government, and that both have required a liberal indulgence for a portion of human infirmity and error.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1817686074117491,
+      "unity": 0.1797652242893677,
+      "hope": 0.1436606707886538,
+      "resolve": 0.17030252089074888,
+      "anger": 0.16227950598521826,
+      "neutral": 0.16222347063426226
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "The revolutionary wars of Europe, commencing precisely at the moment when the Government of the United States first went into operation under this Constitution, excited a collision of sentiments and of sympathies which kindled all the passions and imbittered the conflict of parties till the nation was involved in war and the Union was shaken to its center.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2537417320232655,
+      "unity": 0.21157762394795476,
+      "hope": 0.12379135123128028,
+      "resolve": 0.18760710103099745,
+      "anger": 0.15483624465353285,
+      "neutral": 0.06844594711296914
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "This time of trial embraced a period of five and twenty years, during which the policy of the Union in its relations with Europe constituted the principal basis of our political divisions and the most arduous part of the action of our Federal Government.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.234846292327817,
+      "unity": 0.20631754238593816,
+      "hope": 0.10503300101441597,
+      "resolve": 0.18972539218693704,
+      "anger": 0.16953598069335654,
+      "neutral": 0.0945417913915353
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "With the catastrophe in which the wars of the French Revolution terminated, and our own subsequent peace with Great Britain, this baneful weed of party strife was uprooted.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.2016969464638582,
+      "unity": 0.2113275679260811,
+      "hope": 0.11627083114658586,
+      "resolve": 0.14480548976297938,
+      "anger": 0.2169815491755772,
+      "neutral": 0.10891761552491827
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "From that time no difference of principle, connected either with the theory of government or with our intercourse with foreign nations, has existed or been called forth in force sufficient to sustain a continued combination of parties or to give more than wholesome animation to public sentiment or legislative debate.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21141147347159184,
+      "unity": 0.20047195339680204,
+      "hope": 0.11860711957665775,
+      "resolve": 0.1692663854187301,
+      "anger": 0.1720956574515571,
+      "neutral": 0.12814741068466115
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "Our political creed is, without a dissenting voice that can be heard, that the will of the people is the source and the happiness of the people the end of all legitimate government upon earth; that the best security for the beneficence and the best guaranty against the abuse of power consists in the freedom, the purity, and the frequency of popular elections; that the General Government of the Union and the separate governments of the States are all sovereignties of limited powers, fellow-servants of the same masters, uncontrolled within their respective spheres, uncontrollable by encroachments upon each other; that the firmest security of peace is the preparation during peace of the defenses of war; that a rigorous economy and accountability of public expenditures should guard against the aggravation and alleviate when possible the burden of taxation; that the military should be kept in strict subordination to the civil power; that the freedom of the press and of religious opinion should be inviolate; that the policy of our country is peace and the ark of our salvation union are articles of faith upon which we are all now agreed.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20521241640861512,
+      "unity": 0.18618614038922002,
+      "hope": 0.13811503544710338,
+      "resolve": 0.1836268152189656,
+      "anger": 0.15197562916234925,
+      "neutral": 0.1348839633737466
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "If there have been those who doubted whether a confederated representative democracy were a government competent to the wise and orderly management of the common concerns of a mighty nation, those doubts have been dispelled; if there have been projects of partial confederacies to be erected upon the ruins of the Union, they have been scattered to the winds; if there have been dangerous attachments to one foreign nation and antipathies against another, they have been extinguished.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.197772447550367,
+      "unity": 0.19200132730420016,
+      "hope": 0.1411653820511427,
+      "resolve": 0.18810316316385986,
+      "anger": 0.15747080946342482,
+      "neutral": 0.12348687046700547
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "Ten years of peace, at home and abroad, have assuaged the animosities of political contention and blended into harmony the most discordant elements of public opinion.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19967321156006862,
+      "unity": 0.18647767250101394,
+      "hope": 0.14349690987287772,
+      "resolve": 0.15886306959624735,
+      "anger": 0.1609520517964231,
+      "neutral": 0.1505370846733693
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "There still remains one effort of magnanimity, one sacrifice of prejudice and passion, to be made by the individuals throughout the nation who have heretofore followed the standards of political party.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.17920279759877378,
+      "unity": 0.1891691549880567,
+      "hope": 0.13491001129965405,
+      "resolve": 0.18892162778851918,
+      "anger": 0.16043251840948025,
+      "neutral": 0.14736388991551605
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "It is that of discarding every remnant of rancor against each other, of embracing as countrymen and friends, and of yielding to talents and virtue alone that confidence which in times of contention for principle was bestowed only upon those who bore the badge of party communion.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1870296192322191,
+      "unity": 0.2134185105963403,
+      "hope": 0.12851476118765176,
+      "resolve": 0.17364783677827553,
+      "anger": 0.14693327372113035,
+      "neutral": 0.15045599848438299
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "The collisions of party spirit which originate in speculative opinions or in different views of administrative policy are in their nature transitory.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.14617927538791284,
+      "unity": 0.24591147613317377,
+      "hope": 0.12635358224114407,
+      "resolve": 0.16886015939252527,
+      "anger": 0.20136894243834855,
+      "neutral": 0.11132656440689549
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "Those which are founded on geographical divisions, adverse interests of soil, climate, and modes of domestic life are more permanent, and therefore, perhaps, more dangerous.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.18462950728715508,
+      "unity": 0.2717686527871649,
+      "hope": 0.12643588850444154,
+      "resolve": 0.23539604899248126,
+      "anger": 0.23879976280031964,
+      "neutral": -0.0570298603715624
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "It is this which gives inestimable value to the character of our Government, at once federal and national.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2524460593307011,
+      "unity": 0.16503513933568145,
+      "hope": 0.14083713984013974,
+      "resolve": 0.17804796839309067,
+      "anger": 0.14735398573314842,
+      "neutral": 0.11627970736723864
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "It holds out to us a perpetual admonition to preserve alike and with equal anxiety the rights of each individual State in its own government and the rights of the whole nation in that of the Union.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19442092774208797,
+      "unity": 0.1974710620193525,
+      "hope": 0.1415438726016779,
+      "resolve": 0.20353826529917668,
+      "anger": 0.13288314028085602,
+      "neutral": 0.13014273205684895
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "Whatsoever is of domestic concernment, unconnected with the other members of the Union or with foreign lands, belongs exclusively to the administration of the State governments.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2701085116475722,
+      "unity": 0.21415593474967923,
+      "hope": -0.03685590786520666,
+      "resolve": 0.17216851243760112,
+      "anger": 0.19591578755456465,
+      "neutral": 0.18450716147578944
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "Whatsoever directly involves the rights and interests of the federative fraternity or of foreign powers is of the resort of this General Government.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21493376516445817,
+      "unity": 0.17082978526703363,
+      "hope": 0.10623896072167953,
+      "resolve": 0.17744646694699645,
+      "anger": 0.20070767527091518,
+      "neutral": 0.12984334662891706
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "The duties of both are obvious in the general principle, though sometimes perplexed with difficulties in the detail.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12306041827041782,
+      "unity": 0.254020419260801,
+      "hope": 0.10766385890838082,
+      "resolve": 0.2969321349256427,
+      "anger": 0.13318000222896306,
+      "neutral": 0.08514316640579465
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "To respect the rights of the State governments is the inviolable duty of that of the Union; the government of every State will feel its own obligation to respect and preserve the rights of the whole.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2053173822976301,
+      "unity": 0.18704183488991627,
+      "hope": 0.10072243028960651,
+      "resolve": 0.1884961843375846,
+      "anger": 0.16937721750040768,
+      "neutral": 0.14904495068485482
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "The prejudices everywhere too commonly entertained against distant strangers are worn away, and the jealousies of jarring interests are allayed by the composition and functions of the great national councils annually assembled from all quarters of the Union at this place.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1995909521276022,
+      "unity": 0.1984353546684676,
+      "hope": 0.13331142492179407,
+      "resolve": 0.15288234134143602,
+      "anger": 0.1317764732590704,
+      "neutral": 0.18400345368162968
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "Here the distinguished men from every section of our country, while meeting to deliberate upon the great interests of those by whom they are deputed, learn to estimate the talents and do justice to the virtues of each other.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.19253667101612446,
+      "unity": 0.1552976563683187,
+      "hope": 0.16208128899915775,
+      "resolve": 0.1697190590244151,
+      "anger": 0.1251138247746929,
+      "neutral": 0.19525149981729115
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "The harmony of the nation is promoted and the whole Union is knit together by the sentiments of mutual respect, the habits of social intercourse, and the ties of personal friendship formed between the representatives of its several parts in the performance of their service at this metropolis.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.2047817632818318,
+      "unity": 0.21776728724015557,
+      "hope": 0.15201734628265007,
+      "resolve": 0.15442812244292847,
+      "anger": 0.10958954979451488,
+      "neutral": 0.16141593095791923
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "Passing from this general review of the purposes and injunctions of the Federal Constitution and their results as indicating the first traces of the path of duty in the discharge of my public trust, I turn to the Administration of my immediate predecessor as the second.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18775867327499096,
+      "unity": 0.12137912649527363,
+      "hope": 0.14216466523565754,
+      "resolve": 0.17362357095757167,
+      "anger": 0.13233295927850466,
+      "neutral": 0.24274100475800153
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "It has passed away in a period of profound peace, how much to the satisfaction of our country and to the honor of our country's name is known to you all.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24905782721220154,
+      "unity": 0.1270102945656127,
+      "hope": 0.13427884365590304,
+      "resolve": 0.13806315347959341,
+      "anger": 0.1263592764884771,
+      "neutral": 0.2252306045982122
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "The great features of its policy, in general concurrence with the will of the Legislature, have been to cherish peace while preparing for defensive war; to yield exact justice to other nations and maintain the rights of our own; to cherish the principles of freedom and of equal rights wherever they were proclaimed; to discharge with all possible promptitude the national debt; to reduce within the narrowest limits of efficiency the military force; to improve the organization and discipline of the Army; to provide and sustain a school of military science; to extend equal protection to all the great interests of the nation; to promote the civilization of the Indian tribes, and to proceed in the great system of internal improvements within the limits of the constitutional power of the Union.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24842486382083614,
+      "unity": 0.15280187647641022,
+      "hope": 0.1345683400764657,
+      "resolve": 0.1925396197034025,
+      "anger": 0.12552504496768588,
+      "neutral": 0.14614025495519953
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "Under the pledge of these promises, made by that eminent citizen at the time of his first induction to this office, in his career of eight years the internal taxes have been repealed; sixty millions of the public debt have been discharged; provision has been made for the comfort and relief of the aged and indigent among the surviving warriors of the Revolution; the regular armed force has been reduced and its constitution revised and perfected; the accountability for the expenditure of public moneys has been made more effective; the Floridas have been peaceably acquired, and our boundary has been extended to the Pacific Ocean; the independence of the southern nations of this hemisphere has been recognized, and recommended by example and by counsel to the potentates of Europe; progress has been made in the defense of the country by fortifications and the increase of the Navy, toward the effectual suppression of the African traffic in slaves; in alluring the aboriginal hunters of our land to the cultivation of the soil and of the mind, in exploring the interior regions of the Union, and in preparing by scientific researches and surveys for the further application of our national resources to the internal improvement of our country.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22404847326891844,
+      "unity": 0.11817184923705529,
+      "hope": 0.1653792896022249,
+      "resolve": 0.15381163587982422,
+      "anger": 0.12755969016644805,
+      "neutral": 0.21102906184552908
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "In this brief outline of the promise and performance of my immediate predecessor the line of duty for his successor is clearly delineated.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.12159417328563589,
+      "unity": 0.11262261997457158,
+      "hope": 0.19087489375714423,
+      "resolve": 0.18660665522318004,
+      "anger": 0.09543032380870618,
+      "neutral": 0.2928713339507621
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "To pursue to their consummation those purposes of improvement in our common condition instituted or recommended by him will embrace the whole sphere of my obligations.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.09749246806456748,
+      "unity": 0.18399617373211727,
+      "hope": 0.20046606428705957,
+      "resolve": 0.19462306795974055,
+      "anger": 0.10729892957311454,
+      "neutral": 0.21612329638340058
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "To the topic of internal improvement, emphatically urged by him at his inauguration, I recur with peculiar satisfaction.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.179828970090874,
+      "unity": 0.1533099207607321,
+      "hope": 0.18557297268800654,
+      "resolve": 0.16556110135040641,
+      "anger": 0.10800123394914247,
+      "neutral": 0.20772580116083844
+    }
+  },
+  {
+    "chunk_index": 59,
+    "text": "It is that from which I am convinced that the unborn millions of our posterity who are in future ages to people this continent will derive their most fervent gratitude to the founders of the Union; that in which the beneficent action of its Government will be most deeply felt and acknowledged.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22534156839346783,
+      "unity": 0.14181838271479336,
+      "hope": 0.18219681404184984,
+      "resolve": 0.16512092232642062,
+      "anger": 0.11200243780641173,
+      "neutral": 0.17351987471705665
+    }
+  },
+  {
+    "chunk_index": 60,
+    "text": "The magnificence and splendor of their public works are among the imperishable glories of the ancient republics.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.34781048358513206,
+      "unity": 0.09368230924741634,
+      "hope": 0.15354932736685908,
+      "resolve": 0.18222225446364682,
+      "anger": 0.09258771057267609,
+      "neutral": 0.1301479147642696
+    }
+  },
+  {
+    "chunk_index": 61,
+    "text": "The roads and aqueducts of Rome have been the admiration of all after ages, and have survived thousands of years after all her conquests have been swallowed up in despotism or become the spoil of barbarians.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.29718210716685384,
+      "unity": 0.09020825921788721,
+      "hope": 0.1779742121080219,
+      "resolve": 0.20889336863612656,
+      "anger": 0.09850374754095657,
+      "neutral": 0.1272383053301539
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "Some diversity of opinion has prevailed with regard to the powers of Congress for legislation upon objects of this nature.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.19126447474199723,
+      "unity": 0.19386659183126587,
+      "hope": 0.13343346425572186,
+      "resolve": 0.1574022196626499,
+      "anger": 0.18783895504389897,
+      "neutral": 0.1361942944644662
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "The most respectful deference is due to doubts originating in pure patriotism and sustained by venerated authority.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2623873361346098,
+      "unity": 0.13818273557559235,
+      "hope": 0.08890969359401239,
+      "resolve": 0.24019014193066993,
+      "anger": 0.12127334295111641,
+      "neutral": 0.1490567498139991
+    }
+  },
+  {
+    "chunk_index": 64,
+    "text": "But nearly twenty years have passed since the construction of the first national road was commenced.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.30182028843471564,
+      "unity": 0.08762272420600752,
+      "hope": 0.24663103331215944,
+      "resolve": 0.10489166234024114,
+      "anger": 0.11745185305451362,
+      "neutral": 0.1415824386523626
+    }
+  },
+  {
+    "chunk_index": 65,
+    "text": "The authority for its construction was then unquestioned.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3064729295821505,
+      "unity": 0.08851133638386587,
+      "hope": 0.07567418593485958,
+      "resolve": 0.2215632008607026,
+      "anger": 0.1356307975144259,
+      "neutral": 0.17214754972399557
+    }
+  },
+  {
+    "chunk_index": 66,
+    "text": "To how many thousands of our countrymen has it proved a benefit?",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.30456041586533705,
+      "unity": 0.07295047794192698,
+      "hope": 0.1468367865497591,
+      "resolve": 0.1727596232886915,
+      "anger": 0.15860773240762796,
+      "neutral": 0.14428496394665738
+    }
+  },
+  {
+    "chunk_index": 67,
+    "text": "To what single individual has it ever proved an injury?",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.5412862715772713,
+      "unity": -0.09733929507136019,
+      "hope": -0.5861079757046855,
+      "resolve": 0.5081969713087818,
+      "anger": 0.508064338355231,
+      "neutral": 0.1258996895347615
+    }
+  },
+  {
+    "chunk_index": 68,
+    "text": "Repeated, liberal, and candid discussions in the Legislature have conciliated the sentiments and approximated the opinions of enlightened minds upon the question of constitutional power.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.17267649234248003,
+      "unity": 0.18401423578595824,
+      "hope": 0.14637309252641004,
+      "resolve": 0.151483783905937,
+      "anger": 0.16550459273535933,
+      "neutral": 0.17994780270385538
+    }
+  },
+  {
+    "chunk_index": 69,
+    "text": "I can not but hope that by the same process of friendly, patient, and persevering deliberation all constitutional objections will ultimately be removed.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.12216010363685277,
+      "unity": 0.15350769112061674,
+      "hope": 0.16523257674867103,
+      "resolve": 0.18355743369314168,
+      "anger": 0.18498789828167503,
+      "neutral": 0.19055429651904274
+    }
+  },
+  {
+    "chunk_index": 70,
+    "text": "The extent and limitation of the powers of the General Government in relation to this transcendently important interest will be settled and acknowledged to the common satisfaction of all, and every speculative scruple will be solved by a practical public blessing.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17024026881675303,
+      "unity": 0.14223960462592297,
+      "hope": 0.16184759975929713,
+      "resolve": 0.1733176657948114,
+      "anger": 0.16730823951791868,
+      "neutral": 0.1850466214852968
+    }
+  },
+  {
+    "chunk_index": 71,
+    "text": "Fellow-citizens, you are acquainted with the peculiar circumstances of the recent election, which have resulted in affording me the opportunity of addressing you at this time.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.15674598736743603,
+      "unity": 0.15964523817745843,
+      "hope": 0.15625326576238752,
+      "resolve": 0.12763278537917755,
+      "anger": 0.1647513698350138,
+      "neutral": 0.23497135347852668
+    }
+  },
+  {
+    "chunk_index": 72,
+    "text": "You have heard the exposition of the principles which will direct me in the fulfillment of the high and solemn trust imposed upon me in this station.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.12379409926944512,
+      "unity": 0.13175989279559117,
+      "hope": 0.1853846255611809,
+      "resolve": 0.2025026271578577,
+      "anger": 0.11876229005971937,
+      "neutral": 0.23779646515620576
+    }
+  },
+  {
+    "chunk_index": 73,
+    "text": "Less possessed of your confidence in advance than any of my predecessors, I am deeply conscious of the prospect that I shall stand more and oftener in need of your indulgence.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.0986298663131181,
+      "unity": 0.12005607624511042,
+      "hope": 0.24171021376549054,
+      "resolve": 0.20466000725053543,
+      "anger": 0.12266005104809602,
+      "neutral": 0.2122837853776495
+    }
+  },
+  {
+    "chunk_index": 74,
+    "text": "Intentions upright and pure, a heart devoted to the welfare of our country, and the unceasing application of all the faculties allotted to me to her service are all the pledges that I can give for the faithful performance of the arduous duties I am to undertake.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.179272374079819,
+      "unity": 0.13464557966026564,
+      "hope": 0.1484591872950168,
+      "resolve": 0.2101267453963281,
+      "anger": 0.1163040592270876,
+      "neutral": 0.21119205434148283
+    }
+  },
+  {
+    "chunk_index": 75,
+    "text": "To the guidance of the legislative councils, to the assistance of the executive and subordinate departments, to the friendly cooperation of the respective State governments, to the candid and liberal support of the people so far as it may be deserved by honest industry and zeal, I shall look for whatever success may attend my public service; and knowing that \"except the Lord keep the city the watchman waketh but in vain,\" with fervent supplications for His favor, to His overruling providence I commit with humble but fearless confidence my own fate and the future destinies of my country.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1526878083128779,
+      "unity": 0.15560950713363414,
+      "hope": 0.18586547571896675,
+      "resolve": 0.18336886222314308,
+      "anger": 0.13435127753411633,
+      "neutral": 0.18811706907726178
+    }
+  }
+]

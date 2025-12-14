@@ -1,0 +1,899 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "I, RICHARD NIXON, do solemnly swear that I will faithfully execute the Office of President of the United States, and will to the best of my ability, preserve, protect and defend the Constitution of the United States, so help me God.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1343175628223979,
+      "unity": 0.11701492319275865,
+      "hope": 0.1324360753120814,
+      "resolve": 0.18960774039533235,
+      "anger": 0.19402831636103002,
+      "neutral": 0.2325953819163997
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Mr. Vice President, Mr. Speaker, Mr. Chief Justice, Senator Cook, Mrs. Eisenhower, and my fellow citizens of this great and good country we share together:\nWhen we met here 4 years ago, America was bleak in spirit, depressed by the prospect of seemingly endless war abroad and of destructive conflict at home.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17752566980838003,
+      "unity": 0.16627409905411553,
+      "hope": 0.16457819227689172,
+      "resolve": 0.14817065865713186,
+      "anger": 0.15274864356486678,
+      "neutral": 0.19070273663861406
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "As we meet here today, we stand on the threshold of a new era of peace in the world.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15990760479352611,
+      "unity": 0.1559055159971101,
+      "hope": 0.2159850988486836,
+      "resolve": 0.15917477218028186,
+      "anger": 0.13086767428316914,
+      "neutral": 0.17815933389722916
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "The central question before us is: How shall we use that peace?",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.13984255766218912,
+      "unity": 0.19863170508399866,
+      "hope": 0.18397047901804917,
+      "resolve": 0.1970464601180104,
+      "anger": 0.1526892688422298,
+      "neutral": 0.12781952927552284
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "Let us resolve that this era we are about to enter will not be what other postwar periods have so often been: a time of retreat and isolation that leads to stagnation at home and invites new danger abroad.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16589045431113936,
+      "unity": 0.16351233668567722,
+      "hope": 0.1836122064964216,
+      "resolve": 0.20184338977573746,
+      "anger": 0.16108754052292792,
+      "neutral": 0.12405407220809646
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Let us resolve that this will be what it can become: a time of great responsibilities greatly borne, in which we renew the spirit and the promise of America as we enter our third century as a nation.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17169892288581695,
+      "unity": 0.1488100080387315,
+      "hope": 0.20167646178966925,
+      "resolve": 0.17860677584066198,
+      "anger": 0.1349368149056412,
+      "neutral": 0.16427101653947912
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "This past year saw far-reaching results from our new policies for peace.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21781608281063583,
+      "unity": 0.132343813275589,
+      "hope": 0.18920829724927124,
+      "resolve": 0.15923649488770839,
+      "anger": 0.14166976548668608,
+      "neutral": 0.15972554629010943
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "By continuing to revitalize our traditional friendships, and by our missions to Peking and to Moscow, we were able to establish the base for a new and more durable pattern of relationships among the nations of the world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2535034161797991,
+      "unity": 0.17053321548027972,
+      "hope": 0.15823158104157994,
+      "resolve": 0.2185593090482002,
+      "anger": 0.0706848366417224,
+      "neutral": 0.1284876416084186
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Because of America's bold initiatives, 1972 will be long remembered as the year of the greatest progress since the end of World War II toward a lasting peace in the world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2732730843142778,
+      "unity": 0.12176604721526334,
+      "hope": 0.17493408694554338,
+      "resolve": 0.1752611927669233,
+      "anger": 0.1107255135253074,
+      "neutral": 0.14404007523268472
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "The peace we seek in the world is not the flimsy peace which is merely an interlude between wars, but a peace which can endure for generations to come.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1616810443481771,
+      "unity": 0.16795548397925397,
+      "hope": 0.18893999103909093,
+      "resolve": 0.2061481407500808,
+      "anger": 0.12848858871230626,
+      "neutral": 0.14678675117109094
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "It is important that we understand both the necessity and the limitations of America's role in maintaining that peace.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1900677988485633,
+      "unity": 0.18376407045745477,
+      "hope": 0.13970769068722305,
+      "resolve": 0.23725062960296575,
+      "anger": 0.144559405729049,
+      "neutral": 0.10465040467474415
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "Unless we in America work to preserve the peace, there will be no peace.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1538216586701324,
+      "unity": 0.17757140213838837,
+      "hope": 0.16354212065536014,
+      "resolve": 0.20956137543520148,
+      "anger": 0.16669211287854543,
+      "neutral": 0.1288113302223722
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "Unless we in America work to preserve freedom, there will be no freedom.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20761751447939042,
+      "unity": 0.14833658684700676,
+      "hope": 0.17569466335579909,
+      "resolve": 0.2129961973471134,
+      "anger": 0.17306776553367612,
+      "neutral": 0.08228727243701423
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "But let us clearly understand the new nature of America's role, as a result of the new policies we have adopted over these past 4 years.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19454244603647086,
+      "unity": 0.15814756310668038,
+      "hope": 0.17559956486635453,
+      "resolve": 0.1784736956619913,
+      "anger": 0.1702191180134781,
+      "neutral": 0.12301761231502477
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "We shall respect our treaty commitments.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16976081855011418,
+      "unity": 0.13993098122286302,
+      "hope": 0.13922020118978312,
+      "resolve": 0.2190170760626164,
+      "anger": 0.17665773427303938,
+      "neutral": 0.15541318870158388
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "We shall support vigorously the principle that no country has the right to impose its will or rule on another by force.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.21773189452451613,
+      "unity": 0.14669289452956005,
+      "hope": 0.11240853138818155,
+      "resolve": 0.23394306010904584,
+      "anger": 0.20192207042369478,
+      "neutral": 0.08730154902500163
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "We shall continue, in this era of negotiation, to work for the limitation of nuclear arms and to reduce the danger of confrontation between the great powers.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1497215216951721,
+      "unity": 0.16336420260239284,
+      "hope": 0.1819351711785117,
+      "resolve": 0.2218878256524648,
+      "anger": 0.14159342055613017,
+      "neutral": 0.1414978583153284
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "We shall do our share in defending peace and freedom in the world.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1729479458735955,
+      "unity": 0.1542888166483962,
+      "hope": 0.18820539563991245,
+      "resolve": 0.2252444469335377,
+      "anger": 0.13586895471124824,
+      "neutral": 0.12344444019330993
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "But we shall expect others to do their share.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.10635562278752292,
+      "unity": 0.15705787565062765,
+      "hope": 0.20555047122983489,
+      "resolve": 0.2080900526597983,
+      "anger": 0.1746267748756451,
+      "neutral": 0.14831920279657113
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "The time has passed when America will make every other nation's conflict our own, or make every other nation's future our responsibility, or presume to tell the people of other nations how to manage their own affairs.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17766136734860533,
+      "unity": 0.17148604811470736,
+      "hope": 0.16381223944688514,
+      "resolve": 0.15935518463810344,
+      "anger": 0.20640863493813036,
+      "neutral": 0.12127652551356838
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "Just as we respect the right of each nation to determine its own future, we also recognize the responsibility of each nation to secure its own future.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18493224570927555,
+      "unity": 0.16865467342054957,
+      "hope": 0.18753837078372748,
+      "resolve": 0.2114073833857829,
+      "anger": 0.13931406971366056,
+      "neutral": 0.1081532569870039
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "Just as America's role is indispensable in preserving the world's peace, so is each nation's role indispensable in preserving its own peace.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19989907522022238,
+      "unity": 0.18262512359141433,
+      "hope": 0.14127524135815928,
+      "resolve": 0.21593994264525848,
+      "anger": 0.13576877677010502,
+      "neutral": 0.1244918404148405
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "Together with the rest of the world, let us resolve to move forward from the beginnings we have made.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16703092500318187,
+      "unity": 0.1839173129235223,
+      "hope": 0.20152881426112337,
+      "resolve": 0.17803645222624728,
+      "anger": 0.1257199723595438,
+      "neutral": 0.1437665232263814
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "Let us continue to bring down the walls of hostility which have divided the world for too long, and to build in their place bridges of understanding--so that despite profound differences between systems of government, the people of the world can be friends.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.16558938582156105,
+      "unity": 0.19839037857950953,
+      "hope": 0.1756852953953225,
+      "resolve": 0.1747640545758,
+      "anger": 0.14422301222944428,
+      "neutral": 0.1413478733983627
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "Let us build a structure of peace in the world in which the weak are as safe as the strong, in which each respects the right of the other to live by a different system, in which those who would influence others will do so by the strength of their ideas and not by the force of their arms.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15377306043803596,
+      "unity": 0.18535464300775065,
+      "hope": 0.1838878896862455,
+      "resolve": 0.19966008936952426,
+      "anger": 0.14486131771953736,
+      "neutral": 0.13246299977890627
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "Let us accept that high responsibility not as a burden, but gladly--gladly because the chance to build such a peace is the noblest endeavor in which a nation can engage; gladly also because only if we act greatly in meeting our responsibilities abroad will we remain a great nation, and only if we remain a great nation will we act greatly in meeting our challenges at home.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18445558314827937,
+      "unity": 0.15794149612535913,
+      "hope": 0.17386721317409484,
+      "resolve": 0.20467521258002902,
+      "anger": 0.1265303342151914,
+      "neutral": 0.15253016075704628
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "We have the chance today to do more than ever before in our history to make life better in America--to ensure better education, better health, better housing, better transportation, a cleaner environment-to restore respect for law, to make our communities more livable--and to ensure the God-given right of every American to full and equal opportunity.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19747875471255597,
+      "unity": 0.13803746015336885,
+      "hope": 0.21551863737155638,
+      "resolve": 0.15887492111097912,
+      "anger": 0.12660897194360268,
+      "neutral": 0.163481254707937
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "Because the range of our needs is so great, because the reach of our opportunities is so great, let us be bold in our determination to meet those needs in new ways.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17369272723562476,
+      "unity": 0.15151326223798953,
+      "hope": 0.25514567585070935,
+      "resolve": 0.2087318625533297,
+      "anger": 0.10472213378957068,
+      "neutral": 0.10619433833277599
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "Just as building a structure of peace abroad has required turning away from old policies that have failed, so building a new era of progress at home requires turning away from old policies that have failed.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17941303809995052,
+      "unity": 0.167406655342122,
+      "hope": 0.18170099833445252,
+      "resolve": 0.18283521075581396,
+      "anger": 0.16261257355799816,
+      "neutral": 0.12603152390966282
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "Abroad, the shift from old policies to new has not been a retreat from our responsibilities, but a better way to peace.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1898898863253817,
+      "unity": 0.1616888118943802,
+      "hope": 0.16810474908228384,
+      "resolve": 0.18405692369781013,
+      "anger": 0.16146457997202807,
+      "neutral": 0.1347950490281161
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "And at home, the shift from old policies to new will not be a retreat from our responsibilities, but a better way to progress.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15804245878313816,
+      "unity": 0.1467179307865614,
+      "hope": 0.20627078859494027,
+      "resolve": 0.195078024178538,
+      "anger": 0.15494170790440437,
+      "neutral": 0.1389490897524178
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "Abroad and at home, the key to those new responsibilities lies in the placing and the division of responsibility.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17090435120454012,
+      "unity": 0.1785961072147348,
+      "hope": 0.19403585699151787,
+      "resolve": 0.21471281774128462,
+      "anger": 0.09855259006599026,
+      "neutral": 0.14319827678193234
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "We have lived too long with the consequences of attempting to gather all power and responsibility in Washington.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13327595772641365,
+      "unity": 0.18280571379741314,
+      "hope": 0.14197426880715816,
+      "resolve": 0.15836297799259624,
+      "anger": 0.25345004441162877,
+      "neutral": 0.13013103726479003
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "Abroad and at home, the time has come to turn away from the condescending policies of paternalism---of \"Washington knows best.\"",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18674292069240475,
+      "unity": 0.16339960174452697,
+      "hope": 0.16327902195821023,
+      "resolve": 0.14100919197979606,
+      "anger": 0.2069458804442579,
+      "neutral": 0.13862338318080408
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "A person can be expected to act responsibly only if he has responsibility.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1289942425824254,
+      "unity": 0.1602592725473701,
+      "hope": 0.12916606967951733,
+      "resolve": 0.20401766922810402,
+      "anger": 0.2236674285847927,
+      "neutral": 0.15389531737779047
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "This is human nature.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14189305564127364,
+      "unity": 0.21082421239918164,
+      "hope": 0.1476279622987311,
+      "resolve": 0.1576520186778472,
+      "anger": 0.25910425152384214,
+      "neutral": 0.08289849945912427
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "So let us encourage individuals at home and nations abroad to do more for themselves, to decide more for themselves.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16318237375678168,
+      "unity": 0.18444749417272704,
+      "hope": 0.190734520484223,
+      "resolve": 0.17948942996486805,
+      "anger": 0.17015890266222136,
+      "neutral": 0.11198727895917884
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "Let us locate responsibility in more places.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.14322638931056245,
+      "unity": 0.17260141440112442,
+      "hope": 0.18557612844450935,
+      "resolve": 0.1757442172397453,
+      "anger": 0.18799730105011916,
+      "neutral": 0.13485454955393933
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "And let us measure what we will do for others by what they will do for themselves.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15278434202443697,
+      "unity": 0.18830132592464532,
+      "hope": 0.20468573307681756,
+      "resolve": 0.21517427256776425,
+      "anger": 0.12762175086486363,
+      "neutral": 0.11143257554147225
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "That is why today I offer no promise of a purely governmental solution for every problem.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.10563445161576251,
+      "unity": 0.20984043062592792,
+      "hope": 0.17905709724442184,
+      "resolve": 0.16022805369528417,
+      "anger": 0.22855919324116922,
+      "neutral": 0.11668077357743434
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "We have lived too long with that false promise.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.12988904787458525,
+      "unity": 0.15224128981688947,
+      "hope": 0.19772492723302287,
+      "resolve": 0.17936813293676604,
+      "anger": 0.19749627224783142,
+      "neutral": 0.14328032989090494
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "In trusting too much in government, we have asked of it more than it can deliver.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15461256776700094,
+      "unity": 0.16133537528509262,
+      "hope": 0.16310402627911944,
+      "resolve": 0.1836292221095526,
+      "anger": 0.21012270563578592,
+      "neutral": 0.12719610292344852
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "This leads only to inflated expectations, to reduced individual effort, and to a disappointment and frustration that erode confidence both in what government can do and in what people can do.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11680588093369343,
+      "unity": 0.1874440282315423,
+      "hope": 0.17604626347498029,
+      "resolve": 0.1840005879644918,
+      "anger": 0.2512392757661061,
+      "neutral": 0.08446396362918607
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "Government must learn to take less from people so that people can do more for themselves.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13275970209736945,
+      "unity": 0.16567803824720975,
+      "hope": 0.20848418353653556,
+      "resolve": 0.1582366120444658,
+      "anger": 0.23395673081513213,
+      "neutral": 0.10088473325928732
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "Let us remember that America was built not by government, but by people; not by welfare, but by work; not by shirking responsibility, but by seeking responsibility.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2096005509219314,
+      "unity": 0.16006034232278116,
+      "hope": 0.16159652878622385,
+      "resolve": 0.15503217669989158,
+      "anger": 0.18477629203109494,
+      "neutral": 0.12893410923807705
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "In our own lives, let each of us ask-not just what will government do for me, but what can I do for myself?",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16307511478189354,
+      "unity": 0.16961739823687494,
+      "hope": 0.2111820887048269,
+      "resolve": 0.17776955881243062,
+      "anger": 0.15573107869173392,
+      "neutral": 0.12262476077224008
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "In the challenges we face together, let each of us ask--not just how can government help, but how can I help?",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14431526113374502,
+      "unity": 0.1929053534990245,
+      "hope": 0.19712179921501566,
+      "resolve": 0.19510583214177227,
+      "anger": 0.13532335264222442,
+      "neutral": 0.13522840136821815
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "Your National Government has a great and vital role to play.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21394815771906078,
+      "unity": 0.1497711365337117,
+      "hope": 0.15900725240140834,
+      "resolve": 0.17673945882438336,
+      "anger": 0.15718512696079234,
+      "neutral": 0.1433488675606435
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "And I pledge to you that where this Government should act, we will act boldly and we will lead boldly.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15902854883897688,
+      "unity": 0.13591363069428877,
+      "hope": 0.18531326163576858,
+      "resolve": 0.1874827851183297,
+      "anger": 0.15298691046065535,
+      "neutral": 0.17927486325198072
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "But just as important is the role that each and every one of us must play, as an individual and as a member of his own community.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.1604031090511871,
+      "unity": 0.2070353283881598,
+      "hope": 0.18767522961366156,
+      "resolve": 0.19926273145656392,
+      "anger": 0.1102709295905303,
+      "neutral": 0.13535267189989733
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "From this day forward, let each of us make a solemn commitment in his own heart: to bear his responsibility, to do his part, to live his ideals--so that together we can see the dawn of a new age of progress for America, and together, as we celebrate our 200th anniversary as a nation, we can do so proud in the fulfillment of our promise to ourselves and to the world.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18035590819694614,
+      "unity": 0.1454630965575913,
+      "hope": 0.18759853024223747,
+      "resolve": 0.16319770477352616,
+      "anger": 0.1256385926817113,
+      "neutral": 0.19774616754798766
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "As America's longest and most difficult war comes to an end, let us again learn to debate our differences with civility and decency.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.18285281023433828,
+      "unity": 0.18860367689884316,
+      "hope": 0.13761794088939008,
+      "resolve": 0.18387123261164856,
+      "anger": 0.17520165243633026,
+      "neutral": 0.13185268692944965
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "And let each of us reach out for that one precious quality government cannot provide--a new level of respect for the rights and feelings of one another, a new level of respect for the individual human dignity which is the cherished birthright of every American.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.18708036150261997,
+      "unity": 0.17903329113673905,
+      "hope": 0.16122126831433733,
+      "resolve": 0.170027891053057,
+      "anger": 0.16463651883772623,
+      "neutral": 0.1380006691555204
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "Above all else, the time has come for us to renew our faith in ourselves and in America.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16016747912031876,
+      "unity": 0.17767255187691278,
+      "hope": 0.1845914505803807,
+      "resolve": 0.17923432134618844,
+      "anger": 0.16486088673075858,
+      "neutral": 0.13347331034544074
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "In recent years, that faith has been challenged.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.11556518263401283,
+      "unity": 0.20980795525715282,
+      "hope": 0.2181440610777845,
+      "resolve": 0.20662988993023695,
+      "anger": 0.20520371755011754,
+      "neutral": 0.04464919355069537
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "Our children have been taught to be ashamed of their country, ashamed of their parents, ashamed of America's record at home and its role in the world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2531142948779457,
+      "unity": 0.15534519437703692,
+      "hope": 0.1304665135499143,
+      "resolve": 0.14254902504032319,
+      "anger": 0.21644647980954793,
+      "neutral": 0.102078492345232
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "At every turn we have been beset by those who find everything wrong with America and little that is right.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2275728583951561,
+      "unity": 0.18734331830575643,
+      "hope": 0.1306875962194129,
+      "resolve": 0.19189314508878538,
+      "anger": 0.2171076759124689,
+      "neutral": 0.0453954060784203
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "But I am confident that this will not be the judgment of history on these remarkable times in which we are privileged to live.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19342736237116115,
+      "unity": 0.11980256050683287,
+      "hope": 0.2325499306355793,
+      "resolve": 0.2077768549354608,
+      "anger": 0.13893647824053323,
+      "neutral": 0.10750681331043264
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "America's record in this century has been unparalleled in the world's h!story for its responsibility, for its generosity, for its creativity, and for its progress.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3052140016248083,
+      "unity": 0.11594854311006692,
+      "hope": 0.17556608704011126,
+      "resolve": 0.1757297935481068,
+      "anger": 0.09888270017650475,
+      "neutral": 0.128658874500402
+    }
+  },
+  {
+    "chunk_index": 59,
+    "text": "Let us be proud that our system has produced and provided more freedom and more abundance, more widely shared, than any system in the history of the world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.25191882182784525,
+      "unity": 0.1427791674797981,
+      "hope": 0.18158618965495074,
+      "resolve": 0.15931080560930314,
+      "anger": 0.12467244354655975,
+      "neutral": 0.13973257188154303
+    }
+  },
+  {
+    "chunk_index": 60,
+    "text": "Let us be proud that in each of the four wars in which we have been engaged in this century, including the one we are now bringing to an end, we have fought not for our selfish advantage, but to help others resist aggression.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22325029936856683,
+      "unity": 0.16075036124534478,
+      "hope": 0.14759629947445804,
+      "resolve": 0.21720149049201082,
+      "anger": 0.13259743821633352,
+      "neutral": 0.11860411120328601
+    }
+  },
+  {
+    "chunk_index": 61,
+    "text": "And let us be proud that by our bold, new initiatives, by our steadfastness for peace with honor, we have made a breakthrough toward creating in the world what the world has not known before--a structure of peace that can last, not merely for our time, but for generations to come.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20217714524917635,
+      "unity": 0.13887095468538008,
+      "hope": 0.1957465634525824,
+      "resolve": 0.18799350868428624,
+      "anger": 0.12247184004401648,
+      "neutral": 0.15273998788455848
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "We are embarking here today on an era that presents challenges as great as those any nation, or any generation, has ever faced.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16294938066228526,
+      "unity": 0.1456003739731045,
+      "hope": 0.235345956932012,
+      "resolve": 0.2036853321400572,
+      "anger": 0.13625883069479344,
+      "neutral": 0.11616012559774762
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "We shall answer to God, to history, and to our conscience for the way in which we use these years.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15375837094351186,
+      "unity": 0.15036258224426707,
+      "hope": 0.21847699238997548,
+      "resolve": 0.1915535652994295,
+      "anger": 0.1418551600226453,
+      "neutral": 0.1439933291001708
+    }
+  },
+  {
+    "chunk_index": 64,
+    "text": "As I stand in this place, so hallowed by history, I think of others who have stood here before me.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2090327130087791,
+      "unity": 0.1396541212344474,
+      "hope": 0.1849111738778353,
+      "resolve": 0.17775370893376102,
+      "anger": 0.08744274110893316,
+      "neutral": 0.20120554183624403
+    }
+  },
+  {
+    "chunk_index": 65,
+    "text": "I think of the dreams they had for America and I think of how each recognized that he needed help far beyond himself in order to make those dreams come true.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23390237145131287,
+      "unity": 0.14148256540229018,
+      "hope": 0.16241902379393447,
+      "resolve": 0.1726258620120526,
+      "anger": 0.11402594203356675,
+      "neutral": 0.1755442353068431
+    }
+  },
+  {
+    "chunk_index": 66,
+    "text": "Today I ask your prayers that in the years ahead I may have God's help in making decisions that are right for America, and I pray for your help so that together we may be worthy of our challenge.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15597892755717624,
+      "unity": 0.15689840650535672,
+      "hope": 0.20196479065809755,
+      "resolve": 0.17841892517403785,
+      "anger": 0.13194743652220672,
+      "neutral": 0.17479151358312495
+    }
+  },
+  {
+    "chunk_index": 67,
+    "text": "Let us pledge together to make these next 4 years the best 4 years in America's history, so that on its 200th birthday America will be as young and as vital as when it began, and as bright a beacon of hope for all the world.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19759926031900735,
+      "unity": 0.13669699862536658,
+      "hope": 0.196885074408208,
+      "resolve": 0.16899774279783217,
+      "anger": 0.11542331980577875,
+      "neutral": 0.1843976040438072
+    }
+  },
+  {
+    "chunk_index": 68,
+    "text": "Let us go forward from here confident in hope, strong in our faith in one another, sustained by our faith in God who created us, and striving always to serve His purpose.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16024812200506655,
+      "unity": 0.17737940415167,
+      "hope": 0.22672458679636268,
+      "resolve": 0.19535185391213777,
+      "anger": 0.08798105358380412,
+      "neutral": 0.1523149795509589
+    }
+  }
+]

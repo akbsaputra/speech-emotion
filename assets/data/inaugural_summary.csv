@@ -1,0 +1,64 @@
+President,Party,Date,Year,Total_Sentences,Dominant_Mood,Pride_Pct,Unity_Pct,Hope_Pct,Resolve_Pct,Anger_Pct,Neutral_Pct
+George Washington,Federalist,30-Apr-1789,1789,23,Neutral,26.1,0,4.3,13,8.7,47.8
+George Washington,Federalist,04-Mar-1793,1793,4,Neutral,0,0,0,0,0,100
+John Adams,Federalist,04-Mar-1797,1797,37,Pride,56.8,0,2.7,13.5,16.2,10.8
+Thomas Jefferson,Democratic-Republican,04-Mar-1801,1801,40,Resolve,20,17.5,7.5,32.5,12.5,10
+Thomas Jefferson,Democratic-Republican,04-Mar-1805,1805,45,Pride,26.7,6.7,4.4,17.8,26.7,17.8
+James Madison,Democratic-Republican,04-Mar-1809,1809,21,Pride,28.6,4.8,9.5,23.8,9.5,23.8
+James Madison,Democratic-Republican,04-Mar-1813,1813,33,Pride,45.5,0,0,24.2,24.2,6.1
+James Monroe,Democratic-Republican,04-Mar-1817,1817,123,Pride,43.9,4.9,2.4,27.6,9.8,11.4
+James Monroe,Democratic-Republican,04-Mar-1821,1821,131,Pride,40.5,7.6,6.1,24.4,11.5,9.9
+John Quincy Adams,National Republican,04-Mar-1825,1825,76,Pride,51.3,11.8,9.2,6.6,2.6,18.4
+Andrew Jackson,Democratic,04-Mar-1829,1829,25,Resolve,20,4,8,48,4,16
+Andrew Jackson,Democratic,04-Mar-1833,1833,30,Pride,23.3,20,3.3,20,13.3,20
+Martin van Buren,Democratic,04-Mar-1837,1837,98,Pride,36.7,5.1,9.2,26.5,13.3,9.2
+William Henry Harrison,Whig,04-Mar-1841,1841,214,Anger,27.6,9.8,2.8,18.2,32.2,9.3
+John Tyler,Whig,09-Apr-1841,1841,41,Anger,9.8,2.4,2.4,24.4,36.6,24.4
+James K. Polk,Democratic,04-Mar-1845,1845,153,Pride,37.9,6.5,2.6,20.3,21.6,11.1
+Zachary Taylor,Whig,05-Mar-1849,1849,22,Resolve,18.2,0,0,45.5,9.1,27.3
+Franklin Pierce,Democratic,04-Mar-1853,1853,105,Pride,33.3,4.8,12.4,31.4,8.6,9.5
+James Buchanan,Democratic,04-Mar-1857,1857,89,Pride,30.3,7.9,3.4,25.8,25.8,6.7
+Abraham Lincoln,Republican,04-Mar-1861,1861,134,Anger,14.9,16.4,0.7,21.6,36.6,9.7
+Abraham Lincoln,Republican,04-Mar-1865,1865,26,Resolve,7.7,23.1,15.4,42.3,7.7,3.8
+Andrew Johnson,Democratic,17-Mar-1865,1865,15,Pride,26.7,0,13.3,26.7,6.7,26.7
+Ulysses S. Grant,Republican,04-Mar-1869,1869,40,Resolve,22.5,5,7.5,25,15,25
+Ulysses S. Grant,Republican,04-Mar-1873,1873,43,Neutral,18.6,4.7,11.6,20.9,20.9,23.3
+Rutherford B. Hayes,Republican,05-Mar-1877,1877,59,Pride,28.8,20.3,5.1,13.6,20.3,11.9
+James A. Garfield,Republican,04-Mar-1881,1881,111,Pride,33.3,3.6,11.7,14.4,29.7,7.2
+Chester A. Arthur,Republican,22-Sept-1881,1881,14,Pride,50,0,7.1,21.4,14.3,7.1
+Grover Cleveland,Democratic,04-Mar-1885,1885,44,Pride,29.5,2.3,2.3,25,22.7,18.2
+Benjamin Harrison,Republican,04-Mar-1889,1889,157,Pride,30.6,3.2,9.6,21.7,25.5,9.6
+Grover Cleveland,Democratic,04-Mar-1893,1893,58,Resolve,27.6,1.7,0,34.5,31,5.2
+William McKinley,Republican,04-Mar-1897,1897,130,Pride,27.7,1.5,9.2,25.4,27.7,8.5
+William McKinley,Republican,4-Mar-01,1901,99,Pride,29.3,1,10.1,26.3,18.2,15.2
+Theodore Roosevelt,Republican,4-Mar-05,1905,33,Resolve,33.3,6.1,18.2,42.4,0,0
+William Howard Taft,Republican,4-Mar-09,1909,159,Resolve,19.5,5,13.8,27,18.9,15.7
+Woodrow Wilson,Democratic,4-Mar-13,1913,68,Hope,20.6,0,27.9,26.5,19.1,5.9
+Woodrow Wilson,Democratic,5-Mar-17,1917,59,Resolve,25.4,6.8,13.6,37.3,11.9,5.1
+Warren G. Harding,Republican,4-Mar-21,1921,148,Pride,26.4,8.1,20.3,24.3,16.2,4.7
+Calvin Coolidge,Republican,4-Mar-25,1925,196,Pride,32.1,4.6,11.2,29.1,21.9,1
+Herbert Hoover,Republican,4-Mar-29,1929,165,Pride,27.3,3.6,11.5,24.2,24.8,8.5
+Franklin D. Roosevelt,Democratic,4-Mar-33,1933,86,Resolve,18.6,2.3,20.9,27.9,22.1,8.1
+Franklin D. Roosevelt,Democratic,20-Jan-37,1937,96,Hope,19.8,8.3,28.1,28.1,13.5,2.1
+Franklin D. Roosevelt,Democratic,20-Jan-41,1941,65,Pride,55.4,0,10.8,23.1,9.2,1.5
+Franklin D. Roosevelt,Democratic,20-Jan-45,1945,26,Resolve,23.1,7.7,15.4,46.2,0,7.7
+Harry S Truman,Democratic,20-Jan-49,1949,118,Resolve,22.9,5.9,24.6,30.5,12.7,3.4
+Dwight D. Eisenhower,Republican,20-Jan-53,1953,119,Resolve,22.7,6.7,23.5,37,6.7,3.4
+Dwight D. Eisenhower,Republican,21-Jan-57,1957,93,Resolve,20.4,10.8,17.2,43,4.3,4.3
+John F. Kennedy,Democratic,20-Jan-61,1961,53,Resolve,18.9,7.5,13.2,49.1,5.7,5.7
+Lyndon B. Johnson,Democratic,20-Jan-65,1965,95,Hope,23.2,4.2,33.7,27.4,8.4,3.2
+Richard Nixon,Republican,20-Jan-69,1969,103,Hope,23.3,12.6,38.8,14.6,6.8,3.9
+Richard Nixon,Republican,20-Jan-73,1973,69,Resolve,24.6,5.8,24.6,26.1,14.5,4.3
+Jimmy Carter,Democratic,20-Jan-77,1977,54,Pride,37,5.6,20.4,29.6,0,7.4
+Ronald Reagan,Republican,20-Jan-81,1981,127,Pride,37,3.9,19.7,22,12.6,4.7
+Ronald Reagan,Republican,21-Jan-85,1985,123,Pride,34.1,3.3,24.4,18.7,12.2,7.3
+George Bush,Republican,20-Jan-89,1989,147,Hope,20.4,8.2,24.5,21.1,17,8.8
+William J. Clinton,Democratic,20-Jan-93,1993,92,Pride,30.4,0,27.2,17.4,16.3,8.7
+William J. Clinton,Democratic,20-Jan-97,1997,111,Hope,27,4.5,42.3,13.5,10.8,1.8
+George W. Bush,Republican,20-Jan-01,2001,96,Resolve,27.1,6.2,18.8,32.3,9.4,6.2
+George W. Bush,Republican,20-Jan-05,2005,99,Pride,48.5,5.1,9.1,25.3,7.1,5.1
+Barack Obama,Democratic,20-Jan-09,2009,116,Resolve,25.9,3.4,25.9,30.2,12.1,2.6
+Barack Obama,Democratic,21-Jan-13,2013,88,Resolve,29.5,5.7,21.6,30.7,5.7,6.8
+Donald J. Trump,Republican,20-Jan-17,2017,86,Pride,37.2,4.7,19.8,19.8,8.1,10.5
+"Joseph R. Biden, Jr.",Democratic,20-Jan-21,2021,162,Resolve,22.8,13.6,16,24.7,14.8,8
+Donald J. Trump,Republican,20-Jan-25,2025,163,Pride,31.3,1.8,16.6,16,16,18.4

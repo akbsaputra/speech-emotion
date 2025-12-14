@@ -1,0 +1,886 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "There has been a change of government.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.19082228166139475,
+      "unity": 0.16693801898793872,
+      "hope": 0.14306625393337025,
+      "resolve": 0.1160902456852919,
+      "anger": 0.19909080357510872,
+      "neutral": 0.18399239615689564
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "It began two years ago, when the House of Representatives became Democratic by a decisive majority.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18765887354757838,
+      "unity": 0.1443814780815764,
+      "hope": 0.15778248700093936,
+      "resolve": 0.09605315406953989,
+      "anger": 0.21816008865010073,
+      "neutral": 0.19596391865026527
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "It has now been completed.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.14000901937554738,
+      "unity": 0.144783114773638,
+      "hope": 0.1745170308026433,
+      "resolve": 0.1454849440868564,
+      "anger": 0.15479390625482317,
+      "neutral": 0.24041198470649178
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "The Senate about to assemble will also be Democratic.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1252865361106321,
+      "unity": 0.13407471570359655,
+      "hope": 0.19592860611071122,
+      "resolve": 0.16522580719028018,
+      "anger": 0.1701366097231357,
+      "neutral": 0.2093477251616442
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "The offices of President and Vice-President have been put into the hands of Democrats.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11143951250000522,
+      "unity": 0.1364933793942463,
+      "hope": 0.12496671608969685,
+      "resolve": 0.03543898838318627,
+      "anger": 0.32051298572543274,
+      "neutral": 0.2711484179074326
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "What does the change mean?",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.09025507628512434,
+      "unity": 0.17762621473202342,
+      "hope": 0.23706021228764895,
+      "resolve": 0.08958791755580081,
+      "anger": 0.16583841203237226,
+      "neutral": 0.2396321671070302
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "That is the question that is uppermost in our minds to-day.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1463777223070841,
+      "unity": 0.19796635743824745,
+      "hope": 0.212327036995641,
+      "resolve": 0.2244743944794241,
+      "anger": 0.1320095811134707,
+      "neutral": 0.08684490766613266
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "That is the question I am going to try to answer, in order, if I may, to interpret the occasion.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16022461258743545,
+      "unity": 0.18013983746707352,
+      "hope": 0.19598353827172524,
+      "resolve": 0.17240260253542222,
+      "anger": 0.1363421277528499,
+      "neutral": 0.15490728138549364
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "It means much more than the mere success of a party.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22329058864438217,
+      "unity": 0.14250305824121937,
+      "hope": 0.16170081990379181,
+      "resolve": 0.17338634385943935,
+      "anger": 0.11561629431225176,
+      "neutral": 0.1835028950389155
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "The success of a party means little except when the Nation is using that party for a large and definite purpose.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21957049711488003,
+      "unity": 0.15808917553219004,
+      "hope": 0.15522098550016755,
+      "resolve": 0.1931808652892329,
+      "anger": 0.15263812964013104,
+      "neutral": 0.12130034692339844
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "No one can mistake the purpose for which the Nation now seeks to use the Democratic Party.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17749222544412344,
+      "unity": 0.1707897345135851,
+      "hope": 0.17174539134463104,
+      "resolve": 0.21115540386093484,
+      "anger": 0.1654454271957484,
+      "neutral": 0.10337181764097719
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "It seeks to use it to interpret a change in its own plans and point of view.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.124691344830465,
+      "unity": 0.21101680768212597,
+      "hope": 0.26736501304795274,
+      "resolve": 0.21114733392577778,
+      "anger": 0.13338465047248887,
+      "neutral": 0.05239485004118966
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "Some old things with which we had grown familiar, and which had begun to creep into the very habit of our thought and of our lives, have altered their aspect as we have latterly looked critically upon them, with fresh, awakened eyes; have dropped their disguises and shown themselves alien and sinister.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14812918094989833,
+      "unity": 0.167055739377743,
+      "hope": 0.2114623188660874,
+      "resolve": 0.18331813136457115,
+      "anger": 0.16371288799579942,
+      "neutral": 0.1263217414459007
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "Some new things, as we look frankly upon them, willing to comprehend their real character, have come to assume the aspect of things long believed in and familiar, stuff of our own convictions.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15959132689417757,
+      "unity": 0.1662445596578868,
+      "hope": 0.21520965551514887,
+      "resolve": 0.19397866273779527,
+      "anger": 0.14783076264237663,
+      "neutral": 0.11714503255261488
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "We have been refreshed by a new insight into our own life.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16186448585476296,
+      "unity": 0.17502690680233599,
+      "hope": 0.257815628690805,
+      "resolve": 0.18082169048886051,
+      "anger": 0.10141023755926659,
+      "neutral": 0.12306105060396894
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "We see that in many things that life is very great.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.25127315347813733,
+      "unity": 0.1397960258818982,
+      "hope": 0.2582529026209441,
+      "resolve": 0.16721098066738052,
+      "anger": 0.08213459133867375,
+      "neutral": 0.1013323460129661
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "It is incomparably great in its material aspects, in its body of wealth, in the diversity and sweep of its energy, in the industries which have been conceived and built up by the genius of individual men and the limitless enterprise of groups of men.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.29289216926680167,
+      "unity": 0.1300886277485103,
+      "hope": 0.21318512133535664,
+      "resolve": 0.1745530696555896,
+      "anger": 0.09249270102936868,
+      "neutral": 0.09678831096437311
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "It is great, also, very great, in its moral force.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.25421265204634114,
+      "unity": 0.1380220145898298,
+      "hope": 0.17298295632431537,
+      "resolve": 0.16164317552415258,
+      "anger": 0.138546279269387,
+      "neutral": 0.1345929222459741
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "Nowhere else in the world have noble men and women exhibited in more striking forms the beauty and the energy of sympathy and helpfulness and counsel in their efforts to rectify wrong, alleviate suffering, and set the weak in the way of strength and hope.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21305245504493395,
+      "unity": 0.14783329408927734,
+      "hope": 0.1915658380257628,
+      "resolve": 0.1761181345166536,
+      "anger": 0.12453969523074752,
+      "neutral": 0.1468905830926248
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "We have built up, moreover, a great system of government, which has stood through a long age as in many respects a model for those who seek to set liberty upon foundations that will endure against fortuitous change, against storm and accident.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22792632342995597,
+      "unity": 0.1468149309353965,
+      "hope": 0.1744109634799029,
+      "resolve": 0.20376964040512097,
+      "anger": 0.1234665456214593,
+      "neutral": 0.1236115961281644
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "Our life contains every great thing, and contains it in rich abundance.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.22743707456427673,
+      "unity": 0.14712746312011857,
+      "hope": 0.2432514984458692,
+      "resolve": 0.18246321677355595,
+      "anger": 0.06967256199688883,
+      "neutral": 0.1300481850992907
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "But the evil has come with the good, and much fine gold has been corroded.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15970063188404182,
+      "unity": 0.17222505694707674,
+      "hope": 0.18369213648045474,
+      "resolve": 0.17885837791678982,
+      "anger": 0.18560971820732217,
+      "neutral": 0.11991407856431473
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "With riches has come inexcusable waste.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15832149009545704,
+      "unity": 0.15557189206834415,
+      "hope": 0.18939431534856474,
+      "resolve": 0.13011439448597925,
+      "anger": 0.24102080747727914,
+      "neutral": 0.12557710052437565
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "We have squandered a great part of what we might have used, and have not stopped to conserve the exceeding bounty of nature, without which our genius for enterprise would have been worthless and impotent, scorning to be careful, shamefully prodigal as well as admirably efficient.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.19913104251184827,
+      "unity": 0.1489880303882264,
+      "hope": 0.22716818434849168,
+      "resolve": 0.19397873615921757,
+      "anger": 0.13269083993208372,
+      "neutral": 0.09804316666013237
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "We have been proud of our industrial achievements, but we have not hitherto stopped thoughtfully enough to count the human cost, the cost of lives snuffed out, of energies overtaxed and broken, the fearful physical and spiritual cost to the men and women and children upon whom the dead weight and burden of it all has fallen pitilessly the years through.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20290498298540366,
+      "unity": 0.1302195798700593,
+      "hope": 0.20276218855866243,
+      "resolve": 0.1827580188235926,
+      "anger": 0.15880988769327772,
+      "neutral": 0.1225453420690043
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "The groans and agony of it all had not yet reached our ears, the solemn, moving undertone of our life, coming up out of the mines and factories, and out of every home where the struggle had its intimate and familiar seat.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1865616925251709,
+      "unity": 0.16731696678854124,
+      "hope": 0.17756211692020327,
+      "resolve": 0.20064302757022934,
+      "anger": 0.14322337077045635,
+      "neutral": 0.1246928254253989
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "With the great Government went many deep secret things which we too long delayed to look into and scrutinize with candid, fearless eyes.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19581350033886533,
+      "unity": 0.14854038775722292,
+      "hope": 0.17816479871979785,
+      "resolve": 0.18328282374473406,
+      "anger": 0.18870949708664825,
+      "neutral": 0.10548899235273158
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "The great Government we loved has too often been made use of for private and selfish purposes, and those who used it had forgotten the people.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.19985297126726143,
+      "unity": 0.18003666116532135,
+      "hope": 0.11155123590441211,
+      "resolve": 0.13873015161772442,
+      "anger": 0.25174104666534375,
+      "neutral": 0.11808793337993695
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "At last a vision has been vouchsafed us of our life as a whole.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.16497285247466872,
+      "unity": 0.14959103867014,
+      "hope": 0.24410199100424365,
+      "resolve": 0.16671178669292544,
+      "anger": 0.11632908510105161,
+      "neutral": 0.1582932460569706
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "We see the bad with the good, the debased and decadent with the sound and vital.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18196640769583314,
+      "unity": 0.17647994041702508,
+      "hope": 0.2212010951578788,
+      "resolve": 0.17497010641116925,
+      "anger": 0.15483000935033076,
+      "neutral": 0.09055244096776296
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "With this vision we approach new affairs.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.15427905111350412,
+      "unity": 0.15617136827932782,
+      "hope": 0.26491009919544406,
+      "resolve": 0.21734844020729,
+      "anger": 0.1133867920438853,
+      "neutral": 0.0939042491605487
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "Our duty is to cleanse, to reconsider, to restore, to correct the evil without impairing the good, to purify and humanize every process of our common life without weakening or sentimentalizing it.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1556874511671439,
+      "unity": 0.17907152641550733,
+      "hope": 0.18140867015595194,
+      "resolve": 0.19840180316825604,
+      "anger": 0.14457547686061792,
+      "neutral": 0.1408550722325229
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "There has been something crude and heartless and unfeeling in our haste to succeed and be great.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.172773867752636,
+      "unity": 0.17471131950213173,
+      "hope": 0.18489356254082642,
+      "resolve": 0.18467161106349866,
+      "anger": 0.1784172697208309,
+      "neutral": 0.10453236942007625
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "Our thought has been \"Let every man look out for himself, let every generation look out for itself,\" while we reared giant machinery which made it impossible that any but those who stood at the levers of control should have a chance to look out for themselves.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17332581502842898,
+      "unity": 0.1945012516142615,
+      "hope": 0.18240841240482486,
+      "resolve": 0.18492885362106928,
+      "anger": 0.2003389367897585,
+      "neutral": 0.06449673054165686
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "We had not forgotten our morals.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22533235831117332,
+      "unity": 0.15556105247847912,
+      "hope": 0.15379734302760512,
+      "resolve": 0.2050169230607326,
+      "anger": 0.16759954142795122,
+      "neutral": 0.09269278169405859
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "We remembered well enough that we had set up a policy which was meant to serve the humblest as well as the most powerful, with an eye single to the standards of justice and fair play, and remembered it with pride.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24801391205288084,
+      "unity": 0.14672179901991406,
+      "hope": 0.13740684940677417,
+      "resolve": 0.20875998104041718,
+      "anger": 0.13322063262942413,
+      "neutral": 0.12587682585058962
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "But we were very heedless and in a hurry to be great.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17838911480924127,
+      "unity": 0.1796560338024348,
+      "hope": 0.19604969383833992,
+      "resolve": 0.24989952711273072,
+      "anger": 0.15635777568821405,
+      "neutral": 0.03964785474903922
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "We have come now to the sober second thought.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.12073654369694564,
+      "unity": 0.17488581079515134,
+      "hope": 0.18440219130785027,
+      "resolve": 0.1803476566276721,
+      "anger": 0.17308809851822837,
+      "neutral": 0.16653969905415228
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "The scales of heedlessness have fallen from our eyes.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13408590848713156,
+      "unity": 0.16087120540681527,
+      "hope": 0.17569736524151447,
+      "resolve": 0.17735729802886555,
+      "anger": 0.2229192359823404,
+      "neutral": 0.12906898685333276
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "We have made up our minds to square every process of our national life again with the standards we so proudly set up at the beginning and have always carried at our hearts.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19167178708300817,
+      "unity": 0.16044475255048526,
+      "hope": 0.16142870808759116,
+      "resolve": 0.18094003143164517,
+      "anger": 0.1499623788613985,
+      "neutral": 0.15555234198587176
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "Our work is a work of restoration.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17053543201761429,
+      "unity": 0.16093886046869119,
+      "hope": 0.20656636696428285,
+      "resolve": 0.20562385429777635,
+      "anger": 0.1264399583067628,
+      "neutral": 0.12989552794487252
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "We have itemized with some degree of particularity the things that ought to be altered and here are some of the chief items: A tariff which cuts us off from our proper part in the commerce of the world, violates the just principles of taxation, and makes the Government a facile instrument in the hand of private interests; a banking and currency system based upon the necessity of the Government to sell its bonds fifty years ago and perfectly adapted to concentrating cash and restricting credits; an industrial system which, take it on all its sides, financial as well as administrative, holds capital in leading strings, restricts the liberties and limits the opportunities of labor, and exploits without renewing or conserving the natural resources of the country; a body of agricultural activities never yet given the efficiency of great business undertakings or served as it should be through the instrumentality of science taken directly to the farm, or afforded the facilities of credit best suited to its practical needs; watercourses undeveloped, waste places unreclaimed, forests untended, fast disappearing without plan or prospect of renewal, unregarded waste heaps at every mine.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.20784340151203493,
+      "unity": 0.15612756317354504,
+      "hope": 0.14828617146087686,
+      "resolve": 0.1276567345055501,
+      "anger": 0.23115972189889003,
+      "neutral": 0.12892640744910303
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "We have studied as perhaps no other nation has the most effective means of production, but we have not studied cost or economy as we should either as organizers of industry, as statesmen, or as individuals.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2907191868817483,
+      "unity": 0.18873572395268712,
+      "hope": 0.16857665802796093,
+      "resolve": 0.2160038546510027,
+      "anger": 0.15759257754177003,
+      "neutral": -0.02162800105516902
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "Nor have we studied and perfected the means by which government may be put at the service of humanity, in safeguarding the health of the Nation, the health of its men and its women and its children, as well as their rights in the struggle for existence.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20248006288650455,
+      "unity": 0.17894922346091893,
+      "hope": 0.1482542723182185,
+      "resolve": 0.1820046464070161,
+      "anger": 0.19708498138435535,
+      "neutral": 0.09122681354298656
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "This is no sentimental duty.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13948853685796436,
+      "unity": 0.15128209202617712,
+      "hope": 0.11842022217315697,
+      "resolve": 0.17433036244190692,
+      "anger": 0.2058327847685707,
+      "neutral": 0.21064600173222392
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "The firm basis of government is justice, not pity.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20361073856364695,
+      "unity": 0.17195564263625035,
+      "hope": 0.14599973617156464,
+      "resolve": 0.18377072672696407,
+      "anger": 0.17488050637175248,
+      "neutral": 0.11978264952982151
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "These are matters of justice.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.1373487697169481,
+      "unity": 0.17034309230925043,
+      "hope": 0.13145644985075702,
+      "resolve": 0.19534179688485764,
+      "anger": 0.22496859437032113,
+      "neutral": 0.1405412968678657
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "There can be no equality or opportunity, the first essential of justice in the body politic, if men and women and children be not shielded in their lives, their very vitality, from the consequences of great industrial and social processes which they can not alter, control, or singly cope with.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15777856675710117,
+      "unity": 0.17329917585478805,
+      "hope": 0.17813105850053973,
+      "resolve": 0.1939848126229874,
+      "anger": 0.18971622766688379,
+      "neutral": 0.10709015859769991
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "Society must see to it that it does not itself crush or weaken or damage its own constituent parts.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15271775745032365,
+      "unity": 0.18433394095152553,
+      "hope": 0.16776632464701577,
+      "resolve": 0.21467496416808307,
+      "anger": 0.1797388261060285,
+      "neutral": 0.10076818667702349
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "The first duty of law is to keep sound the society it serves.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15682871232183876,
+      "unity": 0.15309714309798605,
+      "hope": 0.14396704529223478,
+      "resolve": 0.1999283725656858,
+      "anger": 0.17045655172090823,
+      "neutral": 0.17572217500134638
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "Sanitary laws, pure food laws, and laws determining conditions of labor which individuals are powerless to determine for themselves are intimate parts of the very business of justice and legal efficiency.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15505351241106333,
+      "unity": 0.17367384937717095,
+      "hope": 0.1559953082024862,
+      "resolve": 0.1958862421512727,
+      "anger": 0.23598838747334297,
+      "neutral": 0.08340270038466387
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "These are some of the things we ought to do, and not leave the others undone, the old-fashioned, never-to-be-neglected, fundamental safeguarding of property and of individual right.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16374193680881738,
+      "unity": 0.1626266820879738,
+      "hope": 0.170713233033767,
+      "resolve": 0.20903771153432724,
+      "anger": 0.1764097103889285,
+      "neutral": 0.1174707261461861
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "This is the high enterprise of the new day: To lift everything that concerns our life as a Nation to the light that shines from the hearthfire of every man's conscience and vision of the right.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.17337614999694775,
+      "unity": 0.1556955193744073,
+      "hope": 0.2160780406832006,
+      "resolve": 0.1728958083082029,
+      "anger": 0.13796545507381613,
+      "neutral": 0.1439890265634253
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "It is inconceivable that we should do this as partisans; it is inconceivable we should do it in ignorance of the facts as they are or in blind haste.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.13853055270698392,
+      "unity": 0.19569067170924892,
+      "hope": 0.11166509172490433,
+      "resolve": 0.19363927713835763,
+      "anger": 0.2525216420146896,
+      "neutral": 0.10795276470581562
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "We shall restore, not destroy.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13198006740999352,
+      "unity": 0.18269922440785888,
+      "hope": 0.1890222196389917,
+      "resolve": 0.19489994990769172,
+      "anger": 0.17733634202099768,
+      "neutral": 0.12406219661446646
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "We shall deal with our economic system as it is and as it may be modified, not as it might be if we had a clean sheet of paper to write upon; and step by step we shall make it what it should be, in the spirit of those who question their own wisdom and seek counsel and knowledge, not shallow self-satisfaction or the excitement of excursions whither they can not tell.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.13165792100558782,
+      "unity": 0.18316168776485728,
+      "hope": 0.215961668848555,
+      "resolve": 0.16472477096300134,
+      "anger": 0.17636693408963267,
+      "neutral": 0.12812701732836584
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "Justice, and only justice, shall always be our motto.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1758415604185477,
+      "unity": 0.16368521971741326,
+      "hope": 0.15001338923946184,
+      "resolve": 0.20545867655794867,
+      "anger": 0.17020817542387362,
+      "neutral": 0.13479297864275488
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "And yet it will be no cool process of mere science.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.06770915416303092,
+      "unity": 0.12339980093593733,
+      "hope": 0.3061501942565701,
+      "resolve": 0.22216459273965958,
+      "anger": 0.15856200413631064,
+      "neutral": 0.12201425376849144
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "The Nation has been deeply stirred, stirred by a solemn passion, stirred by the knowledge of wrong, of ideals lost, of government too often debauched and made an instrument of evil.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18491670306356084,
+      "unity": 0.16756130612609327,
+      "hope": 0.1615120872460738,
+      "resolve": 0.1673314228408775,
+      "anger": 0.18748379512857463,
+      "neutral": 0.13119468559481998
+    }
+  },
+  {
+    "chunk_index": 59,
+    "text": "The feelings with which we face this new age of right and opportunity sweep across our heartstrings like some air out of God's own presence, where justice and mercy are reconciled and the judge and the brother are one.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14707760529050126,
+      "unity": 0.17321535456041104,
+      "hope": 0.2148524423932305,
+      "resolve": 0.17132826421670522,
+      "anger": 0.14827653501000695,
+      "neutral": 0.145249798529145
+    }
+  },
+  {
+    "chunk_index": 60,
+    "text": "We know our task to be no mere task of politics but a task which shall search us through and through, whether we be able to understand our time and the need of our people, whether we be indeed their spokesmen and interpreters, whether we have the pure heart to comprehend and the rectified will to choose our high course of action.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1501639726289741,
+      "unity": 0.17265380766464128,
+      "hope": 0.18815228090516606,
+      "resolve": 0.21809935998220945,
+      "anger": 0.15152531153296925,
+      "neutral": 0.1194052672860399
+    }
+  },
+  {
+    "chunk_index": 61,
+    "text": "This is not a day of triumph; it is a day of dedication.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18652025322075652,
+      "unity": 0.13905621469359256,
+      "hope": 0.198838128398952,
+      "resolve": 0.19688633799487007,
+      "anger": 0.11864849298744759,
+      "neutral": 0.16005057270438128
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "Here muster, not the forces of party, but the forces of humanity.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15070467885016853,
+      "unity": 0.1855957017127818,
+      "hope": 0.15162454609900236,
+      "resolve": 0.18782363010237565,
+      "anger": 0.18222280260862742,
+      "neutral": 0.14202864062704423
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "Men's hearts wait upon us; men's lives hang in the balance; men's hopes call upon us to say what we will do.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13638029281637662,
+      "unity": 0.17814467687746613,
+      "hope": 0.19810486869406227,
+      "resolve": 0.20976120943722112,
+      "anger": 0.12379758923514511,
+      "neutral": 0.15381136293972875
+    }
+  },
+  {
+    "chunk_index": 64,
+    "text": "Who shall live up to the great trust?",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.1595023575896032,
+      "unity": 0.1378204308994112,
+      "hope": 0.18208093649305382,
+      "resolve": 0.19222761434778338,
+      "anger": 0.1784873286201415,
+      "neutral": 0.14988133205000687
+    }
+  },
+  {
+    "chunk_index": 65,
+    "text": "Who dares fail to try?",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.11533537252402527,
+      "unity": 0.16354664480222267,
+      "hope": 0.20177045383514758,
+      "resolve": 0.26268320227841985,
+      "anger": 0.1906104129606574,
+      "neutral": 0.0660539135995272
+    }
+  },
+  {
+    "chunk_index": 66,
+    "text": "I summon all honest men, all patriotic, all forward-looking men, to my side.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17298257506680226,
+      "unity": 0.175443079774472,
+      "hope": 0.1599933877042833,
+      "resolve": 0.18719228633405718,
+      "anger": 0.13636324406510472,
+      "neutral": 0.1680254270552805
+    }
+  },
+  {
+    "chunk_index": 67,
+    "text": "God helping me, I will not fail them, if they will but counsel and sustain me!",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.12031309647259418,
+      "unity": 0.1523176932410706,
+      "hope": 0.23926105717308996,
+      "resolve": 0.2515449948507507,
+      "anger": 0.08009139412819352,
+      "neutral": 0.15647176413430103
+    }
+  }
+]

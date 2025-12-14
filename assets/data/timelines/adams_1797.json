@@ -1,0 +1,483 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "WHEN it was first perceived, in early times, that no middle course for America remained between unlimited submission to a foreign legislature and a total independence of its claims, men of reflection were less apprehensive of danger from the formidable power of fleets and armies they must determine to resist than from those contests and dissensions which would certainly arise concerning the forms of government to be instituted over the whole and over the parts of this extensive country.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.20425754599265056,
+      "unity": 0.18507097895835933,
+      "hope": 0.13011693094307158,
+      "resolve": 0.20777339192249678,
+      "anger": 0.16086891173513465,
+      "neutral": 0.11191224044828713
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Relying, however, on the purity of their intentions, the justice of their cause, and the integrity and intelligence of the people, under an overruling Providence which had so signally protected this country from the first, the representatives of this nation, then consisting of little more than half its present number, not only broke to pieces the chains which were forging and the rod of iron that was lifted up, but frankly cut asunder the ties which had bound them, and launched into an ocean of uncertainty.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.18083185776111363,
+      "unity": 0.19047553381232038,
+      "hope": 0.1432971151121989,
+      "resolve": 0.19052532087301702,
+      "anger": 0.1705742159155428,
+      "neutral": 0.12429595652580727
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "The zeal and ardor of the people during the Revolutionary war, supplying the place of government, commanded a degree of order sufficient at least for the temporary preservation of society.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.25800680283054966,
+      "unity": 0.14937187934136156,
+      "hope": 0.12754853467898247,
+      "resolve": 0.2071103899820141,
+      "anger": 0.14016076061193672,
+      "neutral": 0.11780163255515548
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "The Confederation which was early felt to be necessary was prepared from the models of the Batavian and Helvetic confederacies, the only examples which remain with any detail and precision in history, and certainly the only ones which the people at large had ever considered.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.33370711819103804,
+      "unity": 0.28211384165544673,
+      "hope": 0.13110736430152686,
+      "resolve": 0.21191465522553274,
+      "anger": 0.050433518479459774,
+      "neutral": -0.009276497853004183
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "But reflecting on the striking difference in so many particulars between this country and those where a courier may go from the seat of government to the frontier in a single day, it was then certainly foreseen by some who assisted in Congress at the formation of it that it could not be durable.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23170685820386813,
+      "unity": 0.17814069926551812,
+      "hope": 0.15265820167825855,
+      "resolve": 0.2104115611198065,
+      "anger": 0.14339201756256373,
+      "neutral": 0.08369066216998497
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Negligence of its regulations, inattention to its recommendations, if not disobedience to its authority, not only in individuals but in States, soon appeared with their melancholy consequences \u2014 universal languor, jealousies and rivalries of States, decline of navigation and commerce, discouragement of necessary manufactures, universal fall in the value of lands and their produce, contempt of public and private faith, loss of consideration and credit with foreign nations, and at length in discontents, animosities, combinations, partial conventions, and insurrection, threatening some great national calamity.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.20601309172960805,
+      "unity": 0.1671243597529683,
+      "hope": 0.10864304242941339,
+      "resolve": 0.12814382762263338,
+      "anger": 0.28498402688571484,
+      "neutral": 0.10509165157966205
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "In this dangerous crisis the people of America were not abandoned by their usual good sense, presence of mind, resolution, or integrity.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2315113880190968,
+      "unity": 0.14948946314609413,
+      "hope": 0.15496359601580917,
+      "resolve": 0.19158621288713967,
+      "anger": 0.1434014847821432,
+      "neutral": 0.12904785514971706
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "Measures were pursued to concert a plan to form a more perfect union, establish justice, insure domestic tranquillity, provide for the common defense, promote the general welfare, and secure the blessings of liberty.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19935800293546047,
+      "unity": 0.1874831058987141,
+      "hope": 0.16136708881396455,
+      "resolve": 0.20426776418597423,
+      "anger": 0.09552447639207604,
+      "neutral": 0.15199956177381063
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "The public disquisitions, discussions, and deliberations issued in the present happy Constitution of Government.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.19690695727719254,
+      "unity": 0.15661232134765984,
+      "hope": 0.1467453870458743,
+      "resolve": 0.13787642108005163,
+      "anger": 0.16577972227293472,
+      "neutral": 0.19607919097628695
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "Employed in the service of my country abroad during the whole course of these transactions, I first saw the Constitution of the United States in a foreign country.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3503229530854018,
+      "unity": 0.11260616788473206,
+      "hope": 0.10079496933976231,
+      "resolve": 0.15671735791521388,
+      "anger": 0.0711107919156634,
+      "neutral": 0.2084477598592265
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "Irritated by no literary altercation, animated by no public debate, heated by no party animosity, I read it with great satisfaction, as the result of good heads prompted by good hearts, as an experiment better adapted to the genius, character, situation, and relations of this nation and country than any which had ever been proposed or suggested.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22883665193605462,
+      "unity": 0.14575291240759541,
+      "hope": 0.16958216644388527,
+      "resolve": 0.16296575623190085,
+      "anger": 0.1424445172300981,
+      "neutral": 0.15041799575046577
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "In its general principles and great outlines it was conformable to such a system of government as I had ever most esteemed, and in some States, my own native State in particular, had contributed to establish.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.3243358152746688,
+      "unity": 0.19392712005162124,
+      "hope": 0.09526135487602737,
+      "resolve": 0.13775321499520016,
+      "anger": 0.07175882833651376,
+      "neutral": 0.17696366646596867
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "Claiming a right of suffrage, in common with my fellow-citizens, in the adoption or rejection of a constitution which was to rule me and my posterity, as well as them and theirs, I did not hesitate to express my approbation of it on all occasions, in public and in private.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.19559867887795718,
+      "unity": 0.1589488888826601,
+      "hope": 0.12658537653768093,
+      "resolve": 0.15670496815736792,
+      "anger": 0.19596474629043925,
+      "neutral": 0.16619734125389463
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "It was not then, nor has been since, any objection to it in my mind that the Executive and Senate were not more permanent.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20123061760074298,
+      "unity": 0.14452500154009634,
+      "hope": 0.09415406023420701,
+      "resolve": 0.17440198964822537,
+      "anger": 0.19724412018143914,
+      "neutral": 0.18844421079528914
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "Nor have I ever entertained a thought of promoting any alteration in it but such as the people themselves, in the course of their experience, should see and feel to be necessary or expedient, and by their representatives in Congress and the State legislatures, according to the Constitution itself, adopt and ordain.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.16445040624856072,
+      "unity": 0.18200914712378805,
+      "hope": 0.13049220748961882,
+      "resolve": 0.14974427559725872,
+      "anger": 0.2067705368100712,
+      "neutral": 0.16653342673070246
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "Returning to the bosom of my country after a painful separation from it for ten years, I had the honor to be elected to a station under the new order of things, and I have repeatedly laid myself under the most serious obligations to support the Constitution.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20669098809750344,
+      "unity": 0.14933600837395988,
+      "hope": 0.13546590314743148,
+      "resolve": 0.16145421892211234,
+      "anger": 0.155558635586736,
+      "neutral": 0.19149424587225686
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "The operation of it has equaled the most sanguine expectations of its friends, and from an habitual attention to it, satisfaction in its administration, and delight in its effects upon the peace, order, prosperity, and happiness of the nation I have acquired an habitual attachment to it and veneration for it.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.23633965074535088,
+      "unity": 0.12590958116512202,
+      "hope": 0.14301051169098472,
+      "resolve": 0.1681135564919618,
+      "anger": 0.12429559733484892,
+      "neutral": 0.20233110257173165
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "What other form of government, indeed, can so well deserve our esteem and love?",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.25519888411921593,
+      "unity": 0.1784780988620621,
+      "hope": 0.10866407148213685,
+      "resolve": 0.14801895963056738,
+      "anger": 0.20706852979014104,
+      "neutral": 0.10257145611587673
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "There may be little solidity in an ancient idea that congregations of men into cities and nations are the most pleasing objects in the sight of superior intelligences, but this is very certain, that to a benevolent human mind there can be no spectacle presented by any nation more pleasing, more noble, majestic, or august, than an assembly like that which has so often been seen in this and the other Chamber of Congress, of a Government in which the Executive authority, as well as that of all the branches of the Legislature, are exercised by citizens selected at regular periods by their neighbors to make and execute laws for the general good.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20015179979293315,
+      "unity": 0.17139399038025613,
+      "hope": 0.14027144960186624,
+      "resolve": 0.14952328240515494,
+      "anger": 0.1536020370516997,
+      "neutral": 0.18505744076808983
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "Can anything essential, anything more than mere ornament and decoration, be added to this by robes and diamonds?",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13211852200178892,
+      "unity": 0.11858675893389735,
+      "hope": 0.21651753368144072,
+      "resolve": 0.15942791656937735,
+      "anger": 0.1098797148907442,
+      "neutral": 0.26346955392275145
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "Can authority be more amiable and respectable when it descends from accidents or institutions established in remote antiquity than when it springs fresh from the hearts and judgments of an honest and enlightened people?",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.17796760066396905,
+      "unity": 0.14180336091324344,
+      "hope": 0.13589497485790836,
+      "resolve": 0.17129436709984924,
+      "anger": 0.20238056561406015,
+      "neutral": 0.17065913085096976
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "For it is the people only that are represented.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1943670768224109,
+      "unity": 0.1889052012726505,
+      "hope": 0.12030085486819363,
+      "resolve": 0.15633634611267422,
+      "anger": 0.19005597844754357,
+      "neutral": 0.1500345424765272
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "It is their power and majesty that is reflected, and only for their good, in every legitimate government, under whatever form it may appear.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24008574240620384,
+      "unity": 0.14250297366650852,
+      "hope": 0.1239449461332069,
+      "resolve": 0.19936329051873658,
+      "anger": 0.1656426128157105,
+      "neutral": 0.12846043445963368
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "The existence of such a government as ours for any length of time is a full proof of a general dissemination of knowledge and virtue throughout the whole body of the people.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.256529487030649,
+      "unity": 0.14215406326357938,
+      "hope": 0.13579083500246902,
+      "resolve": 0.17155497174354584,
+      "anger": 0.15929579800640403,
+      "neutral": 0.13467484495335272
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "And what object or consideration more pleasing than this can be presented to the human mind?",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.14082713281534634,
+      "unity": 0.17819906121478973,
+      "hope": 0.1896167206714382,
+      "resolve": 0.17539763998664656,
+      "anger": 0.14044251436561012,
+      "neutral": 0.17551693094616902
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "If national pride is ever justifiable or excusable it is when it springs, not from power or riches, grandeur or glory, but from conviction of national innocence, information, and benevolence.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2609045814469119,
+      "unity": 0.1537710793930649,
+      "hope": 0.13562599268601833,
+      "resolve": 0.1829435052446992,
+      "anger": 0.1422391279996806,
+      "neutral": 0.12451571322962503
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "In the midst of these pleasing ideas we should be unfaithful to ourselves if we should ever lose sight of the danger to our liberties if anything partial or extraneous should infect the purity of our free, fair, virtuous, and independent elections.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.17160949049304125,
+      "unity": 0.16610605272477705,
+      "hope": 0.14653355899942969,
+      "resolve": 0.2105918654003,
+      "anger": 0.18598715227887103,
+      "neutral": 0.119171880103581
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "If an election is to be determined by a majority of a single vote, and that can be procured by a party through artifice or corruption, the Government may be the choice of a party for its own ends, not of the nation for the national good.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.15707925417568325,
+      "unity": 0.20941536868262525,
+      "hope": 0.08775878252211411,
+      "resolve": 0.1853813355624566,
+      "anger": 0.27932538590031997,
+      "neutral": 0.08103987315680085
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "If that solitary suffrage can be obtained by foreign nations by flattery or menaces, by fraud or violence, by terror, intrigue, or venality, the Government may not be the choice of the American people, but of foreign nations.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.21197262856528595,
+      "unity": 0.17685009530055415,
+      "hope": 0.08512969519006351,
+      "resolve": 0.18344448851653833,
+      "anger": 0.2468518972132763,
+      "neutral": 0.09575119521428177
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "It may be foreign nations who govern us, and not we, the people, who govern ourselves; and candid men will acknowledge that in such cases choice would have little advantage to boast of over lot or chance.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22444542481604698,
+      "unity": 0.20640856306683544,
+      "hope": 0.11879988502934466,
+      "resolve": 0.18995661118534551,
+      "anger": 0.19225348590841806,
+      "neutral": 0.06813602999400935
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "Such is the amiable and interesting system of government (and such are some of the abuses to which it may be exposed) which the people of America have exhibited to the admiration and anxiety of the wise and virtuous of all nations for eight years under the administration of a citizen who, by a long course of great actions, regulated by prudence, justice, temperance, and fortitude, conducting a people inspired with the same virtues and animated with the same ardent patriotism and love of liberty to independence and peace, to increasing wealth and unexampled prosperity, has merited the gratitude of his fellow-citizens, commanded the highest praises of foreign nations, and secured immortal glory with posterity.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.24858779066995748,
+      "unity": 0.1352593045726983,
+      "hope": 0.12624188500000674,
+      "resolve": 0.15083503979748616,
+      "anger": 0.18556659740635892,
+      "neutral": 0.1535093825534924
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "In that retirement which is his voluntary choice may he long live to enjoy the delicious recollection of his services, the gratitude of mankind, the happy fruits of them to himself and the world, which are daily increasing, and that splendid prospect of the future fortunes of this country which is opening from year to year.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.1843542726422284,
+      "unity": 0.11195312571304679,
+      "hope": 0.18664518898362115,
+      "resolve": 0.13059239786714902,
+      "anger": 0.12348150544324518,
+      "neutral": 0.26297350935070946
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "His name may be still a rampart, and the knowledge that he lives a bulwark, against all open or secret enemies of his country's peace.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.19927731316676314,
+      "unity": 0.14207735174798325,
+      "hope": 0.14227453397076553,
+      "resolve": 0.23781317188338993,
+      "anger": 0.14733274289985338,
+      "neutral": 0.13122488633124477
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "This example has been recommended to the imitation of his successors by both Houses of Congress and by the voice of the legislatures and the people throughout the nation.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.20908367579418236,
+      "unity": 0.13039933045277985,
+      "hope": 0.13233615280752856,
+      "resolve": 0.13972166128418032,
+      "anger": 0.15582486888559846,
+      "neutral": 0.23263431077573046
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "On this subject it might become me better to be silent or to speak with diffidence; but as something may be expected, the occasion, I hope, will be admitted as an apology if I venture to say that if a preference, upon principle, of a free republican government, formed upon long and serious reflection, after a diligent and impartial inquiry after truth; if an attachment to the Constitution of the United States, and a conscientious determination to support it until it shall be altered by the judgments and wishes of the people, expressed in the mode prescribed in it; if a respectful attention to the constitutions of the individual States and a constant caution and delicacy toward the State governments; if an equal and impartial regard to the rights, interest, honor, and happiness of all the States in the Union, without preference or regard to a northern or southern, an eastern or western, position, their various political opinions on unessential points or their personal attachments; if a love of virtuous men of all parties and denominations; if a love of science and letters and a wish to patronize every rational effort to encourage schools, colleges, universities, academies, and every institution for propagating knowledge, virtue, and religion among all classes of the people, not only for their benign influence on the happiness of life in all its stages and classes, and of society in all its forms, but as the only means of preserving our Constitution from its natural enemies, the spirit of sophistry, the spirit of party, the spirit of intrigue, the profligacy of corruption, and the pestilence of foreign influence, which is the angel of destruction to elective governments; if a love of equal laws, of justice, and humanity in the interior administration; if an inclination to improve agriculture, commerce, and manufacturers for necessity, convenience, and defense; if a spirit of equity and humanity toward the aboriginal nations of America, and a disposition to meliorate their condition by inclining them to be more friendly to us, and our citizens to be more friendly to them; if an inflexible determination to maintain peace and inviolable faith with all nations, and that system of neutrality and impartiality among the belligerent powers of Europe which has been adopted by this Government and so solemnly sanctioned by both Houses of Congress and applauded by the legislatures of the States and the public opinion, until it shall be otherwise ordained by Congress; if a personal esteem for the French nation, formed in a residence of seven years chiefly among them, and a sincere desire to preserve the friendship which has been so much for the honor and interest of both nations; if, while the conscious honor and integrity of the people of America and the internal sentiment of their own power and energies must be preserved, an earnest endeavor to investigate every just cause and remove every colorable pretense of complaint; if an intention to pursue by amicable negotiation a reparation for the injuries that have been committed on the commerce of our fellow-citizens by whatever nation, and if success can not be obtained, to lay the facts before the Legislature, that they may consider what further measures the honor and interest of the Government and its constituents demand; if a resolution to do justice as far as may depend upon me, at all times and to all nations, and maintain peace, friendship, and benevolence with all the world; if an unshaken confidence in the honor, spirit, and resources of the American people, on which I have so often hazarded my all and never been deceived; if elevated ideas of the high destinies of this country and of my own duties toward it, founded on a knowledge of the moral principles and intellectual improvements of the people deeply engraven on my mind in early life, and not obscured but exalted by experience and age; and, with humble reverence, I feel it to be my duty to add, if a veneration for the religion of a people who profess and call themselves Christians, and a fixed resolution to consider a decent respect for Christianity among the best recommendations for the public service, can enable me in any degree to comply with your wishes, it shall be my strenuous endeavor that this sagacious injunction of the two Houses shall not be without effect.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1977353631273473,
+      "unity": 0.18772764711618123,
+      "hope": 0.13693031834943153,
+      "resolve": 0.16694730439330424,
+      "anger": 0.1724568575416694,
+      "neutral": 0.13820250947206625
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "With this great example before me, with the sense and spirit, the faith and honor, the duty and interest, of the same American people pledged to support the Constitution of the United States, I entertain no doubt of its continuance in all its energy, and my mind is prepared without hesitation to lay myself under the most solemn obligations to support it to the utmost of my power.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.1935889881969082,
+      "unity": 0.13890416955683185,
+      "hope": 0.1394904245945333,
+      "resolve": 0.1893923348145402,
+      "anger": 0.15400553522832017,
+      "neutral": 0.1846185476088663
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "And may that Being who is supreme over all, the Patron of Order, the Fountain of Justice, and the Protector in all ages of the world of virtuous liberty, continue His blessing upon this nation and its Government and give it all possible success and duration consistent with the ends of His providence.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18058440524007438,
+      "unity": 0.14105443156560651,
+      "hope": 0.17720512546904973,
+      "resolve": 0.17251949394763558,
+      "anger": 0.12473406065887792,
+      "neutral": 0.20390248311875586
+    }
+  }
+]

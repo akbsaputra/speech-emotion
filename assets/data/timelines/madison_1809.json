@@ -1,0 +1,275 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Unwilling to depart from examples of the most revered authority, I avail myself of the occasion now presented to express the profound impression made on me by the call of my country to the station to the duties of which I am about to pledge myself by the most solemn of sanctions.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.17342514189658031,
+      "unity": 0.12492315887594291,
+      "hope": 0.14335086525008045,
+      "resolve": 0.17633042625585135,
+      "anger": 0.15798245709753914,
+      "neutral": 0.22398795062400584
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "So distinguished a mark of confidence, proceeding from the deliberate and tranquil suffrage of a free and virtuous nation, would under any circumstances have commanded my gratitude and devotion, as well as filled me with an awful sense of the trust to be assumed.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.21060286013726134,
+      "unity": 0.1283096718970215,
+      "hope": 0.16320466662883748,
+      "resolve": 0.1714078694562891,
+      "anger": 0.14460528106927212,
+      "neutral": 0.18186965081131845
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Under the various circumstances which give peculiar solemnity to the existing period, I feel that both the honor and the responsibility allotted to me are inexpressibly enhanced.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.18528069889252127,
+      "unity": 0.11876808352065912,
+      "hope": 0.16533037329778322,
+      "resolve": 0.16483901662624054,
+      "anger": 0.11740954337796275,
+      "neutral": 0.24837228428483313
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "The present situation of the world is indeed without a parallel, and that of our own country full of difficulties.",
+    "emotion": "Unity",
+    "scores": {
+      "pride": 0.17076202120358439,
+      "unity": 0.2124747195539111,
+      "hope": 0.1912554852260814,
+      "resolve": 0.18452425107843246,
+      "anger": 0.17844972218511812,
+      "neutral": 0.06253380075287254
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "The pressure of these, too, is the more severely felt because they have fallen upon us at a moment when the national prosperity being at a height not before attained, the contrast resulting from the change has been rendered the more striking.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.20557591380620552,
+      "unity": 0.1493327415686606,
+      "hope": 0.19503293163962387,
+      "resolve": 0.16759824703071902,
+      "anger": 0.17722296713792626,
+      "neutral": 0.1052371988168647
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Under the benign influence of our republican institutions, and the maintenance of peace with all nations whilst so many of them were engaged in bloody and wasteful wars, the fruits of a just policy were enjoyed in an unrivaled growth of our faculties and resources.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.28765449129741494,
+      "unity": 0.13343260360168888,
+      "hope": 0.1529604793718723,
+      "resolve": 0.18237393358147017,
+      "anger": 0.1407099921856954,
+      "neutral": 0.10286849996185835
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "Proofs of this were seen in the improvements of agriculture, in the successful enterprises of commerce, in the progress of manufacturers and useful arts, in the increase of the public revenue and the use made of it in reducing the public debt, and in the valuable works and establishments everywhere multiplying over the face of our land.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.28485160338220566,
+      "unity": 0.08034280030401088,
+      "hope": 0.21257930746650755,
+      "resolve": 0.14157593101493027,
+      "anger": 0.11152429787621365,
+      "neutral": 0.16912605995613195
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "It is a precious reflection that the transition from this prosperous condition of our country to the scene which has for some time been distressing us is not chargeable on any unwarrantable views, nor, as I trust, on any involuntary errors in the public councils.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.18911615061675766,
+      "unity": 0.15386479121406896,
+      "hope": 0.1895854183686282,
+      "resolve": 0.15088213857103222,
+      "anger": 0.17247357283118672,
+      "neutral": 0.14407792839832628
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Indulging no passions which trespass on the rights or the repose of other nations, it has been the true glory of the United States to cultivate peace by observing justice, and to entitle themselves to the respect of the nations at war by fulfilling their neutral obligations with the most scrupulous impartiality.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.2295012977344889,
+      "unity": 0.15609577969080818,
+      "hope": 0.12917133984567777,
+      "resolve": 0.20244660907984877,
+      "anger": 0.14590324135441476,
+      "neutral": 0.1368817322947616
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "If there be candor in the world, the truth of these assertions will not be questioned; posterity at least will do justice to them.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16957097729562692,
+      "unity": 0.11845223160437802,
+      "hope": 0.19958324194949384,
+      "resolve": 0.2349653507736545,
+      "anger": 0.14298845280414585,
+      "neutral": 0.13443974557270086
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "This unexceptionable course could not avail against the injustice and violence of the belligerent powers.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.13799511637846062,
+      "unity": 0.19170512932262435,
+      "hope": 0.10496131087745668,
+      "resolve": 0.26586473708868597,
+      "anger": 0.26128412954877284,
+      "neutral": 0.03818957678399956
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "In their rage against each other, or impelled by more direct motives, principles of retaliation have been introduced equally contrary to universal reason and acknowledged law.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.11614264594047576,
+      "unity": 0.2464427051230412,
+      "hope": 0.07013315356720258,
+      "resolve": 0.2194696731915147,
+      "anger": 0.3159924975997945,
+      "neutral": 0.031819324577971306
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "How long their arbitrary edicts will be continued in spite of the demonstrations that not even a pretext for them has been given by the United States, and of the fair and liberal attempt to induce a revocation of them, can not be anticipated.",
+    "emotion": "Anger",
+    "scores": {
+      "pride": 0.18208255254787098,
+      "unity": 0.12373825202652611,
+      "hope": 0.10825775485250935,
+      "resolve": 0.20788919283314905,
+      "anger": 0.265566987070297,
+      "neutral": 0.11246526066964749
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "Assuring myself that under every vicissitude the determined spirit and united councils of the nation will be safeguards to its honor and its essential interests, I repair to the post assigned me with no other discouragement than what springs from my own inadequacy to its high duties.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.13790247009470943,
+      "unity": 0.17146004265117804,
+      "hope": 0.15822216157218555,
+      "resolve": 0.19833621934039297,
+      "anger": 0.134471791710149,
+      "neutral": 0.19960731463138498
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "If I do not sink under the weight of this deep conviction it is because I find some support in a consciousness of the purposes and a confidence in the principles which I bring with me into this arduous service.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.15348573692695552,
+      "unity": 0.14694345287521818,
+      "hope": 0.1868032968656601,
+      "resolve": 0.2451077173584549,
+      "anger": 0.09915406284482553,
+      "neutral": 0.16850573312888575
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "To cherish peace and friendly intercourse with all nations having correspondent dispositions; to maintain sincere neutrality toward belligerent nations; to prefer in all cases amicable discussion and reasonable accommodation of differences to a decision of them by an appeal to arms; to exclude foreign intrigues and foreign partialities, so degrading to all countries and so baneful to free ones; to foster a spirit of independence too just to invade the rights of others, too proud to surrender our own, too liberal to indulge unworthy prejudices ourselves and too elevated not to look down upon them in others; to hold the union of the States as the basis of their peace and happiness; to support the Constitution, which is the cement of the Union, as well in its limitations as in its authorities; to respect the rights and authorities reserved to the States and to the people as equally incorporated with and essential to the success of the general system; to avoid the slightest interference with the right of conscience or the functions of religion, so wisely exempted from civil jurisdiction; to preserve in their full energy the other salutary provisions in behalf of private and personal rights, and of the freedom of the press; to observe economy in public expenditures; to liberate the public resources by an honorable discharge of the public debts; to keep within the requisite limits a standing military force, always remembering that an armed and trained militia is the firmest bulwark of republics--that without standing armies their liberty can never be in danger, nor with large ones safe; to promote by authorized means improvements friendly to agriculture, to manufactures, and to external as well as internal commerce; to favor in like manner the advancement of science and the diffusion of information as the best aliment to true liberty; to carry on the benevolent plans which have been so meritoriously applied to the conversion of our aboriginal neighbors from the degradation and wretchedness of savage life to a participation of the improvements of which the human mind and manners are susceptible in a civilized state--as far as sentiments and intentions such as these can aid the fulfillment of my duty, they will be a resource which can not fail me.",
+    "emotion": "Pride",
+    "scores": {
+      "pride": 0.22178631079785321,
+      "unity": 0.18355010692580473,
+      "hope": 0.13732140174167987,
+      "resolve": 0.19334807041803115,
+      "anger": 0.12225705842452336,
+      "neutral": 0.14173705169210765
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "It is my good fortune, moreover, to have the path in which I am to tread lighted by examples of illustrious services successfully rendered in the most trying difficulties by those who have marched before me.",
+    "emotion": "Hope",
+    "scores": {
+      "pride": 0.21252505501235652,
+      "unity": 0.11306554750921964,
+      "hope": 0.21934371248171172,
+      "resolve": 0.20428952643891424,
+      "anger": 0.06137318526347024,
+      "neutral": 0.18940297329432762
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "Of those of my immediate predecessor it might least become me here to speak.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.14298205989699764,
+      "unity": 0.13407717292371452,
+      "hope": 0.1816992501700103,
+      "resolve": 0.14627610474875619,
+      "anger": 0.15963368997279037,
+      "neutral": 0.23533172228773103
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "I may, however, be pardoned for not suppressing the sympathy with which my heart is full in the rich reward he enjoys in the benedictions of a beloved country, gratefully bestowed or exalted talents zealously devoted through a long career to the advancement of its highest interest and happiness.",
+    "emotion": "Neutral",
+    "scores": {
+      "pride": 0.21139430784070165,
+      "unity": 0.12924452376644108,
+      "hope": 0.1530228902029255,
+      "resolve": 0.15413889826757515,
+      "anger": 0.1174442335957393,
+      "neutral": 0.23475514632661734
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "But the source to which I look or the aids which alone can supply my deficiencies is in the well-tried intelligence and virtue of my fellow-citizens, and in the counsels of those representing them in the other departments associated in the care of the national interests.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16424289967974445,
+      "unity": 0.19800525313669087,
+      "hope": 0.16681310927592133,
+      "resolve": 0.22279873327692623,
+      "anger": 0.14414821895964386,
+      "neutral": 0.10399178567107326
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "In these my confidence will under every difficulty be best placed, next to that which we have all been encouraged to feel in the guardianship and guidance of that Almighty Being whose power regulates the destiny of nations, whose blessings have been so conspicuously dispensed to this rising Republic, and to whom we are bound to address our devout gratitude for the past, as well as our fervent supplications and best hopes for the future.",
+    "emotion": "Resolve",
+    "scores": {
+      "pride": 0.16724215499413142,
+      "unity": 0.14601002938342983,
+      "hope": 0.20327904934136748,
+      "resolve": 0.20705581540022763,
+      "anger": 0.11734912874535212,
+      "neutral": 0.15906382213549153
+    }
+  }
+]
