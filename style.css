@@ -778,7 +778,7 @@ footer {
 
 #section-conclusion p {
     font-family: 'Georgia', sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 20px;
     color: #444;
     margin-bottom: 30px;
@@ -797,6 +797,10 @@ footer {
     letter-spacing: 1px;
     color: #999;
     margin-bottom: 10px;
+}
+
+.methodology-note p {
+    font-size: 14px;
 }
 
 .footer-signoff {
