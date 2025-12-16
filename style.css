@@ -840,3 +840,55 @@ footer {
     color: #999999;
     font-weight: bold;
 }
+
+/* 1. Hide the warning by default on big screens */
+#mobile-warning {
+    display: none;
+}
+
+/* 2. Trigger on screens smaller than 768px (Phones & Small Tablets) */
+@media only screen and (max-width: 768px) {
+    
+    /* Hide the actual site content so it doesn't mess up the background */
+    header, main, footer {
+        display: none !important;
+    }
+
+    /* Show and style the warning overlay */
+    #mobile-warning {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #f4f4f4; /* Light gray background */
+        z-index: 9999;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .warning-content {
+        max-width: 400px;
+        background: white;
+        padding: 40px;
+        border-radius: 12px;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    }
+
+    .warning-content h1 {
+        font-family: 'Instrument Serif', serif; /* Matching your font */
+        font-size: 36px;
+        color: #e74c3c; /* Using your 'Anger' red for attention */
+        margin-top: 0;
+    }
+
+    .warning-content p {
+        font-family: 'Georgia', serif;
+        font-size: 18px;
+        line-height: 1.6;
+        color: #333;
+    }
+}
