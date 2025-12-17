@@ -55,7 +55,7 @@
                 <p>In this project, we collected all <strong>63 inaugural speeches</strong>, both Inaugural Addresses and Addresses Upon Assuming the Office of President, 
                     spanning from George Washington in 1789 to Donald Trump's second term in 2025. 
                     The texts were sourced from <a href='https://www.presidency.ucsb.edu/documents/app-categories/spoken-addresses-and-remarks/presidential/inaugural-addresses'>The American Presidency Project</a> 
-                    maintained by the University of California, Santa Barbara. We translate these speeches to retrieve their emotional aspects by using machine learning models.
+                    maintained by the University of California, Santa Barbara. We encode each sentence as a vector and compare it to emotion anchors to retrieve their emotional aspects by using machine learning models.
                     <br><br>Of course, no machine learning model is as advanced as human brains. 
                     So think of this project as a vibe check: it's not gonna produce a perfectly accurate result, but it's a fun, experimental way to see history through an algorithmic lens.</p>
             </div>
@@ -75,7 +75,7 @@
         <div class="scroll-step" id="step-4">
             <div class="section1-text-box">
                 <h2>Anchoring Emotions</h2>
-                <p>To detect the emotion, we measures the similarities of the sentences into anchors. 
+                <p>To detect the emotion, we measured the similarities of the sentences into anchors. 
                     Some of the anchors are as follows:<br/><br/><img src='assets/images/text-grouped.jpg' style='width:100%;'>
                     <br><br>If none of the anchors matches closely to the sentence, we assumed it as <span class="text-neutral">Neutral</span>.</p>
             </div>
@@ -283,8 +283,8 @@
             <div class="bi-step" data-step="2">
                 <div class="bi-text-card">
                     <h2>The Primary Colors</h2>
-                    <p>If we compare the highest moods for each party, we saw that <strong>Democrats</strong> are the party of <span class="text-resolve">resolve</span> emphasized in 29.3% of their rhetoric.
-                        This means that most Democratic presidents' speeches contain a nuance of <span class="text-resolve">resolve</span>, with words that emphasized working towards solutions and grit to achieve something.
+                    <p>If we compare the highest moods for each party, in our model, we found that <strong>Democratic</strong> presidents speeches are dominated by <span class="text-resolve">resolve</span>, with 29.3% of their rhetoric showing this mood.
+                        This shows how most Democratic presidents' speeches contain a lot of <span class="text-resolve">resolve</span> nuances, with words that emphasized working towards solutions and grit to achieve something.
                         Meanwhile, <strong>Republican</strong> presidents delivered speeches that are mostly dominated by <span class="text-pride">pride</span>, 
                         as we see here that <span class="text-pride">pride</span> tops their list at 28.0%. Their speeches mostly revolved around how the American people should be proud of their 
                         country or how the United States stands as the greatest country in the world.</p>
@@ -294,9 +294,9 @@
             <div class="bi-step" data-step="3">
                 <div class="bi-text-card">
                     <h2>The Trade-Off</h2>
-                    <p>Now if we compare each of the 5 moods between these two parties, we found that Democrats are higher at <span class="text-resolve">resolve</span> (+4.1%) 
-                        and <span class="text-hope">hope</span> (+3.2%). Meanwhile, Republicans gain higher score at <span class="text-anger">anger</span> (+3.0%) and
-                        <span class="text-unity">unity</span> (+2.1%). Republicans are also slightly higher than Democrats at <span class="text-pride">pride</span> by a small margin (+0.6%).
+                    <p>Now if we compare each of the 5 moods between these two parties, our model found that Democratic presidents speeches are higher at <span class="text-resolve">resolve</span> (+4.1%) 
+                        and <span class="text-hope">hope</span> (+3.2%). Meanwhile, Republicans presidents speeches gain higher score at <span class="text-anger">anger</span> (+3.0%) and
+                        <span class="text-unity">unity</span> (+2.1%). Their speeches are also slightly higher than those of Democrats at <span class="text-pride">pride</span> by a small margin (+0.6%).
                     </p>
                 </div>
             </div>
@@ -326,7 +326,7 @@
     </section>
     <section id="section-conclusion">
         <div class="conclusion-container">
-            <h2>The Algorithm as a Mirror</h2>
+            <h2>...Then, So What?</h2>
             
             <p>
                 We began this project with a simple question: <strong>can a machine understand the soul of a nation?</strong> 
@@ -346,16 +346,17 @@
                 (and, slightly, <span class="text-pride">pride</span>), framing politics as a defense of shared American values and identity.
                 <br><br>
                 However, we must view these results with a healthy dose of skepticism. 
-                Our model is a bag-of-sentences: it understands semantic closeness, but it misses the human spark. 
-                It struggles with sarcasm, often misreads rhetorical questions, and cannot feel the tremble in a voice or the roar of a crowd. 
+                Our model is a bag-of-sentences: it understands semantic closeness, but it misses the human spark. It only reads words, after all, and we know that speeches are oral.
+                Obviously, the model struggles with sarcasm, often misreads rhetorical questions, and cannot feel the tremble in a voice or the roar of a crowd. 
                 When Lincoln spoke of "malice toward none", the model sees <span class="text-unity">unity</span>. 
                 It doesn't see the thousands of dead soldiers that gave those words their weight.
                 <br><br>
                 Yet, even with these flaws, the "vibe check" holds value. 
                 It acts as a mirror, reflecting macro-trends that are too slow to see with the naked eye. 
-                It shows us that the <span class="text-anger">anger</span> we feel in politics today is not new, 
-                but a recurrence of the populist frustration seen in the 1890s. 
-                It reminds us that <span class="text-unity">unity</span> is often highest not when we are at peace, but when we are most broken.
+                When you see a speech come out "<span class="text-resolve">resolve</span> heavy" or "<span class="text-pride">pride</span> leaning",
+                the useful question is not "is this objectively true?" but 
+                "why does this framing appear under these definitions?" In that sense, the algorithm does not end the interpretation, it actually starts it:
+                it turns a familiar political ritual into something we can compare, question, and argue with, rather than simply absorb.
                 <br><br>
                 Ultimately, this project suggests that while the words change, the emotional blueprint of democracy remains cyclical. 
                 We are a nation forever oscillating between the resolve to endure and the hope to rebuild.
@@ -368,7 +369,7 @@
                     <strong>Classification:</strong> Cosine similarity against 5 emotional anchor clusters.<br>
                     <strong>Data Source:</strong> The American Presidency Project (UC Santa Barbara). <br>
                     <strong>Images:</strong> 
-                        Lyndon B. Johnson's 2nd ianuguration photo (main image) was from <a href="https://en.wikipedia.org/wiki/Second_inauguration_of_Lyndon_B._Johnson#/media/File:1965_Inauguration_of_President_Lyndon_Johnson.jpg">Wikipedia</a>, 
+                        Lyndon B. Johnson's 2nd inauguration photo (main image) was from <a href="https://en.wikipedia.org/wiki/Second_inauguration_of_Lyndon_B._Johnson#/media/File:1965_Inauguration_of_President_Lyndon_Johnson.jpg">Wikipedia</a>, 
                         Barack Obama's 1st inauguration photo was from <a href="https://id.wikipedia.org/wiki/Berkas:Barack_Obama_after_inaugural_address_1-20-09_hires_090120-N-0696M-327a.jpg">Wikipedia</a>,
                         Donald J. Trump's 1st inauguration photo was from <a href="https://en.wikipedia.org/wiki/File:Donald_Trump_delivering_inauguration_speech_01-20-17_(cropped).jpg">Wikipedia</a>,
                         The White House photo was from <a href="https://www.stockvault.net/photo/205126/white-house">Stockvault</a> <br>
