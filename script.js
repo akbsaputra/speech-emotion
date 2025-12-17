@@ -1,5 +1,3 @@
-// script.js
-
 // --- 1. Global Config ---
 const EMOTION_COLORS = {
     "pride": "#f5b041", "unity": "#58d68d", "hope": "#5dade2", 
@@ -35,7 +33,7 @@ window.addEventListener('scroll', function() {
         }
     }
 
-    // --- B. Floating Titles Logic (Unchanged) ---
+    // --- B. Floating Titles Logic ---
     handleFloatingTitles(windowH);
 
     // --- C. DYNAMIC FADE: TRUMP <-> ALL PRESIDENTS ---
@@ -60,7 +58,7 @@ window.addEventListener('scroll', function() {
     // --- D. TRANSITION: ALL PRESIDENTS -> BIPARTISAN ---
     const biSticky = document.querySelector('.bipartisan-sticky');
     const biChartContainer = document.querySelector('.bipartisan-chart-container');
-    const leftPanel = document.querySelector('.left-panel');  // The sticky container
+    const leftPanel = document.querySelector('.left-panel');
     const biSection = document.getElementById('section-bipartisan');
 
     if (biSection && biSticky && leftPanel && biChartContainer) {
@@ -69,7 +67,7 @@ window.addEventListener('scroll', function() {
     // Determine transition progress as bipartisan section enters
     if (rect.top < (window.innerHeight * 2) && rect.top > 0) {
         // We are scrolling INTO the bipartisan section
-        let progress = (window.innerHeight - rect.top) / window.innerHeight;  // 0 to 1
+        let progress = (window.innerHeight - rect.top) / window.innerHeight;
         progress = Math.max(0, Math.min(1, progress));
         
         // Fade out the left panel (which contains the grid)
@@ -103,7 +101,6 @@ window.addEventListener('scroll', function() {
     }
     }
 
-
     // --- E. ANNOTATION STEPS (Obama & Trump) ---
     const obamaSteps = document.querySelectorAll('.annotation-step');
     let activeObamaStep = getClosestStep(obamaSteps, windowH);
@@ -114,7 +111,7 @@ window.addEventListener('scroll', function() {
     if (activeTrumpStep) {
         if (window.trumpTransitionToGrouped) window.trumpTransitionToGrouped();
         const chunkRaw = activeTrumpStep.dataset.chunk;
-        // ... (Same Logic as before) ...
+
         if (chunkRaw === "conclusion" || !chunkRaw) {
              hideAnnotation('.trump-stripe', '#journey-trump svg', 'trump-annotation-box');
         } else if (chunkRaw === "breather" || chunkRaw === "-1") {
@@ -134,7 +131,7 @@ window.addEventListener('scroll', function() {
              });
         }
     } else if (activeObamaStep) {
-        // ... (Same Obama Logic) ...
+
         const chunkRaw = activeObamaStep.dataset.chunk;
         if (chunkRaw === "conclusion" || !chunkRaw) {
             if (window.transitionToGrouped) window.transitionToGrouped();
@@ -164,7 +161,6 @@ window.addEventListener('scroll', function() {
         if (r.top < windowH * 0.6 && r.bottom > windowH * 0.4) {
             step.classList.add('active-step');
             const mode = step.dataset.mode;
-            // FIX: Check if mode exists to prevent crash
             if (mode && window.updateGridFocus) window.updateGridFocus(mode);
         } else {
             step.classList.remove('active-step');
@@ -200,17 +196,9 @@ window.addEventListener('scroll', function() {
     const flowRect = flow.getBoundingClientRect();
     const windowHeight = window.innerHeight;
 
-    // LOGIC: 
-    // The Flow section (z-index 20) scrolls OVER the Bipartisan section (z-index 10).
-    // We should only hide Bipartisan when Flow has scrolled UP past the screen 
-    // by at least one full viewport height.
-    // This guarantees Flow completely blocks the view before we toggle visibility.
-
     if (flowRect.top < -windowHeight) {
-        // We are deep into the Flow section. Safe to hide Bipartisan.
         bipartisan.style.visibility = 'hidden';
     } else {
-        // We are near the transition. Keep Bipartisan visible so "Uncover" works.
         bipartisan.style.visibility = 'visible';
     }
 });
@@ -218,7 +206,6 @@ window.addEventListener('scroll', function() {
 // --- HELPER FUNCTIONS ---
 
 function handleFloatingTitles(windowH) {
-    // ... (Keep existing implementation) ...
     const obamaPhoto = document.querySelector('.obama-photo');
     if (obamaPhoto) {
         const rect = obamaPhoto.getBoundingClientRect();
@@ -259,7 +246,6 @@ function getClosestStep(nodeList, windowH) {
 }
 
 function showAnnotation({ chunkIndex, text, quote, barClass, svgId, boxId, lineClass }) {
-    // ... (Keep existing implementation) ...
     const uniqueKey = `${boxId}-${chunkIndex}`;
     if (currentActiveChunk === uniqueKey) return;
     currentActiveChunk = uniqueKey;
@@ -332,7 +318,6 @@ function showAnnotation({ chunkIndex, text, quote, barClass, svgId, boxId, lineC
 }
 
 function hideAnnotation(barClass, svgId, boxId) {
-    // ... (Keep existing implementation) ...
     if (barClass) d3.selectAll(barClass).attr('opacity', 1);
     if (svgId) d3.select(svgId).selectAll('line').remove();
     if (boxId) {

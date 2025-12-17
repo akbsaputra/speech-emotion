@@ -1,5 +1,3 @@
-// charts/bipartisan.js
-
 (function() {
     const containerId = "#chart-bipartisan";
     const EMOTION_COLORS = {
@@ -10,14 +8,13 @@
     const MOODS = ["Resolve", "Pride", "Hope", "Anger", "Unity", "Neutral"];
     
     // --- LAYOUT CONFIG ---
-    // Increased gap to 250 (Total 500px space in middle) to fit text box safely
     const width = 1200; 
     const height = 400;
     const center = width / 2;
     const gap = 200; 
-    const barMax = (width / 2) - gap - 20; // Max width of a bar
+    const barMax = (width / 2) - gap - 20; 
 
-    let currentStep = -1; // PERFORMANCE GUARD: Tracks active step
+    let currentStep = -1;
 
     const svg = d3.select(containerId)
         .html("")
@@ -58,17 +55,16 @@
                 mood: mood,
                 dem: demVal,
                 rep: repVal,
-                // Ensure simpler class names (lowercase, no spaces)
                 classSafe: mood.toLowerCase().trim() 
             };
         });
 
         const fmt = d3.format(".1f");
 
-        // 2. DRAW CENTER LABELS (Rotated)
-        // Democrats (Left Border, Rotated CCW)
+        // 2. DRAW CENTER LABELS
+        // Democrats
         svg.append("text")
-            .attr("x", 300) // Slightly left of absolute center
+            .attr("x", 300)
             .attr("y", -30)
             .attr("text-anchor", "middle")
             .text("DEMOCRATS")
@@ -78,7 +74,7 @@
             .attr("opacity", 0.5)
             .style("pointer-events", "none");
 
-        // Republicans (Right Border, Rotated CW)
+        // Republicans
         svg.append("text")
             .attr("x", 910) 
             .attr("y", -30)
@@ -92,14 +88,12 @@
 
 
         // 3. RENDER CHARTS
-        
-        // --- LEFT: DEMOCRATS ---
         const demGroup = svg.append("g").attr("class", "dem-group");
         
         processed.forEach(d => {
             // Group for each bar (Bar + Label + Value)
             const g = demGroup.append("g")
-                .attr("class", "bar-wrapper " + d.classSafe) // e.g. "bar-wrapper resolve"
+                .attr("class", "bar-wrapper " + d.classSafe)
                 .style("opacity", 1);
 
             // Bar (Heading Left)
@@ -179,7 +173,6 @@
 
         // 4. UPDATE FUNCTION (OPTIMIZED)
         window.updateBipartisan = function(step) {
-            // PERFORMANCE FIX: Only run if step actually changed
             if (step === currentStep) return;
             currentStep = step;
 
@@ -200,7 +193,6 @@
                 dimAll();
                 
                 // Highlight Dem Resolve
-                // Logic: Select the group .dem-group, then find the wrapper with class .resolve
                 const demItem = svg.select(".dem-group .resolve");
                 demItem.transition().duration(600).style("opacity", 1);
                 demItem.select(".val-label").transition().duration(600).style("opacity", 1);
@@ -240,7 +232,7 @@
                         .transition().style("opacity", 1);
                 });
                 // Show opposite party values FADED
-                // Rep: Resolve & Hope (faded - opposite of Dem strengths)
+                // Rep: Resolve & Hope
                 ["resolve", "hope"].forEach(k => {
                 const item = svg.select(`.rep-group .${k}`);
                 item.transition().style("opacity", 0.15);
@@ -252,7 +244,7 @@
                     .transition().style("opacity", 1);
                 });
 
-                // Dem: Pride, Anger, Unity (faded - opposite of Rep strengths)
+                // Dem: Pride, Anger, Unity
                 ["pride", "anger", "unity"].forEach(k => {
                 const item = svg.select(`.dem-group .${k}`);
                 item.transition().style("opacity", 0.15);
@@ -266,7 +258,6 @@
             }
         };
 
-        // Initialize
         updateBipartisan(1);
     });
 })();

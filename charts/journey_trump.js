@@ -1,5 +1,3 @@
-// charts/journey_trump.js
-
 (function() {
     // --- 1. CONFIGURATION & SETUP ---
     const containerId = "#journey-trump";
@@ -84,7 +82,7 @@
             .attr("height", barHeight)
             .attr("fill", d => getColor(d.emotion))
             .attr("opacity", 1)
-            .property("chunk_index", (d, i) => d.chunk_index); // Bind chunk index property
+            .property("chunk_index", (d, i) => d.chunk_index); 
 
         // --- DRAW LABELS ---
         const axisLabels = svg.append("g").attr("class", "trump-axis-labels");
@@ -115,7 +113,7 @@
             bars.transition().duration(1000)
                 .attr("x", d => d.groupedX)
                 .attr("width", bandWidth - 0.5)
-                .attr("opacity", 1); // Ensure they are visible
+                .attr("opacity", 1);
 
             // Labels Swap
             axisLabels.transition().duration(500).style("opacity", 0);

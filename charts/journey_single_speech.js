@@ -1,5 +1,3 @@
-// charts/journey_single_speech.js
-
 (function() {
     const container = document.querySelector("#journey-single-speech");
     const width = 800; 
@@ -18,7 +16,6 @@
 
     let currentView = 'timeline';
     
-    // Ensure you are pointing to the correct data folder
     d3.json("assets/data/timelines/obama_2009.json").then(data => {
         
         // --- PRE-CALCULATIONS ---
@@ -73,7 +70,7 @@
         axisLabels.append("text").attr("x", margin.left).attr("y", yPos + barHeight + 15).text("Start").attr("font-size", "10px").attr("fill", "#999");
         axisLabels.append("text").attr("x", width - margin.right).attr("y", yPos + barHeight + 15).attr("text-anchor", "end").text("End").attr("font-size", "10px").attr("fill", "#999");
 
-        // --- GROUP LABELS (With Overlap Fix) ---
+        // --- GROUP LABELS ---
         const groupLabels = svg.append("g").attr("class", "group-labels").style("opacity", 0);
         
         sortedEmotions.forEach(emo => {

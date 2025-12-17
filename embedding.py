@@ -8,7 +8,6 @@ import os
 import random
 import warnings
 
-# Try to import NLTK for better sentence splitting
 try:
     import nltk
     nltk.download('punkt', quiet=True)

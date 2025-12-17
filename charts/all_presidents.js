@@ -1,5 +1,3 @@
-// charts/all_presidents.js
-
 (function() {
     const gridId = "#presidents-grid";
     const EMOTION_COLORS = {
@@ -61,7 +59,7 @@
             });
         });
 
-// --- FILTER FUNCTION ---
+        // --- FILTER FUNCTION ---
         window.updateGridFocus = function(mode) {
             if (mode === 'all') {
                 // Show All

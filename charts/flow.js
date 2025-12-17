@@ -1,13 +1,12 @@
-// charts/flow.js
 (function() {
     // --- CONFIGURATION ---
     const containerId = "#chart-flow";
     const sectionId = "#section-flow";
     const railSelector = ".flow-rail";
     
-    // Manual Label Placements (User Requested)
+    // Manual Label Placements
     const STATIC_LABELS = [
-        { key: "Neutral", year: 1792, dy: 300}, // Shift up slightly for Washington
+        { key: "Neutral", year: 1792, dy: 300},
         { key: "Pride",   year: 1820, dy: 60 },
         { key: "Unity",   year: 1825, dy: 50 },
         { key: "Anger",   year: 1895, dy: 100 },
@@ -54,7 +53,6 @@
     };
     const ALL_KEYS = ["Unity", "Neutral", "Anger", "Resolve", "Hope", "Pride"];
 
-    // ORDER: Front (drawn last) -> Back (drawn first)
     // "Unity" is Front. "Pride" is Back.
     const layerOrderFrontToBack = ["Unity", "Neutral", "Anger", "Resolve", "Hope", "Pride"];
 
@@ -79,9 +77,7 @@
     // --- SCALES ---
     const x = d3.scaleLinear().range([startX, endX]);
     
-    // CUSTOM Y-AXIS (The "Chop")
-    // We map Domain [0, 60, 100] -> Range [Bottom, TopOfMainChart, AbsoluteTop]
-    // This compresses 60-100% into the top 15% of the chart, leaving 85% of space for 0-60%.
+    // CUSTOM Y-AXIS
     const yTopLimit = margin.top;
     const yBreakPoint = margin.top + (height - margin.bottom - margin.top) * 0.15; // 15% from top
     const yBottom = height - margin.bottom;
@@ -98,9 +94,8 @@
         .y1(d => y(d.Value))      
         .curve(d3.curveMonotoneX);
 
-    // --- INTERACTION HELPERS ---
-    
-    // 1. Tooltip Div (Appended to Body to float over everything)
+    // --- INTERACTION HELPERS ---    
+    // 1. Tooltip Div
     let tooltip = d3.select("#flow-tooltip");
     if (tooltip.empty()) {
         tooltip = d3.select("body").append("div")
@@ -110,7 +105,7 @@
             .style("padding", "8px 12px")
             .style("border", "1px solid #333")
             .style("border-radius", "4px")
-            .style("pointer-events", "none") // Crucial: let mouse pass through
+            .style("pointer-events", "none")
             .style("font-family", "sans-serif")
             .style("font-size", "12px")
             .style("box-shadow", "0 4px 12px rgba(0,0,0,0.15)")
@@ -119,7 +114,7 @@
             .style("transition", "opacity 0.1s ease");
     }
 
-    // 2. Focus Dot (Appended to SVG)
+    // 2. Focus Dot
     const focusDot = svg.append("circle")
         .attr("r", 5)
         .attr("fill", "white")
@@ -137,7 +132,7 @@
             layerOrderFrontToBack.forEach(k => d[k] = +d[`${k}_Pct`] || 0);
         });
 
-        // KEEP DUPLICATES (jitter x so curveMonotoneX doesn't break on same-year duplicates)
+        // KEEP DUPLICATES
         data.forEach((d, i) => d._i = i);
         data.sort((a, b) => (a.Year - b.Year) || (a._i - b._i));
 
@@ -145,7 +140,7 @@
         data.forEach(d => counts.set(d.Year, (counts.get(d.Year) || 0) + 1));
 
         const seen = new Map();
-        const step = 0.18; // tweak 0.10–0.25 if you want
+        const step = 0.18;
         data.forEach(d => {
             const n = counts.get(d.Year);
             const k = seen.get(d.Year) || 0;
@@ -159,13 +154,12 @@
         x.domain(d3.extent(cleanData, d => d.YearJ));
         
         // 3. Draw Areas
-        // Reverse order so 'Pride' (Back) is drawn FIRST, 'Unity' (Front) is drawn LAST.
         const drawOrder = [...layerOrderFrontToBack].reverse();
 
         drawOrder.forEach((key) => {
             const emotionData = cleanData.map(d => ({
-                Year: d.Year,     // for display
-                YearJ: d.YearJ,   // for plotting
+                Year: d.Year,
+                YearJ: d.YearJ,
                 Value: d[key],
                 President: d.President,
                 Emotion: key
@@ -179,14 +173,13 @@
                 .attr("stroke", "white")
                 .attr("stroke-width", 0.5)
                 .attr("d", area)
-                .style("pointer-events", "none"); // Ensure this layer catches the mouse
+                .style("pointer-events", "none");
         });
 
-        // 4. MANUAL LABELS (Within the areas)
-        const labelGroup = svg.append("g").style("pointer-events", "none"); // Pass through clicks
+        // 4. MANUAL LABELS
+        const labelGroup = svg.append("g").style("pointer-events", "none");
 
         STATIC_LABELS.forEach(label => {
-            // Find the data point roughly near this year
             const nearest = cleanData.reduce((prev, curr) => 
                 Math.abs(curr.Year - label.year) < Math.abs(prev.Year - label.year) ? curr : prev
             );
@@ -195,7 +188,6 @@
                 const xPos = x(nearest.YearJ) - 20;
                 const yVal = nearest[label.key];
                 
-                // If value is tiny, don't shove label into the axis, float it a bit
                 const safeY = Math.max(yVal, 5); 
                 const yPos = y(safeY); 
 
@@ -213,9 +205,9 @@
             }
         });
 
-        // 5. AXES & DECORATION (Pointer Events NONE to prevent blocking hover)
+        // 5. AXES & DECORATION
 
-        // X Axis (Bottom)
+        // X Axis
         const axisGroup = svg.append("g").attr("class", "axis-group").style("pointer-events", "none");
         axisGroup.append("line")
             .attr("x1", startX).attr("x2", endX)
@@ -235,13 +227,13 @@
                 .attr("fill", "#333").attr("font-size", "12px").attr("font-weight", "bold");
         });
 
-        // Y Axis (Left - Custom with Break)
+        // Y Axis
         const yAxisGroup = svg.append("g")
             .attr("transform", `translate(${startX}, 0)`)
             .style("pointer-events", "none");
         yAxisGroup.append("line")
             .attr("x1", 0).attr("x2", 0)
-            .attr("y1", yBottom).attr("y2", margin.top) // Full height of axis
+            .attr("y1", yBottom).attr("y2", margin.top)
             .attr("stroke", "#333")
             .attr("stroke-width", 1);
 
@@ -265,18 +257,18 @@
         const breakY = (y(60) + y(100)) / 2;
         
         yAxisGroup.append("text")
-            .attr("x", 0)              // Centered on the line (was -15)
-            .attr("y", breakY + 3)     // Vertical position
+            .attr("x", 0)
+            .attr("y", breakY + 3)
             .text("//")
-            .attr("text-anchor", "middle") // Center the text anchor
-            .attr("font-size", "12px")     // Slightly larger
-            .attr("font-weight", "bold")   // Make it visible
-            .attr("fill", "#fff")          // White text...
-            .attr("stroke", "#333")        // ...with dark stroke looks like a cut
-            .attr("stroke-width", 1)       // Thick stroke creates the "gap" look
-            .attr("transform", `rotate(-90 0 ${breakY})`); // Rotate around 0 (the line)
+            .attr("text-anchor", "middle")
+            .attr("font-size", "12px")
+            .attr("font-weight", "bold")
+            .attr("fill", "#fff")
+            .attr("stroke", "#333")
+            .attr("stroke-width", 1)
+            .attr("transform", `rotate(-90 0 ${breakY})`);
             
-        // 6. STORY HIGHLIGHTS (Pointer Events NONE)
+        // 6. STORY HIGHLIGHTS
         const getStackAtYear = (targetYear) => {
             return cleanData.reduce((prev, curr) => 
                 Math.abs(curr.Year - targetYear) < Math.abs(prev.Year - targetYear) ? curr : prev
@@ -317,7 +309,7 @@
 
         // --- 7. HOVER OVERLAY (THE MAGIC FIX) ---
         
-        // A. Focus Line (Vertical Dashed) - Replaces the Dot
+        // A. Focus Line
         const focusLine = svg.append("line")
             .attr("stroke", "#333")
             .attr("stroke-width", 1.5)
@@ -325,7 +317,7 @@
             .style("opacity", 0)
             .style("pointer-events", "none");
 
-        // B. The invisible rectangle captures ALL mouse events
+        // B. The invisible rectangle to capture ALL mouse events
         svg.append("rect")
             .attr("width", totalWidth)
             .attr("height", height)
@@ -335,8 +327,6 @@
                 const [mx, my] = d3.pointer(event);
                 const yearVal = x.invert(mx);
 
-                // --- NEW CHECK: Are we outside the timeline bounds? ---
-                // (Fixes hover triggering on the far left or far right empty spaces)
                 const minYear = cleanData[0].YearJ;
                 const maxYear = cleanData[cleanData.length - 1].YearJ;
                 
@@ -345,7 +335,6 @@
                     focusLine.style("opacity", 0);
                     return;
                 }
-                // --------------------------------------------------------
                 
                 // 2. Find Data
                 const bisect = d3.bisector(d => d.YearJ).center;
@@ -353,11 +342,10 @@
                 if (i < 0 || i >= cleanData.length) return;
                 const d = cleanData[i];
 
-                // 3. Find Max Value (Top of the chart at this year)
+                // 3. Find Max Value
                 const maxVal = Math.max(...ALL_KEYS.map(k => d[k]));
                 const yTopEdge = y(maxVal);
 
-                // --- CHECK: Are we hovering empty space above the chart? ---
                 if (my < yTopEdge) {
                     tooltip.style("opacity", 0);
                     focusLine.style("opacity", 0);
@@ -412,7 +400,8 @@
                 tooltip.style("opacity", 0);
                 focusLine.style("opacity", 0);
             });
-        // --- SCROLL SYNC (Unchanged) ---
+            
+        // --- SCROLL SYNC
         const section = document.querySelector(sectionId);
         const rail = document.querySelector(railSelector);
         const titleEl = document.getElementById("flow-title");
