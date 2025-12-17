@@ -694,6 +694,7 @@ footer {
     margin-top: 0;
     font-family: 'Instrument Serif', serif;
     font-size: 36px;
+    line-height: 44px;;
     margin-bottom: 10px;
     transition: opacity 0.2s;
 }

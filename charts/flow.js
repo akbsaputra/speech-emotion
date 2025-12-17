@@ -15,36 +15,36 @@
         { key: "Hope",    year: 1999, dy: 150 }
     ];
 
-const STORIES = [
-        { 
-            year: 1793, 
-            title: "The Stoic Standard", 
-            text: "<strong>George Washington</strong>'s second inaugural remains the shortest in history at just 135 words. It is purely procedural, setting a 'stoic standard' for the early republic. The high <span class='text-neutral'>neutrality</span> reflects an era where the presidency was viewed as a formal duty to be performed, rather than a platform for emotional persuasion or mass communication." 
+    const STORIES = [
+        {
+            year: 1793,
+            title: "The Stoic Standard",
+            text: "<strong>George Washington</strong>'s second inaugural is almost purely <span class='text-neutral'>neutral</span>: a minimalist, procedural reset. It reads less like persuasion and more like governance, setting an early baseline for what a president 'should' sound like. The mood is restraint, not spectacle, as if legitimacy comes from steadiness rather than storytelling."
         },
-        { 
-            year: 1825, 
-            title: "The Era of Good Feelings", 
-            text: "National <span class='text-pride'>pride</span> swells in the early 19th century, reaching its apex with <strong>John Quincy Adams</strong>. Following the War of 1812, the U.S. was asserting its place on the world stage, fueled by the Monroe Doctrine and a growing sense of distinct national identity. This 'Era of Good Feelings' marks the solidification of the 'City on a Hill' sentiment before the sectional crisis tore it apart." 
+        {
+            year: 1825,
+            title: "Confidence in the Republic",
+            text: "By <strong>John Quincy Adams</strong>, the language shifts toward national self belief. <span class='text-pride'>Pride</span> is not chest thumping here; it is institutional confidence, a claim that the republic has earned the right to plan, build, and lead. The emphasis is capability and responsibility, <span class='text-pride'>pride</span> as permission to take on bigger projects, not to declare victory."
         },
-        { 
-            year: 1877, 
-            title: "A Plea for Union", 
-            text: "<strong>Rutherford B. Hayes</strong> creates a massive, desperate anomaly in <span class='text-unity'>unity</span>. This peak does not reflect organic harmony, but rather a rhetorical bandage on a bleeding wound. Coming into office after a violently contested election and the corrupt 'Compromise of 1877,' Hayes used high-unity rhetoric to justify the end of Reconstruction and attempt to bind a nation that was nearly at war with itself again." 
+        {
+            year: 1865,
+            title: "Binding the Wounds",
+            text: "<strong>Abraham Lincoln</strong>'s second inaugural is the strongest <span class='text-unity'>unity</span> chapter. After rupture, the rhetoric stops arguing and starts repairing: moral accounting, shared responsibility, then reconciliation as a political goal. <span class='text-unity'>Unity</span> here is not cheap harmony; it is a demand to carry the cost together, and to move forward without erasing what happened."
         },
-        { 
-            year: 1893, 
-            title: "The Industrial Storm", 
-            text: "<strong>Grover Cleveland</strong> returns for a non-consecutive term just as the Panic of 1893 looms, bringing a sharp spike in <span class='text-anger'>anger</span>. This captures the mood of a nation on the brink of its first industrial depression. With populist movements rising and labor unrest brewing, the rhetoric hardens, reflecting the deep economic fractures that would soon lead to massive strikes and social upheaval." 
+        {
+            year: 1893,
+            title: "The Industrial Storm",
+            text: "<strong>Grover Cleveland</strong> marks a sharper edge. The speech leans into <span class='text-anger'>anger</span> as a governing posture: warning against corruption, excess, and the risks of concentrated power in a rapidly changing economy. The <span class='text-anger'>anger</span> is less personal than structural, aimed at systems that feel out of control and leaders who fail to act."
         },
-        { 
-            year: 1961, 
-            title: "The Iron Will", 
-            text: "By the mid-20th century, <span class='text-anger'>anger</span> gives way to <span class='text-resolve'>resolve</span>. <strong>John F. Kennedy</strong> marks the absolute peak of this trend. Facing the Soviet Union and the nuclear age, the rhetoric shifts from internal squabbles to a 'long twilight struggle'. This is the sound of the Cold War: cool, calculated determination, and the discipline to 'bear any burden' rather than the hot aggression of the 19th century." 
+        {
+            year: 1961,
+            title: "The Iron Will",
+            text: "<strong>John F. Kennedy</strong> is the clearest <span class='text-resolve'>resolve</span> chapter. The point is not celebration; it is mobilization. The rhetoric turns outward, framing national purpose as a commitment that must be proven through action. <span class='text-resolve'>Resolve</span> becomes a kind of moral currency: you earn influence by showing discipline, sacrifice, and follow through."
         },
-        { 
-            year: 1997, 
-            title: "The Invention of Hope", 
-            text: "<span class='text-hope'>Hope</span> was a minor player in presidential history until the modern era. <strong>Bill Clinton</strong>'s second term marks the triumph of this emotion. Buoyed by the dot-com boom and relative peace, Clinton professionalizes optimism as a political strategy, framing his presidency not as a battle, but as a 'Bridge to the 21st Century'. This sets the stage for the hope-driven rhetoric that characterizes modern campaigns." 
+        {
+            year: 1997,
+            title: "A New Century Promise",
+            text: "<strong>Bill Clinton</strong> becomes the biggest <span class='text-hope'>hope</span> chapter. The tone is forward looking and integrative: not denying conflict, but insisting the future is buildable, and that inclusion is part of the promise. <span class='text-hope'>Hope</span> here is pragmatic rather than dreamy, a bet that institutions can adapt and that opportunity can be widened if people stay in the project."
         }
     ];
     
@@ -93,7 +93,7 @@ const STORIES = [
 
     // Area Generator
     const area = d3.area()
-        .x(d => x(d.Year))
+        .x(d => x(d.YearJ))
         .y0(yBottom) 
         .y1(d => y(d.Value))      
         .curve(d3.curveMonotoneX);
@@ -137,23 +137,36 @@ const STORIES = [
             layerOrderFrontToBack.forEach(k => d[k] = +d[`${k}_Pct`] || 0);
         });
 
-        // FILTER DUPLICATES: Keep the latter president for the same year
-        data.sort((a, b) => a.Year - b.Year);
-        const uniqueMap = new Map();
-        data.forEach(d => uniqueMap.set(d.Year, d));
-        const cleanData = Array.from(uniqueMap.values());
+        // KEEP DUPLICATES (jitter x so curveMonotoneX doesn't break on same-year duplicates)
+        data.forEach((d, i) => d._i = i);
+        data.sort((a, b) => (a.Year - b.Year) || (a._i - b._i));
+
+        const counts = new Map();
+        data.forEach(d => counts.set(d.Year, (counts.get(d.Year) || 0) + 1));
+
+        const seen = new Map();
+        const step = 0.18; // tweak 0.10–0.25 if you want
+        data.forEach(d => {
+            const n = counts.get(d.Year);
+            const k = seen.get(d.Year) || 0;
+            d.YearJ = d.Year + (k - (n - 1) / 2) * step;
+            seen.set(d.Year, k + 1);
+        });
+
+        const cleanData = data;
 
         // 2. Domains
-        x.domain(d3.extent(cleanData, d => d.Year));
+        x.domain(d3.extent(cleanData, d => d.YearJ));
         
         // 3. Draw Areas
         // Reverse order so 'Pride' (Back) is drawn FIRST, 'Unity' (Front) is drawn LAST.
         const drawOrder = [...layerOrderFrontToBack].reverse();
 
         drawOrder.forEach((key) => {
-            const emotionData = cleanData.map(d => ({ 
-                Year: d.Year, 
-                Value: d[key], 
+            const emotionData = cleanData.map(d => ({
+                Year: d.Year,     // for display
+                YearJ: d.YearJ,   // for plotting
+                Value: d[key],
                 President: d.President,
                 Emotion: key
             }));
@@ -179,7 +192,7 @@ const STORIES = [
             );
             
             if (nearest) {
-                const xPos = x(nearest.Year) - 20;
+                const xPos = x(nearest.YearJ) - 20;
                 const yVal = nearest[label.key];
                 
                 // If value is tiny, don't shove label into the axis, float it a bit
@@ -274,7 +287,7 @@ const STORIES = [
 
         STORIES.forEach(story => {
             const d = getStackAtYear(story.year);
-            const xPos = x(d.Year);
+            const xPos = x(d.YearJ);
             
             const g = highlights.append("g").attr("transform", `translate(${xPos}, 0)`);
 
@@ -324,8 +337,8 @@ const STORIES = [
 
                 // --- NEW CHECK: Are we outside the timeline bounds? ---
                 // (Fixes hover triggering on the far left or far right empty spaces)
-                const minYear = cleanData[0].Year;
-                const maxYear = cleanData[cleanData.length - 1].Year;
+                const minYear = cleanData[0].YearJ;
+                const maxYear = cleanData[cleanData.length - 1].YearJ;
                 
                 if (yearVal < minYear || yearVal > maxYear) {
                     tooltip.style("opacity", 0);
@@ -335,7 +348,7 @@ const STORIES = [
                 // --------------------------------------------------------
                 
                 // 2. Find Data
-                const bisect = d3.bisector(d => d.Year).center;
+                const bisect = d3.bisector(d => d.YearJ).center;
                 const i = bisect(cleanData, yearVal);
                 if (i < 0 || i >= cleanData.length) return;
                 const d = cleanData[i];
@@ -353,8 +366,8 @@ const STORIES = [
 
                 // 4. Update Line
                 focusLine
-                    .attr("x1", x(d.Year))
-                    .attr("x2", x(d.Year))
+                    .attr("x1", x(d.YearJ))
+                    .attr("x2", x(d.YearJ))
                     .attr("y1", yTopEdge)
                     .attr("y2", yBottom)
                     .style("opacity", 1);
@@ -367,7 +380,7 @@ const STORIES = [
                 let tooltipHtml = `
                     <div style="font-family:'Georgia', serif; font-size:14px; font-weight: bold; margin-bottom:8px; border-bottom:1px solid #eee; padding-bottom:6px;">
                         ${d.President} 
-                        <span style="font-family:'Georga'; font-size:12px; color:#888; vertical-align:middle; margin-left:4px;">${d.Year}</span>
+                        <span style="font-family:'Georgia'; font-size:12px; color:#888; vertical-align:middle; margin-left:4px;">${d.Year}</span>
                     </div>
                 `;
 
